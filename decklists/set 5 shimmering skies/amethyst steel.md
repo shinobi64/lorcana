@@ -26,21 +26,20 @@ The set 5 amethyst steel deck is build around the new Pete card which shut's dow
 ## List of Cards
 
 4 The Queen's Castle - Mirror Chamber
-1 Ba-boom!
-3 Maleficent - Biding Her Time
 4 Mr. Smee - Bumbling Mate
-2 And Then Along Came Zeus
+3 And Then Along Came Zeus
 4 Pete - Games Referee
+3 Fire the Cannons!
 4 Friends on the Other Side
-2 The Library - A Gift for Belle
 2 Madam Mim - Elephant
+4 Mickey Mouse - Food Fight Defender
 4 Robin Hood - Beloved Outlaw
 1 Grab Your Sword
+2 Cogsworth - Illuminary Watchman
 4 Madam Mim - Snake
-3 Tinker Bell - Giant Fairy
 4 Merlin - Goat
 4 Robin Hood - Champion of Sherwood
-2 Benja - Guardian of the Dragon Gem
+3 Merlin - Crab
 4 Merlin - Rabbit
 4 Madam Mim - Fox
-4 Let the Storm Rage On
+2 Belle - Accomplished Mystic
