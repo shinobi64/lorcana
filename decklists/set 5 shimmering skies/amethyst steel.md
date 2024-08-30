@@ -4,24 +4,24 @@ The set 5 amethyst steel deck is build around the new Pete card which shut's dow
 
 ## Ink Colors
 
-[ ] Amber
-[x] Amethyst
-[ ] Emerald
-[ ] Ruby
-[ ] Sapphire
-[ ] Steel
+- [ ] Amber
+- [x] Amethyst
+- [ ] Emerald
+- [ ] Ruby
+- [ ] Sapphire
+- [ ] Steel
 
 ## Arch Type
 
-[x] Aggro
-[ ] Combo
-[x] Midrange
-[ ] Control
+- [x] Aggro
+- [ ] Combo
+- [x] Midrange
+- [ ] Control
 
 ## Competetiveness
 
-[ ] Casual/ Fun
-[x] Competetive
+- [ ] Casual/ Fun
+- [x] Competetive
 
 ## List of Cards
 
