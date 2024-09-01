@@ -25,13 +25,12 @@ The set 5 amethyst sapphire deck is focused on a midrange build and it's centere
 
 ## List of Cards
 
-- 3 The Queen's Castle - Mirror Chamber
+- 4 The Queen's Castle - Mirror Chamber
 - 4 Rafiki - Mystical Fighter
-- 2 Magica De Spell - Cruel Sorceress
 - 3 Mufasa - Ruler of Pride Rock
 - 4 Tipo - Growing Son
 - 4 Friends on the Other Side
-- 3 Let it Go
+- 4 Let it Go
 - 2 Elsa - Spirit of Winter
 - 3 Donald Duck - Focused Flatfoot
 - 4 Chernabog's Followers - Creatures of Evil
