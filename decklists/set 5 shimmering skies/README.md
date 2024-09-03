@@ -5,6 +5,8 @@ This folder contains all set 5 (shimmering skies) decklists. Each decklist conta
 ## Amber Decks
 
 - [Amber Steel Songs](amber_steel_songs.md)
+- [Amber Steel Aggro](amber_steel_aggro.md)
+- [Amber Steel Mufasa (Steelfasa)](amber_steel_mufasa.md)
 - [Amber Emerald Discard](amber_emerald_discard.md)
 - [Amber Amethyst Hyper Aggro](amber_amethyst_hyperaggro.md)
 
@@ -38,6 +40,8 @@ This folder contains all set 5 (shimmering skies) decklists. Each decklist conta
 ## Steel Decks
 
 - [Steel Amber Songs](amber_steel_songs.md)
+- [Steel Amber Aggro](amber_steel_aggro.md)
+- [Steel Amber Mufasa (Steelfasa)](amber_steel_mufasa.md)
 - [Steel Amethyst Pete Bounce](amethyst_steel_aggro.md)
 - [Steel Emerald Damage](emerald_steel_damage.md)
 - [Steel Ruby Knights](ruby_steel_knights.md)
