@@ -32,15 +32,15 @@ Set 5 ruby sapphire is build to deal with the pesky aggro decks and have enough 
 - 4 Gramma Tala - Keeper of Ancient Stories
 - 4 Maui - Hero to All
 - 2 How Far I'll Go
-- 3 One Jump Ahead
 - 4 Tipo - Growing Son
+- 2 One Jump Ahead
 - 4 Fishbone Quill
-- 3 Maleficent - Monstrous Dragon
+- 4 Maleficent - Monstrous Dragon
 - 2 Kuzco - Selfish Emperor
 - 3 Madame Medusa - The Boss
 - 4 Pawpsicle
 - 2 Brawl
 - 4 Hiram Flaversham - Toymaker
 - 3 Sisu - Daring Visitor
-- 3 Sisu - Empowered Sibling
+- 4 Sisu - Empowered Sibling
 - 3 Ice Block
