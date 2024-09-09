@@ -26,18 +26,18 @@ The set 5 amethyst emerald deck is not a fast aggro deck anymore. It's more tail
 ## List of Cards
 
 - 4 Lyle Tiberius Rourke - Cunning Mercenary
-- 2 Kit Cloudkicker - Tough Guy
-- 4 Banzai - Gluttonous Predator
+- 1 Kit Cloudkicker - Tough Guy
+- 3 Banzai - Gluttonous Predator
+- 3 Sir Hiss - Aggravating Asp
 - 4 Clarabelle - Clumsy Guest
 - 3 You're Welcome
 - 3 Clarabelle - Light on Her Hooves
 - 4 Friends on the Other Side
-- 2 Chernabog's Followers - Creatures of Evil
 - 4 Elsa - The Fifth Spirit
 - 4 Madam Mim - Snake
 - 4 Pegasus - Gift for Hercules
 - 4 Merlin - Goat
-- 3 Merlin - Crab
+- 4 Merlin - Crab
 - 4 Ursula - Deceiver
 - 4 Merlin - Rabbit
 - 4 Madam Mim - Fox
