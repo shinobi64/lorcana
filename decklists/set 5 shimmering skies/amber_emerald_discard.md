@@ -25,21 +25,21 @@ The set 5 amber emerald discard deck is build around strong discard actions and 
 
 ## List of Cards
 
-- 4 Hypnotic Deduction
+- 2 Lyle Tiberius Rourke - Cunning Mercenary
+- 3 Sir Hiss - Aggravating Asp
 - 2 You're Welcome
 - 4 Sudden Chill
 - 4 You Have Forgotten Me
 - 4 Kida - Protector of Atlantis
-- 3 The Muses - Proclaimers of Heroes
+- 1 Emerald Chromicon
 - 4 The Bare Necessities
+- 4 The Muses - Proclaimers of Heroes
 - 4 Ariel - Spectacular Singer
-- 3 We Don't Talk About Bruno
-- 2 Mulan - Reflecting
+- 4 We Don't Talk About Bruno
 - 4 Diablo - Maleficent's Spy
 - 4 Diablo - Devoted Herald
 - 3 Under The Sea
 - 4 Ursula - Deceiver
-- 2 Lost In The Woods
+- 3 Painting the Roses Red
 - 4 Prince John - Greediest of All
-- 3 Ursula - Vanessa
 - 2 Cri-Kee - Lucky Cricket
