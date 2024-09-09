@@ -32,14 +32,15 @@ The set 5 amethyst steel deck is build around the new Pete card which shut's dow
 - 4 Pete - Games Referee
 - 2 Fire the Cannons!
 - 4 Friends on the Other Side
+- 4 Captain Hook - Forceful Duelist
 - 4 Mickey Mouse - Food Fight Defender
-- 4 Robin Hood - Beloved Outlaw
 - 2 Cogsworth - Illuminary Watchman
 - 4 Madam Mim - Snake
+- 2 Tinker Bell - Giant Fairy
 - 4 Merlin - Goat
-- 4 Robin Hood - Champion of Sherwood
 - 2 Merlin - Crab
 - 4 Merlin - Rabbit
+- 2 Chien-Po - Imperial Soldier
 - 3 Lawrence - Jealous Manservant
 - 4 Madam Mim - Fox
 - 3 Belle - Accomplished Mystic
