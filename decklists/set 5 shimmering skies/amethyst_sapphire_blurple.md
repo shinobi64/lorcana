@@ -31,11 +31,12 @@ The set 5 amethyst sapphire deck is focused on a midrange build and it's centere
 - 4 Friends on the Other Side
 - 3 Elsa - Spirit of Winter
 - 3 The Library - A Gift for Belle
+- 2 Let it Go
 - 3 Donald Duck - Focused Flatfoot
 - 2 McDuck Manor - Scrooge's Mansion
 - 3 Chernabog's Followers - Creatures of Evil
-- 2 Genie - Main Attraction
-- 4 Elsa - The Fifth Spirit
+- 1 Genie - Main Attraction
+- 3 Elsa - The Fifth Spirit
 - 4 Mickey Mouse - Detective
 - 1 Madam Mim - Purple Dragon
 - 4 Madam Mim - Snake
