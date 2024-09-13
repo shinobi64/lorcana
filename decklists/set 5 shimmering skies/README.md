@@ -16,6 +16,7 @@ This folder contains all set 5 (shimmering skies) decklists. Each decklist conta
 - [Amethyst Amber Hyper Aggro](amber_amethyst_hyperaggro.md)
 - [Amethyst Emerald Aggro](amethyst_emerald_aggro.md)
 - [Amethyst Emerald Midrange](amethyst_emerald_tempo.md)
+- [Amethyst Ruby Bounce Control](amethyst_ruby_bounce.md)
 - [Amethyst Sapphire Midrange](amethyst_sapphire_blurple.md)
 - [Amethyst Steel Pete Bounce](amethyst_steel_aggro.md)
 
@@ -29,6 +30,7 @@ This folder contains all set 5 (shimmering skies) decklists. Each decklist conta
 
 ## Ruby Decks
 
+- [Ruby Amethyst Bounce Control](amethyst_ruby_bounce.md)
 - [Ruby Emerald Actions](emerald_ruby_actions.md)
 - [Ruby Steel Knights](ruby_steel_knights.md)
 - [Ruby Sapphire Control](ruby_sapphire_control.md)
