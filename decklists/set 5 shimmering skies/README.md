@@ -27,6 +27,7 @@ This folder contains all set 5 (shimmering skies) decklists. Each decklist conta
 - [Emerald Amethyst Midrange](amethyst_emerald_tempo.md)
 - [Emerald Ruby Actions](emerald_ruby_actions.md)
 - [Emerald Steel Damage](emerald_steel_damage.md)
+- [Emerald Steel Midrange](emerald_steel_midrange.md)
 
 ## Ruby Decks
 
@@ -48,4 +49,5 @@ This folder contains all set 5 (shimmering skies) decklists. Each decklist conta
 - [Steel Amber Seven Dwarfs](amber_steel_dwarfs.md)
 - [Steel Amethyst Pete Bounce](amethyst_steel_aggro.md)
 - [Steel Emerald Damage](emerald_steel_damage.md)
+- [Steel Emerald Midrange](emerald_steel_midrange.md)
 - [Steel Ruby Knights](ruby_steel_knights.md)
