@@ -35,11 +35,13 @@ This folder contains all set 5 (shimmering skies) decklists. Each decklist conta
 - [Ruby Emerald Actions](emerald_ruby_actions.md)
 - [Ruby Steel Knights](ruby_steel_knights.md)
 - [Ruby Sapphire Control](ruby_sapphire_control.md)
+- [Ruby Sapphire Control DLC](ruby_sapphire_control_dlc.md)
 
 ## Sapphire Decks
 
 - [Sapphire Amethyst Midrange](amethyst_sapphire_blurple.md)
 - [Sapphire Ruby Control](ruby_sapphire_control.md)
+- [Sapphire Ruby Control DLC](ruby_sapphire_control_dlc.md)
 
 ## Steel Decks
 
