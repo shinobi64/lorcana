@@ -1,4 +1,4 @@
-Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,Play/Draw,Win/Loss,Own Lore Count,Opponent Lore Count
+Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,PlayDraw,Result,OwnLoreCount,OpponentLoreCount
 2024-08-08,Set5,Card Club Hockenheim,Sealed 08-08,Sealed,Sealed,Anni N,Sealed,Play,Loss,,
 2024-08-08,Set5,Card Club Hockenheim,Sealed 08-08,Sealed,Sealed,Anni N,Sealed,Play,Win,,
 2024-08-08,Set5,Card Club Hockenheim,Sealed 08-08,Sealed,Sealed,Anni N,Sealed,Draw,Loss,,
