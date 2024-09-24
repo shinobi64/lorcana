@@ -1,1 +1,11 @@
-event,date,title,type,format,playformat
+event,date,location,meta,type,format,playformat
+Shimmering Skies Midnight PreRelease,2024-08-08,Card Club Hockenheim,Set5,Liga,Sealed,BestOfThree
+Shimmering Skies Release,2024-08-10,Wizards Well,Set5,Liga,Sealed,BestOfThree
+Shimmering Skies Liga Draft 08-28,2024-08-28,Wizards Well,Set5,Liga,Draft,BestOfThree
+Shimmering Skies Liga 08-29,2024-08-29,Card Club Hockenheim,Set5,Liga,Constructed,BestOfThree
+Shimmering Skies Liga 09-05,2024-09-05,Card Club Hockenheim,Set5,Liga,Constructed,BestOfThree
+Shimmering Skies Liga 09-11,2024-09-11,Wizards Well,Set5,Liga,Constructed,BestOfThree
+Shimmering Skies Liga 09-18,2024-09-18,Wizards Well,Set5,Liga,Constructed,BestOfThree
+Shimmering Skies Liga 09-19,2024-09-19,Card Club Hockenheim,Set5,Liga,Constructed,BestOfThree
+Disney Lorcana DLC Birmingham,2024-09-21,NEC Birmingham,Set5,Competetive,Constructed,TwoGameFormat
+Disney Lorcana DLC Birmingham Side Competetive Constructed,2024-09-22,NEC Birmingham,Set5,Competetive,Constructed,TwoGameFormat
