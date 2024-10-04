@@ -196,3 +196,6 @@ Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,PlayDraw,Result,OwnL
 2024-10-02,Set5,Wizards Well,Liga 10-02,Draft,All,Ole,All,Draw,Loss,2/5/7/13,1/2/4/9/14/20
 2024-10-03,Set5,Home,Casual,Constructed,Emerald Steel Midrange,Anni H,Amethyst Emerald Tempo,Draw,Win,1/6/12/16/20,2/5/6/8/11/12/13/16
 2024-10-03,Set5,Home,Casual,Constructed,Emerald Steel Midrange,Anni H,Amethyst Emerald Tempo,Draw,Loss,2/4/8/12/16,2/3/4/5/6/8/10/14/15/16/17/20
+2024-10-04,Set5,Home,Casual,Constructed,Ruby Sapphire Control,Anni H, Amethyst Emerald Tempo,Play,Win,,
+2024-10-04,Set5,Home,Casual,Constructed,Ruby Sapphire Control,Fiona H,Amber Steel Mufasa,Play,Loss,1,20
+2024-10-04,Set5,Home,Casual,Constructed,Ruby Sapphire Control,Fiona H,Amber Steel Mufasa,Draw,Loss,19,20
