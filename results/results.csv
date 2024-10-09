@@ -1,4 +1,128 @@
 Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,PlayDraw,Result,OwnLoreCount,OpponentLoreCount
+2024-07-03,Set4,Wizards Well,Casual,Constructed,Ruby Amethyst Bounce,Patrick N,Emerald Ruby Evasive,Play,Win,1/4/5/7/9/10/11/12/13/14/17/18/20,2/4/6
+2024-07-03,Set4,Wizards Well,Liga 07-03,Constructed,Ruby Amethyst Bounce,Manuel S,Amethyst Emerald Tempo,Draw,Loss,1,2/4/6/8/10/12/14/18/19/20
+2024-07-03,Set4,Wizards Well,Liga 07-03,Constructed,Ruby Amethyst Bounce,Manuel S,Amethyst Emerald Tempo,Play,Win,1/3/5/7/8/10/12/14/20,2/6/8/10
+2024-07-03,Set4,Wizards Well,Liga 07-03,Constructed,Ruby Amethyst Bounce,Manuel S,Amethyst Emerald Tempo,Draw,Loss,,2/6/8/10/13/15/16/18/19/20
+2024-07-03,Set4,Wizards Well,Liga 07-03,Constructed,Ruby Amethyst Bounce,Anni N,Amber Ruby Mufasa,Draw,Win,1/2/5/8/9/11/14/17/18/20,4/7/9/11/13/17
+2024-07-03,Set4,Wizards Well,Liga 07-03,Constructed,Ruby Amethyst Bounce,Anni N,Amber Ruby Mufasa,Draw,Win,1/2/3/5/6/7/9/10/12/14/16/17/19/20,2/4/6/8
+2024-07-03,Set4,Wizards Well,Liga 07-03,Constructed,Ruby Amethyst Bounce,Patrick N,Emerald Ruby Evasive,Draw,Win,2/4/6/11/15/16/17/20,3/5/6/8/11
+2024-07-03,Set4,Wizards Well,Liga 07-03,Constructed,Ruby Amethyst Bounce,Patrick N,Emerald Ruby Evasive,Draw,Win,2/3/8/9/12/13/15/16/17/20,1/2/7
+2024-07-03,Set4,Wizards Well,Liga 07-03,Constructed,Ruby Amethyst Bounce,Günther,Amber Ruby Mufasa,Play,Win,1/2/3/6/10/12/17/18/20,1/2/3/6/8/12/13/14
+2024-07-03,Set4,Wizards Well,Liga 07-03,Constructed,Ruby Amethyst Bounce,Günther,Amber Ruby Mufasa,Draw,Win,1/2/4/5/6/7/11/12/13/17/20,1/2/5/7/10/12/15/18
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round1,Amethyst Steel Aggro,Play,Loss,1/2,1/3/5/6/10/11/14/17/19/20
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round1,Amethyst Steel Aggro,Draw,Loss,1,2/4/6/8/11/12/13/14/15/17/20
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round2,Amber Amethyst Hyper Aggro,Play,Win,3/6/7/10/15/16/20,2/5/7/9
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round2,Amber Amethyst Hyper Aggro,Draw,Loss,,2/5/9/13/15/18/20
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,Minimoli (DE),Amber Steel Songs,Draw,Loss,,1/4/6/8/13/15/18/20
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,Minimoli (DE),Amber Steel Songs,Play,Win,1/4/7/9/11/13/15/16/18/20,1/2
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round4,Emerald Steel Discard,Play,Win,1/2/5/8/11/13/16/18/20,2/4/6/7/9/11
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round4,Emerald Steel Discard,Draw,Loss,1/2/4/6/8,2/3/4/5/14/20
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round5,Amethyst Emerald Tempo,Play,Loss,1/2/3/4,2/3/5/6/7/8/14/15/18/20
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round5,Amethyst Emerald Tempo,Draw,Win,1/2/4/7/8/12/13/14/16/17/20,2/3/4/7/15/14/16
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round6,Emerald Steel Discard,Play,Win,3/4/5/6/7/10/15/17/20,1/3/5/7/10/15/17/19
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round6,Emerald Steel Discard,Draw,Win,1/3/5/8/12/13/16/17/19/20,1/4/7/9/11/13/16
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round7,Emerald Steel Discard,Play,Loss,2/4,3/5/7/10/15/20
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round7,Emerald Steel Discard,Draw,Win,1/2/3/5/7/9/11/13/16/20,2/4/7/9/10
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round8,Emerald Steel Discard,Draw,Win,1/2/3/4/8/9/12/14/20,1/2/4/8/10/11/13
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round8,Emerald Steel Discard,Play,Win,1/3/4/5/6/9/20,1/2/3/4/6
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round9,Amethyst Emerald Tempo,Play,Loss,1/4/5/6/7/8,2/3/4/5/6/8/10/11/16/17/18/20
+2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round9,Amethyst Emerald Tempo,Draw,Win,2/4/6/8/11/12/13/14/20,2/5/7/10/13/18/19
+2024-07-11,Set4,Card Club Hockenheim,Liga 07-11,Constructed,Ruby Amethyst Bounce,Günther,Amber Ruby Mufasa,Play,Win,20,15
+2024-07-11,Set4,Card Club Hockenheim,Liga 07-11,Constructed,Ruby Amethyst Bounce,Günther,Amber Ruby Mufasa,Draw,Win,1/2/4/6/8/9/10/11/15/16/18/20,2/4/9/11/14
+2024-07-11,Set4,Card Club Hockenheim,Liga 07-11,Constructed,Ruby Amethyst Bounce,Andre D,Emerald Steel Discard,Play,Win,1/3/5/7/9/11/13/15/17/18/19/20,1/2
+2024-07-11,Set4,Card Club Hockenheim,Liga 07-11,Constructed,Ruby Amethyst Bounce,Andre D,Emerald Steel Discard,Draw,Win,1/2/3/4/7/9/13/20,1/2
+2024-07-11,Set4,Card Club Hockenheim,Liga 07-11,Constructed,Ruby Amethyst Bounce,Manuel S,Emerald Steel Midrange,Play,Win,1/2/3/4/5/8/20,2/4
+2024-07-11,Set4,Card Club Hockenheim,Liga 07-11,Constructed,Ruby Amethyst Bounce,Manuel S,Emerald Steel Midrange,Draw,Loss,,2/7/14/20
+2024-07-11,Set4,Card Club Hockenheim,Liga 07-11,Constructed,Ruby Amethyst Bounce,Manuel S,Emerald Steel Midrange,Play,Win,1/2/3/4/7/8/9/10/16/18/20,2/4/6/7/9/11/13/14/15
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Lena,Ruby Amethyst Bounce,Play,Win,1/2/3/4/5/6/10/14/16/18/19/20,1/3/6/7/8/9/11/12/13/15
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Lena,Ruby Amethyst Bounce,Draw,Win,1/2/3/4/5/6/7/8/10/11/13/15/17/19/20,1/2/5/7/9/11/12/13/15
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Ole,Amethyst Steel Aggro,Draw,Loss,2/4/5/9/12,1/2/3/5/7/9/10/11/12/13/14/15/16/17/18/19/20
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Ole,Amethyst Steel Aggro,Play,Win,1/2/3/4/7/11/13/19/20,2/3/4/6/7
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Ole,Amethyst Steel Aggro,Draw,Win,1/4/9/13/14/20,2/6/8/10/12/14/15/16/17/18
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Manuel S,Emerald Steel Midrange,Play,Win,2/7/9/11/16/20,2/8/12/15/16/18
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Manuel S,Emerald Steel Midrange,Draw,Loss,,1/6/10/12/16/20
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Manuel S,Emerald Steel Midrange,Play,Loss,1/2/3/4/5/6/7/8/9,2/4/6/8/10/11/12/14/18/19/20
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Manuel H,Ruby Amethyst Bounce,Play,Loss,2/4,1/2/3/5/8/10/13/14/15/16/17/18/20
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Manuel H,Ruby Amethyst Bounce,Play,Win,3/4/5/6/7/8/9/10/11/12/14/16/17/18/20,1/3/6/8/9/10/11/12/14/16/17/19
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Manuel H,Ruby Amethyst Bounce,Draw,Draw,1/4,1/2/5/6/7/8/9/10/11/14/15
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Niels,Amber Ruby Mufasa,Draw,Loss,,1/2/4/9/15/20
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Niels,Amber Ruby Mufasa,Play,Win,1/3/5/7/20,1/2/4/6/8
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Niels,Amber Ruby Mufasa,Draw,Win,3/5/20,3/5/7
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Andre C,Amber Ruby Mufasa,Play,Win,1/2/4/5/9/11/13/15/20,2/4/7/8/9
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Andre C,Amber Ruby Mufasa,Draw,Loss,2/3,1/2/5/7/10/11/15/18/20
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Andre C,Amber Ruby Mufasa,Play,Win,2/4/5/7/8/9/10/11/12/13/16/20
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Lukas H,Emerald Steel Discard,Draw,Win,1/3/6/7/8/9/11/12/15/18/20,1/3/4/5/7/10/12/14/16/18
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Lukas H,Emerald Steel Discard,Draw,Loss,3/4/5/8,1/3/4/8/10/12/14/15/17/18/19/20
+2024-07-13,Set4,Card Club Hockenheim,Set Championship,Constructed,Ruby Amethyst Bounce,Lukas H,Emerald Steel Discard,Play,Loss,1/2,2/6/10/12/14/16/18/20
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Jan N,Ruby Amethyst Bounce,Draw,Win,1/2/3/4/6/8/12/14/20,1/4/6/8
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Jan N,Ruby Amethyst Bounce,Draw,Loss,3/4/5/7/9/11/13/15/17,1/2/3/5/7/8/10/12/14/16/18/19/20
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Anni H,Amethyst Emerald Tempo,Draw,Win,1/2/4/8/9/11/13/14/15/20,2/4/7/10/11/12/14
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Anni H,Amethyst Emerald Tempo,Draw,Win,1/3/5/7/9/11/14/16/18,2/4/8/9/10
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Markus,Emerald Steel Discard,Draw,Loss,1/4/5/6/7/8/9/10,5/7/10/17/20
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Markus,Emerald Steel Discard,Play,Win,1/2/3/5/7/10/11/12/13/14/16/20,1
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Markus,Emerald Steel Discard,Draw,Win,1/2/3/4/6/8/10/13/20,1/3/5/8/11/13/14/15/17
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Kira,Emerald Steel Discard,Draw,Loss,1/2/4/6/910/14,1/2/3/4/7/13/17/18/19/20
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Kira,Emerald Steel Discard,Play,Loss,,1/3/6/12/20
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Andre H,Sapphire Steel Items,Play,Win,1/2/3/4/5/9/11/20,
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Andre H,Sapphire Steel Items,Draw,Win,1/2/4/6/9/14/18/20,2/4/9
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Kira,Emerald Steel Discard,Draw,Loss,,1/3/5/8/9/12/15/20
+2024-07-14,Set4,Wizards Well,Set Championship,Constructed,Ruby Amethyst Bounce,Kira,Emerald Steel Discard,Play,Loss,1/3,1/2/3/6/10/15/20
+2024-07-17,Set4,Wizards Well,Liga 07-17,Constructed,Ruby Amethyst Bounce,Andre H,Ruby Amethyst Bounce,Draw,Loss,1/2/3/4/5,2/3/5/7/9/10/11/12/15/17/19/20
+2024-07-17,Set4,Wizards Well,Liga 07-17,Constructed,Ruby Amethyst Bounce,Andre H,Ruby Amethyst Bounce,Play,Win,1/3/4/5/9/13/14/16/20,2/3/4/5/7/8/9/10/11/13
+2024-07-17,Set4,Wizards Well,Liga 07-17,Constructed,Ruby Amethyst Bounce,Andre D,Amethyst Emerald Tempo,Play,Loss,1,2/8/14/16/20
+2024-07-17,Set4,Wizards Well,Liga 07-17,Constructed,Ruby Amethyst Bounce,Andre D,Amethyst Emerald Tempo,Play,Loss,2/4/6/9,2/5/7/9/12/13/14/16/17/18/20
+2024-07-17,Set4,Wizards Well,Liga 07-17,Constructed,Ruby Amethyst Bounce,Günther,Amber Sapphire Villains,Draw,Win,1/2/4/6/9/13/19/20,2/4/6/10
+2024-07-17,Set4,Wizards Well,Liga 07-17,Constructed,Ruby Amethyst Bounce,Günther,Amber Sapphire Villains,Draw,Win,1/4/5/8/9/12/14/17/20,1/4/10/12/13
+2024-07-18,Set4,Card Club Hockenheim,Liga 07-18,Constructed,Amber Amethyst Madrigal,Manuel H,Ruby Amethyst Bounce,Draw,Loss,1/4,3/6/9/12/15/20
+2024-07-18,Set4,Card Club Hockenheim,Liga 07-18,Constructed,Amber Amethyst Madrigal,Manuel H,Ruby Amethyst Bounce,Play,Loss,1/4/6/9/12/14/17,2/3/5/6/9/15/16/20
+2024-07-18,Set4,Card Club Hockenheim,Liga 07-18,Constructed,Amber Amethyst Madrigal,Andre D,Amethyst Emerald Tempo,Draw,Loss,1/2/3/6/7/12,2/3/6/7/8/10/12/14
+2024-07-18,Set4,Card Club Hockenheim,Liga 07-18,Constructed,Amber Amethyst Madrigal,Andre D,Amethyst Emerald Tempo,Play,Loss,1/2/6,4/5/6/8/13/16/17
+2024-07-20,Set4,JK Entertainment Darmstadt,Set Championship,Constructed,Ruby Amethyst Bounce,Niklas,Emerald Steel Discard,Play,Loss,1/2/3,1/2/4/6/8/9/15/20
+2024-07-20,Set4,JK Entertainment Darmstadt,Set Championship,Constructed,Ruby Amethyst Bounce,Niklas,Emerald Steel Discard,Draw,Win,1/2/3/4/7/8/9/10/12/13/16/18/20,
+2024-07-20,Set4,JK Entertainment Darmstadt,Set Championship,Constructed,Ruby Amethyst Bounce,Unknown JK Round2,Ruby Sapphire Control,Play,Win,1/2/3/5/6/7/8/9/10/11/13/15/17/19/20,1/2/5/8/11
+2024-07-20,Set4,JK Entertainment Darmstadt,Set Championship,Constructed,Ruby Amethyst Bounce,Unknown JK Round2,Ruby Sapphire Control,Draw,Loss,2/3/4/5/7/8/9/10/11/12,1/3/4/6/9/11/14/20
+2024-07-20,Set4,JK Entertainment Darmstadt,Set Championship,Constructed,Ruby Amethyst Bounce,Dennis,Sapphire Steel Items,Play,Win,1/3/5/7/9/11/13/14/20,1/2
+2024-07-20,Set4,JK Entertainment Darmstadt,Set Championship,Constructed,Ruby Amethyst Bounce,Dennis,Sapphire Steel Items,Draw,Win,1/2/3/4/6/8/12/14/16/20,
+2024-07-20,Set4,JK Entertainment Darmstadt,Set Championship,Constructed,Ruby Amethyst Bounce,Adrianus,Emerald Ruby Evasive,Draw,Loss,1/2,1/2/3/4/6/11/15/18/20
+2024-07-20,Set4,JK Entertainment Darmstadt,Set Championship,Constructed,Ruby Amethyst Bounce,Adrianus,Emerald Ruby Evasive,Play,Win,1/3/4/6/8/9/13/20,2/3/4/7/10/16/18
+2024-07-20,Set4,JK Entertainment Darmstadt,Set Championship,Constructed,Ruby Amethyst Bounce,Tim,Sapphire Steel Items,Play,Win,1/4/6/9/13/16/18/20,
+2024-07-20,Set4,JK Entertainment Darmstadt,Set Championship,Constructed,Ruby Amethyst Bounce,Tim,Sapphire Steel Items,Draw,Loss,1/2/3/4,2/8/13/20
+2024-07-24,Set4,Wizards Well,Liga 07-24,Draft,Draft,Andre D,Draft,Play,Win,,
+2024-07-24,Set4,Wizards Well,Liga 07-24,Draft,Draft,Andre D,Draft,Draw,Win,,
+2024-07-24,Set4,Wizards Well,Liga 07-24,Draft,Draft,Andre G,Draft,Play,Win,,
+2024-07-24,Set4,Wizards Well,Liga 07-24,Draft,Draft,Andre G,Draft,Draw,Loss,,
+2024-07-24,Set4,Wizards Well,Liga 07-24,Draft,Draft,Andre G,Draft,Play,Win,,
+2024-07-24,Set4,Wizards Well,Liga 07-24,Draft,Draft,Patrick N,Draft,Play,Win,,
+2024-07-24,Set4,Wizards Well,Liga 07-24,Draft,Draft,Patrick N,Draft,Draw,Win,,
+2024-07-25,Set4,Card Club Hockenheim,Liga 07-25,Constructed,Amber Emerald Discard,Günther,Ruby Amethyst Bounce,Play,Win,1/2/3/5/7/1/14/15/16/20,1/2/7/8/9/10/11/12/14
+2024-07-25,Set4,Card Club Hockenheim,Liga 07-25,Constructed,Amber Emerald Discard,Günther,Ruby Amethyst Bounce,Draw,Win,1/4/8/9/10/12/17/20,1/2/5/6/8/9/10/11/12
+2024-07-25,Set4,Card Club Hockenheim,Liga 07-25,Constructed,Amber Emerald Discard,Andre H,Sapphire Steel Items,Play,Win,1/2/4/12/18/20,1/3
+2024-07-25,Set4,Card Club Hockenheim,Liga 07-25,Constructed,Amber Emerald Discard,Andre H,Sapphire Steel Items,Draw,Win,1/2/3/9/20,2/4/5
+2024-07-25,Set4,Card Club Hockenheim,Liga 07-25,Constructed,Amber Emerald Discard,Matthias G,Amber Steel Songs,Play,Loss,1,4/6/10/14/18/20
+2024-07-25,Set4,Card Club Hockenheim,Liga 07-25,Constructed,Amber Emerald Discard,Matthias G,Amber Steel Songs,Play,Win,2/3/12/20,1/4/7/9
+2024-07-25,Set4,Card Club Hockenheim,Liga 07-25,Constructed,Amber Emerald Discard,Matthias G,Amber Steel Songs,Draw,Loss,1,1/6/13/16/18
+2024-07-27,Set4,Spielwaren Neusser,Set Championship,Constructed,Ruby Amethyst Bounce,Marcel,Amber Amethyst Hyper Aggro,Play,Win,1/2/5/8/13/14/15/17/20,3/5/9/10/12/13/14/16
+2024-07-27,Set4,Spielwaren Neusser,Set Championship,Constructed,Ruby Amethyst Bounce,Marcel,Amber Amethyst Hyper Aggro,Draw,Win,1/2/3/5/7/8/10/11/15/16/20,1/5/6/7/13/15/16/17/18
+2024-07-27,Set4,Spielwaren Neusser,Set Championship,Constructed,Ruby Amethyst Bounce,Neusser Round2,Ruby Amethyst Bounce,Play,Win,2/3/5/7/9/10/11/12/13/15/17/20,1/4/5/8/9/10/12
+2024-07-27,Set4,Spielwaren Neusser,Set Championship,Constructed,Ruby Amethyst Bounce,Neusser Round2,Ruby Amethyst Bounce,Draw,Loss,1/2/4/5/6/7/8/9,1/2/3/4/6/7/8/10/12/14/16/20
+2024-07-27,Set4,Spielwaren Neusser,Set Championship,Constructed,Ruby Amethyst Bounce,Niklas,Ruby Sapphire Control,Draw,Loss,1/2/3/4/5/7/8/9/10/11,1/2/4/6/8/9/10/11/15/16/20
+2024-07-27,Set4,Spielwaren Neusser,Set Championship,Constructed,Ruby Amethyst Bounce,Niklas,Ruby Sapphire Control,Play,Win,3/4/5/8/9/11/12/13/14/16/17/18/19/20,3/4/6/8/10/12
+2024-07-27,Set4,Spielwaren Neusser,Set Championship,Constructed,Ruby Amethyst Bounce,Felix,Ruby Amethyst Bounce,Play,Loss,1/3/4/7/9/10/12,1/2/3/5/7/9/11/12/14/15/17/18/20
+2024-07-27,Set4,Spielwaren Neusser,Set Championship,Constructed,Ruby Amethyst Bounce,Felix,Ruby Amethyst Bounce,Draw,Loss,1,1/3/5/7/9/11/12/13/17/20
+2024-07-31,Set4,Wizards Well,Liga 07-31,Constructed,Amber Emerald Discard,Manuel S,Amber Amethyst Hyper Aggro,Draw,Loss,1/6,2/5/13/15/16/17/20
+2024-07-31,Set4,Wizards Well,Liga 07-31,Constructed,Amber Emerald Discard,Manuel S,Amber Amethyst Hyper Aggro,Play,Win,1/2/4/8/11/16/20,2/4/5/6/7/8
+2024-07-31,Set4,Wizards Well,Liga 07-31,Constructed,Amber Emerald Discard,Manuel S,Amber Amethyst Hyper Aggro,Draw,Loss,1,2/7/11/13/14/15/18/20
+2024-07-31,Set4,Wizards Well,Liga 07-31,Constructed,Amber Emerald Discard,Andre D,Amber Emerald Discard,Draw,Win,1/2/3,1/3/4/5
+2024-07-31,Set4,Wizards Well,Liga 07-31,Constructed,Amber Emerald Discard,Andre D,Amber Emerald Discard,Draw,Win,1/2/3/4,1
+2024-07-31,Set4,Wizards Well,Liga 07-31,Constructed,Amber Emerald Discard,Nico,Sapphire Steel Items,Draw,Loss,1/3/4,1/3/7/8/13/14/15/20
+2024-07-31,Set4,Wizards Well,Liga 07-31,Constructed,Amber Emerald Discard,Nico,Sapphire Steel Items,Play,Win,1/2/3/7/10/20,1/4/6/7
+2024-08-01,Set4,Card Club Hockenheim,Liga 08-01,Constructed,Amber Emerald Discard,Matthias G,Amber Steel Songs,Play,Loss,2,1/4/7/11/17/20
+2024-08-01,Set4,Card Club Hockenheim,Liga 08-01,Constructed,Amber Emerald Discard,Matthias G,Amber Steel Songs,Play,Loss,,2/5/10/11/20
+2024-08-01,Set4,Card Club Hockenheim,Liga 08-01,Constructed,Amber Emerald Discard,Jerry,Ruby Sapphire Control,Play,Win,1/2/5/8/12/14/17/20,3
+2024-08-01,Set4,Card Club Hockenheim,Liga 08-01,Constructed,Amber Emerald Discard,Jerry,Ruby Sapphire Control,Draw,Win,1/3/8/13/19/20,2/4/6
+2024-08-01,Set4,Card Club Hockenheim,Liga 08-01,Constructed,Amber Emerald Discard,Günther,Ruby Amethyst Bounce,Draw,Loss,,1/2/3/5/6/8/9/11/12/14/15/20
+2024-08-01,Set4,Card Club Hockenheim,Liga 08-01,Constructed,Amber Emerald Discard,Günther,Ruby Amethyst Bounce,Play,Win,1/2/4/6/8/12/17/20,1/4/10/12
+2024-08-01,Set4,Card Club Hockenheim,Liga 08-01,Constructed,Amber Emerald Discard,Günther,Ruby Amethyst Bounce,Draw,Win,1/4/7/11/12/16/20,2/3/4/6/7/9/11/12/13/14/15/16
 2024-08-08,Set5,Card Club Hockenheim,Sealed 08-08,Sealed,Sealed,Anni N,Sealed,Play,Loss,,
 2024-08-08,Set5,Card Club Hockenheim,Sealed 08-08,Sealed,Sealed,Anni N,Sealed,Play,Win,,
 2024-08-08,Set5,Card Club Hockenheim,Sealed 08-08,Sealed,Sealed,Anni N,Sealed,Draw,Loss,,
@@ -196,7 +320,7 @@ Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,PlayDraw,Result,OwnL
 2024-10-02,Set5,Wizards Well,Liga 10-02,Draft,Draft,Ole,Draft,Draw,Loss,2/5/7/13,1/2/4/9/14/20
 2024-10-03,Set5,Home,Casual,Constructed,Emerald Steel Discard,Anni H,Amethyst Emerald Tempo,Draw,Win,1/6/12/16/20,2/5/6/8/11/12/13/16
 2024-10-03,Set5,Home,Casual,Constructed,Emerald Steel Discard,Anni H,Amethyst Emerald Tempo,Draw,Loss,2/4/8/12/16,2/3/4/5/6/8/10/14/15/16/17/20
-2024-10-04,Set5,Home,Casual,Constructed,Ruby Sapphire Control,Anni H, Amethyst Emerald Tempo,Play,Win,,
+2024-10-04,Set5,Home,Casual,Constructed,Ruby Sapphire Control,Anni H,Amethyst Emerald Tempo,Play,Win,,
 2024-10-04,Set5,Home,Casual,Constructed,Ruby Sapphire Control,Fiona H,Amber Steel Mufasa,Play,Loss,1,20
 2024-10-04,Set5,Home,Casual,Constructed,Ruby Sapphire Control,Fiona H,Amber Steel Mufasa,Draw,Loss,19,20
 2024-10-05,Set5,Card Club Hockenheim,Set Championship,Constructed,Ruby Sapphire Control,Anni N,Sapphire Steel Items,Draw,Win,1/2/3/4/5/7/9/12/18/20,2/3/4/5
@@ -223,3 +347,12 @@ Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,PlayDraw,Result,OwnL
 2024-10-08,Set5,Home,Casual,Constructed,Amethyst Steel Aggro,Anni H,Amethyst Emerald Tempo,Play,Win,2/6/9/11/14/16/19/20,1/2/5
 2024-10-08,Set5,Home,Casual,Constructed,Amethyst Steel Aggro,Anni H,Amethyst Emerald Tempo,Draw,Win,1/4/5/9/11/13/18/20,1/2/3/5/6/7
 2024-10-08,Set5,Home,Casual,Constructed,Amethyst Steel Aggro,Anni H,Amethyst Emerald Tempo,Draw,Win,2/3/7/9/11/12/14/15/17/19/20,1/2/4/6/9/12/14/15
+2024-10-09,Set5,Wizards Well,Casual,Constructed,Emerald Steel Discard,Andre D,Amethyst Steel Pete,Play,Win,1/3/9/15/20,1/4/9/11/12/15/17
+2024-10-09,Set5,Wizards Well,Liga 10-09,Constructed,Amethyst Steel Aggro,Lukas H,Emerald Steel Discard,Play,Win,1/4/9/15/18/20,
+2024-10-09,Set5,Wizards Well,Liga 10-09,Constructed,Amethyst Steel Aggro,Lukas H,Emerald Steel Discard,Draw,Loss,1/2/3/4/6/7/8/9,3/7/14/20
+2024-10-09,Set5,Wizards Well,Liga 10-09,Constructed,Amethyst Steel Aggro,Lukas H,Emerald Steel Discard,Play,Win,2/6/11/12/14/15/16/17/19/20,
+2024-10-09,Set5,Wizards Well,Liga 10-09,Constructed,Amethyst Steel Aggro,Matthias G,Amber Steel Songs,Draw,Win,2/3/4/8/9/10/13/17/20,2/4/6/8/12
+2024-10-09,Set5,Wizards Well,Liga 10-09,Constructed,Amethyst Steel Aggro,Matthias G,Amber Steel Songs,Draw,Loss,2/3/4/6,1/3/4/8/15/20
+2024-10-09,Set5,Wizards Well,Liga 10-09,Constructed,Amethyst Steel Aggro,Matthias G,Amber Steel Songs,Play,Loss,1/3/5/9/15,2/4/9/16/20
+2024-10-09,Set5,Wizards Well,Liga 10-09,Constructed,Amethyst Steel Aggro,Andre D,Amethyst Steel Pete,Draw,Loss,2/4/5/6/9/10/11/13/15/16,1/2/4/6/8/10/12/16/20
+2024-10-09,Set5,Wizards Well,Liga 10-09,Constructed,Amethyst Steel Aggro,Andre D,Amethyst Steel Pete,Play,Loss,1/3/5/6/8/10/11/12/13/14/15/18/19,2/3/6/9/13/15/20
