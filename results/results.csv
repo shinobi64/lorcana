@@ -132,6 +132,20 @@ Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,PlayDraw,Result,OwnL
 2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round8,Emerald Steel Discard,Play,Win,1/3/4/5/6/9/20,1/2/3/4/6
 2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round9,Amethyst Emerald Tempo,Play,Loss,1/4/5/6/7/8,2/3/4/5/6/8/10/11/16/17/18/20
 2024-07-05,Set4,Bochum,Lorcana DLC Bochum,Constructed,Ruby Amethyst Bounce,DLC Bochum Round9,Amethyst Emerald Tempo,Draw,Win,2/4/6/8/11/12/13/14/20,2/5/7/10/13/18/19
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Sealed,Sealed,Sealed,DLC Bochum Sealed Side Round1,Sealed,Draw,Win,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Sealed,Sealed,Sealed,DLC Bochum Sealed Side Round1,Sealed,Draw,Win,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Sealed,Sealed,Sealed,DLC Bochum Sealed Side Round2,Sealed,Play,Win,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Sealed,Sealed,Sealed,DLC Bochum Sealed Side Round2,Sealed,Draw,Win,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Sealed,Sealed,Sealed,DLC Bochum Sealed Side Round3,Sealed,Play,Loss,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Sealed,Sealed,Sealed,DLC Bochum Sealed Side Round3,Sealed,Play,Loss,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Constructed,Constructed,Ruby Amethyst Bounce,DLC Bochum Constructed Side Round1,Sapphire Steel Items,Play,Win,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Constructed,Constructed,Ruby Amethyst Bounce,DLC Bochum Constructed Side Round1,Sapphire Steel Items,Draw,Loss,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Constructed,Constructed,Ruby Amethyst Bounce,DLC Bochum Constructed Side Round1,Sapphire Steel Items,Play,Win,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Constructed,Constructed,Ruby Amethyst Bounce,DLC Bochum Constructed Side Round2,Ruby Amethyst Bounce,Draw,Loss,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Constructed,Constructed,Ruby Amethyst Bounce,DLC Bochum Constructed Side Round2,Ruby Amethyst Bounce,Play,Loss,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Constructed,Constructed,Ruby Amethyst Bounce,DLC Bochum Constructed Side Round3,Amber Steel Songs,Draw,Win,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Constructed,Constructed,Ruby Amethyst Bounce,DLC Bochum Constructed Side Round3,Amber Steel Songs,Draw,Loss,,
+2024-07-06,Set4,Bochum,Lorcana DLC Bochum Side Constructed,Constructed,Ruby Amethyst Bounce,DLC Bochum Constructed Side Round3,Amber Steel Songs,Play,Win,,
 2024-07-11,Set4,Card Club Hockenheim,Liga 07-11,Constructed,Ruby Amethyst Bounce,Günther,Amber Ruby Mufasa,Play,Win,20,15
 2024-07-11,Set4,Card Club Hockenheim,Liga 07-11,Constructed,Ruby Amethyst Bounce,Günther,Amber Ruby Mufasa,Draw,Win,1/2/4/6/8/9/10/11/15/16/18/20,2/4/9/11/14
 2024-07-11,Set4,Card Club Hockenheim,Liga 07-11,Constructed,Ruby Amethyst Bounce,Andre D,Emerald Steel Discard,Play,Win,1/3/5/7/9/11/13/15/17/18/19/20,1/2
@@ -244,6 +258,18 @@ Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,PlayDraw,Result,OwnL
 2024-08-03,Set4,Bologna,Lorcana DLC Bologna,Constructed,Emerald Steel Discard,Angio (IT),Ruby Amethyst Bounce,Play,Win,,
 2024-08-03,Set4,Bologna,Lorcana DLC Bologna,Constructed,Emerald Steel Discard,DLC Bologna Round9,Sapphire Steel Items,Draw,Win,,
 2024-08-03,Set4,Bologna,Lorcana DLC Bologna,Constructed,Emerald Steel Discard,DLC Bologna Round9,Sapphire Steel Items,Play,Loss,,
+2024-08-04,Set4,Bologna,Lorcana DLC Bologna Side Sealed,Sealed,Sealed,Florian (DE),Sealed,Play,Win,,
+2024-08-04,Set4,Bologna,Lorcana DLC Bologna Side Sealed,Sealed,Sealed,Florian (DE),Sealed,Draw,Win,,
+2024-08-04,Set4,Bologna,Lorcana DLC Bologna Side Sealed,Sealed,Sealed,Caroline (FR),Sealed,Play,Loss,,
+2024-08-04,Set4,Bologna,Lorcana DLC Bologna Side Sealed,Sealed,Sealed,Caroline (FR),Sealed,Play,Win,,
+2024-08-04,Set4,Bologna,Lorcana DLC Bologna Side Sealed,Sealed,Sealed,Caroline (FR),Sealed,Draw,Win,,
+2024-08-04,Set4,Bologna,Lorcana DLC Bologna Side Constructed,Constructed,Emerald Steel Discard,Giorgio (ES),Amber Amethyst Hyper Aggro,Draw,Win,,
+2024-08-04,Set4,Bologna,Lorcana DLC Bologna Side Constructed,Constructed,Emerald Steel Discard,Giorgio (ES),Amber Amethyst Hyper Aggro,Draw,Win,,
+2024-08-04,Set4,Bologna,Lorcana DLC Bologna Side Constructed,Constructed,Emerald Steel Discard,Alexio (IT),Sapphire Steel Items,Play,Win,,
+2024-08-04,Set4,Bologna,Lorcana DLC Bologna Side Constructed,Constructed,Emerald Steel Discard,Alexio (IT),Sapphire Steel Items,Draw,Win,,
+2024-08-04,Set4,Bologna,Lorcana DLC Bologna Side Constructed,Constructed,Emerald Steel Discard,Danielle (IT),Emerald Steel Discard,Draw,Loss,,
+2024-08-04,Set4,Bologna,Lorcana DLC Bologna Side Constructed,Constructed,Emerald Steel Discard,Danielle (IT),Emerald Steel Discard,Play,Win,,
+2024-08-04,Set4,Bologna,Lorcana DLC Bologna Side Constructed,Constructed,Emerald Steel Discard,Danielle (IT),Emerald Steel Discard,Draw,Win,,
 2024-08-08,Set5,Card Club Hockenheim,Sealed 08-08,Sealed,Sealed,Anni N,Sealed,Play,Loss,,
 2024-08-08,Set5,Card Club Hockenheim,Sealed 08-08,Sealed,Sealed,Anni N,Sealed,Play,Win,,
 2024-08-08,Set5,Card Club Hockenheim,Sealed 08-08,Sealed,Sealed,Anni N,Sealed,Draw,Loss,,
