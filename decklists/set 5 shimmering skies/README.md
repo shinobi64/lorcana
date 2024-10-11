@@ -18,7 +18,8 @@ This folder contains all set 5 (shimmering skies) decklists. Each decklist conta
 - [Amethyst Emerald Midrange](amethyst_emerald_tempo.md)
 - [Amethyst Ruby Bounce Control](amethyst_ruby_bounce.md)
 - [Amethyst Sapphire Midrange](amethyst_sapphire_blurple.md)
-- [Amethyst Steel Pete Bounce](amethyst_steel_aggro.md)
+- [Amethyst Steel Aggro](amethyst_steel_aggro.md)
+- [Amethyst Steel Pete Bounce](amethyst_steel_pete.md)
 
 ## Emerald Decks
 
@@ -27,6 +28,7 @@ This folder contains all set 5 (shimmering skies) decklists. Each decklist conta
 - [Emerald Amethyst Midrange](amethyst_emerald_tempo.md)
 - [Emerald Ruby Actions](emerald_ruby_actions.md)
 - [Emerald Steel Damage](emerald_steel_damage.md)
+- [Emerald Steel Discard](emerald_steel_discard.md)
 - [Emerald Steel Midrange](emerald_steel_midrange.md)
 
 ## Ruby Decks
@@ -49,7 +51,9 @@ This folder contains all set 5 (shimmering skies) decklists. Each decklist conta
 - [Steel Amber Aggro](amber_steel_aggro.md)
 - [Steel Amber Mufasa (Steelfasa)](amber_steel_mufasa.md)
 - [Steel Amber Seven Dwarfs](amber_steel_dwarfs.md)
-- [Steel Amethyst Pete Bounce](amethyst_steel_aggro.md)
+- [Amethyst Steel Aggro](amethyst_steel_aggro.md)
+- [Steel Amethyst Pete Bounce](amethyst_steel_pete.md)
 - [Steel Emerald Damage](emerald_steel_damage.md)
+- [Emerald Steel Discard](emerald_steel_discard.md)
 - [Steel Emerald Midrange](emerald_steel_midrange.md)
 - [Steel Ruby Knights](ruby_steel_knights.md)

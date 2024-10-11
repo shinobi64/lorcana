@@ -1,6 +1,6 @@
 ## Description
 
-The set 5 amethyst steel deck is build around the new Pete card which shut's down opponents actions (including songs) and by this is a bane for all decks running on those, e.g. amber steel songs, amber emerald discard. In addition the bounce package is still going string and the steel removal options are ok.
+The set 5 amethyst steel deck is build around the idea to go as quick as possible but do not run out of cards. The new cards included are Pete for controlling opposite actions and songs, Doc for refilling the hand, the Library for taking card draws out of your banished cards and the burn card Gathering Knowledge and Wisdom. The main idea is to play to the board and quest ahead, so that each card at least quests for one. Interrupt the opponents tempo with Befuddle and Fire the Canons. Bounce around the Doc to constantly refill your hand with new cards to play. The burn card is intended together with Merlin Goat to have reach at the end.
 
 ## Ink Colors
 
@@ -15,32 +15,32 @@ The set 5 amethyst steel deck is build around the new Pete card which shut's dow
 
 - [x] Aggro
 - [ ] Combo
-- [x] Midrange
+- [ ] Midrange
 - [ ] Control
 
 ## Competetiveness
 
-- [ ] Casual/ Fun
+- [x] Casual/ Fun
 - [x] Competetive
 
 ## List of Cards
 
-- 4 The Queen's Castle - Mirror Chamber
-- 1 Ba-boom!
+- 4 Doc - Bold Knight
+- 4 Maleficent - Biding Her Time
 - 4 Mr. Smee - Bumbling Mate
-- 3 And Then Along Came Zeus
-- 4 Pete - Games Referee
-- 2 Fire the Cannons!
-- 4 Friends on the Other Side
-- 4 Captain Hook - Forceful Duelist
-- 4 Mickey Mouse - Food Fight Defender
-- 2 Cogsworth - Illuminary Watchman
+- 2 The Boss Is On A Roll
+- 2 Pete - Games Referee
+- 2 Gathering Knowledge And Wisdom
+- 4 Fire the Cannons!
+- 4 Pascal - Rapunzel's Companion
+- 3 The Library - A Gift for Belle
+- 3 Befuddle
+- 2 Mickey Mouse - Food Fight Defender
+- 1 Amethyst Chromicon
+- 2 Smash
+- 4 Chernabog's Followers - Creatures of Evil
 - 4 Madam Mim - Snake
-- 2 Tinker Bell - Giant Fairy
 - 4 Merlin - Goat
-- 2 Merlin - Crab
-- 4 Merlin - Rabbit
-- 2 Chien-Po - Imperial Soldier
-- 3 Lawrence - Jealous Manservant
-- 4 Madam Mim - Fox
-- 3 Belle - Accomplished Mystic
+- 4 Magic Broom - Illuminary Keeper
+- 3 Madam Mim - Fox
+- 4 Kuzco - Wanted Llama

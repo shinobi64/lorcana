@@ -26,18 +26,18 @@ The set 5 emerald ruby actions deck is build around the new card of Robin Hood. 
 ## List of Cards
 
 - 4 Maui - Hero to All
-- 4 You're Welcome
-- 2 Anna - Diplomatic Queen
 - 4 Sudden Chill
-- 4 Flynn Rider - Charming Rogue
 - 4 We Don't Talk About Bruno
 - 4 Brawl
 - 4 Robin Hood - Sharpshooter
-- 4 Pegasus - Gift for Hercules
-- 2 Pegasus - Cloud Racer
+- 4 Diablo - Maleficent's Spy
+- 4 Diablo - Devoted Herald
 - 4 Cursed Merfolk - Ursula's Handiwork
 - 4 Goofy - Super Goof
 - 4 Ursula - Deceiver
+- 1 Lucifer - Cunning Cat
 - 4 A Pirate's Life
+- 3 Hidden Cove - Tranquil Haven
 - 4 Hypnotize
 - 4 Prince John - Greediest of All
+- 4 Lumiere - Fiery Friend
