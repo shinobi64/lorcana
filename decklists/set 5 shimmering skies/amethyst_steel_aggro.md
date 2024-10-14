@@ -31,11 +31,11 @@ The set 5 amethyst steel deck is build around the idea to go as quick as possibl
 - 4 Mr. Smee - Bumbling Mate
 - 1 The Boss Is On A Roll
 - 3 Pete - Games Referee
-- 1 Gathering Knowledge And Wisdom
+- 2 Gathering Knowledge And Wisdom
 - 2 Bruni - Fire Salamander
 - 4 Fire the Cannons!
 - 4 Pascal - Rapunzel's Companion
-- 4 The Library - A Gift for Belle
+- 3 The Library - A Gift for Belle
 - 3 Befuddle
 - 2 Smash
 - 2 Seven Dwarfs' Mine - Secure Fortress
@@ -43,4 +43,5 @@ The set 5 amethyst steel deck is build around the idea to go as quick as possibl
 - 4 Madam Mim - Snake
 - 4 Merlin - Goat
 - 4 Magic Broom - Illuminary Keeper
-- 4 Madam Mim - Fox
+- 3 Madam Mim - Fox
+- 1 The Sorcerer's Spellbook
