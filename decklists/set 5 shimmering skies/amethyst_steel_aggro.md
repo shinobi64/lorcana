@@ -26,21 +26,21 @@ The set 5 amethyst steel deck is build around the idea to go as quick as possibl
 ## List of Cards
 
 - 4 Doc - Bold Knight
+- 2 Happy - Lively Knight
 - 4 Maleficent - Biding Her Time
 - 4 Mr. Smee - Bumbling Mate
-- 2 The Boss Is On A Roll
-- 2 Pete - Games Referee
-- 2 Gathering Knowledge And Wisdom
+- 1 The Boss Is On A Roll
+- 3 Pete - Games Referee
+- 1 Gathering Knowledge And Wisdom
+- 2 Bruni - Fire Salamander
 - 4 Fire the Cannons!
 - 4 Pascal - Rapunzel's Companion
-- 3 The Library - A Gift for Belle
+- 4 The Library - A Gift for Belle
 - 3 Befuddle
-- 2 Mickey Mouse - Food Fight Defender
-- 1 Amethyst Chromicon
 - 2 Smash
+- 2 Seven Dwarfs' Mine - Secure Fortress
 - 4 Chernabog's Followers - Creatures of Evil
 - 4 Madam Mim - Snake
 - 4 Merlin - Goat
 - 4 Magic Broom - Illuminary Keeper
-- 3 Madam Mim - Fox
-- 4 Kuzco - Wanted Llama
+- 4 Madam Mim - Fox
