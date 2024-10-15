@@ -15,11 +15,17 @@ const header = [
   "archetype",
   "color",
   "top1",
+  "top1ex",
   "top2",
+  "top2ex",
   "top4",
+  "top4ex",
   "top8",
+  "top8ex",
   "top16",
+  "top16ex",
   "top32",
+  "top32ex"
 ];
 
 const tournament_data = [];
@@ -27,12 +33,12 @@ tournament_data.push(header);
 
 tournament_list.forEach((tournament, index) => {
   console.log(
-    `Processing tournament ${index} out of ${tournament_list.length}`
+    `Processing tournament ${index + 1} out of ${tournament_list.length}`
   );
   tournament.decklists.forEach((decklist, index) => {
     const tournament_row = [];
     console.log(
-      `Processing decklist ${index} out of ${tournament.decklists.length}`
+      `Processing decklist ${index + 1} out of ${tournament.decklists.length}`
     );
     tournament_row.push(tournament.date);
     tournament_row.push(tournament.title.replace(",",""));
@@ -59,68 +65,116 @@ tournament_list.forEach((tournament, index) => {
     tournament_row.push(colors.join("/"));
     switch (decklist.rank) {
       case "1st":
-        tournament_row.push(1);
-        tournament_row.push(1);
-        tournament_row.push(1);
-        tournament_row.push(1);
-        tournament_row.push(1);
-        tournament_row.push(1);
+        tournament_row.push(1); // top1 inclusive
+        tournament_row.push(1); // top1 exclusive
+        tournament_row.push(1); // top2 inclusive
+        tournament_row.push(0); // top2 exclusive
+        tournament_row.push(1); // top4 inclusive
+        tournament_row.push(0); // top4 exclusive
+        tournament_row.push(1); // top8 inclusive
+        tournament_row.push(0); // top8 exclusive
+        tournament_row.push(1); // top16 inclusive
+        tournament_row.push(0); // top16 exclusive
+        tournament_row.push(1); // top32 inclusive
+        tournament_row.push(0); // top32 exclusive
         break;
       case "2nd":
-        tournament_row.push(0);  
-        tournament_row.push(1);
-        tournament_row.push(1);
-        tournament_row.push(1);
-        tournament_row.push(1);
-        tournament_row.push(1);
+        tournament_row.push(0); // top1 inclusive
+        tournament_row.push(0); // top1 exclusive
+        tournament_row.push(1); // top2 inclusive
+        tournament_row.push(1); // top2 exclusive
+        tournament_row.push(1); // top4 inclusive
+        tournament_row.push(0); // top4 exclusive
+        tournament_row.push(1); // top8 inclusive
+        tournament_row.push(0); // top8 exclusive
+        tournament_row.push(1); // top16 inclusive
+        tournament_row.push(0); // top16 exclusive
+        tournament_row.push(1); // top32 inclusive
+        tournament_row.push(0); // top32 exclusive
         break;
       case "3rd":
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(1);
-        tournament_row.push(1);
-        tournament_row.push(1);
-        tournament_row.push(1);
+        tournament_row.push(0); // top1 inclusive
+        tournament_row.push(0); // top1 exclusive
+        tournament_row.push(0); // top2 inclusive
+        tournament_row.push(0); // top2 exclusive
+        tournament_row.push(1); // top4 inclusive
+        tournament_row.push(1); // top4 exclusive
+        tournament_row.push(1); // top8 inclusive
+        tournament_row.push(0); // top8 exclusive
+        tournament_row.push(1); // top16 inclusive
+        tournament_row.push(0); // top16 exclusive
+        tournament_row.push(1); // top32 inclusive
+        tournament_row.push(0); // top32 exclusive
         break;
       case "Top4":
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(1);
-        tournament_row.push(1);
-        tournament_row.push(1);
-        tournament_row.push(1);
+        tournament_row.push(0); // top1 inclusive
+        tournament_row.push(0); // top1 exclusive
+        tournament_row.push(0); // top2 inclusive
+        tournament_row.push(0); // top2 exclusive
+        tournament_row.push(1); // top4 inclusive
+        tournament_row.push(1); // top4 exclusive
+        tournament_row.push(1); // top8 inclusive
+        tournament_row.push(0); // top8 exclusive
+        tournament_row.push(1); // top16 inclusive
+        tournament_row.push(0); // top16 exclusive
+        tournament_row.push(1); // top32 inclusive
+        tournament_row.push(0); // top32 exclusive
         break;
       case "Top8":
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(1);
-        tournament_row.push(1);
-        tournament_row.push(1);
+        tournament_row.push(0); // top1 inclusive
+        tournament_row.push(0); // top1 exclusive
+        tournament_row.push(0); // top2 inclusive
+        tournament_row.push(0); // top2 exclusive
+        tournament_row.push(0); // top4 inclusive
+        tournament_row.push(0); // top4 exclusive
+        tournament_row.push(1); // top8 inclusive
+        tournament_row.push(1); // top8 exclusive
+        tournament_row.push(1); // top16 inclusive
+        tournament_row.push(0); // top16 exclusive
+        tournament_row.push(1); // top32 inclusive
+        tournament_row.push(0); // top32 exclusive
         break;
       case "Top16":
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(1);
-        tournament_row.push(1);
+        tournament_row.push(0); // top1 inclusive
+        tournament_row.push(0); // top1 exclusive
+        tournament_row.push(0); // top2 inclusive
+        tournament_row.push(0); // top2 exclusive
+        tournament_row.push(0); // top4 inclusive
+        tournament_row.push(0); // top4 exclusive
+        tournament_row.push(0); // top8 inclusive
+        tournament_row.push(0); // top8 exclusive
+        tournament_row.push(1); // top16 inclusive
+        tournament_row.push(1); // top16 exclusive
+        tournament_row.push(1); // top32 inclusive
+        tournament_row.push(0); // top32 exclusive
         break;
       case "Top32":
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(1);
+        tournament_row.push(0); // top1 inclusive
+        tournament_row.push(0); // top1 exclusive
+        tournament_row.push(0); // top2 inclusive
+        tournament_row.push(0); // top2 exclusive
+        tournament_row.push(0); // top4 inclusive
+        tournament_row.push(0); // top4 exclusive
+        tournament_row.push(0); // top8 inclusive
+        tournament_row.push(0); // top8 exclusive
+        tournament_row.push(0); // top16 inclusive
+        tournament_row.push(0); // top16 exclusive
+        tournament_row.push(1); // top32 inclusive
+        tournament_row.push(1); // top32 exclusive
         break;
       default:
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(0);
-        tournament_row.push(0);
+        tournament_row.push(0); // top1 inclusive
+        tournament_row.push(0); // top1 exclusive
+        tournament_row.push(0); // top2 inclusive
+        tournament_row.push(0); // top2 exclusive
+        tournament_row.push(0); // top4 inclusive
+        tournament_row.push(0); // top4 exclusive
+        tournament_row.push(0); // top8 inclusive
+        tournament_row.push(0); // top8 exclusive
+        tournament_row.push(0); // top16 inclusive
+        tournament_row.push(0); // top16 exclusive
+        tournament_row.push(0); // top32 inclusive
+        tournament_row.push(0); // top32 exclusive
     }
     tournament_data.push(tournament_row);
   });
