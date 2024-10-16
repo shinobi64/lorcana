@@ -12,6 +12,7 @@ const pages = [
   "https://inkdecks.com/lorcana-tournaments?page=6",
   "https://inkdecks.com/lorcana-tournaments?page=7",
   "https://inkdecks.com/lorcana-tournaments?page=8",
+  "https://inkdecks.com/lorcana-tournaments?page=9",
 ];
 
 // output list of tournaments
