@@ -18,6 +18,9 @@ const pages = [
 // output list of tournaments
 const tournamentList = [];
 
+// output list of decklinks
+const deckLinks = [];
+
 for (let i = 0; i < pages.length; i++) {
   // logger
   console.log(`Processing page ${i + 1} out of ${pages.length}`);
@@ -90,6 +93,7 @@ for (let i = 0; i < tournamentList.length; i++) {
       `Processing decklist ${index + 1} out of ${decklist_rows.length}`
     );
     const decklist = {};
+    deckLinks.push($(decklist_row).attr("data-href"));
     $(decklist_row)
       .children("td")
       .each((index, decklist_cell) => {
@@ -123,5 +127,10 @@ for (let i = 0; i < tournamentList.length; i++) {
 // writing to output file
 fs.writeFile("lorcana_tournaments.json", JSON.stringify(tournamentList), () => {
   //Using the fs.writeFile , it's used to write data in a file
+  console.log("Data written to file"); //Display "Data written to file" in the call back function.
+});
+
+// write decklinks file
+fs.writeFile("lorcana_decklinks.json", JSON.stringify(deckLinks), () => {
   console.log("Data written to file"); //Display "Data written to file" in the call back function.
 });
