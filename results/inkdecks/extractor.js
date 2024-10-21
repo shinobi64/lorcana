@@ -2,7 +2,10 @@
 import * as cheerio from "cheerio";
 import * as fs from "fs";
 
+const pages = ["https://inkdecks.com/lorcana-tournaments"];
+
 // list of pages to extract
+/**
 const pages = [
   "https://inkdecks.com/lorcana-tournaments",
   "https://inkdecks.com/lorcana-tournaments?page=2",
@@ -14,12 +17,10 @@ const pages = [
   "https://inkdecks.com/lorcana-tournaments?page=8",
   "https://inkdecks.com/lorcana-tournaments?page=9",
 ];
+ */
 
 // output list of tournaments
 const tournamentList = [];
-
-// output list of decklinks
-const deckLinks = [];
 
 for (let i = 0; i < pages.length; i++) {
   // logger
@@ -66,6 +67,9 @@ for (let i = 0; i < pages.length; i++) {
           tournament.country = $(tableCell).children("span").last().text();
         }
       });
+    // tournament id is equivalent to last part of details URL
+    tournament.identifier = $(tableRow).attr("data-href").split("/").pop();
+
     // load the tournament subpage for decklists and results
     tournament.detailsURL =
       "https://inkdecks.com" + $(tableRow).attr("data-href");
@@ -93,7 +97,8 @@ for (let i = 0; i < tournamentList.length; i++) {
       `Processing decklist ${index + 1} out of ${decklist_rows.length}`
     );
     const decklist = {};
-    deckLinks.push($(decklist_row).attr("data-href"));
+    decklist.identifier = $(decklist_row).attr("data-href").split("/").pop();
+    decklist.detailsURL = $(decklist_row).attr("data-href");
     $(decklist_row)
       .children("td")
       .each((index, decklist_cell) => {
@@ -124,13 +129,52 @@ for (let i = 0; i < tournamentList.length; i++) {
   });
 }
 
+// fetch details for each decklist in each tournament to have all card details
+for (let i = 0; i < tournamentList.length; i++) {
+  console.log(`Processing tournament ${i + 1} out of ${tournamentList.length}`);
+  for (let j = 0; j < tournamentList[i].decklists.length; j++) {
+    console.log(
+      `Processing decklist ${j + 1} out of ${
+        tournamentList[i].decklists.length
+      } with URL ${tournamentList[i].decklists[j].detailsURL}`
+    );
+
+    // initialize the cards list
+    tournamentList[i].decklists[j].cards = [];
+
+    const decklist_detailspage = await fetch(
+      tournamentList[i].decklists[j].detailsURL
+    );
+    const $ = cheerio.load(await decklist_detailspage.text());
+
+    const cardRows = $("#decklist").children("tbody").children("tr");
+
+    cardRows.each((index, cardRow) => {
+      console.log(`Processing card ${index + 1} out of ${cardRows.length}`);
+      if ($(cardRow).attr("data-card-type") !== undefined) {
+        const card = {};
+        card.type = $(cardRow).attr("data-card-type");
+
+        $(cardRow)
+          .children("td")
+          .each((index, cardRow_cell) => {
+            if (index === 1) {
+              card.count = $(cardRow_cell).text().trim();
+            }
+            if (index === 2) {
+              card.name = $(cardRow_cell).text().trim();
+            }
+          });
+
+        // attach the current card
+        tournamentList[i].decklists[j].cards.push(card);
+      }
+    });
+  }
+}
+
 // writing to output file
 fs.writeFile("lorcana_tournaments.json", JSON.stringify(tournamentList), () => {
   //Using the fs.writeFile , it's used to write data in a file
-  console.log("Data written to file"); //Display "Data written to file" in the call back function.
-});
-
-// write decklinks file
-fs.writeFile("lorcana_decklinks.json", JSON.stringify(deckLinks), () => {
   console.log("Data written to file"); //Display "Data written to file" in the call back function.
 });
