@@ -9,8 +9,8 @@ export default class IndecksExtractor {
       console.log("Fetching tournaments from InkDecks");
       tournamentList = await IndecksExtractor.extractTournamentsList(options.numberOfPages);
     } else {
-      console.log("Reading tournaments from existing file");
-      const tournamentsContent = await fs.readFile('lorcana_tournaments.json', { encoding: 'utf8' });
+      console.log(`Reading tournaments from existing file ${options.fileName}`);
+      const tournamentsContent = await fs.readFile(options.fileName, { encoding: 'utf8' });
       tournamentList = JSON.parse(tournamentsContent);
     }
 
@@ -35,9 +35,10 @@ export default class IndecksExtractor {
         }
       }      
     }
-    
-    await fs.writeFile("lorcana_tournaments.json", JSON.stringify(tournamentList,null,2));
-    console.log("Output file written.");
+    if (options.persistOutput) {
+      await fs.writeFile(options.fileName, JSON.stringify(tournamentList,null,2));
+      console.log(`Output file ${options.fileName} written.`);  
+    }
   }
 
   static extractTournamentsList = async function(numberOfPages) {
