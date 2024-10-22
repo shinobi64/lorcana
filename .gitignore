@@ -5,6 +5,3 @@
 node_modules
 
 # inkdeck results
-results/inkdecks/indecks_cardlists.csv
-results/inkdecks/indecks_decklists.csv
-results/inkdecks/indecks_tournaments.csv
