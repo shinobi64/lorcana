@@ -171,7 +171,7 @@ export default class InkdecksConverter {
                     const cardlistFactRow = [];
                     cardlistFactRow.push(tournament.identifier);
                     cardlistFactRow.push(decklist.identifier);
-                    cardlistFactRow.push(card.name);
+                    cardlistFactRow.push(card.name.replace(",", " "));
                     cardlistFactRow.push(card.count);
                     cardlistFactRow.push(card.type);
                     cardlistFactData.push(cardlistFactRow);
