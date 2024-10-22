@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Inkdeck Extractor",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/results/inkdecks/extractor.js",
+            "cwd": "${workspaceFolder}/results/inkdecks"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Inkdeck Converter",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/results/inkdecks/converter.js",
+            "cwd": "${workspaceFolder}/results/inkdecks"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Test Inkdeck Card Extractor",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/results/inkdecks/tests/helper_cardList.test.js",
+            "cwd": "${workspaceFolder}/results/inkdecks"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Melee Extractor",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/results/melee/extractor.js",
+            "cwd": "${workspaceFolder}/results/melee"
+        }        
+    ]
+}
