@@ -1,0 +1,1021 @@
+collectorID,set,color,type,inkcost,inkable,cardname,tags,strength,willpower,lore,rarity
+001-087,001,emerald,character,2,1,Megara - Pulling the Strings,dreamborn|ally,2,1,1,common
+001-086,001,emerald,character,5,1,Mad Hatter - Gracious Host,storyborn,2,4,3,uncommon
+001-085,001,emerald,character,6,0,Lady Tremaine - Wicked Stepmother,dreamborn|villain,1,5,1,rare
+001-084,001,emerald,character,5,0,Kuzco - Temperamental Emperor,storyborn|king,2,4,3,rare
+001-089,001,emerald,character,3,1,Mickey Mouse - Steamboat Pilot,storyborn|hero|captain,3,4,1,common
+001-088,001,emerald,character,7,0,Mickey Mouse - Artful Rogue,floodborn|hero,6,5,2,superrare
+001-083,001,emerald,character,5,1,Jumba Jookiba - Renegade Scientist,dreamborn|alien|inventor,4,5,2,uncommon
+001-082,001,emerald,character,6,1,John Silver - Alien Pirate,storyborn|villain|alien|pirate|captain,5,5,2,legendary
+001-081,001,emerald,character,3,1,Jasper - Common Crook,storyborn|ally,2,4,1,uncommon
+001-080,001,emerald,character,3,1,Iago - Loud-Mouthed Parrot,storyborn|ally,1,4,1,rare
+001-098,001,emerald,song,2,1,Sudden Chill,action|song,,,,common
+001-097,001,emerald,action,5,0,Steal from the Rich,action,,,,rare
+001-096,001,emerald,action,1,0,Stampede,action,,,,common
+001-095,001,emerald,song,3,0,Mother Knows Best,action|song,,,,uncommon
+001-099,001,emerald,action,3,1,The Beast is Mine!,action,,,,uncommon
+001-090,001,emerald,character,6,1,Mother Gothel - Selfish Manipulator,storyborn|villain,3,6,2,superrare
+001-094,001,emerald,action,3,0,Do It Again!,action,,,,rare
+001-093,001,emerald,character,4,1,Tinker Bell - Most Helpful,storyborn|ally|fairy,2,3,2,common
+001-092,001,emerald,character,2,1,Tamatoa - Drab Little Crab,dreamborn,1,4,1,uncommon
+001-091,001,emerald,character,3,1,Peter Pan - Never Landing,dreamborn|hero,3,2,1,common
+001-186,001,steel,character,6,1,Mickey Mouse - Musketeer,dreamborn|hero|musketeer,2,7,2,rare
+001-065,001,amethyst,song,1,1,Reflection,action|song,,,,uncommon
+001-064,001,amethyst,song,3,1,Friends on the Other Side,action|song,,,,common
+001-185,001,steel,character,8,1,Maui - Demigod,storyborn|hero|deity,8,8,3,rare
+001-184,001,steel,character,3,1,Lilo - Galactic Hero,dreamborn|hero,4,2,2,uncommon
+001-063,001,amethyst,action,2,0,Freeze,action,,,,common
+001-183,001,steel,character,6,1,Kronk - Right-Hand Man,storyborn|ally,6,6,2,uncommon
+001-062,001,amethyst,action,1,1,Befuddle,action,,,,uncommon
+001-069,001,emerald,character,2,1,Aladdin - Prince Ali,storyborn|hero|prince,2,2,1,common
+001-068,001,amethyst,item,3,1,White Rabbit's Pocket Watch,item,,,,rare
+001-189,001,steel,character,7,1,Simba - Returned King,storyborn|hero|king,4,6,2,rare
+001-067,001,amethyst,item,2,0,Ursula's Cauldron,item,,,,uncommon
+001-188,001,steel,character,1,1,Simba - Future King,storyborn|hero|prince,1,2,1,common
+001-187,001,steel,character,2,1,Prince Eric - Dashing and Brave,storyborn|hero|prince,1,3,1,common
+001-066,001,amethyst,item,2,0,Magic Mirror,item,,,,rare
+001-182,001,steel,character,3,1,Kristoff - Official Ice Master,storyborn|ally,3,3,2,common
+001-061,001,amethyst,character,4,0,Zeus - God of Lightning,storyborn|deity,,4,2,rare
+001-060,001,amethyst,character,2,1,Yzma - Alchemist,dreamborn|villain|sorcerer,2,2,1,common
+001-181,001,steel,character,3,1,Hercules - True Hero,dreamborn|hero|prince,3,3,1,common
+001-180,001,steel,character,4,1,Hans - Thirteenth in Line,storyborn|villain|prince,3,3,2,superrare
+001-197,001,steel,action,1,0,Fire the Cannons!,action,,,,common
+001-076,001,emerald,character,8,0,Genie - Powers Unleashed,floodborn|hero,3,5,3,rare
+001-196,001,steel,action,2,1,Break,action,,,,common
+001-075,001,emerald,character,6,0,Genie - On the Job,storyborn|ally,3,4,2,superrare
+001-195,001,steel,song,5,0,A Whole New World,action|song,,,,superrare
+001-074,001,emerald,character,2,1,Flynn Rider - Charming Rogue,storyborn|hero|prince,1,3,2,uncommon
+001-194,001,steel,character,3,1,Tinker Bell - Tiny Tactician,dreamborn|ally|fairy,2,4,1,common
+001-073,001,emerald,character,1,1,Duke of Weselton - Opportunistic Official,storyborn|villain,2,2,1,common
+001-079,001,emerald,character,3,1,Horace - No-Good Scoundrel,storyborn|ally,4,3,1,common
+001-199,001,steel,action,2,1,Ransack,action,,,,uncommon
+001-078,001,emerald,character,4,1,Hans - Scheming Prince,storyborn|villain|prince,3,3,3,rare
+001-198,001,steel,song,5,0,Grab Your Sword,action|song,,,,rare
+001-077,001,emerald,character,2,1,Genie - The Ever Impressive,dreamborn|ally,2,3,1,common
+001-193,001,steel,character,6,1,Tinker Bell - Giant Fairy,floodborn|ally|fairy,4,5,2,superrare
+001-072,001,emerald,character,2,1,Cruella De Vil - Miserable as Usual,storyborn|villain,1,3,1,rare
+001-192,001,steel,character,6,1,Te Kā - Heartless,dreamborn|villain|deity,5,5,2,legendary
+001-071,001,emerald,character,3,1,Cheshire Cat - Not All There,storyborn,,3,2,uncommon
+001-070,001,emerald,character,5,0,Beast - Wolfsbane,dreamborn|hero|prince,4,4,2,legendary
+001-191,001,steel,character,5,1,Starkey - Hook's Henchman,storyborn|ally|pirate,5,4,1,uncommon
+001-190,001,steel,character,5,0,Simba - Rightful Heir,storyborn|hero|prince,3,5,2,uncommon
+001-049,001,amethyst,character,3,1,Maleficent - Sorceress,storyborn|villain|sorcerer,2,2,1,common
+001-048,001,amethyst,character,1,0,Maleficent - Biding Her Time,dreamborn|villain|sorcerer,1,1,2,rare
+001-169,001,sapphire,item,1,1,Magic Golden Flower,item,,,,common
+001-164,001,sapphire,song,2,0,One Jump Ahead,action|song,,,,uncommon
+001-043,001,amethyst,character,5,0,Flotsam - Ursula's Spy,storyborn|ally,3,4,2,rare
+001-163,001,sapphire,song,5,1,Let it Go,action|song,,,,rare
+001-042,001,amethyst,character,8,0,Elsa - Spirit of Winter,floodborn|hero|queen|sorcerer,4,6,3,legendary
+001-041,001,amethyst,character,3,1,Elsa - Snow Queen,dreamborn|hero|queen|sorcerer,2,3,1,uncommon
+001-162,001,sapphire,action,3,0,If it's Not Baroque,action,,,,rare
+001-161,001,sapphire,action,1,1,Develop Your Brain,action,,,,common
+001-040,001,amethyst,character,4,1,Elsa - Queen Regent,storyborn|hero|queen|sorcerer,4,4,1,common
+001-047,001,amethyst,character,2,1,Magic Broom - Bucket Brigade,dreamborn|broom,2,2,1,common
+001-168,001,sapphire,item,3,1,Fishbone Quill,item,,,,rare
+001-046,001,amethyst,character,4,1,Jetsam - Ursula's Spy,storyborn|ally,3,3,1,common
+001-167,001,sapphire,item,4,1,Eye of the Fates,item,,,,uncommon
+001-045,001,amethyst,character,4,1,Jafar - Wicked Sorcerer,dreamborn|villain|sorcerer,2,5,1,common
+001-166,001,sapphire,item,2,1,Coconut Basket,item,,,,uncommon
+001-165,001,sapphire,action,1,1,Work Together,action,,,,common
+001-044,001,amethyst,character,4,1,Jafar - Keeper of Secrets,dreamborn|villain|sorcerer,,5,2,rare
+001-160,001,sapphire,character,7,1,Triton - The Sea King,storyborn|king,5,9,2,uncommon
+001-059,001,amethyst,character,7,0,Ursula - Power Hungry,storyborn|villain|sorcerer,2,8,3,legendary
+001-054,001,amethyst,character,3,0,Rafiki - Mysterious Sage,dreamborn|mentor|sorcerer,3,3,1,uncommon
+001-175,001,steel,character,5,0,Captain Hook - Thinking a Happy Thought,floodborn|villain|pirate|captain,2,5,1,rare
+001-174,001,steel,character,1,1,Captain Hook - Forceful Duelist,dreamborn|villain|pirate|captain,1,2,1,common
+001-053,001,amethyst,character,1,1,Pascal - Rapunzel's Companion,storyborn|ally,1,1,1,uncommon
+001-052,001,amethyst,character,1,1,Olaf - Friendly Snowman,storyborn|ally,1,3,1,uncommon
+001-173,001,steel,character,4,0,Captain Hook - Captain of the Jolly Roger,storyborn|villain|pirate|captain,3,4,1,rare
+001-051,001,amethyst,character,4,1,Mickey Mouse - Wayward Sorcerer,dreamborn|sorcerer,3,4,2,superrare
+001-172,001,steel,character,5,1,Beast - Hardheaded,storyborn|hero|prince,4,4,2,uncommon
+001-179,001,steel,character,1,1,Goons - Maleficent's Underlings,storyborn|ally,2,2,1,common
+001-058,001,amethyst,character,5,0,Tinker Bell - Peter Pan's Ally,storyborn|ally|fairy,3,3,2,common
+001-178,001,steel,character,8,1,Gantu - Galactic Federation Captain,storyborn|alien|captain,6,6,2,legendary
+001-057,001,amethyst,character,3,1,The Wardrobe - Belle's Confidant,dreamborn|ally,3,4,1,common
+001-056,001,amethyst,character,5,1,The Queen - Wicked and Vain,storyborn|villain|queen,4,5,1,superrare
+001-177,001,steel,character,4,1,Donald Duck - Musketeer,dreamborn|hero|musketeer,2,5,1,uncommon
+001-055,001,amethyst,character,6,1,Sven - Official Ice Deliverer,storyborn|ally,5,7,1,uncommon
+001-176,001,steel,character,5,1,Cerberus - Three-Headed Dog,storyborn,5,6,,common
+001-171,001,steel,character,2,1,Aladdin - Cornered Swordsman,storyborn|hero,2,1,2,common
+001-050,001,amethyst,character,6,0,Marshmallow - Persistent Guardian,storyborn|ally,5,5,1,superrare
+001-170,001,sapphire,item,1,1,Scepter of Arendelle,item,,,,uncommon
+001-029,001,amber,action,3,0,Just in Time,action,,,,rare
+001-149,001,sapphire,character,5,1,Jasmine - Queen of Agrabah,floodborn|hero|princess|queen,2,5,2,rare
+001-028,001,amber,action,1,1,Healing Glow,action,,,,common
+001-148,001,sapphire,character,3,1,Jasmine - Disguised,storyborn|princess,3,3,2,common
+001-027,001,amber,song,4,1,Hakuna Matata,action|song,,,,common
+001-026,001,amber,action,1,1,Control Your Temper!,action,,,,common
+001-147,001,sapphire,character,7,0,Hades - Infernal Schemer,dreamborn|villain|deity,3,6,2,legendary
+001-142,001,sapphire,character,4,1,Belle - Strange but Special,storyborn|hero|princess,2,4,1,legendary
+001-021,001,amber,character,7,1,Stitch - Carefree Surfer,dreamborn|hero|alien,4,8,2,legendary
+001-020,001,amber,character,2,1,Simba - Protective Cub,storyborn|hero|prince,2,3,1,common
+001-141,001,sapphire,character,3,1,Belle - Inventive Engineer,dreamborn|hero|princess|inventor,2,3,2,uncommon
+001-140,001,sapphire,character,2,1,Aurora - Regal Princess,storyborn|hero|princess,2,2,2,uncommon
+001-025,001,amber,song,2,1,Be Our Guest,action|song,,,,uncommon
+001-146,001,sapphire,character,2,1,Gramma Tala - Storyteller,storyborn|mentor,1,1,1,uncommon
+001-024,001,amber,character,1,1,Timon - Grub Rustler,storyborn|ally,1,2,1,common
+001-145,001,sapphire,character,1,1,Flounder - Voice of Reason,storyborn|ally,2,2,1,common
+001-144,001,sapphire,character,5,1,Donald Duck - Strutting His Stuff,dreamborn|hero|inventor,4,3,2,common
+001-023,001,amber,character,6,1,Stitch - Rock Star,floodborn|hero|alien,3,5,3,superrare
+001-143,001,sapphire,character,7,1,Chief Tui - Respected Leader,storyborn|mentor|king,3,6,3,uncommon
+001-022,001,amber,character,1,1,Stitch - New Dog,storyborn|hero|alien,2,2,1,common
+001-039,001,amethyst,character,3,1,Dr. Facilier - Remarkable Gentleman,storyborn|villain|sorcerer,2,4,1,rare
+001-159,001,sapphire,character,8,1,Tamatoa - So Shiny!,storyborn|villain,5,8,1,superrare
+001-038,001,amethyst,character,2,1,Dr. Facilier - Charlatan,storyborn|villain|sorcerer,,4,1,common
+001-037,001,amethyst,character,7,0,Dr. Facilier - Agent Provocateur,floodborn|villain|sorcerer,4,5,3,rare
+001-158,001,sapphire,character,6,1,Scar - Mastermind,storyborn|villain,5,4,2,rare
+001-153,001,sapphire,character,4,1,Merlin - Self-Appointed Mentor,dreamborn|mentor|sorcerer,3,4,1,common
+001-032,001,amber,item,1,1,Dinglehopper,item,,,,common
+001-031,001,amber,action,4,1,You Have Forgotten Me,action,,,,uncommon
+001-152,001,sapphire,character,6,1,Maurice - World-Famous Inventor,dreamborn|mentor|inventor,2,7,2,rare
+001-030,001,amber,song,3,0,Part of Your World,action|song,,,,rare
+001-151,001,sapphire,character,5,1,Maleficent - Uninvited,dreamborn|villain|sorcerer,3,6,3,rare
+001-150,001,sapphire,character,4,1,Maleficent - Sinister Visitor,storyborn|villain|sorcerer,3,4,2,common
+001-157,001,sapphire,character,6,1,Robin Hood - Unrivaled Archer,storyborn|hero,4,4,2,superrare
+001-036,001,amethyst,character,1,1,Archimedes - Highly Educated Owl,dreamborn|ally,2,2,1,common
+001-035,001,amethyst,character,4,1,Anna - Heir to Arendelle,storyborn|hero|queen,2,4,2,uncommon
+001-156,001,sapphire,character,2,1,Philoctetes - Trainer of Heroes,storyborn|mentor,3,1,1,common
+001-155,001,sapphire,character,6,1,Mufasa - King of the Pride Lands,storyborn|mentor|king,4,6,3,common
+001-034,001,amber,item,3,0,Ursula's Shell Necklace,item,,,,rare
+001-033,001,amber,item,2,0,Lantern,item,,,,rare
+001-154,001,sapphire,character,3,0,Mickey Mouse - Detective,dreamborn|hero|detective,1,3,1,common
+001-007,001,amber,character,1,1,HeiHei - Boat Snack,storyborn|ally,1,2,1,common
+001-128,001,ruby,song,7,0,Be Prepared,action|song,,,,rare
+001-127,001,ruby,character,6,1,Tigger - Wonderful Thing,storyborn|tigger,4,4,,uncommon
+001-006,001,amber,character,4,0,Hades - Lord of the Underworld,storyborn|villain|deity,3,2,1,rare
+001-005,001,amber,character,8,0,Hades - King of Olympus,floodborn|villain|king|deity,6,7,1,rare
+001-126,001,ruby,character,6,0,Te Kā - The Burning One,storyborn|villain|deity,8,6,,superrare
+001-004,001,amber,character,5,1,Goofy - Musketeer,dreamborn|hero|musketeer,3,6,1,uncommon
+001-125,001,ruby,character,6,1,Stitch - Abomination,storyborn|hero|alien,4,6,3,rare
+001-009,001,amber,character,1,0,Lilo - Making a Wish,storyborn|hero,1,1,2,rare
+001-008,001,amber,character,2,1,LeFou - Bumbler,storyborn|ally,1,2,2,uncommon
+001-129,001,ruby,action,2,1,Cut to the Chase,action,,,,uncommon
+001-120,001,ruby,character,4,1,Pongo - Ol' Rascal,storyborn|hero,2,3,2,common
+001-003,001,amber,character,4,1,Cinderella - Gentle and Kind,storyborn|hero|princess,2,5,2,uncommon
+001-124,001,ruby,character,1,1,Sergeant Tibbs - Courageous Cat,storyborn|ally,2,2,1,common
+001-123,001,ruby,character,8,0,Scar - Shameless Firebrand,floodborn|villain|king,6,6,1,rare
+001-002,001,amber,character,3,1,Ariel - Spectacular Singer,storyborn|hero|princess,2,3,1,superrare
+001-001,001,amber,character,4,1,Ariel - On Human Legs,storyborn|hero|princess,3,4,2,uncommon
+001-122,001,ruby,character,4,1,Scar - Fiery Usurper,dreamborn|villain,5,3,1,common
+001-121,001,ruby,character,6,0,Rapunzel - Letting Down Her Hair,dreamborn|hero|princess,5,4,2,uncommon
+001-018,001,amber,character,4,1,Rapunzel - Gifted with Healing,storyborn|hero|princess,1,5,2,legendary
+001-139,001,sapphire,character,5,1,Aurora - Dreaming Guardian,floodborn|hero|princess,3,5,2,superrare
+001-138,001,sapphire,character,4,1,Aurora - Briar Rose,storyborn|hero|princess,2,5,,common
+001-017,001,amber,character,4,1,Pumbaa - Friendly Warthog,storyborn|ally,3,5,1,common
+001-137,001,sapphire,character,4,0,Ariel - Whoseit Collector,storyborn|hero|princess,3,3,1,rare
+001-016,001,amber,character,4,0,Prince Phillip - Dragonslayer,storyborn|hero|prince,3,3,2,uncommon
+001-015,001,amber,character,3,1,Mr. Smee - Loyal First Mate,dreamborn|ally|pirate,2,5,1,common
+001-136,001,ruby,item,4,0,Sword of Truth,item,,,,rare
+001-019,001,amber,character,2,1,Sebastian - Court Composer,storyborn|ally,2,2,1,common
+001-131,001,ruby,action,1,1,Fan the Flames,action,,,,uncommon
+001-010,001,amber,character,5,1,Maximus - Palace Horse,storyborn|ally,4,5,1,superrare
+001-130,001,ruby,action,5,0,Dragon Fire,action,,,,uncommon
+001-135,001,ruby,item,1,1,Shield of Virtue,item,,,,uncommon
+001-014,001,amber,character,5,1,Moana - Of Motunui,storyborn|hero|princess,1,6,3,rare
+001-134,001,ruby,item,3,0,Poisoned Apple,item,,,,rare
+001-013,001,amber,character,2,1,Minnie Mouse - Beloved Princess,dreamborn|princess,2,3,1,common
+001-133,001,ruby,action,2,1,Tangle,action,,,,common
+001-012,001,amber,character,3,1,Mickey Mouse - True Friend,storyborn|hero,3,3,2,uncommon
+001-011,001,amber,character,3,1,Maximus - Relentless Pursuer,dreamborn|ally,3,3,1,uncommon
+001-132,001,ruby,action,1,1,He's Got a Sword!,action,,,,common
+001-106,001,ruby,character,5,1,Captain - Colonel's Lieutenant,storyborn|ally|captain,6,5,1,uncommon
+001-105,001,ruby,character,3,1,Aladdin - Street Rat,storyborn|hero,2,2,1,common
+001-104,001,ruby,character,7,1,Aladdin - Heroic Outlaw,floodborn|hero,5,5,2,superrare
+001-103,001,ruby,character,3,1,Abu - Mischievous Monkey,storyborn|ally,3,2,2,common
+001-109,001,ruby,character,4,1,Elsa - Ice Surfer,dreamborn|hero|queen|sorcerer,3,4,1,common
+001-108,001,ruby,character,2,1,Donald Duck - Boisterous Fowl,storyborn,2,3,1,uncommon
+001-107,001,ruby,character,7,0,Captain Hook - Ruthless Pirate,storyborn|villain|pirate|captain,5,5,2,rare
+001-102,001,emerald,item,2,1,Stolen Scimitar,item,,,,common
+001-101,001,emerald,item,2,0,Dr. Facilier's Cards,item,,,,uncommon
+001-100,001,emerald,action,1,1,Vicious Betrayal,action,,,,common
+001-117,001,ruby,character,5,1,Moana - Chosen by the Ocean,storyborn|hero|princess,2,6,2,uncommon
+001-116,001,ruby,character,1,1,Minnie Mouse - Always Classy,storyborn|hero,1,3,1,common
+001-115,001,ruby,character,8,1,Mickey Mouse - Brave Little Tailor,hero|dreamborn,5,5,4,legendary
+001-114,001,ruby,character,5,1,Maui - Hero to All,storyborn|hero|deity,6,5,,rare
+001-119,001,ruby,character,3,0,Peter Pan - Fearless Fighter,storyborn|hero,3,2,1,common
+001-118,001,ruby,character,5,1,Mulan - Imperial Soldier,storyborn|hero|princess,4,5,1,superrare
+001-113,001,ruby,character,9,1,Maleficent - Monstrous Dragon,storyborn|villain|dragon,7,5,2,legendary
+001-112,001,ruby,character,2,1,LeFou - Instigator,dreamborn|ally,2,2,1,rare
+001-111,001,ruby,character,5,1,Goofy - Daredevil,hero|dreamborn,3,4,2,common
+001-110,001,ruby,character,2,1,Gaston - Arrogant Hunter,storyborn|villain,4,2,,common
+001-204,001,steel,item,3,0,Plasma Blaster,item,,,,rare
+001-203,001,steel,item,4,0,Musketeer Tabard,item,,,,rare
+001-202,001,steel,item,2,1,Frying Pan,item,,,,uncommon
+001-201,001,steel,item,2,1,Beast's Mirror,item,,,,common
+001-200,001,steel,action,3,1,Smash,action,,,,uncommon
+002-114,002,ruby,character,4,1,Minnie Mouse - Wide-Eyed Diver,floodborn|hero,2,3,1,rare
+002-113,002,ruby,character,3,1,Minnie Mouse - Stylish Surfer,hero|dreamborn,1,3,2,uncommon
+002-116,002,ruby,character,2,1,Mother Gothel - Withered and Wicked,villain|storyborn,3,4,1,uncommon
+002-115,002,ruby,character,2,1,Minnie Mouse - Zipping Around,storyborn|hero,3,2,1,common
+002-118,002,ruby,character,4,0,Namaari - Nemesis,storyborn|villain|princess,3,3,1,superrare
+002-117,002,ruby,character,4,0,Mulan - Soldier in Training,storyborn|hero|princess,4,3,1,common
+002-119,002,ruby,character,2,1,Queen of Hearts - Impulsive Ruler,storyborn|villain|queen,2,2,1,uncommon
+002-110,002,ruby,character,6,0,Lady Tremaine - Imperious Queen,floodborn|queen|villain,3,4,2,superrare
+002-112,002,ruby,character,7,1,Lumiere - Hotheaded Candelabra,ally|dreamborn,7,7,2,rare
+002-111,002,ruby,character,2,0,Lady Tremaine - Overbearing Matriarch,villain|storyborn,2,2,1,common
+002-103,002,ruby,character,3,1,Baloo - Fun-Loving Bear,ally|storyborn,4,3,1,common
+002-102,002,emerald,item,3,0,Ratigan's Marvelous Trap,item,,,,rare
+002-105,002,ruby,character,5,1,Card Soldiers - Full Deck,ally|storyborn,5,5,2,uncommon
+002-104,002,ruby,character,2,1,Boun - Precocious Entrepreneur,storyborn|ally,2,3,1,common
+002-107,002,ruby,character,1,1,Felicia - Always Hungry,dreamborn|ally,3,1,,common
+002-106,002,ruby,character,5,1,Donald Duck - Not Again!,dreamborn|hero,1,5,1,legendary
+002-109,002,ruby,character,3,0,Honest John - Not That Honest,villain|storyborn,2,3,1,rare
+002-108,002,ruby,character,3,1,Fidget - Ratigan's Henchman,ally|dreamborn,3,2,1,common
+002-101,002,emerald,action,3,1,Ring the Bell,action,,,,uncommon
+002-100,002,emerald,action,4,1,Pack Tactics,action,,,,rare
+002-202,002,steel,item,1,1,Last Cannon,item,,,,common
+002-201,002,steel,song,3,1,Strength of a Raging Fire,action|song,,,,rare
+002-204,002,steel,item,3,1,Weight Set,item,,,,rare
+002-203,002,steel,item,2,0,Mouse Armor,item,,,,uncommon
+002-200,002,steel,action,2,0,Pick a Fight,action,,,,uncommon
+002-091,002,emerald,character,4,1,Ratigan - Criminal Mastermind,dreamborn|villain,4,1,2,common
+002-090,002,emerald,character,2,0,Queen of Hearts - Quick-Tempered,villain|queen|dreamborn,1,2,2,common
+002-093,002,emerald,character,3,0,The Queen - Disguised Peddler,storyborn|villain|queen,2,3,,superrare
+002-092,002,emerald,character,5,1,Ray - Easygoing Firefly,ally|storyborn,3,3,3,common
+002-095,002,emerald,character,5,1,Virana - Fang Chief,storyborn|villain|queen,5,5,2,common
+002-094,002,emerald,character,5,1,Tiana - True Princess,storyborn|hero|princess,5,3,3,uncommon
+002-097,002,emerald,action,2,0,Bounce,action,,,,uncommon
+002-096,002,emerald,song,3,0,Bibbidi Bobbidi Boo,action|song,,,,rare
+002-099,002,emerald,action,1,1,Improvise,action,,,,common
+002-098,002,emerald,action,3,1,Hypnotize,action,,,,common
+002-080,002,emerald,character,2,1,Enchantress - Unexpected Judge,sorcerer|dreamborn,1,1,2,common
+002-082,002,emerald,character,4,0,Flynn Rider - His Own Biggest Fan,hero|floodborn|prince,2,3,4,rare
+002-081,002,emerald,character,1,1,Flynn Rider - Confident Vagabond,storyborn|hero|prince,1,3,1,common
+002-084,002,emerald,character,6,1,Little John - Loyal Friend,storyborn|ally,6,6,2,rare
+002-083,002,emerald,character,2,1,Gaston - Scheming Suitor,storyborn|villain,1,3,1,common
+002-086,002,emerald,character,2,1,Pain - Underworld Imp,storyborn|ally,1,4,1,uncommon
+002-085,002,emerald,character,5,0,Lucifer - Cunning Cat,ally|storyborn,2,2,2,rare
+002-088,002,emerald,character,5,1,Pete - Bad Guy,storyborn|villain,3,4,2,rare
+002-087,002,emerald,character,3,0,Panic - Underworld Imp,storyborn|ally,2,3,2,common
+002-089,002,emerald,character,3,0,Prince John - Greediest of All,prince|villain|dreamborn,1,2,2,rare
+002-190,002,steel,character,6,1,Pacha - Village Leader,storyborn|hero,4,8,2,uncommon
+002-071,002,emerald,character,3,0,Belle - Bookworm,storyborn|princess|hero,2,4,1,uncommon
+002-192,002,steel,character,7,1,Queen of Hearts - Capricious Monarch,storyborn|villain|queen,5,6,1,rare
+002-070,002,emerald,character,6,1,Beast - Relentless,storyborn|hero|prince,4,5,2,legendary
+002-191,002,steel,character,3,1,Prince Naveen - Penniless Royal,storyborn|prince,4,3,1,common
+002-194,002,steel,character,2,1,The Huntsman - Reluctant Enforcer,ally|storyborn,1,1,2,rare
+002-073,002,emerald,character,3,1,Bucky - Squirrel Squeak Tutor,storyborn|ally,1,1,1,uncommon
+002-193,002,steel,character,2,0,Robin Hood - Capable Fighter,dreamborn|hero,1,3,1,uncommon
+002-072,002,emerald,character,5,0,Belle - Hidden Archer,floodborn|hero|princess,3,3,3,legendary
+002-075,002,emerald,character,8,1,Cheshire Cat - From the Shadows,floodborn,5,6,2,superrare
+002-196,002,steel,character,4,0,Tiana - Celebrating Princess,dreamborn|hero|princess,1,4,2,superrare
+002-074,002,emerald,character,2,1,Cheshire Cat - Always Grinning,storyborn,3,2,1,uncommon
+002-195,002,steel,character,3,1,The Prince - Never Gives Up,dreamborn|hero|prince,1,3,2,uncommon
+002-198,002,steel,action,2,1,Charge!,action,,,,common
+002-077,002,emerald,character,4,1,Donald Duck - Perfect Gentleman,ally|floodborn,2,5,2,uncommon
+002-076,002,emerald,character,4,1,Daisy Duck - Secret Agent,dreamborn|ally,2,3,2,uncommon
+002-197,002,steel,character,1,1,Tiana - Diligent Waitress,storyborn|hero|princess,1,3,1,common
+002-079,002,emerald,character,7,1,Dr. Facilier - Fortune Teller,storyborn|sorcerer|villain,4,4,3,superrare
+002-078,002,emerald,character,3,1,Donald Duck - Sleepwalker,storyborn,,5,1,common
+002-199,002,steel,song,3,0,Let the Storm Rage On,action|song,,,,common
+002-060,002,amethyst,character,6,1,Yzma - Scary Beyond All Reason,sorcerer|floodborn|villain,4,4,2,superrare
+002-181,002,steel,character,6,1,Hercules - Divine Hero,hero|deity|floodborn|prince,6,3,2,rare
+002-180,002,steel,character,9,1,Goofy - Knight for a Day,dreamborn|hero|knight,10,10,4,rare
+002-069,002,emerald,character,4,1,Arthur - Trained Swordsman,dreamborn|hero,4,3,2,common
+002-183,002,steel,character,4,1,Jafar - Dreadnought,floodborn|sorcerer|villain,3,4,1,uncommon
+002-062,002,amethyst,song,3,0,Gruesome and Grim,action|song,,,,rare
+002-061,002,amethyst,character,3,1,Yzma - Without Beauty Sleep,sorcerer|storyborn|villain,3,4,1,uncommon
+002-182,002,steel,character,2,1,Hercules - Hero in Training,storyborn|hero|prince,2,3,1,common
+002-064,002,amethyst,song,2,1,Legend of the Sword in the Stone,action|song,,,,common
+002-185,002,steel,character,6,1,Kronk - Junior Chipmunk,storyborn|ally,4,5,2,rare
+002-063,002,amethyst,action,1,1,I'm Stuck!,action,,,,common
+002-184,002,steel,character,2,1,Jafar - Royal Vizier,sorcerer|storyborn|villain,3,2,1,common
+002-187,002,steel,character,5,1,Li Shang - Archery Instructor,hero|storyborn,3,6,2,uncommon
+002-066,002,amethyst,item,1,0,Croquet Mallet,item,,,,common
+002-186,002,steel,character,3,1,Lawrence - Jealous Manservant,storyborn|ally,,4,2,uncommon
+002-065,002,amethyst,item,4,0,Binding Contract,item,,,,uncommon
+002-189,002,steel,character,4,0,Namaari - Morning Mist,storyborn|villain|princess,2,4,1,legendary
+002-068,002,amethyst,item,3,0,The Sorcerer's Spellbook,item,,,,rare
+002-188,002,steel,character,3,1,Magic Broom - Industrial Model,dreamborn|broom,2,3,1,common
+002-067,002,amethyst,item,2,0,Perplexing Signposts,item,,,,rare
+002-170,002,sapphire,item,4,1,Sardine Can,item,,,,uncommon
+002-059,002,amethyst,character,5,1,Winnie the Pooh - Hunny Wizard,dreamborn|hero|sorcerer,5,5,2,common
+002-179,002,steel,character,4,1,Eli La Bouff - Big Daddy,mentor|storyborn,2,5,2,uncommon
+002-058,002,amethyst,character,2,0,Pinocchio - Talkative Puppet,hero|storyborn,1,1,1,uncommon
+002-051,002,amethyst,character,4,1,Merlin - Goat,sorcerer|storyborn|mentor,4,3,1,uncommon
+002-172,002,steel,character,6,1,Beast - Selfless Protector,storyborn|hero|prince,2,8,1,superrare
+002-050,002,amethyst,character,3,1,Merlin - Crab,storyborn|mentor|sorcerer,3,3,1,common
+002-171,002,steel,character,4,1,Beast - Forbidding Recluse,hero|dreamborn|prince,3,4,1,common
+002-174,002,steel,character,3,1,Benja - Guardian of the Dragon Gem,storyborn|king|mentor,2,3,2,common
+002-053,002,amethyst,character,4,1,Merlin - Shapeshifter,storyborn|mentor|sorcerer,1,5,1,rare
+002-052,002,amethyst,character,4,0,Merlin - Rabbit,storyborn|mentor|sorcerer,2,3,1,rare
+002-173,002,steel,character,5,1,Beast - Tragic Hero,floodborn|hero|prince,3,5,2,legendary
+002-055,002,amethyst,character,4,0,Peter Pan's Shadow - Not Sewn On,ally|storyborn,2,3,2,superrare
+002-176,002,steel,character,2,1,Cinderella - Knight in Training,knight|dreamborn|hero|princess,2,2,1,common
+002-054,002,amethyst,character,2,1,Merlin - Squirrel,storyborn|mentor|sorcerer,2,1,1,common
+002-175,002,steel,character,4,0,Chief Bogo - Respected Officer,dreamborn,2,4,2,rare
+002-057,002,amethyst,character,5,0,Pinocchio - On the Run,floodborn|hero,3,3,2,uncommon
+002-178,002,steel,character,5,1,Donald Duck - Deep-Sea Diver,hero|dreamborn,6,5,1,common
+002-056,002,amethyst,character,2,0,Pinocchio - Star Attraction,hero|storyborn,1,1,3,rare
+002-177,002,steel,character,7,1,Cinderella - Stouthearted,floodborn|hero|princess|knight,5,5,3,superrare
+002-169,002,sapphire,item,1,1,Pawpsicle,item,,,,common
+002-048,002,amethyst,character,5,1,Madam Mim - Rival of Merlin,sorcerer|floodborn|villain,2,5,2,rare
+002-047,002,amethyst,character,7,1,Madam Mim - Purple Dragon,storyborn|villain|sorcerer|dragon,5,7,4,legendary
+002-168,002,sapphire,item,3,0,Maurice's Workshop,item,,,,rare
+002-049,002,amethyst,character,2,1,Madam Mim - Snake,storyborn|villain|sorcerer,3,3,1,uncommon
+002-161,002,sapphire,character,3,1,Winnie the Pooh - Having a Think,storyborn|hero,2,3,2,rare
+002-040,002,amethyst,character,5,1,Fairy Godmother - Here to Help,storyborn|fairy|ally,3,7,2,uncommon
+002-160,002,sapphire,character,4,1,The Nokk - Water Spirit,storyborn,4,3,1,common
+002-042,002,amethyst,character,3,1,Fairy Godmother - Pure Heart,storyborn|fairy|ally,3,4,1,common
+002-163,002,sapphire,song,4,1,Four Dozen Eggs,action|song,,,,uncommon
+002-041,002,amethyst,character,5,1,Fairy Godmother - Mystic Armorer,fairy|floodborn|mentor,3,4,2,legendary
+002-162,002,sapphire,action,4,0,Falling Down the Rabbit Hole,action,,,,rare
+002-044,002,amethyst,character,2,1,Jiminy Cricket - Pinocchio's Conscience,mentor|storyborn,1,2,1,common
+002-165,002,sapphire,action,1,1,Nothing to Hide,action,,,,common
+002-043,002,amethyst,character,2,1,HeiHei - Persistent Presence,dreamborn|ally,2,1,1,uncommon
+002-164,002,sapphire,action,3,0,Launch,action,,,,uncommon
+002-046,002,amethyst,character,3,1,Madam Mim - Fox,storyborn|villain|sorcerer,4,3,1,rare
+002-167,002,sapphire,item,2,1,Gumbo Pot,item,,,,common
+002-166,002,sapphire,item,3,1,Fang Crossbow,item,,,,uncommon
+002-045,002,amethyst,character,2,1,Kuzco - Wanted Llama,storyborn|king,1,2,1,common
+002-037,002,amethyst,character,1,1,Chip the Teacup - Gentle Soul,ally|storyborn,2,2,1,common
+002-158,002,sapphire,character,5,1,Rabbit - Reluctant Host,storyborn|ally,4,6,2,common
+002-157,002,sapphire,character,4,1,Prince Charming - Heir to the Throne,hero|prince|dreamborn,3,3,3,rare
+002-036,002,amethyst,character,2,1,Blue Fairy - Rewarding Good Deeds,storyborn|fairy|ally,1,1,1,uncommon
+002-039,002,amethyst,character,4,1,Elsa - Gloves Off,storyborn|hero|queen|sorcerer,3,4,1,common
+002-159,002,sapphire,character,4,0,Sisu - Divine Water Dragon,storyborn|deity|dragon|hero,2,4,2,legendary
+002-038,002,amethyst,character,4,1,Dr. Facilier - Savvy Opportunist,storyborn|sorcerer|villain,4,2,1,common
+002-150,002,sapphire,character,4,0,James - Role Model,storyborn|mentor,3,3,2,common
+002-152,002,sapphire,character,3,1,Judy Hopps - Optimistic Officer,hero|storyborn,2,3,2,uncommon
+002-031,002,amber,song,3,1,World's Greatest Criminal Mind,action|song,,,,rare
+002-030,002,amber,song,2,1,Painting the Roses Red,action|song,,,,common
+002-151,002,sapphire,character,1,1,Jasmine - Heir of Agrabah,storyborn|hero|princess,1,2,1,common
+002-033,002,amber,item,3,0,Dragon Gem,item,,,,rare
+002-154,002,sapphire,character,4,1,Nick Wilde - Wily Fox,ally|storyborn,2,4,2,uncommon
+002-032,002,amber,song,2,0,Zero to Hero,action|song,,,,uncommon
+002-153,002,sapphire,character,4,0,Mrs. Judson - Housekeeper,ally|storyborn,1,5,2,rare
+002-035,002,amethyst,character,3,0,Arthur - Wizard's Apprentice,sorcerer|hero|dreamborn,1,3,1,superrare
+002-156,002,sapphire,character,1,1,Owl - Logical Lecturer,ally|storyborn,2,2,1,common
+002-155,002,sapphire,character,2,1,Noi - Orphaned Thief,storyborn|ally,1,2,2,rare
+002-034,002,amber,item,2,0,Sleepy's Flute,item,,,,rare
+002-026,002,amber,character,5,1,The Queen - Commanding Presence,floodborn|villain|queen,4,3,2,superrare
+002-147,002,sapphire,character,6,0,Gaston - Intellectual Powerhouse,floodborn|villain,4,4,3,rare
+002-146,002,sapphire,character,2,1,Duke Weaselton - Small-Time Crook,storyborn,1,2,2,common
+002-025,002,amber,character,6,0,Snow White - Well Wisher,floodborn|hero|princess,3,5,2,legendary
+002-149,002,sapphire,character,4,1,Hiram Flaversham - Toymaker,inventor|storyborn,1,6,1,rare
+002-028,002,amber,action,2,1,Hold Still,action,,,,common
+002-027,002,amber,character,1,1,The Queen - Regal Monarch,storyborn|queen|villain,2,2,1,common
+002-148,002,sapphire,character,7,0,Grand Pabbie - Oldest and Wisest,mentor|storyborn,3,6,3,superrare
+002-029,002,amber,action,2,0,Last Stand,action,,,,uncommon
+002-020,002,amber,character,2,1,Rapunzel - Sunshine,dreamborn|hero|princess,1,4,1,common
+002-141,002,sapphire,character,3,1,Caterpillar - Calm and Collected,dreamborn,1,3,3,uncommon
+002-140,002,sapphire,character,4,1,Basil - Perceptive Investigator,storyborn|detective|hero,3,4,2,common
+002-022,002,amber,character,2,1,Sneezy - Very Allergic,seven dwarfs|storyborn|ally,1,4,1,common
+002-143,002,sapphire,character,2,1,Cogsworth - Talking Clock,storyborn|ally,2,3,1,uncommon
+002-021,002,amber,character,2,1,Sleepy - Nodding Off,seven dwarfs|storyborn|ally,2,3,2,common
+002-142,002,sapphire,character,5,1,Cogsworth - Grandfather Clock,floodborn|ally,2,5,2,superrare
+002-145,002,sapphire,character,5,1,Cruella De Vil - Perfectly Wretched,villain|floodborn,4,3,2,uncommon
+002-024,002,amber,character,2,0,Snow White - Unexpected Houseguest,hero|storyborn|princess,1,2,1,uncommon
+002-023,002,amber,character,2,1,Snow White - Lost in the Forest,storyborn|hero|princess,2,3,1,common
+002-144,002,sapphire,character,2,1,Cruella De Vil - Fashionable Cruiser,villain|dreamborn,3,2,1,common
+002-136,002,ruby,item,1,0,Sword in the Stone,item,,,,uncommon
+002-015,002,amber,character,3,1,Mulan - Free Spirit,hero|dreamborn|princess,2,3,2,common
+002-135,002,ruby,item,2,0,Peter Pan's Dagger,item,,,,common
+002-014,002,amber,character,5,1,Mufasa - Betrayed Leader,mentor|king|storyborn,3,3,2,legendary
+002-017,002,amber,character,2,1,Nana - Darling Family Pet,storyborn|ally,1,3,1,uncommon
+002-138,002,sapphire,character,6,1,Basil - Great Mouse Detective,floodborn|detective|hero,3,4,3,superrare
+002-137,002,sapphire,character,3,1,Alice - Growing Girl,hero|dreamborn,1,4,1,legendary
+002-016,002,amber,character,4,1,Mulan - Reflecting,floodborn|princess|hero,3,3,2,rare
+002-019,002,amber,character,5,1,Rapunzel - Gifted Artist,hero|floodborn|princess,,6,2,uncommon
+002-018,002,amber,character,3,1,Piglet - Very Small Animal,storyborn|ally,2,4,2,common
+002-139,002,sapphire,character,2,1,Basil - Of Baker Street,hero|detective|dreamborn,2,2,1,common
+002-130,002,ruby,song,2,1,Teeth and Ambitions,action|song,,,,rare
+002-132,002,ruby,action,1,1,What Did You Call Me?,action,,,,common
+002-011,002,amber,character,5,1,Happy - Good-Natured,seven dwarfs|storyborn|ally,3,5,2,common
+002-131,002,ruby,song,3,0,The Most Diabolical Scheme,action|song,,,,uncommon
+002-010,002,amber,character,4,1,Grumpy - Bad-Tempered,seven dwarfs|storyborn|ally,3,4,1,common
+002-134,002,ruby,item,4,0,Dinner Bell,item,,,,rare
+002-013,002,amber,character,6,1,Mickey Mouse - Friendly Face,storyborn|hero,1,6,3,superrare
+002-012,002,amber,character,7,1,King Louie - Jungle VIP,king|storyborn,3,8,2,superrare
+002-133,002,ruby,song,2,1,You Can Fly!,action|song,,,,uncommon
+002-125,002,ruby,character,7,0,Scar - Vicious Cheater,villain|storyborn,6,5,2,legendary
+002-004,002,amber,character,7,1,Cobra Bubbles - Just a Social Worker,ally|storyborn,5,9,2,rare
+002-003,002,amber,character,1,1,Cinderella - Ballroom Sensation,hero|storyborn|princess,1,2,1,rare
+002-124,002,ruby,character,4,1,Raya - Warrior of Kumandra,storyborn|hero|princess,5,3,1,uncommon
+002-006,002,amber,character,3,1,Dopey - Always Playful,seven dwarfs|storyborn|ally,2,2,1,uncommon
+002-127,002,ruby,character,3,1,Tigger - One of a Kind,tigger|dreamborn,3,3,1,common
+002-005,002,amber,character,3,1,Doc - Leader of the Seven Dwarfs,seven dwarfs|storyborn|ally,2,3,2,uncommon
+002-126,002,ruby,character,3,1,Shere Khan - Menacing Predator,villain|storyborn,3,3,1,rare
+002-129,002,ruby,song,2,1,Go the Distance,action|song,,,,common
+002-008,002,amber,character,3,1,Gaston - Baritone Bully,dreamborn|villain,3,3,1,uncommon
+002-007,002,amber,character,5,1,Eudora - Accomplished Seamstress,storyborn|ally,1,9,2,common
+002-128,002,ruby,character,4,0,Tuk Tuk - Wrecking Ball,storyborn|ally,4,5,,rare
+002-009,002,amber,character,2,1,Grand Duke - Advisor to the King,ally|storyborn,2,2,1,rare
+002-121,002,ruby,character,5,0,Ratigan - Very Large Mouse,villain|storyborn,3,3,2,rare
+002-120,002,ruby,character,5,1,Queen of Hearts - Sensing Weakness,floodborn|queen|villain,4,3,1,uncommon
+002-123,002,ruby,character,6,1,Raya - Leader of Heart,hero|floodborn|princess,5,3,2,superrare
+002-002,002,amber,character,6,1,Christopher Robin - Adventurer,hero|dreamborn,2,6,2,rare
+002-001,002,amber,character,4,1,Bashful - Hopeless Romantic,seven dwarfs|storyborn|ally,2,5,3,uncommon
+002-122,002,ruby,character,3,1,Raya - Headstrong,hero|storyborn|princess,2,3,1,common
+003-155,003,sapphire,character,2,1,Scrooge Mcduck - Uncle Moneybags,dreamborn|hero,1,3,1,uncommon
+003-034,003,amber,location,3,0,Tiana's Palace - Jazz Restaurant,location,,8,1,uncommon
+003-154,003,sapphire,character,5,0,Scrooge McDuck - Richest Duck in the World,hero|storyborn,3,5,1,superrare
+003-033,003,amber,location,2,0,Pride Lands - Pride Rock,location,,7,1,rare
+003-032,003,amber,location,1,1,Never Land - Mermaid Lagoon,location,,4,1,common
+003-153,003,sapphire,character,5,1,Rufus - Orphanage Cat,dreamborn|ally,4,5,1,common
+003-031,003,amber,item,2,1,Wildcat's Wrench,item,,,,uncommon
+003-152,003,sapphire,character,3,1,Pluto - Mickey's Clever Friend,dreamborn|ally,3,4,1,common
+003-151,003,sapphire,character,3,0,Mama Odie - Mystical Maven,storyborn|mentor,1,3,1,rare
+003-030,003,amber,item,4,0,Heart of Atlantis,item,,,,rare
+003-150,003,sapphire,character,5,1,Maid Marian - Delightful Dreamer,storyborn|princess,4,4,2,common
+003-039,003,amethyst,character,3,1,Hydros - Ice Titan,storyborn|titan,2,2,2,uncommon
+003-159,003,sapphire,action,2,1,Distract,action,,,,common
+003-038,003,amethyst,character,4,0,Genie - Supportive Friend,storyborn|ally,3,5,1,superrare
+003-037,003,amethyst,character,1,1,Diablo - Faithful Pet,dreamborn|ally,2,1,1,common
+003-158,003,sapphire,character,3,1,Wendy Darling - Authority on Peter Pan,storyborn|hero,3,1,2,superrare
+003-036,003,amethyst,character,1,1,Chernabog's Followers - Creatures of Evil,storyborn|ally,2,1,1,uncommon
+003-157,003,sapphire,character,5,1,Tinker Bell - Very Clever Fairy,dreamborn|ally|fairy,3,4,2,superrare
+003-156,003,sapphire,character,4,1,The Queen - Mirror Seeker,storyborn|villain|queen|sorcerer,2,5,1,uncommon
+003-035,003,amethyst,character,6,1,Alice - Tea Alchemist,dreamborn|hero|sorcerer,4,4,2,superrare
+003-023,003,amber,character,2,1,Wendy Darling - Talented Sailor,dreamborn|hero,1,3,2,uncommon
+003-144,003,sapphire,character,3,1,Gyro Gearloose - Gadget Whiz,storyborn|ally|inventor,1,4,1,rare
+003-143,003,sapphire,character,7,1,Gramma Tala - Spirit of the Ocean,floodborn|mentor,4,8,2,legendary
+003-022,003,amber,character,4,0,Tinker Bell - Generous Fairy,storyborn|ally|fairy,1,4,1,uncommon
+003-021,003,amber,character,3,1,Rolly - Hungry Pup,storyborn|puppy,3,3,1,uncommon
+003-142,003,sapphire,character,4,1,Gramma Tala - Keeper of Ancient Stories,storyborn|mentor,3,3,1,common
+003-141,003,sapphire,character,2,1,Genie - Cramped in the Lamp,storyborn|ally,2,2,1,uncommon
+003-020,003,amber,character,3,1,Queen of Hearts - Wonderland Empress,dreamborn|villain|queen,3,3,1,uncommon
+003-140,003,sapphire,character,4,1,Flintheart Glomgold - Lone Cheater,storyborn|villain,3,4,2,uncommon
+003-029,003,amber,item,2,1,Cleansing Rainwater,item,,,,common
+003-149,003,sapphire,character,4,1,Louie - Chill Nephew,dreamborn|ally,3,4,2,common
+003-028,003,amber,song,2,1,The Bare Necessities,action|song,,,,rare
+003-148,003,sapphire,character,1,1,Kit Cloudkicker - Spunky Bear Cub,storyborn|ally,,1,1,common
+003-027,003,amber,action,1,1,Quick Patch,action,,,,common
+003-026,003,amber,song,3,1,Heal What Has Been Hurt,action|song,,,,common
+003-147,003,sapphire,character,6,1,Kit Cloudkicker - Navigator,floodborn|ally,2,5,3,uncommon
+003-025,003,amber,action,1,1,Boss's Orders,action,,,,common
+003-146,003,sapphire,character,7,1,King Louie - Bandleader,storyborn|ally|king,7,7,3,common
+003-145,003,sapphire,character,2,1,Huey - Savvy Nephew,storyborn|ally,2,2,1,rare
+003-024,003,amber,action,5,0,99 Puppies,action,,,,uncommon
+003-133,003,ruby,item,3,1,Sumerian Talisman,item,,,,uncommon
+003-012,003,amber,character,5,1,Nani - Protective Sister,storyborn|hero,3,6,2,uncommon
+003-011,003,amber,character,6,1,Mr. Snoops - Inept Businessman,dreamborn|ally,4,8,2,common
+003-132,003,ruby,item,3,1,Maui's Fish Hook,item,,,,rare
+003-010,003,amber,character,2,1,Miss Bianca - Rescue Aid Society Agent,storyborn|hero,2,2,1,common
+003-131,003,ruby,action,1,1,Voyage,action,,,,common
+003-130,003,ruby,action,4,0,On Your Feet! Now!,action,,,,rare
+003-019,003,amber,character,3,1,Pongo - Determined Father,storyborn|hero,3,2,1,superrare
+003-139,003,sapphire,character,3,1,Dewey - Showy Nephew,dreamborn|ally,2,3,2,uncommon
+003-018,003,amber,character,1,0,Pluto - Friendly Pooch,storyborn|ally,,2,1,uncommon
+003-138,003,sapphire,character,3,1,Captain Amelia - First In Command,storyborn|alien|captain,1,5,1,common
+003-017,003,amber,character,7,1,Pluto - Determined Defender,floodborn|ally,3,8,2,rare
+003-137,003,sapphire,character,5,1,Audrey Ramirez - The Engineer,storyborn|ally,2,5,2,rare
+003-016,003,amber,character,2,1,Piglet - Pooh Pirate Captain,dreamborn|hero|pirate|captain,2,2,1,superrare
+003-136,003,ruby,location,4,0,RLS Legacy - Solar Galleon,location,,8,2,rare
+003-015,003,amber,character,6,0,Perdita - Devoted Mother,storyborn|hero,1,6,2,legendary
+003-014,003,amber,character,4,1,Patch - Intimidating Pup,storyborn|puppy,3,4,1,common
+003-135,003,ruby,location,1,0,Jolly Roger - Hook's Ship,location,,5,,uncommon
+003-134,003,ruby,location,3,1,Agrabah - Marketplace,location,,5,2,common
+003-013,003,amber,character,2,1,Orville - Ace Pilot,storyborn|ally,1,4,1,common
+003-001,003,amber,character,3,0,Baloo - von Bruinwald XIII,dreamborn|hero,,3,1,rare
+003-122,003,ruby,character,5,1,Scroop - Backstabber,storyborn|villain|alien|pirate,2,5,2,uncommon
+003-121,003,ruby,character,4,0,Prince Eric - Expert Helmsman,dreamborn|hero|prince,2,2,2,superrare
+003-120,003,ruby,character,6,1,Peter Pan - Pirate's Bane,floodborn|hero,4,5,2,rare
+003-009,003,amber,character,2,1,Minnie Mouse - Musical Artist,dreamborn|hero,1,3,1,rare
+003-129,003,ruby,song,2,1,I've Got a Dream,action|song,,,,uncommon
+003-008,003,amber,character,4,0,Lucky - The 15th Puppy,storyborn|puppy,2,3,1,rare
+003-007,003,amber,character,5,1,Kida - Protector of Atlantis,floodborn|hero|princess,3,5,2,legendary
+003-128,003,ruby,action,3,1,Divebomb,action,,,,uncommon
+003-006,003,amber,character,1,1,Kida - Atlantean,storyborn|hero|princess,2,2,1,common
+003-127,003,ruby,character,3,1,Webby Vanderquack - Enthusiastic Duck,storyborn|ally,3,4,1,common
+003-005,003,amber,character,4,1,Joshua Sweet - The Doctor,storyborn|ally,1,5,2,common
+003-126,003,ruby,character,2,1,Trigger - Not-So-Sharp Shooter,storyborn|ally,3,1,1,uncommon
+003-125,003,ruby,character,2,0,Stitch - Little Rocket,dreamborn|hero|alien,3,1,1,common
+003-124,003,ruby,character,4,1,Slightly - Lost Boy,storyborn|ally,4,3,1,uncommon
+003-003,003,amber,character,10,0,Chernabog - Evildoer,storyborn|villain,9,9,3,superrare
+003-123,003,ruby,character,2,0,Simba - Scrappy Cub,storyborn|hero|prince,1,1,3,rare
+003-002,003,amber,character,4,1,Bernard - Brand-New Agent,storyborn|hero,1,5,2,rare
+003-111,003,ruby,character,3,0,Kakamora - Menacing Sailor,storyborn|pirate,3,2,1,common
+003-110,003,ruby,character,2,1,Jim Hawkins - Thrill Seeker,dreamborn|hero,3,2,1,common
+003-119,003,ruby,character,3,1,Peter Pan - Never Land Hero,storyborn|hero,1,3,2,common
+003-118,003,ruby,character,2,1,Nutsy - Vulture Henchman,storyborn|ally,2,3,1,common
+003-117,003,ruby,character,4,1,Moana - Undeterred Voyager,storyborn|hero|princess,3,4,1,common
+003-116,003,ruby,character,5,1,Moana - Born Leader,floodborn|hero|princess|captain,4,4,2,rare
+003-115,003,ruby,character,2,1,Milo Thatch - Spirited Scholar,storyborn|hero,2,2,1,common
+003-114,003,ruby,character,7,1,Maui - Whale,storyborn|hero|deity,8,8,1,rare
+003-113,003,ruby,character,3,0,Maui - Soaring Demigod,storyborn|hero|deity,5,2,,uncommon
+003-112,003,ruby,character,6,0,Madame Medusa - The Boss,storyborn|villain,4,4,1,superrare
+003-109,003,ruby,character,5,1,Jim Hawkins - Space Traveler,hero|storyborn,4,4,2,legendary
+003-100,003,emerald,location,1,1,De Vil Manor - Cruella's Estate,location,,4,1,common
+003-108,003,ruby,character,6,0,Hydra - Deadly Serpent,storyborn,6,5,2,legendary
+003-107,003,ruby,character,2,1,HeiHei - Accidental Explorer,storyborn|ally,3,2,1,uncommon
+003-106,003,ruby,character,2,0,Della Duck - Unstoppable Mom,storyborn|ally,3,3,,common
+003-105,003,ruby,character,5,1,Captain Hook - Master Swordsman,dreamborn|villain|pirate|captain,5,4,1,rare
+003-104,003,ruby,character,5,1,Billy Bones - Keeper of the Map,storyborn|alien|pirate,6,5,1,common
+003-103,003,ruby,character,3,1,Ariel - Adventurous Collector,dreamborn|hero|princess,2,3,1,superrare
+003-102,003,emerald,location,3,1,Kuzco's Palace - Home of the Emperor,location,,7,1,uncommon
+003-101,003,emerald,location,4,1,Fang - River City,location,,6,2,rare
+003-204,003,steel,location,1,1,The Bayou - Mysterious Swamp,location,,3,1,uncommon
+003-203,003,steel,location,2,1,Nottingham - Prince John's Castle,location,,6,1,common
+003-202,003,steel,location,2,1,Maui's Place of Exile - Hidden Island,location,,5,,rare
+003-201,003,steel,item,3,1,Map of Treasure Planet,item,,,,rare
+003-200,003,steel,item,3,1,Gizmosuit,item,,,,common
+003-004a,003,amber,character,2,1,Dalmatian Puppy - Tail Wagger,storyborn|puppy,2,3,1,common
+003-099,003,emerald,item,4,0,Starlight Vial,item,,,,rare
+003-098,003,emerald,item,3,0,Robin's Bow,item,,,,uncommon
+003-097,003,emerald,item,2,1,Airfoil,item,,,,common
+003-096,003,emerald,song,2,1,Strike A Good Match,action|song,,,,common
+003-095,003,emerald,song,1,1,I Will Find My Way,action|song,,,,common
+003-094,003,emerald,song,2,1,Has Set My Heaaaaaaart . . .,action|song,,,,uncommon
+003-093,003,emerald,character,1,1,Zazu - Steward of the Pride Lands,storyborn|ally,2,1,1,common
+003-092,003,emerald,character,3,1,Wildcat - Mechanic,storyborn|ally,2,3,1,uncommon
+003-091,003,emerald,character,3,1,Ursula - Deceiver of All,dreamborn|villain|sorcerer,2,3,1,legendary
+003-090,003,emerald,character,2,1,Ursula - Deceiver,villain|sorcerer|storyborn,1,3,1,uncommon
+003-089,003,emerald,character,5,1,Stitch - Covert Agent,dreamborn|hero|alien,3,3,2,rare
+003-088,003,emerald,character,7,1,Starkey - Devious Pirate,storyborn|ally|pirate,6,6,3,uncommon
+003-087,003,emerald,character,2,1,Skippy - Energetic Rabbit,storyborn|ally,2,2,1,common
+003-086,003,emerald,character,2,1,Sir Hiss - Aggravating Asp,dreamborn|ally,3,1,1,common
+003-085,003,emerald,character,4,1,Shenzi - Hyena Pack Leader,storyborn|ally|hyena,,6,1,superrare
+003-084,003,emerald,character,6,1,Robin Hood - Daydreamer,dreamborn|hero,4,5,4,rare
+003-083,003,emerald,character,5,0,Prince John - Phony King,storyborn|villain|prince,2,4,2,uncommon
+003-082,003,emerald,character,4,1,Peter Pan - Lost Boy Leader,dreamborn|hero,3,3,1,rare
+003-081,003,emerald,character,2,1,Morph - Space Goo,storyborn|ally|alien,2,1,1,rare
+003-080,003,emerald,character,7,0,Milo Thatch - King of Atlantis,floodborn|hero|king,4,4,3,legendary
+003-199,003,steel,item,3,0,Captain Hook's Rapier,item,,,,uncommon
+003-078,003,emerald,character,3,0,Lyle Tiberius Rourke - Cunning Mercenary,storyborn|villain,2,4,1,superrare
+003-077,003,emerald,character,3,1,Kit Cloudkicker - Tough Guy,storyborn|ally,2,2,1,uncommon
+003-198,003,steel,action,3,1,Rise of the Titans,action,,,,uncommon
+003-076,003,emerald,character,3,1,Jetsam - Riffraff,dreamborn|ally,2,2,2,common
+003-197,003,steel,action,1,1,Olympus Would Be That Way,action,,,,common
+003-075,003,emerald,character,2,1,Helga Sinclair - Vengeful Partner,storyborn|villain,2,1,1,rare
+003-196,003,steel,action,2,1,Ba-boom!,action,,,,common
+003-074,003,emerald,character,5,0,Helga Sinclair - Femme Fatale,floodborn|villain,4,4,2,superrare
+003-195,003,steel,song,4,0,And Then Along Came Zeus,action|song,,,,rare
+003-073,003,emerald,character,4,1,Friar Tuck - Priest Of Nottingham,storyborn|ally,2,4,2,uncommon
+003-194,003,steel,character,5,1,Thaddeus E. Klang - Metallic Leader,storyborn|villain,3,5,2,uncommon
+003-072,003,emerald,character,3,1,Flotsam - Riffraff,dreamborn|ally,5,2,1,common
+003-193,003,steel,character,5,1,Simba - Rightful King,storyborn|hero|king,4,6,1,uncommon
+003-192,003,steel,character,7,1,Simba - Fighting Prince,dreamborn|hero|prince,5,7,2,superrare
+003-071,003,emerald,character,5,1,Don Karnage - Prince of Pirates,dreamborn|villain|prince|pirate,4,4,2,common
+003-079,003,emerald,character,1,1,Milo Thatch - Clever Cartographer,dreamborn|hero,2,2,1,common
+003-191,003,steel,character,4,0,Sheriff of Nottingham - Corrupt Official,dreamborn|villain,2,4,1,superrare
+003-070,003,emerald,character,1,0,Cursed Merfolk - Ursula's Handiwork,storyborn,,1,2,rare
+003-190,003,steel,character,5,1,Robin Hood - Champion of Sherwood,floodborn|hero,3,6,2,legendary
+003-067,003,amethyst,location,4,1,The Queen's Castle - Mirror Chamber,location,,7,2,rare
+003-188,003,steel,character,2,1,Razoul - Palace Guard,storyborn|ally|captain,1,3,1,common
+003-066,003,amethyst,location,2,1,Forbidden Mountain - Maleficent's Castle,location,,6,1,common
+003-187,003,steel,character,5,1,Pyros - Lava Titan,storyborn|titan,5,4,1,rare
+003-186,003,steel,character,3,1,Nala - Fierce Friend,storyborn|ally,2,4,2,uncommon
+003-065,003,amethyst,item,2,1,The Sorcerer's Hat,item,,,,rare
+003-185,003,steel,character,7,1,Mufasa - Champion of the Pride Lands,storyborn|mentor|king,3,10,3,rare
+003-064,003,amethyst,item,2,0,The Lamp,item,,,,rare
+003-184,003,steel,character,2,1,Mr. Smee - Bumbling Mate,storyborn|ally|pirate,3,3,2,uncommon
+003-063,003,amethyst,song,3,1,The Boss Is On A Roll,action|song,,,,rare
+003-062,003,amethyst,action,3,0,Last-Ditch Effort,action,,,,uncommon
+003-183,003,steel,character,1,1,Minnie Mouse - Funky Spelunker,dreamborn|hero,,3,1,common
+003-182,003,steel,character,4,0,Mickey Mouse - Trumpeter,dreamborn|hero,,1,1,legendary
+003-061,003,amethyst,song,1,1,It Calls Me,action|song,,,,uncommon
+003-060,003,amethyst,action,1,1,Bestow a Gift,action,,,,common
+003-181,003,steel,character,3,1,Mickey Mouse - Stalwart Explorer,dreamborn|hero,3,3,1,common
+003-069,003,emerald,character,4,1,Cubby - Mighty Lost Boy,storyborn|ally,3,5,1,common
+003-068,003,amethyst,location,3,1,The Sorcerer's Tower - Wondrous Workspace,location,,7,,uncommon
+003-189,003,steel,character,1,1,Robin Hood - Beloved Outlaw,storyborn|hero,2,2,1,common
+003-180,003,steel,character,4,1,Lythos - Rock Titan,storyborn|titan,4,1,1,uncommon
+003-056,003,amethyst,character,4,1,The Firebird - Force of Destruction,dreamborn|villain,6,2,1,common
+003-177,003,steel,character,2,1,Kida - Royal Warrior,storyborn|hero|princess,2,3,1,common
+003-055,003,amethyst,character,5,1,Stratos - Tornado Titan,storyborn|titan,4,4,,rare
+003-176,003,steel,character,3,1,John Silver - Greedy Treasure Seeker,dreamborn|villain|alien|pirate|captain,3,3,1,rare
+003-175,003,steel,character,3,1,Helga Sinclair - Right-Hand Woman,storyborn|villain,2,4,1,common
+003-054,003,amethyst,character,1,1,Rafiki - Mystical Fighter,dreamborn|mentor|sorcerer,,2,1,rare
+003-174,003,steel,character,6,1,Hades - Hotheaded Ruler,storyborn|villain|deity,5,5,2,rare
+003-053,003,amethyst,character,2,1,Pua - Potbellied Buddy,storyborn|ally,2,2,2,common
+003-173,003,steel,character,3,1,Gustav The Giant - Terror of the Kingdom,dreamborn|villain,6,6,1,rare
+003-052,003,amethyst,character,6,0,Mama Odie - Voice of Wisdom,dreamborn|ally|sorcerer,3,6,2,uncommon
+003-051,003,amethyst,character,5,1,Maleficent - Mistress of All Evil,storyborn|villain|sorcerer,2,3,2,legendary
+003-172,003,steel,character,5,1,Eeyore - Overstuffed Donkey,storyborn|ally,4,5,1,common
+003-171,003,steel,character,4,1,Chief Tui - Proud of Motunui,storyborn|mentor|king,3,4,2,common
+003-050,003,amethyst,character,4,1,Magica De Spell - Thieving Sorceress,storyborn|villain|sorcerer,3,4,2,uncommon
+003-170,003,sapphire,location,2,1,Motunui - Island Paradise,location,,5,1,uncommon
+003-059,003,amethyst,character,3,0,Ursula - Sea Witch,dreamborn|villain|sorcerer,3,3,1,rare
+003-058,003,amethyst,character,4,0,Treasure Guardian - Protector of the Cave,storyborn,6,6,2,rare
+003-179,003,steel,character,3,1,Little John - Robin's Pal,storyborn|ally,2,4,1,uncommon
+003-178,003,steel,character,6,1,Little John - Resourceful Outlaw,floodborn|hero,4,5,2,superrare
+003-057,003,amethyst,character,3,1,The Queen - Hateful Rival,dreamborn|villain|queen|sorcerer,4,3,1,common
+003-045,003,amethyst,character,5,0,Magic Broom - Swift Cleaner,dreamborn|broom,4,4,2,common
+003-166,003,sapphire,item,2,0,Scrooge's Top Hat,item,,,,uncommon
+003-044,003,amethyst,character,6,0,Magic Broom - Dancing Duster,dreamborn|broom,3,3,1,uncommon
+003-165,003,sapphire,item,7,0,Lucky Dime,item,,,,legendary
+003-043,003,amethyst,character,2,1,Lena Sabrewing - Rebellious Teenager,storyborn|hero|sorcerer,1,3,1,common
+003-164,003,sapphire,item,3,1,Heart of Te Fiti,item,,,,rare
+003-163,003,sapphire,item,2,1,Aurelian Gyrosensor,item,,,,rare
+003-042,003,amethyst,character,7,1,Jafar - Striking Illusionist,floodborn|villain|sorcerer,4,5,1,legendary
+003-041,003,amethyst,character,3,1,Jafar - Lamp Thief,storyborn|villain|sorcerer,2,2,2,uncommon
+003-162,003,sapphire,action,2,1,Repair,action,,,,common
+003-161,003,sapphire,song,4,0,How Far I'll Go,action|song,,,,uncommon
+003-040,003,amethyst,character,3,1,Iago - Pretty Polly,storyborn|ally,3,2,1,common
+003-160,003,sapphire,song,5,1,Friend Like Me,action|song,,,,rare
+003-049,003,amethyst,character,7,0,Magica De Spell - The Midas Touch,floodborn|villain|sorcerer,4,6,,superrare
+003-048,003,amethyst,character,2,1,Magica De Spell - Ambitious Witch,storyborn|villain|sorcerer,2,3,1,common
+003-169,003,sapphire,location,4,1,McDuck Manor - Scrooge's Mansion,location,,9,2,common
+003-047,003,amethyst,character,2,1,Magic Carpet - Flying Rug,storyborn|ally,2,1,1,common
+003-168,003,sapphire,location,1,1,Belle's House - Maurice's Workshop,location,,6,,rare
+003-167,003,sapphire,item,4,1,Vault Door,item,,,,common
+003-046,003,amethyst,character,3,1,Magic Broom - The Big Sweeper,dreamborn|broom,1,5,1,common
+004-102,004,emerald,location,4,1,Ursula's Garden - Full of the Unfortunate,location,,7,1,rare
+004-140,004,sapphire,character,4,1,Aurora - Lore Guardian,floodborn|hero|princess,3,3,2,superrare
+004-154,004,sapphire,character,2,1,Scuttle - Expert on Humans,storyborn|ally,1,3,1,uncommon
+004-126,004,ruby,character,4,0,Tong - Survivor,storyborn|ally,3,6,,common
+004-079,004,emerald,character,3,0,Megara - Captivating Cynic,dreamborn|ally,3,6,2,common
+004-008,004,amber,character,3,1,Donald Duck - Musketeer Soldier,dreamborn|hero|musketeer,2,3,1,uncommon
+004-170,004,sapphire,location,3,1,Winter Camp - Medical Tent,location,,8,1,common
+004-143,004,sapphire,character,1,1,Fa Li - Mulan's Mother,storyborn|mentor,1,3,1,common
+004-165,004,sapphire,song,6,1,Treasures Untold,action|song,,,,rare
+004-110,004,ruby,character,2,1,Khan - Beloved Steed,storyborn|ally,3,2,1,uncommon
+004-127,004,ruby,character,3,1,Tuk Tuk - Lively Partner,storyborn|ally,2,3,1,rare
+004-178,004,steel,character,5,1,Chien-Po - Imperial Soldier,storyborn|ally,4,7,1,common
+004-039,004,amethyst,character,4,1,Bruno Madrigal - Undetected Uncle,storyborn|ally|madrigal,3,3,1,superrare
+004-061,004,amethyst,song,10,0,Second Star To The Right,action|song,,,,rare
+004-001,004,amber,character,1,1,Agustin Madrigal - Clumsy Dad,storyborn|mentor|madrigal,2,2,1,common
+004-005,004,amber,character,4,1,Cogsworth - Majordomo,dreamborn|ally,3,3,1,common
+004-167,004,sapphire,item,3,1,Great Stone Dragon,item,,,,uncommon
+004-192,004,steel,character,4,1,Rajah - Royal Protector,storyborn|ally,3,4,2,rare
+004-183,004,steel,character,3,1,Ling - Imperial Soldier,storyborn|ally,3,3,1,uncommon
+004-091,004,emerald,character,5,1,Tor - Florist,dreamborn|ally,4,7,1,common
+004-160,004,sapphire,character,4,1,Triton - Young Prince,dreamborn|prince,3,4,1,uncommon
+004-194,004,steel,character,4,1,Yao - Imperial Soldier,storyborn|ally,2,5,1,common
+004-164,004,sapphire,song,2,1,Seldom All They Seem,action|song,,,,common
+004-035,004,amethyst,character,3,1,Antonio Madrigal - Animal Expert,storyborn|ally|madrigal,3,4,1,uncommon
+004-123,004,ruby,character,3,0,Sisu - Daring Visitor,storyborn|hero|deity|dragon,1,1,1,uncommon
+004-133,004,ruby,item,3,0,The Plank,item,,,,common
+004-060,004,amethyst,song,2,1,Poor Unfortunate Souls,action|song,,,,common
+004-193,004,steel,character,7,1,Raya - Unstoppable Force,dreamborn|hero|princess,3,6,2,superrare
+004-190,004,steel,character,4,1,Philoctetes - No-Nonsense Instructor,storyborn|ally,2,3,2,rare
+004-097,004,emerald,song,5,1,We Don't Talk About Bruno,action|song,,,,rare
+004-108,004,ruby,character,3,0,Hercules - Clumsy Kid,storyborn|hero|prince,3,3,1,common
+004-063,004,amethyst,action,3,0,Ursula's Plan,action,,,,uncommon
+004-187,004,steel,character,5,1,Mickey Mouse - Playful Sorcerer,floodborn|hero|sorcerer,3,4,2,rare
+004-085,004,emerald,character,2,0,Pete - Born to Cheat,dreamborn|villain|musketeer,2,3,1,superrare
+004-191,004,steel,character,5,0,Piglet - Sturdy Swordsman,dreamborn|hero,3,5,3,legendary
+004-023,004,amber,character,2,1,Stitch - Alien Dancer,storyborn|hero|alien,2,3,1,common
+004-181,004,steel,character,3,1,LeFou - Opportunistic Flunky,dreamborn|ally,2,3,1,rare
+004-204,004,steel,location,2,1,Thebes - The Big Olive,location,,7,,common
+004-202,004,steel,item,3,0,RLS Legacy's Cannon,item,,,,rare
+004-153,004,sapphire,character,5,1,Rapunzel - Appreciative Artist,dreamborn|hero|princess,3,5,3,rare
+004-141,004,sapphire,character,2,1,Aurora - Tranquil Princess,dreamborn|hero|princess,1,3,1,common
+004-070,004,emerald,character,3,0,Diablo - Devoted Herald,floodborn|ally,2,2,1,legendary
+004-028,004,amber,song,7,1,Look At This Family,action|song,,,,rare
+004-073,004,emerald,character,2,1,Gus - Champion of Cheese,storyborn|ally,2,3,1,common
+004-129,004,ruby,song,4,0,Be King Undisputed,action|song,,,,rare
+004-045,004,amethyst,character,5,1,Isabela Madrigal - Golden Child,storyborn|ally|madrigal,3,4,1,rare
+004-078,004,emerald,character,5,0,Jasmine - Desert Warrior,dreamborn|hero|princess,3,3,2,rare
+004-198,004,steel,song,10,0,The Mob Song,action|song,,,,uncommon
+004-021,004,amber,character,3,1,Prince Eric - Seafaring Prince,dreamborn|hero|prince,3,3,1,common
+004-103,004,ruby,character,3,1,Beast - Wounded,storyborn|hero|prince,2,6,2,uncommon
+004-175,004,steel,character,6,1,Ariel - Sonic Warrior,floodborn|hero|princess,3,8,2,superrare
+004-069,004,emerald,character,5,1,Cri-Kee - Lucky Cricket,storyborn|ally,3,4,3,rare
+004-136,004,ruby,location,1,1,Training Grounds - Impossible Pillar,location,,5,,common
+004-156,004,sapphire,character,3,1,The Queen - Diviner,dreamborn|villain|queen|sorcerer,3,3,1,legendary
+004-142,004,sapphire,character,5,1,Dang Hu - Talon Chief,storyborn|villain,3,5,2,rare
+004-161,004,sapphire,character,2,1,Tuk Tuk - Curious Partner,storyborn|ally,2,3,1,common
+004-038,004,amethyst,character,5,0,Bruno Madrigal - Out of the Shadows,storyborn|ally|madrigal,4,5,1,rare
+004-096,004,emerald,action,1,0,Ursula's Trickery,action,,,,uncommon
+004-119,004,ruby,character,4,1,Noi - Acrobatic Baby,storyborn|ally,4,4,1,superrare
+004-159,004,sapphire,character,3,0,Triton - Discerning King,storyborn|king,3,3,1,rare
+004-043,004,amethyst,character,3,0,Flotsam - Ursula's "Baby",dreamborn|ally,4,2,1,uncommon
+004-017,004,amber,character,5,0,Minnie Mouse - Musketeer Champion,dreamborn|hero|musketeer,1,5,2,superrare
+004-077,004,emerald,character,3,1,Jaq - Connoisseur of Climbing,storyborn|ally,1,4,2,common
+004-041,004,amethyst,character,4,1,Dolores Madrigal - Easy Listener,storyborn|ally|madrigal,3,3,2,common
+004-163,004,sapphire,action,1,1,Glean,action,,,,common
+004-105,004,ruby,character,2,1,Fa Zhou - Mulan's Father,storyborn|mentor,,4,1,common
+004-083,004,emerald,character,5,1,Pegasus - Cloud Racer,floodborn|ally,3,3,2,uncommon
+004-149,004,sapphire,character,3,1,Olaf - Carrot Enthusiast,floodborn|ally,1,4,2,uncommon
+004-072,004,emerald,character,4,1,Gunther - Interior Designer,dreamborn|ally,3,3,2,common
+004-200,004,steel,item,1,1,Fortisphere,item,,,,common
+004-029,004,amber,song,4,1,Lost In The Woods,action|song,,,,uncommon
+004-090,004,emerald,character,4,1,The Muses - Proclaimers of Heroes,storyborn|ally,2,4,1,rare
+004-022,004,amber,character,6,1,Prince Eric - Ursula's Groom,floodborn|hero|prince,5,5,2,uncommon
+004-118,004,ruby,character,6,1,Nessus - River Guardian,storyborn|villain,7,5,2,uncommon
+004-084,004,emerald,character,1,1,Pegasus - Gift for Hercules,storyborn|ally,1,1,1,common
+004-025,004,amber,character,2,1,Ursula - Vanessa,storyborn|villain|sorcerer,1,4,1,common
+004-053,004,amethyst,character,5,0,Pepa Madrigal - Weather Maker,storyborn|ally|madrigal,1,5,1,rare
+004-062,004,amethyst,action,1,1,Swing Into Action,action,,,,common
+004-166,004,sapphire,item,3,1,Field Of Ice,item,,,,rare
+004-012,004,amber,character,4,0,Goofy - Musketeer Swordsman,dreamborn|hero|musketeer,3,4,2,rare
+004-032,004,amber,item,2,1,Record Player,item,,,,common
+004-088,004,emerald,character,4,0,Prince Phillip - Warden of the Woods,dreamborn|hero|prince,3,4,2,rare
+004-067,004,amethyst,location,1,1,Casa Madrigal - Casita,location,,6,,common
+004-093,004,emerald,action,2,1,Dodge!,action,,,,common
+004-112,004,ruby,character,3,1,Li Shang - Valorous General,floodborn|hero,3,2,1,uncommon
+004-009,004,amber,character,3,1,Félix Madrigal - Fun-Loving Family Man,storyborn|ally|madrigal,2,4,2,uncommon
+004-013,004,amber,character,3,1,Julieta Madrigal - Excellent Cook,storyborn|mentor|madrigal,1,4,1,uncommon
+004-137,004,sapphire,character,2,1,Anna - Braving the Storm,dreamborn|hero|queen,1,4,1,common
+004-171,004,steel,character,3,1,Aladdin - Brave Rescuer,floodborn|hero,3,3,1,uncommon
+004-125,004,ruby,character,8,0,Sisu - Empowered Sibling,floodborn|hero|deity|dragon,5,4,3,legendary
+004-182,004,steel,character,5,1,Li Shang - Imperial Captain,dreamborn|hero|captain,5,5,2,uncommon
+004-201,004,steel,item,2,1,Imperial Bow,item,,,,uncommon
+004-199,004,steel,action,1,0,Triton's Decree,action,,,,common
+004-117,004,ruby,character,3,0,Namaari - Heir of Fang,storyborn|villain|princess,2,3,1,rare
+004-146,004,sapphire,character,3,1,Hans - Noble Scoundrel,storyborn|villain|prince,3,2,2,common
+004-050,004,amethyst,character,2,1,Magical Maid - Feather Duster,storyborn|ally,2,2,2,uncommon
+004-027,004,amber,action,1,1,First Aid,action,,,,common
+004-033,004,amber,location,1,1,Atlantica - Concert Hall,location,,6,,common
+004-203,004,steel,location,4,1,The Wall - Border Fortress,location,,8,,rare
+004-189,004,steel,character,4,1,Mulan - Armored Fighter,storyborn|hero|princess,3,6,1,uncommon
+004-015,004,amber,character,4,1,Mickey Mouse - Leader of the Band,storyborn|hero,2,5,1,uncommon
+004-064,004,amethyst,item,2,1,Mystical Rose,item,,,,rare
+004-094,004,emerald,action,2,0,Make The Potion,action,,,,common
+004-122,004,ruby,character,4,1,Raya - Guardian of the Dragon Gem,storyborn|hero|princess,3,3,2,common
+004-134,004,ruby,item,1,1,Vitalisphere,item,,,,common
+004-055,004,amethyst,character,2,1,Pico - Helpful Toucan,storyborn|ally,3,2,1,common
+004-074,004,emerald,character,4,1,Hades - Double Dealer,storyborn|villain|deity,3,3,1,legendary
+004-139,004,sapphire,character,6,0,Ariel - Treasure Collector,storyborn|hero|princess,3,4,3,superrare
+004-082,004,emerald,character,4,1,Panic - Immortal Sidekick,storyborn|ally,3,3,2,uncommon
+004-046,004,amethyst,character,3,1,Jetsam - Ursula's "Baby",dreamborn|ally,2,4,1,common
+004-014,004,amber,character,3,1,Max - Loyal Sheepdog,storyborn|ally,4,3,1,common
+004-152,004,sapphire,character,3,1,Prince Phillip - Gallant Defender,storyborn|hero|prince,1,3,2,rare
+004-066,004,amethyst,item,2,1,Triton's Trident,item,,,,uncommon
+004-086,004,emerald,character,4,1,Pete - Rotten Guy,storyborn|villain|musketeer,1,5,2,uncommon
+004-052,004,amethyst,character,4,1,Mrs. Potts - Enchanted Teapot,storyborn|ally,3,4,2,rare
+004-162,004,sapphire,song,8,0,Dig A Little Deeper,action|song,,,,uncommon
+004-155,004,sapphire,character,6,1,Sisu - Wise Friend,storyborn|hero|deity|dragon,6,6,2,uncommon
+004-114,004,ruby,character,6,1,Mulan - Elite Archer,floodborn|hero|princess,2,6,2,legendary
+004-071,004,emerald,character,1,1,Diablo - Maleficent's Spy,storyborn|ally,1,2,1,common
+004-179,004,steel,character,4,1,Donald Duck - Buccaneer,dreamborn|hero|pirate|captain,3,4,1,legendary
+004-031,004,amber,item,2,1,Miracle Candle,item,,,,rare
+004-109,004,ruby,character,5,0,Hercules - Daring Demigod,dreamborn|hero|prince,7,3,,uncommon
+004-098,004,emerald,item,2,0,Hidden Inkcaster,item,,,,common
+004-003,004,amber,character,4,1,Ariel - Singing Mermaid,storyborn|hero|princess,3,3,2,rare
+004-132,004,ruby,item,2,1,Medallion Weights,item,,,,uncommon
+004-081,004,emerald,character,3,1,Pain - Immortal Sidekick,storyborn|ally,2,4,2,uncommon
+004-058,004,amethyst,character,7,1,Ursula - Sea Witch Queen,floodborn|villain|queen|sorcerer,4,7,3,legendary
+004-018,004,amber,character,5,0,Mirabel Madrigal - Gift of the Family,dreamborn|hero|madrigal,3,5,2,superrare
+004-099,004,emerald,item,2,1,Signed Contract,item,,,,uncommon
+004-089,004,emerald,character,1,1,The Fates - Only One Eye,storyborn|ally,2,1,1,common
+004-151,004,sapphire,character,3,1,Pascal - Inquisitive Pet,storyborn|ally,3,3,1,common
+004-169,004,sapphire,location,2,1,Ariel's Grotto - A Secret Place,location,,7,,rare
+004-047,004,amethyst,character,4,0,Luisa Madrigal - Magically Strong One,storyborn|ally|madrigal,4,3,1,common
+004-115,004,ruby,character,2,1,Mulan - Enemy of Entanglement,storyborn|hero|princess,1,3,1,uncommon
+004-006,004,amber,character,1,1,Daisy Duck - Lovely Lady,dreamborn|ally,1,3,1,uncommon
+004-158,004,sapphire,character,9,1,Triton - Champion of Atlantica,floodborn|king,7,9,3,legendary
+004-048,004,amethyst,character,1,1,Magic Broom - Illuminary Keeper,dreamborn|broom,1,2,1,common
+004-037,004,amethyst,character,3,1,Belle - Untrained Mystic,dreamborn|hero|princess,3,3,1,common
+004-004,004,amber,character,5,1,Cinderella - Melody Weaver,dreamborn|hero|princess,1,5,2,legendary
+004-168,004,sapphire,item,1,0,Ice Block,item,,,,common
+004-026,004,amber,action,2,0,Bruno's Return,action,,,,uncommon
+004-002,004,amber,character,3,0,Alma Madrigal - Family Matriarch,storyborn|mentor|madrigal,1,3,2,rare
+004-131,004,ruby,item,1,1,Imperial Proclamation,item,,,,rare
+004-024,004,amber,character,4,0,Ursula - Eric's Bride,floodborn|villain|princess|sorcerer,2,4,2,rare
+004-185,004,steel,character,2,1,Magic Broom - Aerial Cleaner,dreamborn|broom,2,3,1,common
+004-186,004,steel,character,6,1,Magic Broom - Brigade Commander,dreamborn|broom,2,6,2,superrare
+004-057,004,amethyst,character,2,1,Ursula - Mad Sea Witch,dreamborn|villain|sorcerer,1,3,1,uncommon
+004-076,004,emerald,character,3,1,Hera - Queen of the Gods,storyborn|queen|deity,1,3,2,rare
+004-016,004,amber,character,7,0,Mickey Mouse - Musketeer Captain,floodborn|hero|musketeer|captain,3,6,2,legendary
+004-095,004,emerald,song,8,0,Under The Sea,action|song,,,,rare
+004-051,004,amethyst,character,3,0,Marshmallow - Terrifying Snowman,storyborn|ally,,3,1,uncommon
+004-087,004,emerald,character,9,1,Prince Phillip - Vanquisher of Foes,floodborn|hero|prince,6,6,3,superrare
+004-120,004,ruby,character,2,1,Pegasus - Flying Steed,storyborn|ally,3,1,1,common
+004-138,004,sapphire,character,4,1,Anna - True-Hearted,dreamborn|hero|queen|knight,2,4,2,superrare
+004-011,004,amber,character,1,1,Golden Harp - Enchanter of the Land,storyborn|ally,1,4,2,rare
+004-174,004,steel,character,3,1,Ariel - Determined Mermaid,storyborn|hero|princess,2,4,1,common
+004-150,004,sapphire,character,1,1,Olaf - Trusting Companion,storyborn|ally,1,2,1,common
+004-056,004,amethyst,character,6,1,Tick-Tock - Ever-Present Pursuer,storyborn|ally,4,7,1,common
+004-173,004,steel,character,2,1,Arges - The Cyclops,storyborn|titan,4,1,1,common
+004-124,004,ruby,character,3,1,Sisu - Emboldened Warrior,storyborn|hero|deity|dragon,1,4,2,rare
+004-121,004,ruby,character,3,1,Raya - Fierce Protector,storyborn|hero|princess,3,3,1,superrare
+004-184,004,steel,character,3,1,Luisa Madrigal - Rock of the Family,storyborn|ally|madrigal,2,4,1,common
+004-157,004,sapphire,character,4,1,Transformed Chef - Castle Stove,storyborn|ally,3,3,2,common
+004-036,004,amethyst,character,5,1,Belle - Accomplished Mystic,floodborn|hero|princess|sorcerer,4,4,2,superrare
+004-188,004,steel,character,2,1,Mickey Mouse - Standard Bearer,storyborn|hero,1,3,1,common
+004-128,004,ruby,song,6,1,A Pirate's Life,action|song,,,,uncommon
+004-010,004,amber,character,3,0,Gaston - Despicable Dealer,storyborn|villain,2,4,1,superrare
+004-172,004,steel,character,1,1,Aladdin - Resolute Swordsman,storyborn|hero,1,3,1,common
+004-075,004,emerald,character,3,1,HeiHei - Bumbling Rooster,storyborn|ally,2,3,2,uncommon
+004-044,004,amethyst,character,6,1,Flotsam & Jetsam - Entangling Eels,floodborn|ally,5,5,2,uncommon
+004-100,004,emerald,item,3,1,Vision Slab,item,,,,uncommon
+004-049,004,amethyst,character,3,1,Magic Broom - Lively Sweeper,dreamborn|broom,2,4,1,common
+004-059,004,amethyst,character,2,1,Yen Sid - Powerful Sorcerer,storyborn|hero|sorcerer,1,3,1,legendary
+004-106,004,ruby,character,2,1,Flynn Rider - Frenemy,storyborn|hero|prince,2,2,1,superrare
+004-040,004,amethyst,character,4,1,Camilo Madrigal - Prankster,storyborn|ally|madrigal,2,5,1,uncommon
+004-034,004,amber,location,2,1,The Underworld - River Styx,location,,6,1,rare
+004-197,004,steel,song,3,0,One Last Hope,action|song,,,,rare
+004-145,004,sapphire,character,4,1,Hades - Meticulous Plotter,storyborn|villain|deity,3,6,1,uncommon
+004-065,004,amethyst,item,2,1,Rose Lantern,item,,,,common
+004-116,004,ruby,character,1,1,Mulan - Injured Soldier,storyborn|hero|princess,2,3,1,common
+004-019,004,amber,character,2,1,Mirabel Madrigal - Prophecy Finder,storyborn|hero|madrigal,2,2,1,common
+004-196,004,steel,song,4,1,I Find 'Em  I Flatten 'Em,action|song,,,,uncommon
+004-104,004,ruby,character,4,1,Benja - Bold Uniter,storyborn|mentor|king,5,3,1,common
+004-177,004,steel,character,3,1,Chi-Fu - Imperial Advisor,storyborn|ally,,5,1,uncommon
+004-147,004,sapphire,character,4,1,Iduna - Caring Mother,storyborn|mentor|queen,3,3,1,uncommon
+004-030,004,amber,action,3,0,Sign The Scroll,action,,,,uncommon
+004-080,004,emerald,character,5,1,Megara - Liberated One,storyborn|ally,4,4,2,uncommon
+004-107,004,ruby,character,4,1,Goofy - Super Goof,storyborn|hero,2,4,1,rare
+004-130,004,ruby,action,3,1,Brawl,action,,,,common
+004-101,004,emerald,location,1,1,Hidden Cove - Tranquil Haven,location,,6,,common
+004-054,004,amethyst,character,3,0,Peter Pan - Shadow Finder,storyborn|hero,2,3,1,superrare
+004-176,004,steel,character,3,1,Beast - Thick-Skinned,storyborn|hero|prince,2,3,1,common
+004-195,004,steel,action,4,0,Avalanche,action,,,,uncommon
+004-092,004,emerald,character,3,1,Zeus - Mr. Lightning Bolts,storyborn|king|deity,,5,1,superrare
+004-180,004,steel,character,6,1,Hercules - Beloved Hero,storyborn|hero|prince,6,5,2,rare
+004-144,004,sapphire,character,3,1,Flounder - Collector's Companion,storyborn|ally,2,2,2,uncommon
+004-113,004,ruby,character,2,1,Lumiere - Fiery Friend,dreamborn|ally,2,2,1,rare
+004-111,004,ruby,character,1,1,Li Shang - General's Son,storyborn|hero,2,2,1,common
+004-068,004,amethyst,location,3,0,Ursula's Lair - Eye of the Storm,location,,6,1,rare
+004-148,004,sapphire,character,8,1,John Silver - Terror of the Realm,dreamborn|villain|alien|pirate|captain,8,8,3,rare
+004-042,004,amethyst,character,3,0,Elsa - Storm Chaser,storyborn|hero|queen|sorcerer,1,4,1,rare
+004-135,004,ruby,location,2,1,Snuggly Duckling - Disreputable Pub,location,,9,,rare
+004-020,004,amber,character,5,1,Pluto - Rescue Dog,storyborn|ally,4,5,1,common
+004-007,004,amber,character,4,1,Daisy Duck - Musketeer Spy,dreamborn|hero|musketeer,2,3,1,common
+005-201,005,steel,item,4,0,Plate Armor,item,,,,rare
+005-200,005,steel,item,1,1,Shield of Arendelle,item,,,,common
+005-204,005,steel,location,2,1,Seven Dwarfs' Mine - Secure Fortress,location,,6,1,uncommon
+005-203,005,steel,location,3,1,Bad-Anon - Villain Support Center,location,,7,1,rare
+005-202,005,steel,item,6,0,Steel Chromicon,item,,,,uncommon
+005-102,005,emerald,location,3,1,Tropical Rainforest - Jaguar Lair,location,,6,1,uncommon
+005-101,005,emerald,location,2,1,Sherwood Forest - Outlaw Hideaway,location,,7,,rare
+005-100,005,emerald,item,3,0,Emerald Chromicon,item,,,,uncommon
+005-106,005,ruby,character,2,0,Turbo - Royal Hack,storyborn|villain|racer,2,3,1,uncommon
+005-105,005,ruby,character,6,1,Maximus - Team Champion,storyborn|ally,3,5,2,superrare
+005-104,005,ruby,character,3,1,Wreck-It Ralph - Demolition Dude,storyborn|hero,1,4,1,rare
+005-103,005,ruby,character,2,1,Taffyta Muttonfudge - Ruthless Rival,storyborn|ally|racer,2,2,2,uncommon
+005-113,005,ruby,character,3,1,Ratigan - Raging Rat,dreamborn|villain,1,5,1,common
+005-112,005,ruby,character,4,1,Mickey Mouse - Enthusiastic Dancer,dreamborn|hero,2,4,2,common
+005-111,005,ruby,character,2,1,Daisy Duck - Spotless Food-Fighter,storyborn|hero,2,2,1,common
+005-110,005,ruby,character,3,0,Snowanna Rainbeau - Cool Competitor,storyborn|ally|racer,2,4,1,common
+005-117,005,ruby,character,4,1,Taffyta Muttonfudge - Sour Speedster,floodborn|ally|racer,3,3,1,uncommon
+005-116,005,ruby,character,7,1,Pete - Steamboat Rival,storyborn|villain,6,6,2,superrare
+005-115,005,ruby,character,5,0,Denahi - Avenging Brother,storyborn,7,5,2,rare
+005-114,005,ruby,character,1,1,Taffyta Muttonfudge - Crowd Favorite,storyborn|ally|racer,1,2,1,common
+005-109,005,ruby,character,5,1,Scar - Betrayer,storyborn|villain,6,3,2,uncommon
+005-108,005,ruby,character,4,1,Rancis Fluggerbutter - Chocolate Charger,storyborn|ally|racer,4,4,1,common
+005-107,005,ruby,character,5,1,Donald Duck - Pie Slinger,floodborn|hero|knight,3,6,1,legendary
+005-120,005,ruby,character,3,1,Pete - Pastry Chomper,storyborn|villain,4,3,1,common
+005-003,005,amber,character,4,0,Prince Naveen - Ukulele Player,storyborn|hero|prince,3,3,2,legendary
+005-124,005,ruby,character,4,0,Vanellope Von Schweetz - Random Roster Racer,storyborn|hero|princess|racer,3,3,2,rare
+005-123,005,ruby,character,7,0,Ratigan - Party Crasher,floodborn|villain,5,5,3,rare
+005-002,005,amber,character,1,1,Nala - Mischievous Cub,storyborn|ally,,4,1,uncommon
+005-122,005,ruby,character,3,1,Donald Duck - Daisy's Date,storyborn|ally,2,4,1,common
+005-001,005,amber,character,2,1,Koda - Talkative Cub,storyborn|ally,2,1,2,rare
+005-121,005,ruby,character,1,0,Arthur - Novice Sparrow,storyborn|hero,2,3,,uncommon
+005-128,005,ruby,action,2,1,Evil Comes Prepared,action,,,,common
+005-007,005,amber,character,4,1,Tuke - Northern Moose,storyborn|ally,4,4,1,common
+005-127,005,ruby,action,1,1,Break Free,action,,,,common
+005-006,005,amber,character,1,1,Vanellope von Schweetz - Sugar Rush Champ,storyborn|hero|princess|racer,2,2,1,common
+005-126,005,ruby,character,3,1,Minnie Mouse - Dazzling Dancer,dreamborn|hero,2,4,1,uncommon
+005-005,005,amber,character,2,1,Kenai - Big Brother,storyborn|hero,1,4,1,common
+005-125,005,ruby,character,1,0,Simba - Adventurous Successor,storyborn|hero|prince,2,1,1,common
+005-004,005,amber,character,4,1,Rutt - Northern Moose,storyborn|ally,3,4,1,common
+005-119,005,ruby,character,9,0,Gaston - Pure Paragon,dreamborn|villain,10,6,2,rare
+005-118,005,ruby,character,4,0,Robin Hood - Sharpshooter,storyborn|hero,1,4,2,legendary
+005-131,005,ruby,action,3,1,Who's With Me?,action,,,,superrare
+005-010,005,amber,character,3,1,Fix-It Felix  Jr. - Trusty Builder,storyborn|hero,2,4,1,common
+005-130,005,ruby,action,4,0,Glimmer vs Glimmer,action,,,,uncommon
+005-014,005,amber,character,5,1,Mirabel Madrigal - Family Gatherer,storyborn|hero|madrigal,5,5,5,legendary
+005-135,005,ruby,location,1,0,Sugar Rush Speedway - Starting Line,location,,5,,rare
+005-013,005,amber,character,9,0,Kristoff - Reindeer Keeper,dreamborn|ally,3,7,3,rare
+005-134,005,ruby,item,1,1,Ruby Chromicon,item,,,,uncommon
+005-133,005,ruby,item,3,0,The Sword Released,item,,,,rare
+005-012,005,amber,character,5,1,Fix-It Felix  Jr. - Niceland Steward,floodborn|hero,4,5,1,uncommon
+005-011,005,amber,character,3,1,Gazelle - Pop Star,storyborn|ally,2,3,2,common
+005-132,005,ruby,item,1,1,Potion of Might,item,,,,common
+005-139,005,sapphire,character,2,1,The Queen - Cruelest of All,storyborn|villain|queen|sorcerer,,4,1,common
+005-018,005,amber,character,3,0,Moana - Determined Explorer,storyborn|hero|princess,3,4,2,rare
+005-017,005,amber,character,2,1,Fix-It Felix  Jr. - Delighted Sightseer,storyborn|hero,1,3,1,common
+005-138,005,sapphire,character,4,1,Chaca - Impressive Daughter,storyborn|ally,4,3,2,common
+005-016,005,amber,character,1,0,Daisy Duck - Donald's Date,storyborn|ally,1,4,2,superrare
+005-137,005,sapphire,character,1,1,King Candy - Sovereign of Sugar,storyborn|villain|king|racer,2,2,1,common
+005-015,005,amber,character,5,1,Minnie Mouse - Drum Major,floodborn|hero,4,4,2,superrare
+005-136,005,ruby,location,2,1,Ratigan's Party - Seedy Back Room,location,,7,,uncommon
+005-009,005,amber,character,2,1,Vanellope von Schweetz - Candy Mechanic,dreamborn|hero|princess|racer,2,2,1,common
+005-008,005,amber,character,2,1,Lilo - Junior Cake Decorator,storyborn|hero,1,3,1,common
+005-129,005,ruby,song,7,1,Don't Let The Frostbite Bite,action|song,,,,rare
+005-142,005,sapphire,character,4,1,Merlin - Back from Bermuda,storyborn|mentor|sorcerer,1,4,2,common
+005-021,005,amber,character,7,0,Wreck-It Ralph - Admiral Underpants,storyborn|hero,6,7,2,rare
+005-020,005,amber,character,4,1,Alan-a-Dale - Rockin' Rooster,storyborn|ally,2,3,2,uncommon
+005-141,005,sapphire,character,3,1,Prince John - Opportunistic Briber,dreamborn|villain|prince,1,5,1,common
+005-140,005,sapphire,character,4,0,Scrooge McDuck - Afficionado of Antiquities,storyborn|hero,5,5,2,rare
+005-025,005,amber,song,4,1,Try Everything,action|song,,,,uncommon
+005-146,005,sapphire,character,2,0,Chicha - Dedicated Mother,storyborn|ally,2,1,1,rare
+005-145,005,sapphire,character,9,0,Sheriff Of Nottingham - Bushel Britches,storyborn|villain,5,9,4,rare
+005-024,005,amber,character,4,1,Minnie Mouse - Compassionate Friend,storyborn|hero,1,5,2,common
+005-023,005,amber,character,4,1,Sven - Reindeer Steed,storyborn|ally,3,3,2,uncommon
+005-144,005,sapphire,character,5,1,The Queen - Fairest of All,floodborn|villain|queen|sorcerer,2,6,1,superrare
+005-022,005,amber,character,6,1,Maid Marian - Lady of the Lists,dreamborn|princess,4,5,2,uncommon
+005-143,005,sapphire,character,3,1,Pacha - Emperor's Guide,storyborn|hero,,4,2,uncommon
+005-029,005,amber,action,2,0,Invited to the Ball,action,,,,uncommon
+005-149,005,sapphire,character,6,1,Kuzco - Selfish Emperor,storyborn|king,3,5,2,superrare
+005-028,005,amber,song,6,0,Blast From Your Past,action|song,,,,superrare
+005-148,005,sapphire,character,4,0,The Queen - Crown of the Council,storyborn|villain|queen|sorcerer,3,2,2,rare
+005-027,005,amber,action,5,0,Revive,action,,,,rare
+005-026,005,amber,action,3,1,Healing Touch,action,,,,common
+005-147,005,sapphire,character,4,1,Prince John - Gold Lover,storyborn|villain|prince,3,4,1,superrare
+005-019,005,amber,character,4,1,Vanellope von Schweetz - Sugar Rush Princess,floodborn|hero|princess|racer,2,4,2,rare
+005-032,005,amber,item,2,1,Amber Chromicon,item,,,,uncommon
+005-153,005,sapphire,character,1,1,Basil - Practiced Detective,storyborn|hero|detective,2,1,1,common
+005-031,005,amber,item,2,1,Queen's Sensor Core,item,,,,rare
+005-152,005,sapphire,character,1,0,Minnie Mouse - Quick-Thinking Inventor,dreamborn|hero|inventor,1,2,1,common
+005-030,005,amber,item,2,1,Healing Decanter,item,,,,common
+005-151,005,sapphire,character,5,1,Ludwig Von Drake - Self-Proclaimed Genius,storyborn|ally,4,4,3,uncommon
+005-150,005,sapphire,character,8,0,Mufasa - Ruler of Pride Rock,storyborn|mentor|king,4,9,4,legendary
+005-036,005,amethyst,character,6,1,The Nokk - Mythical Spirit,storyborn|ally,5,5,1,common
+005-157,005,sapphire,character,2,1,Tipo - Growing Son,storyborn|ally,1,2,1,uncommon
+005-035,005,amethyst,character,8,0,Maleficent - Formidable Queen,floodborn|villain|queen|sorcerer,7,7,2,superrare
+005-156,005,sapphire,character,2,1,Tanana - Wise Woman,storyborn|ally,1,3,1,common
+005-155,005,sapphire,character,5,1,Donald Duck - Focused Flatfoot,dreamborn|hero|detective,3,4,2,common
+005-034,005,amber,location,3,1,Pride Lands - Jungle Oasis,location,,8,1,rare
+005-033,005,amber,location,2,1,Rapunzel's Tower - Secluded Prison,location,,8,,uncommon
+005-154,005,sapphire,character,5,0,King Candy - Sweet Abomination,floodborn|villain|king|racer,3,3,2,uncommon
+005-039,005,amethyst,character,3,1,Archimedes - Exasperated Owl,storyborn|ally,2,2,2,common
+005-159,005,sapphire,character,6,0,Merlin - Intellectual Visionary,floodborn|mentor|sorcerer,3,7,2,legendary
+005-038,005,amethyst,character,4,1,Merlin - Turtle,storyborn|mentor|sorcerer,3,3,2,common
+005-037,005,amethyst,character,1,1,Cogsworth - Illuminary Watchman,dreamborn|ally,1,1,1,common
+005-158,005,sapphire,character,4,0,Belle - Of the Ball,dreamborn|hero|princess,2,3,2,rare
+005-160,005,sapphire,action,2,1,Vision of the Future,action,,,,common
+005-043,005,amethyst,character,3,1,White Rabbit - Royal Herald,storyborn|ally,3,4,1,common
+005-164,005,sapphire,action,1,1,All Funned Out,action,,,,uncommon
+005-042,005,amethyst,character,3,1,Gale - Wind Spirit,storyborn|ally,1,2,2,common
+005-163,005,sapphire,action,2,1,Hide Away,action,,,,uncommon
+005-041,005,amethyst,character,4,1,Earth Giant - Living Mountain,storyborn|ally,4,5,2,common
+005-162,005,sapphire,song,2,1,Ever as Before,action|song,,,,common
+005-040,005,amethyst,character,4,1,Bruni - Fire Salamander,storyborn|ally,2,2,2,uncommon
+005-161,005,sapphire,action,4,0,Royal Tantrum,action,,,,rare
+005-168,005,sapphire,item,4,0,Sapphire Chromicon,item,,,,uncommon
+005-047,005,amethyst,character,5,1,Archimedes - Electrified Owl,floodborn|ally,1,4,2,uncommon
+005-167,005,sapphire,item,5,0,Merlin's Carpetbag,item,,,,uncommon
+005-046,005,amethyst,character,7,0,Anna - Mystical Majesty,floodborn|hero|queen|sorcerer,4,5,2,rare
+005-045,005,amethyst,character,6,0,Luisa Madrigal - Entertaining Muscle,storyborn|ally|madrigal,4,8,3,rare
+005-166,005,sapphire,item,2,1,Basil's Magnifying Glass,item,,,,rare
+005-165,005,sapphire,item,2,1,Medal of Heroes,item,,,,common
+005-044,005,amethyst,character,4,1,Madam Mim - Elephant,storyborn|villain|sorcerer,3,7,1,superrare
+005-049,005,amethyst,character,7,0,Genie - Main Attraction,storyborn|ally,5,5,2,legendary
+005-169,005,sapphire,location,3,1,The Great Illuminary - Radiant Ballroom,location,,9,,rare
+005-048,005,amethyst,character,5,1,Elsa - The Fifth Spirit,dreamborn|hero|queen|sorcerer,2,5,1,superrare
+005-171,005,steel,character,4,0,Stitch - Team Underdog,storyborn|hero|alien,1,4,1,uncommon
+005-050,005,amethyst,character,9,0,Olaf - Happy Passenger,storyborn|ally,6,6,3,rare
+005-170,005,sapphire,location,1,1,Merlin's Cottage - The Wizard's Home,location,,7,,uncommon
+005-054,005,amethyst,character,2,1,Maleficent - Vengeful Sorceress,storyborn|villain|sorcerer,2,2,2,common
+005-175,005,steel,character,4,1,Royal Guard - Bovine Protector,storyborn,1,7,1,common
+005-053,005,amethyst,character,4,1,Magica De Spell - Cruel Sorceress,storyborn|villain|sorcerer,2,5,1,rare
+005-174,005,steel,character,1,1,Rudy - Groove Disrupter,storyborn,2,2,1,common
+005-052,005,amethyst,character,5,1,Monstro - Whale of a Whale,storyborn,5,6,1,uncommon
+005-173,005,steel,character,3,1,Simba - Lost Prince,storyborn|hero|prince,2,4,1,common
+005-051,005,amethyst,character,3,1,Maleficent - Vexed Partygoer,storyborn|villain|sorcerer,,4,2,uncommon
+005-172,005,steel,character,6,1,Jafar - Tyrannical Hypnotist,dreamborn|villain|sorcerer,,7,2,legendary
+005-179,005,steel,character,5,1,HeiHei - Protective Rooster,dreamborn|ally,4,5,2,common
+005-058,005,amethyst,character,6,1,Camilo Madrigal - Family Copycat,storyborn|ally|madrigal,3,7,1,legendary
+005-178,005,steel,character,2,1,Kronk - Unlicensed Investigator,dreamborn|ally,1,4,1,common
+005-057,005,amethyst,character,4,1,King of Hearts - Monarch of Wonderland,storyborn|ally|king,1,4,2,uncommon
+005-177,005,steel,character,2,1,Sleepy - Sluggish Knight,dreamborn|ally|knight|seven dwarfs,,4,1,uncommon
+005-056,005,amethyst,character,3,0,Anna - Eager Acolyte,dreamborn|hero|queen,1,3,1,common
+005-176,005,steel,character,1,1,Mickey Mouse - Food Fight Defender,storyborn|hero,1,2,1,common
+005-055,005,amethyst,character,4,0,Rafiki - Shaman Duelist,storyborn|mentor|sorcerer,1,4,2,rare
+005-059,005,amethyst,action,2,1,Hypnotic Strength,action,,,,common
+005-061,005,amethyst,song,3,1,We Know The Way,action|song,,,,rare
+005-182,005,steel,character,9,0,Namaari - Resolute Daughter,storyborn|villain|princess,5,5,3,rare
+005-060,005,amethyst,action,5,1,Finders Keepers,action,,,,uncommon
+005-181,005,steel,character,3,1,Dopey - Knight Apprentice,dreamborn|ally|knight|seven dwarfs,2,2,1,common
+005-180,005,steel,character,4,1,Sneezy - Noisy Knight,dreamborn|ally|knight|seven dwarfs,3,4,1,common
+005-186,005,steel,character,3,1,Grumpy - Skeptical Knight,dreamborn|ally|knight|seven dwarfs,3,1,1,superrare
+005-065,005,amethyst,item,6,0,Half Hexwell Crown,item,,,,rare
+005-064,005,amethyst,item,1,1,Retrosphere,item,,,,common
+005-185,005,steel,character,7,0,Kronk - Head of Security,floodborn|ally|captain,6,6,1,superrare
+005-063,005,amethyst,action,3,1,Magical Aid,action,,,,uncommon
+005-184,005,steel,character,4,0,Yzma - Unjustly Treated,dreamborn|villain|sorcerer,1,4,2,rare
+005-183,005,steel,character,5,0,Snow White - Fair-Hearted,dreamborn|hero|princess|knight,3,5,3,superrare
+005-062,005,amethyst,action,2,0,Gathering Knowledge And Wisdom,action,,,,common
+005-069,005,emerald,character,9,0,Robin Hood - Timely Contestant,storyborn|hero,6,6,4,rare
+005-189,005,steel,character,4,1,Bashful - Adoring Knight,dreamborn|ally|knight|seven dwarfs,3,4,1,uncommon
+005-068,005,amethyst,location,3,1,The Library - A Gift for Belle,location,,8,1,uncommon
+005-188,005,steel,character,7,0,Sir Ector - Castle Lord,storyborn|knight,7,10,3,rare
+005-067,005,amethyst,location,3,0,Elsa's Ice Palace - Place of Solitude,location,,4,1,rare
+005-066,005,amethyst,item,2,1,Amethyst Chromicon,item,,,,uncommon
+005-187,005,steel,character,3,0,Pete - Wrestling Champ,dreamborn|villain,1,3,1,rare
+005-193,005,steel,character,2,0,Doc - Bold Knight,dreamborn|ally|knight|seven dwarfs,1,3,1,rare
+005-072,005,emerald,character,5,1,Zazu - Advisor to Mufasa,storyborn|ally,3,5,2,common
+005-192,005,steel,character,6,1,Simba - Son of Mufasa,floodborn|hero|king,3,5,1,uncommon
+005-071,005,emerald,character,1,1,Little John - Camp Cook,storyborn|ally,,4,1,uncommon
+005-070,005,emerald,character,3,1,Shenzi - Scar's Accomplice,storyborn|ally|hyena,2,3,1,uncommon
+005-191,005,steel,character,1,1,Happy - Lively Knight,dreamborn|ally|knight|seven dwarfs,2,1,1,common
+005-190,005,steel,character,2,1,Arthur - Wart,storyborn|hero,2,2,2,uncommon
+005-076,005,emerald,character,1,1,Merryweather - Good Fairy,storyborn|ally|fairy,1,2,1,common
+005-197,005,steel,song,3,1,When Will My Life Begin?,action|song,,,,common
+005-196,005,steel,action,5,1,Tug-of-War,action,,,,rare
+005-075,005,emerald,character,3,1,Flora - Good Fairy,storyborn|ally|fairy,2,4,1,common
+005-195,005,steel,character,3,1,Pete - Games Referee,dreamborn|villain,3,3,1,uncommon
+005-074,005,emerald,character,3,0,Ed - Laughing Hyena,storyborn|ally|hyena,2,3,1,common
+005-194,005,steel,character,7,0,Arthur - King Victorious,floodborn|hero|king,3,6,3,legendary
+005-073,005,emerald,character,4,1,Ulf - Mime,storyborn|ally,4,3,2,common
+005-079,005,emerald,character,4,1,Iago - Fake Flamingo,storyborn|ally,2,4,1,rare
+005-078,005,emerald,character,5,1,Fauna - Good Fairy,storyborn|ally|fairy,3,7,2,common
+005-199,005,steel,action,1,0,Food Fight!,action,,,,uncommon
+005-198,005,steel,action,2,1,Duck for Cover!,action,,,,common
+005-077,005,emerald,character,2,1,Robin Hood - Archery Contestant,storyborn|hero,2,2,1,common
+005-083,005,emerald,character,7,1,Prince Phillip - Swordsman of the Realm,storyborn|hero|prince,3,9,3,superrare
+005-082,005,emerald,character,3,0,Scroop - Odious Mutineer,storyborn|villain|alien|pirate,2,1,2,superrare
+005-081,005,emerald,character,4,0,Ed - Hysterical Partygoer,storyborn|ally|hyena,2,4,3,uncommon
+005-080,005,emerald,character,2,0,Banzai - Gluttonous Predator,storyborn|ally|hyena,3,2,2,rare
+005-087,005,emerald,character,2,1,Banzai - Taunting Hyena,storyborn|ally|hyena,2,2,1,common
+005-086,005,emerald,character,1,1,Clarabelle - Clumsy Guest,storyborn|ally,1,2,1,common
+005-085,005,emerald,character,3,0,Anna - Diplomatic Queen,storyborn|hero|queen,2,3,2,legendary
+005-084,005,emerald,character,7,1,Clarabelle - Light on Her Hooves,floodborn|ally,5,6,2,legendary
+005-089,005,emerald,character,2,1,Mother Gothel - Conceited Manipulator,storyborn|villain,1,3,1,uncommon
+005-088,005,emerald,character,5,1,Robin Hood - Sneaky Sleuth,floodborn|hero,3,5,1,uncommon
+005-094,005,emerald,action,2,1,Hypnotic Deduction,action,,,,common
+005-093,005,emerald,character,4,1,Scar - Vengeful Lion,storyborn|villain,4,2,1,rare
+005-092,005,emerald,character,6,1,Mother Gothel - Unwavering Schemer,floodborn|villain,4,6,2,superrare
+005-091,005,emerald,character,5,1,Shenzi - Head Hyena,storyborn|ally|hyena,3,6,1,rare
+005-098,005,emerald,item,3,1,Prince John's Mirror,item,,,,rare
+005-097,005,emerald,action,4,0,Remember Who You Are,action,,,,rare
+005-096,005,emerald,song,4,1,You're Welcome,action|song,,,,uncommon
+005-095,005,emerald,action,3,1,Night Howler Rage,action,,,,common
+005-099,005,emerald,item,1,1,Obscurosphere,item,,,,common
+005-090,005,emerald,character,3,1,Clarabelle - Contented Wallflower,storyborn|ally,2,3,1,uncommon

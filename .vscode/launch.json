@@ -27,6 +27,16 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "Launch Dreamborn Converter",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/results/inkdecks/dreambornConverter.js",
+            "cwd": "${workspaceFolder}/results/inkdecks"
+        }, 
+        {
+            "type": "node",
+            "request": "launch",
             "name": "Test Inkdeck Card Extractor",
             "skipFiles": [
                 "<node_internals>/**"
