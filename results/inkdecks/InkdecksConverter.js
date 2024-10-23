@@ -1,7 +1,6 @@
 import * as fs from "node:fs/promises";
 
 export default class InkdecksConverter {
-
   static cardReferenceData = {};
 
   static runConversion = async function (options) {
@@ -183,11 +182,20 @@ export default class InkdecksConverter {
 
   static lookupCard = function (cardName) {
     if (InkdecksConverter.cardReferenceData) {
-      const cardData = InkdecksConverter.cardReferenceData.find((cardReferenceData) => {
-        const matchName = cardReferenceData.Name.replaceAll(" ","").toUpperCase();
-        const inboundMatch = cardName.replaceAll(" ","").replaceAll("’","'").replaceAll("é","e").toUpperCase();
-        return matchName === inboundMatch;
-      });
+      const cardData = InkdecksConverter.cardReferenceData.find(
+        (cardReferenceData) => {
+          const matchName = cardReferenceData.Name.replaceAll(
+            " ",
+            ""
+          ).toUpperCase();
+          const inboundMatch = cardName
+            .replaceAll(" ", "")
+            .replaceAll("’", "'")
+            .replaceAll("é", "e")
+            .toUpperCase();
+          return matchName === inboundMatch;
+        }
+      );
       if (cardData) {
         return cardData.Unique_ID;
       } else {
@@ -213,7 +221,7 @@ export default class InkdecksConverter {
         return uniqueId;
       }
     }
-  }
+  };
 
   static convertCardlistFact = async function (options) {
     console.log("Creating cardlist data");

@@ -13,10 +13,12 @@ const options = {
   tournamentDimensionFileName: "inkdecks_tournaments.csv",
   decklistDimensionFileName: "indecks_decklists.csv",
   cardlistFactFileName: "indecks_cardlists.csv",
-}
+};
 
-console.log(`Start processing with options ${JSON.stringify(options,null,2)}`);
+console.log(
+  `Start processing with options ${JSON.stringify(options, null, 2)}`
+);
 
-await InkdecksConverter.runConversion(options)
+await InkdecksConverter.runConversion(options);
 
 console.log(`Finished processing.`);
