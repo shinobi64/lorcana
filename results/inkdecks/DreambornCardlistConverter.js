@@ -44,7 +44,6 @@ export default class DreambornCardlistConverter {
       "inkcost",
       "inkable",
       "cardname",
-      "matchname",
       "tags",
       "strength",
       "willpower",
@@ -57,18 +56,12 @@ export default class DreambornCardlistConverter {
       console.log(`Processing ${card.Unique_ID}`);
       const cardDimData = [];
       cardDimData.push(card.Unique_ID);
-      cardDimData.push(card.Set_Num);
+      cardDimData.push(`Set${card.Set_Num}`);
       cardDimData.push(card.Color);
       cardDimData.push(card.Type);
       cardDimData.push(card.Cost);
       cardDimData.push(card.Inkable ? 1 : 0);
       cardDimData.push(card.Name.replaceAll(",", " "));
-      cardDimData.push(
-        card.Name.replaceAll(",", "")
-          .replaceAll("-", "")
-          .replaceAll(" ", "")
-          .toUpperCase()
-      );
       cardDimData.push(
         card.Classifications
           ? card.Classifications.replaceAll(",", "|")

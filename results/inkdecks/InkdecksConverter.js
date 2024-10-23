@@ -1,6 +1,9 @@
 import * as fs from "node:fs/promises";
 
 export default class InkdecksConverter {
+
+  static cardReferenceData = {};
+
   static runConversion = async function (options) {
     console.log(`Starting conversion with ${JSON.stringify(options, null, 2)}`);
 
@@ -10,6 +13,14 @@ export default class InkdecksConverter {
 
     if (options.createDecklistDimension) {
       await InkdecksConverter.convertDecklistDimension(options);
+    }
+
+    if (options.cardsFileName) {
+      console.log(`Reading card reference data from ${options.cardsFileName}`);
+      const cardData = await fs.readFile(options.cardsFileName, {
+        encoding: "utf8",
+      });
+      InkdecksConverter.cardReferenceData = JSON.parse(cardData);
     }
 
     if (options.createCardlistFact) {
@@ -170,6 +181,40 @@ export default class InkdecksConverter {
     );
   };
 
+  static lookupCard = function (cardName) {
+    if (InkdecksConverter.cardReferenceData) {
+      const cardData = InkdecksConverter.cardReferenceData.find((cardReferenceData) => {
+        const matchName = cardReferenceData.Name.replaceAll(" ","").toUpperCase();
+        const inboundMatch = cardName.replaceAll(" ","").replaceAll("’","'").replaceAll("é","e").toUpperCase();
+        return matchName === inboundMatch;
+      });
+      if (cardData) {
+        return cardData.Unique_ID;
+      } else {
+        let uniqueId;
+        // known exceptions where card data is not matching
+        switch (cardName) {
+          case "Arthur - King Victorious":
+            uniqueId = "SSK-194";
+            break;
+          case "Kristoff - Official Ice Master":
+            uniqueId = "TFC-182";
+            break;
+          case "Merlin's Cottage - The Wizard's Home":
+            uniqueId = "SSK-170";
+            break;
+          case "Seven Dwarfs' Mine - Secure Fortress":
+            uniqueId = "SSK-204";
+            break;
+          case "Snow White - Fair - Hearted":
+            uniqueId = "SSK-183";
+            break;
+        }
+        return uniqueId;
+      }
+    }
+  }
+
   static convertCardlistFact = async function (options) {
     console.log("Creating cardlist data");
     const tournamentList = await InkdecksConverter.readTournamentData(
@@ -179,6 +224,7 @@ export default class InkdecksConverter {
     const cardlistFactHeader = [
       "tournamentID",
       "decklistID",
+      "cardUniqueID",
       "cardName",
       "cardMatchname",
       "cardCount",
@@ -203,6 +249,7 @@ export default class InkdecksConverter {
           const cardlistFactRow = [];
           cardlistFactRow.push(tournament.identifier);
           cardlistFactRow.push(decklist.identifier);
+          cardlistFactRow.push(InkdecksConverter.lookupCard(card.name));
           cardlistFactRow.push(card.name.replaceAll(",", " "));
           cardlistFactRow.push(
             card.name

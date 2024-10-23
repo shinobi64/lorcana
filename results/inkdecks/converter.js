@@ -9,6 +9,7 @@ const options = {
   createCardlistFact: true,
   persistCardlistFact: true,
   sourceFileName: "lorcana_tournaments.json",
+  cardsFileName: "cardDetails.json",
   tournamentDimensionFileName: "inkdecks_tournaments.csv",
   decklistDimensionFileName: "indecks_decklists.csv",
   cardlistFactFileName: "indecks_cardlists.csv",

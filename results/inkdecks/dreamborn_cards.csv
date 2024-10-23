@@ -1,1021 +1,1021 @@
-collectorID,set,color,type,inkcost,inkable,cardname,matchname,tags,strength,willpower,lore,rarity
-INK-001,3,Amber,Character,3,0,Baloo - von Bruinwald XIII,BALOOVONBRUINWALDXIII,Dreamborn| Hero,0,3,1,Rare
-INK-002,3,Amber,Character,4,1,Bernard - Brand-New Agent,BERNARDBRANDNEWAGENT,Storyborn| Hero,1,5,2,Rare
-INK-003,3,Amber,Character,10,0,Chernabog - Evildoer,CHERNABOGEVILDOER,Storyborn| Villain,9,9,3,Super Rare
-INK-004,3,Amber,Character,2,1,Dalmatian Puppy - Tail Wagger,DALMATIANPUPPYTAILWAGGER,Storyborn| Puppy,2,3,1,Common
-INK-005,3,Amber,Character,4,1,Joshua Sweet - The Doctor,JOSHUASWEETTHEDOCTOR,Storyborn| Ally,1,5,2,Common
-INK-006,3,Amber,Character,1,1,Kida - Atlantean,KIDAATLANTEAN,Storyborn| Hero| Princess,2,2,1,Common
-INK-007,3,Amber,Character,5,1,Kida - Protector of Atlantis,KIDAPROTECTOROFATLANTIS,Floodborn| Hero| Princess,3,5,2,Legendary
-INK-008,3,Amber,Character,4,0,Lucky - The 15th Puppy,LUCKYTHE15THPUPPY,Storyborn| Puppy,2,3,1,Rare
-INK-009,3,Amber,Character,2,1,Minnie Mouse - Musical Artist,MINNIEMOUSEMUSICALARTIST,Dreamborn| Hero,1,3,1,Rare
-INK-010,3,Amber,Character,2,1,Miss Bianca - Rescue Aid Society Agent,MISSBIANCARESCUEAIDSOCIETYAGENT,Storyborn| Hero,2,2,1,Common
-INK-011,3,Amber,Character,6,1,Mr. Snoops - Inept Businessman,MR.SNOOPSINEPTBUSINESSMAN,Dreamborn| Ally,4,8,2,Common
-INK-012,3,Amber,Character,5,1,Nani - Protective Sister,NANIPROTECTIVESISTER,Storyborn| Hero,3,6,2,Uncommon
-INK-013,3,Amber,Character,2,1,Orville - Ace Pilot,ORVILLEACEPILOT,Storyborn| Ally,1,4,1,Common
-INK-014,3,Amber,Character,4,1,Patch - Intimidating Pup,PATCHINTIMIDATINGPUP,Storyborn| Puppy,3,4,1,Common
-INK-015,3,Amber,Character,6,0,Perdita - Devoted Mother,PERDITADEVOTEDMOTHER,Storyborn| Hero,1,6,2,Legendary
-INK-016,3,Amber,Character,2,1,Piglet - Pooh Pirate Captain,PIGLETPOOHPIRATECAPTAIN,Dreamborn| Hero| Pirate| Captain,2,2,1,Super Rare
-INK-017,3,Amber,Character,7,1,Pluto - Determined Defender,PLUTODETERMINEDDEFENDER,Floodborn| Ally,3,8,2,Rare
-INK-018,3,Amber,Character,1,0,Pluto - Friendly Pooch,PLUTOFRIENDLYPOOCH,Storyborn| Ally,0,2,1,Uncommon
-INK-019,3,Amber,Character,3,1,Pongo - Determined Father,PONGODETERMINEDFATHER,Storyborn| Hero,3,2,1,Super Rare
-INK-020,3,Amber,Character,3,1,Queen of Hearts - Wonderland Empress,QUEENOFHEARTSWONDERLANDEMPRESS,Dreamborn| Villain| Queen,3,3,1,Uncommon
-INK-021,3,Amber,Character,3,1,Rolly - Hungry Pup,ROLLYHUNGRYPUP,Storyborn| Puppy,3,3,1,Uncommon
-INK-022,3,Amber,Character,4,0,Tinker Bell - Generous Fairy,TINKERBELLGENEROUSFAIRY,Storyborn| Ally| Fairy,1,4,1,Uncommon
-INK-023,3,Amber,Character,2,1,Wendy Darling - Talented Sailor,WENDYDARLINGTALENTEDSAILOR,Dreamborn| Hero,1,3,2,Uncommon
-INK-024,3,Amber,Action,5,0,99 Puppies,99PUPPIES,,,,,Uncommon
-INK-025,3,Amber,Action,1,1,Boss's Orders,BOSS'SORDERS,,,,,Common
-INK-026,3,Amber,Action - Song,3,1,Heal What Has Been Hurt,HEALWHATHASBEENHURT,,,,,Common
-INK-027,3,Amber,Action,1,1,Quick Patch,QUICKPATCH,,,,,Common
-INK-028,3,Amber,Action - Song,2,1,The Bare Necessities,THEBARENECESSITIES,,,,,Rare
-INK-029,3,Amber,Item,2,1,Cleansing Rainwater,CLEANSINGRAINWATER,,,,,Common
-INK-030,3,Amber,Item,4,0,Heart of Atlantis,HEARTOFATLANTIS,,,,,Rare
-INK-031,3,Amber,Item,2,1,Wildcat's Wrench,WILDCAT'SWRENCH,,,,,Uncommon
-INK-032,3,Amber,Location,1,1,Never Land - Mermaid Lagoon,NEVERLANDMERMAIDLAGOON,,,4,1,Common
-INK-033,3,Amber,Location,2,0,Pride Lands - Pride Rock,PRIDELANDSPRIDEROCK,,,7,1,Rare
-INK-034,3,Amber,Location,3,0,Tiana's Palace - Jazz Restaurant,TIANA'SPALACEJAZZRESTAURANT,,,8,1,Uncommon
-INK-035,3,Amethyst,Character,6,1,Alice - Tea Alchemist,ALICETEAALCHEMIST,Dreamborn| Hero| Sorcerer,4,4,2,Super Rare
-INK-036,3,Amethyst,Character,1,1,Chernabog's Followers - Creatures of Evil,CHERNABOG'SFOLLOWERSCREATURESOFEVIL,Storyborn| Ally,2,1,1,Uncommon
-INK-037,3,Amethyst,Character,1,1,Diablo - Faithful Pet,DIABLOFAITHFULPET,Dreamborn| Ally,2,1,1,Common
-INK-038,3,Amethyst,Character,4,0,Genie - Supportive Friend,GENIESUPPORTIVEFRIEND,Storyborn| Ally,3,5,1,Super Rare
-INK-039,3,Amethyst,Character,3,1,Hydros - Ice Titan,HYDROSICETITAN,Storyborn| Titan,2,2,2,Uncommon
-INK-040,3,Amethyst,Character,3,1,Iago - Pretty Polly,IAGOPRETTYPOLLY,Storyborn| Ally,3,2,1,Common
-INK-041,3,Amethyst,Character,3,1,Jafar - Lamp thief,JAFARLAMPTHIEF,Storyborn| Villain| Sorcerer,2,2,2,Uncommon
-INK-042,3,Amethyst,Character,7,1,Jafar - Striking Illusionist,JAFARSTRIKINGILLUSIONIST,Floodborn| Villain| Sorcerer,4,5,1,Legendary
-INK-043,3,Amethyst,Character,2,1,Lena Sabrewing - Rebellious Teenager,LENASABREWINGREBELLIOUSTEENAGER,Storyborn| Hero| Sorcerer,1,3,1,Common
-INK-044,3,Amethyst,Character,6,0,Magic Broom - Dancing Duster,MAGICBROOMDANCINGDUSTER,Dreamborn| Broom,3,3,1,Uncommon
-INK-045,3,Amethyst,Character,5,0,Magic Broom - Swift Cleaner,MAGICBROOMSWIFTCLEANER,Dreamborn| Broom,4,4,2,Common
-INK-046,3,Amethyst,Character,3,1,Magic Broom - The Big Sweeper,MAGICBROOMTHEBIGSWEEPER,Dreamborn|  Broom,1,5,1,Common
-INK-047,3,Amethyst,Character,2,1,Magic Carpet - Flying Rug,MAGICCARPETFLYINGRUG,Storyborn| Ally,2,1,1,Common
-INK-048,3,Amethyst,Character,2,1,Magica De Spell - Ambitious Witch,MAGICADESPELLAMBITIOUSWITCH,Storyborn| Villain| Sorcerer,2,3,1,Common
-INK-049,3,Amethyst,Character,7,0,Magica De Spell - The Midas Touch,MAGICADESPELLTHEMIDASTOUCH,Floodborn| Villain| Sorcerer,4,6,,Super Rare
-INK-050,3,Amethyst,Character,4,1,Magica De Spell - Thieving Sorceress,MAGICADESPELLTHIEVINGSORCERESS,Storyborn| Villain| Sorcerer,3,4,2,Uncommon
-INK-051,3,Amethyst,Character,5,1,Maleficent - Mistress of All Evil,MALEFICENTMISTRESSOFALLEVIL,Storyborn| Villain| Sorcerer,2,3,2,Legendary
-INK-052,3,Amethyst,Character,6,0,Mama Odie - Voice of Wisdom,MAMAODIEVOICEOFWISDOM,Dreamborn| Ally| Sorcerer,3,6,2,Uncommon
-INK-053,3,Amethyst,Character,2,1,Pua - Potbellied Buddy,PUAPOTBELLIEDBUDDY,Storyborn| Ally,2,2,2,Common
-INK-054,3,Amethyst,Character,1,1,Rafiki - Mystical Fighter,RAFIKIMYSTICALFIGHTER,Dreamborn| Mentor| Sorcerer,0,2,1,Rare
-INK-055,3,Amethyst,Character,5,1,Stratos - Tornado Titan,STRATOSTORNADOTITAN,Storyborn| Titan,4,4,,Rare
-INK-056,3,Amethyst,Character,4,1,The Firebird - Force of Destruction,THEFIREBIRDFORCEOFDESTRUCTION,Dreamborn| Villain,6,2,1,Common
-INK-057,3,Amethyst,Character,3,1,The Queen - Hateful Rival,THEQUEENHATEFULRIVAL,Dreamborn| Villain| Queen| Sorcerer,4,3,1,Common
-INK-058,3,Amethyst,Character,4,0,Treasure Guardian - Protector of the Cave,TREASUREGUARDIANPROTECTOROFTHECAVE,Storyborn,6,6,2,Rare
-INK-059,3,Amethyst,Character,3,0,Ursula - Sea Witch,URSULASEAWITCH,Dreamborn| Villain| Sorcerer,3,3,1,Rare
-INK-060,3,Amethyst,Action,1,1,Bestow A Gift,BESTOWAGIFT,,,,,Common
-INK-061,3,Amethyst,Action - Song,1,1,It Calls Me,ITCALLSME,,,,,Uncommon
-INK-062,3,Amethyst,Action,3,0,Last-Ditch Effort,LASTDITCHEFFORT,,,,,Uncommon
-INK-063,3,Amethyst,Action - Song,3,1,The Boss Is On A Roll,THEBOSSISONAROLL,,,,,Rare
-INK-064,3,Amethyst,Item,2,0,The Lamp,THELAMP,,,,,Rare
-INK-065,3,Amethyst,Item,2,1,The Sorcerer's Hat,THESORCERER'SHAT,,,,,Rare
-INK-066,3,Amethyst,Location,2,1,Forbidden Mountain - Maleficent's Castle,FORBIDDENMOUNTAINMALEFICENT'SCASTLE,,,6,1,Common
-INK-067,3,Amethyst,Location,4,1,The Queen's Castle - Mirror Chamber,THEQUEEN'SCASTLEMIRRORCHAMBER,,,7,2,Rare
-INK-068,3,Amethyst,Location,3,1,The Sorcerer's Tower - Wondrous Workspace,THESORCERER'STOWERWONDROUSWORKSPACE,,,7,,Uncommon
-INK-069,3,Emerald,Character,4,1,Cubby - Mighty Lost Boy,CUBBYMIGHTYLOSTBOY,Storyborn| Ally,3,5,1,Common
-INK-070,3,Emerald,Character,1,0,Cursed Merfolk - Ursula's Handiwork,CURSEDMERFOLKURSULA'SHANDIWORK,Storyborn,0,1,2,Rare
-INK-071,3,Emerald,Character,5,1,Don Karnage - Prince of Pirates,DONKARNAGEPRINCEOFPIRATES,Dreamborn| Villain| Prince| Pirate,4,4,2,Common
-INK-072,3,Emerald,Character,3,1,Flotsam - Riffraff,FLOTSAMRIFFRAFF,Dreamborn| Ally,5,2,1,Common
-INK-073,3,Emerald,Character,4,1,Friar Tuck - Priest of Nottingham,FRIARTUCKPRIESTOFNOTTINGHAM,Storyborn| Ally,2,4,2,Uncommon
-INK-074,3,Emerald,Character,5,0,Helga Sinclair - Femme Fatale,HELGASINCLAIRFEMMEFATALE,Floodborn| Villain,4,4,2,Super Rare
-INK-075,3,Emerald,Character,2,1,Helga Sinclair - Vengeful Partner,HELGASINCLAIRVENGEFULPARTNER,Storyborn| Villain,2,1,1,Rare
-INK-076,3,Emerald,Character,3,1,Jetsam - Riffraff,JETSAMRIFFRAFF,Dreamborn| Ally,2,2,2,Common
-INK-077,3,Emerald,Character,3,1,Kit Cloudkicker - Tough Guy,KITCLOUDKICKERTOUGHGUY,Storyborn| Ally,2,2,1,Uncommon
-INK-078,3,Emerald,Character,3,0,Lyle Tiberius Rourke - Cunning Mercenary,LYLETIBERIUSROURKECUNNINGMERCENARY,Storyborn| Villain,2,4,1,Super Rare
-INK-079,3,Emerald,Character,1,1,Milo Thatch - Clever Cartographer,MILOTHATCHCLEVERCARTOGRAPHER,Dreamborn| Hero,2,2,1,Common
-INK-080,3,Emerald,Character,7,0,Milo Thatch - King of Atlantis,MILOTHATCHKINGOFATLANTIS,Floodborn| Hero| King,4,4,3,Legendary
-INK-081,3,Emerald,Character,2,1,Morph - Space Goo,MORPHSPACEGOO,Storyborn| Ally| Alien,2,1,1,Rare
-INK-082,3,Emerald,Character,4,1,Peter Pan - Lost Boy Leader,PETERPANLOSTBOYLEADER,Dreamborn| Hero,3,3,1,Rare
-INK-083,3,Emerald,Character,5,0,Prince John - Phony King,PRINCEJOHNPHONYKING,Storyborn| Villain| Prince,2,4,2,Uncommon
-INK-084,3,Emerald,Character,6,1,Robin Hood - Daydreamer,ROBINHOODDAYDREAMER,Dreamborn| Hero,4,5,4,Rare
-INK-085,3,Emerald,Character,4,1,Shenzi - Hyena Pack Leader,SHENZIHYENAPACKLEADER,Storyborn| Ally| Hyena,0,6,1,Super Rare
-INK-086,3,Emerald,Character,2,1,Sir Hiss - Aggravating Asp,SIRHISSAGGRAVATINGASP,Dreamborn| Ally,3,1,1,Common
-INK-087,3,Emerald,Character,2,1,Skippy - Energetic Rabbit,SKIPPYENERGETICRABBIT,Storyborn| Ally,2,2,1,Common
-INK-088,3,Emerald,Character,7,1,Starkey - Devious Pirate,STARKEYDEVIOUSPIRATE,Storyborn| Ally| Pirate,6,6,3,Uncommon
-INK-089,3,Emerald,Character,5,1,Stitch - Covert Agent,STITCHCOVERTAGENT,Dreamborn| Hero| Alien,3,3,2,Rare
-INK-090,3,Emerald,Character,2,1,Ursula - Deceiver,URSULADECEIVER,Storyborn| Villain| Sorcerer,1,3,1,Uncommon
-INK-091,3,Emerald,Character,3,1,Ursula - Deceiver of All,URSULADECEIVEROFALL,Dreamborn| Villain| Sorcerer,2,3,1,Legendary
-INK-092,3,Emerald,Character,3,1,Wildcat - Mechanic,WILDCATMECHANIC,Storyborn| Ally,2,3,1,Uncommon
-INK-093,3,Emerald,Character,1,1,Zazu - Steward of the Pride Lands,ZAZUSTEWARDOFTHEPRIDELANDS,Storyborn| Ally,2,1,1,Common
-INK-094,3,Emerald,Action - Song,2,1,Has Set My Heaaaaaaart . . .,HASSETMYHEAAAAAAART...,,,,,Uncommon
-INK-095,3,Emerald,Action - Song,1,1,I Will Find My Way,IWILLFINDMYWAY,,,,,Common
-INK-096,3,Emerald,Action - Song,2,1,Strike A Good Match,STRIKEAGOODMATCH,,,,,Common
-INK-097,3,Emerald,Item,2,1,Airfoil,AIRFOIL,,,,,Common
-INK-098,3,Emerald,Item,3,0,Robin's Bow,ROBIN'SBOW,,,,,Uncommon
-INK-099,3,Emerald,Item,4,0,Starlight Vial,STARLIGHTVIAL,,,,,Rare
-INK-100,3,Emerald,Location,1,1,De Vil Manor - Cruella's Estate,DEVILMANORCRUELLA'SESTATE,,,4,1,Common
-INK-101,3,Emerald,Location,4,1,Fang - River City,FANGRIVERCITY,,,6,2,Rare
-INK-102,3,Emerald,Location,3,1,Kuzco's Palace - Home of the Emperor,KUZCO'SPALACEHOMEOFTHEEMPEROR,,,7,1,Uncommon
-INK-103,3,Ruby,Character,3,1,Ariel - Adventurous Collector,ARIELADVENTUROUSCOLLECTOR,Dreamborn| Hero| Princess,2,3,1,Super Rare
-INK-104,3,Ruby,Character,5,1,Billy Bones - Keeper of the Map,BILLYBONESKEEPEROFTHEMAP,Storyborn| Alien| Pirate,6,5,1,Common
-INK-105,3,Ruby,Character,5,1,Captain Hook - Master Swordsman,CAPTAINHOOKMASTERSWORDSMAN,Dreamborn| Villain| Pirate| Captain,5,4,1,Rare
-INK-106,3,Ruby,Character,2,0,Della Duck - Unstoppable Mom,DELLADUCKUNSTOPPABLEMOM,Storyborn| Ally,3,3,,Common
-INK-107,3,Ruby,Character,2,1,HeiHei - Accidental Explorer,HEIHEIACCIDENTALEXPLORER,Storyborn| Ally,3,2,1,Uncommon
-INK-108,3,Ruby,Character,6,0,Hydra - Deadly Serpent,HYDRADEADLYSERPENT,Storyborn,6,5,2,Legendary
-INK-109,3,Ruby,Character,5,1,Jim Hawkins - Space Traveler,JIMHAWKINSSPACETRAVELER,Storyborn| Hero,4,4,2,Legendary
-INK-110,3,Ruby,Character,2,1,Jim Hawkins - Thrill Seeker,JIMHAWKINSTHRILLSEEKER,Dreamborn| Hero,3,2,1,Common
-INK-111,3,Ruby,Character,3,0,Kakamora - Menacing Sailor,KAKAMORAMENACINGSAILOR,Storyborn| Pirate,3,2,1,Common
-INK-112,3,Ruby,Character,6,0,Madame Medusa - The Boss,MADAMEMEDUSATHEBOSS,Storyborn| Villain,4,4,1,Super Rare
-INK-113,3,Ruby,Character,3,0,Maui - Soaring Demigod,MAUISOARINGDEMIGOD,Storyborn| Hero| Deity,5,2,,Uncommon
-INK-114,3,Ruby,Character,7,1,Maui - Whale,MAUIWHALE,Storyborn| Hero| Deity,8,8,1,Rare
-INK-115,3,Ruby,Character,2,1,Milo Thatch - Spirited Scholar,MILOTHATCHSPIRITEDSCHOLAR,Storyborn| Hero,2,2,1,Common
-INK-116,3,Ruby,Character,5,1,Moana - Born Leader,MOANABORNLEADER,Floodborn| Hero| Princess| Captain,4,4,2,Rare
-INK-117,3,Ruby,Character,4,1,Moana - Undeterred Voyager,MOANAUNDETERREDVOYAGER,Storyborn| Hero| Princess,3,4,1,Common
-INK-118,3,Ruby,Character,2,1,Nutsy - Vulture Henchman,NUTSYVULTUREHENCHMAN,Storyborn| Ally,2,3,1,Common
-INK-119,3,Ruby,Character,3,1,Peter Pan - Never Land Hero,PETERPANNEVERLANDHERO,Storyborn| Hero,1,3,2,Common
-INK-120,3,Ruby,Character,6,1,Peter Pan - Pirate's Bane,PETERPANPIRATE'SBANE,Floodborn| Hero,4,5,2,Rare
-INK-121,3,Ruby,Character,4,0,Prince Eric - Expert Helmsman,PRINCEERICEXPERTHELMSMAN,Dreamborn| Hero| Prince,2,2,2,Super Rare
-INK-122,3,Ruby,Character,5,1,Scroop - Backstabber,SCROOPBACKSTABBER,Storyborn| Villain| Alien| Pirate,2,5,2,Uncommon
-INK-123,3,Ruby,Character,2,0,Simba - Scrappy Cub,SIMBASCRAPPYCUB,Storyborn| Hero| Prince,1,1,3,Rare
-INK-124,3,Ruby,Character,4,1,Slightly - Lost Boy,SLIGHTLYLOSTBOY,Storyborn| Ally,4,3,1,Uncommon
-INK-125,3,Ruby,Character,2,0,Stitch - Little Rocket,STITCHLITTLEROCKET,Dreamborn| Hero| Alien,3,1,1,Common
-INK-126,3,Ruby,Character,2,1,Trigger - Not-So-Sharp Shooter,TRIGGERNOTSOSHARPSHOOTER,Storyborn| Ally,3,1,1,Uncommon
-INK-127,3,Ruby,Character,3,1,Webby Vanderquack - Enthusiastic Duck,WEBBYVANDERQUACKENTHUSIASTICDUCK,Storyborn| Ally,3,4,1,Common
-INK-128,3,Ruby,Action,3,1,Divebomb,DIVEBOMB,,,,,Uncommon
-INK-129,3,Ruby,Action - Song,2,1,I've Got A Dream,I'VEGOTADREAM,,,,,Uncommon
-INK-130,3,Ruby,Action,4,0,On Your Feet! Now!,ONYOURFEET!NOW!,,,,,Rare
-INK-131,3,Ruby,Action,1,1,Voyage,VOYAGE,,,,,Common
-INK-132,3,Ruby,Item,3,1,Maui's Fish Hook,MAUI'SFISHHOOK,,,,,Rare
-INK-133,3,Ruby,Item,3,1,Sumerian Talisman,SUMERIANTALISMAN,,,,,Uncommon
-INK-134,3,Ruby,Location,3,1,Agrabah - Marketplace,AGRABAHMARKETPLACE,,,5,2,Common
-INK-135,3,Ruby,Location,1,0,Jolly Roger - Hook's Ship,JOLLYROGERHOOK'SSHIP,,,5,,Uncommon
-INK-136,3,Ruby,Location,4,0,RLS Legacy - Solar Galleon,RLSLEGACYSOLARGALLEON,,,8,2,Rare
-INK-137,3,Sapphire,Character,5,1,Audrey Ramirez - The Engineer,AUDREYRAMIREZTHEENGINEER,Storyborn| Ally,2,5,2,Rare
-INK-138,3,Sapphire,Character,3,1,Captain Amelia - First in Command,CAPTAINAMELIAFIRSTINCOMMAND,Storyborn| Alien| Captain,1,5,1,Common
-INK-139,3,Sapphire,Character,3,1,Dewey - Showy Nephew,DEWEYSHOWYNEPHEW,Dreamborn| Ally,2,3,2,Uncommon
-INK-140,3,Sapphire,Character,4,1,Flintheart Glomgold - Lone Cheater,FLINTHEARTGLOMGOLDLONECHEATER,Storyborn| Villain,3,4,2,Uncommon
-INK-141,3,Sapphire,Character,2,1,Genie - Cramped in the lamp,GENIECRAMPEDINTHELAMP,Storyborn| Ally,2,2,2,Uncommon
-INK-142,3,Sapphire,Character,4,1,Gramma Tala - Keeper of Ancient Stories,GRAMMATALAKEEPEROFANCIENTSTORIES,Storyborn| Mentor,3,3,1,Common
-INK-143,3,Sapphire,Character,7,1,Gramma Tala - Spirit of the Ocean,GRAMMATALASPIRITOFTHEOCEAN,Floodborn| Mentor,4,8,2,Legendary
-INK-144,3,Sapphire,Character,3,1,Gyro Gearloose - Gadget Whiz,GYROGEARLOOSEGADGETWHIZ,Storyborn| Ally| Inventor,1,4,1,Rare
-INK-145,3,Sapphire,Character,2,1,Huey - Savvy Nephew,HUEYSAVVYNEPHEW,Storyborn| Ally,2,2,1,Rare
-INK-146,3,Sapphire,Character,7,1,King Louie - Bandleader,KINGLOUIEBANDLEADER,Storyborn| Ally| King,7,7,3,Common
-INK-147,3,Sapphire,Character,6,1,Kit Cloudkicker - Navigator,KITCLOUDKICKERNAVIGATOR,Floodborn| Ally,2,5,3,Uncommon
-INK-148,3,Sapphire,Character,1,1,Kit Cloudkicker - Spunky Bear Cub,KITCLOUDKICKERSPUNKYBEARCUB,Storyborn| Ally,0,1,1,Common
-INK-149,3,Sapphire,Character,4,1,Louie - Chill Nephew,LOUIECHILLNEPHEW,Dreamborn| Ally,3,4,2,Common
-INK-150,3,Sapphire,Character,5,1,Maid Marian - Delightful Dreamer,MAIDMARIANDELIGHTFULDREAMER,Storyborn| Princess,4,4,2,Common
-INK-151,3,Sapphire,Character,3,0,Mama Odie - Mystical Maven,MAMAODIEMYSTICALMAVEN,Storyborn| Mentor,1,3,1,Rare
-INK-152,3,Sapphire,Character,3,1,Pluto - Mickey's Clever Friend,PLUTOMICKEY'SCLEVERFRIEND,Dreamborn| Ally,3,4,1,Common
-INK-153,3,Sapphire,Character,5,1,Rufus - Orphanage Cat,RUFUSORPHANAGECAT,Dreamborn| Ally,4,5,1,Common
-INK-154,3,Sapphire,Character,5,0,Scrooge McDuck - Richest Duck in the World,SCROOGEMCDUCKRICHESTDUCKINTHEWORLD,Storyborn| Hero,3,5,1,Super Rare
-INK-155,3,Sapphire,Character,2,1,Scrooge McDuck - Uncle Moneybags,SCROOGEMCDUCKUNCLEMONEYBAGS,Dreamborn| Hero,1,3,1,Uncommon
-INK-156,3,Sapphire,Character,4,1,The Queen - Mirror Seeker,THEQUEENMIRRORSEEKER,Storyborn| Villain| Queen| Sorcerer,2,5,1,Uncommon
-INK-157,3,Sapphire,Character,5,1,Tinker Bell - Very Clever Fairy,TINKERBELLVERYCLEVERFAIRY,Dreamborn| Ally| Fairy,3,4,2,Super Rare
-INK-158,3,Sapphire,Character,3,1,Wendy Darling - Authority on Peter Pan,WENDYDARLINGAUTHORITYONPETERPAN,Storyborn| Hero,3,1,2,Super Rare
-INK-159,3,Sapphire,Action,2,1,Distract,DISTRACT,,,,,Common
-INK-160,3,Sapphire,Action - Song,5,1,Friend Like Me,FRIENDLIKEME,,,,,Rare
-INK-161,3,Sapphire,Action - Song,4,0,How Far I'll Go,HOWFARI'LLGO,,,,,Uncommon
-INK-162,3,Sapphire,Action,2,1,Repair,REPAIR,,,,,Common
-INK-163,3,Sapphire,Item,2,1,Aurelian Gyrosensor,AURELIANGYROSENSOR,,,,,Rare
-INK-164,3,Sapphire,Item,3,1,Heart of Te Fiti,HEARTOFTEFITI,,,,,Rare
-INK-165,3,Sapphire,Item,7,0,Lucky Dime,LUCKYDIME,,,,,Legendary
-INK-166,3,Sapphire,Item,2,0,Scrooge's Top Hat,SCROOGE'STOPHAT,,,,,Uncommon
-INK-167,3,Sapphire,Item,4,1,Vault Door,VAULTDOOR,,,,,Common
-INK-168,3,Sapphire,Location,1,1,Belle's House - Maurice's Workshop,BELLE'SHOUSEMAURICE'SWORKSHOP,,,6,,Rare
-INK-169,3,Sapphire,Location,4,1,McDuck Manor - Scrooge's Mansion,MCDUCKMANORSCROOGE'SMANSION,,,9,2,Common
-INK-170,3,Sapphire,Location,2,1,Motunui - Island Paradise,MOTUNUIISLANDPARADISE,,,5,1,Uncommon
-INK-171,3,Steel,Character,4,1,Chief Tui - Proud of Motunui,CHIEFTUIPROUDOFMOTUNUI,Storyborn| Mentor| King,3,4,2,Common
-INK-172,3,Steel,Character,5,1,Eeyore - Overstuffed Donkey,EEYOREOVERSTUFFEDDONKEY,Storyborn| Ally,4,5,1,Common
-INK-173,3,Steel,Character,3,1,Gustav the Giant - Terror of the Kingdom,GUSTAVTHEGIANTTERROROFTHEKINGDOM,Dreamborn| Villain,6,6,1,Rare
-INK-174,3,Steel,Character,6,1,Hades - Hotheaded Ruler,HADESHOTHEADEDRULER,Storyborn| Villain| Deity,5,5,2,Rare
-INK-175,3,Steel,Character,3,1,Helga Sinclair - Right-Hand Woman,HELGASINCLAIRRIGHTHANDWOMAN,Storyborn| Villain,2,4,1,Common
-INK-176,3,Steel,Character,3,1,John Silver - Greedy Treasure Seeker,JOHNSILVERGREEDYTREASURESEEKER,Dreamborn| Villain| Alien| Pirate| Captain,3,3,1,Rare
-INK-177,3,Steel,Character,2,1,Kida - Royal Warrior,KIDAROYALWARRIOR,Storyborn| Hero| Princess,2,3,1,Common
-INK-178,3,Steel,Character,6,1,Little John - Resourceful Outlaw,LITTLEJOHNRESOURCEFULOUTLAW,Floodborn| Hero,4,5,2,Super Rare
-INK-179,3,Steel,Character,3,1,Little John - Robin's Pal,LITTLEJOHNROBIN'SPAL,Storyborn| Ally,2,4,1,Uncommon
-INK-180,3,Steel,Character,4,1,Lythos - Rock Titan,LYTHOSROCKTITAN,Storyborn| Titan,4,1,1,Uncommon
-INK-181,3,Steel,Character,3,1,Mickey Mouse - Stalwart Explorer,MICKEYMOUSESTALWARTEXPLORER,Dreamborn| Hero,3,3,1,Common
-INK-182,3,Steel,Character,4,0,Mickey Mouse - Trumpeter,MICKEYMOUSETRUMPETER,Dreamborn| Hero,0,1,1,Legendary
-INK-183,3,Steel,Character,1,1,Minnie Mouse - Funky Spelunker,MINNIEMOUSEFUNKYSPELUNKER,Dreamborn| Hero,0,3,1,Common
-INK-184,3,Steel,Character,2,1,Mr. Smee - Bumbling Mate,MR.SMEEBUMBLINGMATE,Storyborn| Ally| Pirate,3,3,2,Uncommon
-INK-185,3,Steel,Character,7,1,Mufasa - Champion of the Pride Lands,MUFASACHAMPIONOFTHEPRIDELANDS,Storyborn| Mentor| King,3,10,3,Rare
-INK-186,3,Steel,Character,3,1,Nala - Fierce Friend,NALAFIERCEFRIEND,Storyborn| Ally,2,4,2,Uncommon
-INK-187,3,Steel,Character,5,1,Pyros - Lava Titan,PYROSLAVATITAN,Storyborn| Titan,5,4,1,Rare
-INK-188,3,Steel,Character,2,1,Razoul - Palace Guard,RAZOULPALACEGUARD,Storyborn| Ally| Captain,1,3,1,Common
-INK-189,3,Steel,Character,1,1,Robin Hood - Beloved Outlaw,ROBINHOODBELOVEDOUTLAW,Storyborn| Hero,2,2,1,Common
-INK-190,3,Steel,Character,5,1,Robin Hood - Champion of Sherwood,ROBINHOODCHAMPIONOFSHERWOOD,Floodborn| Hero,3,6,2,Legendary
-INK-191,3,Steel,Character,4,0,Sheriff of Nottingham - Corrupt Official,SHERIFFOFNOTTINGHAMCORRUPTOFFICIAL,Dreamborn| Villain,2,4,1,Super Rare
-INK-192,3,Steel,Character,7,1,Simba - Fighting Prince,SIMBAFIGHTINGPRINCE,Dreamborn|  Hero| Prince,5,7,2,Super Rare
-INK-193,3,Steel,Character,5,1,Simba - Rightful King,SIMBARIGHTFULKING,Storyborn| Hero| King,4,6,1,Uncommon
-INK-194,3,Steel,Character,5,1,Thaddeus E. Klang - Metallic Leader,THADDEUSE.KLANGMETALLICLEADER,Storyborn| Villain,3,5,2,Uncommon
-INK-195,3,Steel,Action - Song,4,0,And Then Along Came Zeus,ANDTHENALONGCAMEZEUS,,,,,Rare
-INK-196,3,Steel,Action,2,1,Ba-Boom!,BABOOM!,,,,,Common
-INK-197,3,Steel,Action,1,1,Olympus Would Be That Way,OLYMPUSWOULDBETHATWAY,,,,,Common
-INK-198,3,Steel,Action,3,1,Rise Of The Titans,RISEOFTHETITANS,,,,,Uncommon
-INK-199,3,Steel,Item,3,0,Captain Hook's Rapier,CAPTAINHOOK'SRAPIER,,,,,Uncommon
-INK-200,3,Steel,Item,3,1,Gizmosuit,GIZMOSUIT,,,,,Common
-INK-201,3,Steel,Item,3,1,Map of Treasure Planet,MAPOFTREASUREPLANET,,,,,Rare
-INK-202,3,Steel,Location,2,1,Maui's Place of Exile - Hidden Island,MAUI'SPLACEOFEXILEHIDDENISLAND,,,5,,Rare
-INK-203,3,Steel,Location,2,1,Nottingham - Prince John's Castle,NOTTINGHAMPRINCEJOHN'SCASTLE,,,6,1,Common
-INK-204,3,Steel,Location,1,1,The Bayou - Mysterious Swamp,THEBAYOUMYSTERIOUSSWAMP,,,3,1,Uncommon
-ROF-001,2,Amber,Character,4,1,Bashful - Hopeless Romantic,BASHFULHOPELESSROMANTIC,Storyborn| Ally| Seven Dwarfs,2,5,3,Uncommon
-ROF-002,2,Amber,Character,6,1,Christopher Robin - Adventurer,CHRISTOPHERROBINADVENTURER,Dreamborn| Hero,2,6,2,Rare
-ROF-003,2,Amber,Character,1,1,Cinderella - Ballroom Sensation,CINDERELLABALLROOMSENSATION,Storyborn| Hero| Princess,1,2,1,Rare
-ROF-004,2,Amber,Character,7,1,Cobra Bubbles - Just a Social Worker,COBRABUBBLESJUSTASOCIALWORKER,Storyborn| Ally,5,9,2,Rare
-ROF-005,2,Amber,Character,3,1,Doc - Leader of the Seven Dwarfs,DOCLEADEROFTHESEVENDWARFS,Storyborn| Ally| Seven Dwarfs,2,3,2,Uncommon
-ROF-006,2,Amber,Character,3,1,Dopey - Always Playful,DOPEYALWAYSPLAYFUL,Storyborn| Ally| Seven Dwarfs,2,2,1,Uncommon
-ROF-007,2,Amber,Character,5,1,Eudora - Accomplished Seamstress,EUDORAACCOMPLISHEDSEAMSTRESS,Storyborn| Ally,1,9,2,Common
-ROF-008,2,Amber,Character,3,1,Gaston - Baritone Bully,GASTONBARITONEBULLY,Dreamborn| Villain,3,3,1,Uncommon
-ROF-009,2,Amber,Character,2,1,Grand Duke - Advisor to the King,GRANDDUKEADVISORTOTHEKING,Storyborn| Ally,2,2,1,Rare
-ROF-010,2,Amber,Character,4,1,Grumpy - Bad-Tempered,GRUMPYBADTEMPERED,Storyborn|  Ally| Seven Dwarfs,3,4,1,Common
-ROF-011,2,Amber,Character,5,1,Happy - Good-Natured,HAPPYGOODNATURED,Storyborn| Ally| Seven Dwarfs,3,5,2,Common
-ROF-012,2,Amber,Character,7,1,King Louie - Jungle VIP,KINGLOUIEJUNGLEVIP,Storyborn| King,3,8,2,Super Rare
-ROF-013,2,Amber,Character,6,1,Mickey Mouse - Friendly Face,MICKEYMOUSEFRIENDLYFACE,Storyborn| Hero,1,6,3,Super Rare
-ROF-014,2,Amber,Character,5,1,Mufasa - Betrayed Leader,MUFASABETRAYEDLEADER,Storyborn| Mentor| King,3,3,2,Legendary
-ROF-015,2,Amber,Character,3,1,Mulan - Free Spirit,MULANFREESPIRIT,Dreamborn| Hero| Princess,2,3,2,Common
-ROF-016,2,Amber,Character,4,1,Mulan - Reflecting,MULANREFLECTING,Floodborn| Hero| Princess,3,3,2,Rare
-ROF-017,2,Amber,Character,2,1,Nana - Darling Family Pet,NANADARLINGFAMILYPET,Storyborn| Ally,1,3,1,Uncommon
-ROF-018,2,Amber,Character,3,1,Piglet - Very Small Animal,PIGLETVERYSMALLANIMAL,Storyborn| Ally,2,4,2,Common
-ROF-019,2,Amber,Character,5,1,Rapunzel - Gifted Artist,RAPUNZELGIFTEDARTIST,Floodborn| Hero| Princess,0,6,2,Uncommon
-ROF-020,2,Amber,Character,2,1,Rapunzel - Sunshine,RAPUNZELSUNSHINE,Dreamborn| Hero| Princess,1,4,1,Common
-ROF-021,2,Amber,Character,2,1,Sleepy - Nodding Off,SLEEPYNODDINGOFF,Storyborn| Ally| Seven Dwarfs,2,3,2,Common
-ROF-022,2,Amber,Character,2,1,Sneezy - Very Allergic,SNEEZYVERYALLERGIC,Storyborn| Ally| Seven Dwarfs,1,4,1,Common
-ROF-023,2,Amber,Character,2,1,Snow White - Lost in the Forest,SNOWWHITELOSTINTHEFOREST,Storyborn| Hero| Princess,2,3,1,Common
-ROF-024,2,Amber,Character,2,1,Snow White - Unexpected Houseguest,SNOWWHITEUNEXPECTEDHOUSEGUEST,Storyborn| Hero| Princess,1,2,1,Uncommon
-ROF-025,2,Amber,Character,6,0,Snow White - Well Wisher,SNOWWHITEWELLWISHER,Floodborn| Hero| Princess,3,5,2,Legendary
-ROF-026,2,Amber,Character,5,1,The Queen - Commanding Presence,THEQUEENCOMMANDINGPRESENCE,Floodborn| Villain| Queen,4,3,2,Super Rare
-ROF-027,2,Amber,Character,1,1,The Queen - Regal Monarch,THEQUEENREGALMONARCH,Storyborn| Villain| Queen,2,2,1,Common
-ROF-028,2,Amber,Action,2,1,Hold Still,HOLDSTILL,,,,,Common
-ROF-029,2,Amber,Action,2,0,Last Stand,LASTSTAND,,,,,Uncommon
-ROF-030,2,Amber,Action - Song,2,1,Painting the Roses Red,PAINTINGTHEROSESRED,,,,,Common
-ROF-031,2,Amber,Action - Song,3,1,World's Greatest Criminal Mind,WORLD'SGREATESTCRIMINALMIND,,,,,Rare
-ROF-032,2,Amber,Action - Song,2,0,Zero to Hero,ZEROTOHERO,,,,,Uncommon
-ROF-033,2,Amber,Item,3,0,Dragon Gem,DRAGONGEM,,,,,Rare
-ROF-034,2,Amber,Item,2,0,Sleepy's Flute,SLEEPY'SFLUTE,,,,,Rare
-ROF-035,2,Amethyst,Character,3,0,Arthur - Wizard's Apprentice,ARTHURWIZARD'SAPPRENTICE,Dreamborn| Hero| Sorcerer,1,3,1,Super Rare
-ROF-036,2,Amethyst,Character,2,1,Blue Fairy - Rewarding Good Deeds,BLUEFAIRYREWARDINGGOODDEEDS,Storyborn| Ally| Fairy,1,1,1,Uncommon
-ROF-037,2,Amethyst,Character,1,1,Chip The Teacup - Gentle Soul,CHIPTHETEACUPGENTLESOUL,Storyborn| Ally,2,2,1,Common
-ROF-038,2,Amethyst,Character,4,1,Dr. Facilier - Savvy Opportunist,DR.FACILIERSAVVYOPPORTUNIST,Storyborn| Villain| Sorcerer,4,2,1,Common
-ROF-039,2,Amethyst,Character,4,1,Elsa - Gloves Off,ELSAGLOVESOFF,Storyborn| Hero| Queen| Sorcerer,3,4,1,Common
-ROF-040,2,Amethyst,Character,5,1,Fairy Godmother - Here to Help,FAIRYGODMOTHERHERETOHELP,Storyborn| Ally| Fairy,3,7,2,Uncommon
-ROF-041,2,Amethyst,Character,5,1,Fairy Godmother - Mystic Armorer,FAIRYGODMOTHERMYSTICARMORER,Floodborn| Mentor| Fairy,3,4,2,Legendary
-ROF-042,2,Amethyst,Character,3,1,Fairy Godmother - Pure Heart,FAIRYGODMOTHERPUREHEART,Storyborn| Ally| Fairy,3,4,1,Common
-ROF-043,2,Amethyst,Character,2,1,HeiHei - Persistent Presence,HEIHEIPERSISTENTPRESENCE,Dreamborn| Ally,2,1,1,Uncommon
-ROF-044,2,Amethyst,Character,2,1,Jiminy Cricket - Pinocchio's Conscience,JIMINYCRICKETPINOCCHIO'SCONSCIENCE,Storyborn| Mentor,1,2,1,Common
-ROF-045,2,Amethyst,Character,2,1,Kuzco - Wanted Llama,KUZCOWANTEDLLAMA,Storyborn| King,1,2,1,Common
-ROF-046,2,Amethyst,Character,3,1,Madam Mim - Fox,MADAMMIMFOX,Storyborn| Villain| Sorcerer,4,3,1,Rare
-ROF-047,2,Amethyst,Character,7,1,Madam Mim - Purple Dragon,MADAMMIMPURPLEDRAGON,Storyborn| Villain| Sorcerer| Dragon,5,7,4,Legendary
-ROF-048,2,Amethyst,Character,5,1,Madam Mim - Rival of Merlin,MADAMMIMRIVALOFMERLIN,Floodborn| Villain| Sorcerer,2,5,2,Rare
-ROF-049,2,Amethyst,Character,2,1,Madam Mim - Snake,MADAMMIMSNAKE,Storyborn| Villain| Sorcerer,3,3,1,Uncommon
-ROF-050,2,Amethyst,Character,3,1,Merlin - Crab,MERLINCRAB,Storyborn| Mentor| Sorcerer,3,3,1,Common
-ROF-051,2,Amethyst,Character,4,1,Merlin - Goat,MERLINGOAT,Storyborn| Mentor| Sorcerer,4,3,1,Uncommon
-ROF-052,2,Amethyst,Character,4,0,Merlin - Rabbit,MERLINRABBIT,Storyborn| Mentor| Sorcerer,2,3,1,Rare
-ROF-053,2,Amethyst,Character,4,1,Merlin - Shapeshifter,MERLINSHAPESHIFTER,Storyborn| Mentor| Sorcerer,1,5,1,Rare
-ROF-054,2,Amethyst,Character,2,1,Merlin - Squirrel,MERLINSQUIRREL,Storyborn| Mentor| Sorcerer,2,1,1,Common
-ROF-055,2,Amethyst,Character,4,0,Peter Pan's Shadow - Not Sewn On,PETERPAN'SSHADOWNOTSEWNON,Storyborn| Ally,2,3,2,Super Rare
-ROF-056,2,Amethyst,Character,2,0,Pinocchio - Star Attraction,PINOCCHIOSTARATTRACTION,Storyborn| Hero,1,1,3,Rare
-ROF-057,2,Amethyst,Character,5,0,Pinocchio - On The Run,PINOCCHIOONTHERUN,Floodborn| Hero,3,3,2,Uncommon
-ROF-058,2,Amethyst,Character,2,0,Pinocchio - Talkative Puppet,PINOCCHIOTALKATIVEPUPPET,Storyborn| Hero,1,1,1,Uncommon
-ROF-059,2,Amethyst,Character,5,1,Winnie The Pooh - Hunny Wizard,WINNIETHEPOOHHUNNYWIZARD,Dreamborn| Hero| Sorcerer,5,5,2,Common
-ROF-060,2,Amethyst,Character,6,1,Yzma - Scary Beyond All Reason,YZMASCARYBEYONDALLREASON,Floodborn| Villain| Sorcerer,4,4,2,Super Rare
-ROF-061,2,Amethyst,Character,3,1,Yzma - Without Beauty Sleep,YZMAWITHOUTBEAUTYSLEEP,Storyborn| Villain| Sorcerer,3,4,1,Uncommon
-ROF-062,2,Amethyst,Action - Song,3,0,Gruesome And Grim,GRUESOMEANDGRIM,,,,,Rare
-ROF-063,2,Amethyst,Action,1,1,I'm Stuck!,I'MSTUCK!,,,,,Common
-ROF-064,2,Amethyst,Action - Song,2,1,Legend Of The Sword In The Stone,LEGENDOFTHESWORDINTHESTONE,,,,,Common
-ROF-065,2,Amethyst,Item,4,0,Binding Contract,BINDINGCONTRACT,,,,,Uncommon
-ROF-066,2,Amethyst,Item,1,0,Croquet Mallet,CROQUETMALLET,,,,,Common
-ROF-067,2,Amethyst,Item,2,0,Perplexing Signposts,PERPLEXINGSIGNPOSTS,,,,,Rare
-ROF-068,2,Amethyst,Item,3,0,The Sorcerer's Spellbook,THESORCERER'SSPELLBOOK,,,,,Rare
-ROF-069,2,Emerald,Character,4,1,Arthur - Trained Swordsman,ARTHURTRAINEDSWORDSMAN,Dreamborn| Hero,4,3,2,Common
-ROF-070,2,Emerald,Character,6,1,Beast - Relentless,BEASTRELENTLESS,Storyborn| Hero| Prince,4,5,2,Legendary
-ROF-071,2,Emerald,Character,3,0,Belle - Bookworm,BELLEBOOKWORM,Storyborn| Hero| Princess,2,4,1,Uncommon
-ROF-072,2,Emerald,Character,5,0,Belle - Hidden Archer,BELLEHIDDENARCHER,Floodborn| Hero| Princess,3,3,3,Legendary
-ROF-073,2,Emerald,Character,2,1,Bucky - Squirrel Squeak Tutor,BUCKYSQUIRRELSQUEAKTUTOR,Storyborn| Ally,1,1,1,Uncommon
-ROF-074,2,Emerald,Character,2,1,Cheshire Cat - Always Grinning,CHESHIRECATALWAYSGRINNING,Storyborn,3,2,1,Uncommon
-ROF-075,2,Emerald,Character,8,1,Cheshire Cat - From the Shadows,CHESHIRECATFROMTHESHADOWS,Floodborn,5,6,2,Super Rare
-ROF-076,2,Emerald,Character,4,1,Daisy Duck - Secret Agent,DAISYDUCKSECRETAGENT,Dreamborn| Ally,2,3,2,Uncommon
-ROF-077,2,Emerald,Character,4,1,Donald Duck - Perfect Gentleman,DONALDDUCKPERFECTGENTLEMAN,Floodborn| Ally,2,5,2,Uncommon
-ROF-078,2,Emerald,Character,3,1,Donald Duck - Sleepwalker,DONALDDUCKSLEEPWALKER,Storyborn,0,5,1,Common
-ROF-079,2,Emerald,Character,7,1,Dr. Facilier - Fortune Teller,DR.FACILIERFORTUNETELLER,Storyborn| Villain| Sorcerer,4,4,3,Super Rare
-ROF-080,2,Emerald,Character,2,1,Enchantress - Unexpected Judge,ENCHANTRESSUNEXPECTEDJUDGE,Dreamborn| Sorcerer,1,1,2,Common
-ROF-081,2,Emerald,Character,1,1,Flynn Rider - Confident Vagabond,FLYNNRIDERCONFIDENTVAGABOND,Storyborn| Hero| Prince,1,3,1,Common
-ROF-082,2,Emerald,Character,4,0,Flynn Rider - His Own Biggest Fan,FLYNNRIDERHISOWNBIGGESTFAN,Floodborn| Hero| Prince,2,3,4,Rare
-ROF-083,2,Emerald,Character,2,1,Gaston - Scheming Suitor,GASTONSCHEMINGSUITOR,Storyborn| Villain,1,3,1,Common
-ROF-084,2,Emerald,Character,6,1,Little John - Loyal Friend,LITTLEJOHNLOYALFRIEND,Storyborn| Ally,6,6,2,Rare
-ROF-085,2,Emerald,Character,5,0,Lucifer - Cunning Cat,LUCIFERCUNNINGCAT,Storyborn| Ally,2,2,2,Rare
-ROF-086,2,Emerald,Character,2,1,Pain - Underworld Imp,PAINUNDERWORLDIMP,Storyborn| Ally,1,4,2,Uncommon
-ROF-087,2,Emerald,Character,3,0,Panic - Underworld Imp,PANICUNDERWORLDIMP,Storyborn| Ally,2,3,2,Common
-ROF-088,2,Emerald,Character,5,1,Pete - Bad Guy,PETEBADGUY,Storyborn| Ally,3,4,2,Rare
-ROF-089,2,Emerald,Character,3,0,Prince John - Greediest of All,PRINCEJOHNGREEDIESTOFALL,Dreamborn| Villain| Prince,1,2,2,Rare
-ROF-090,2,Emerald,Character,2,0,Queen Of Hearts - Quick-Tempered,QUEENOFHEARTSQUICKTEMPERED,Dreamborn| Villain| Queen,1,2,2,Common
-ROF-091,2,Emerald,Character,4,1,Ratigan - Criminal Mastermind,RATIGANCRIMINALMASTERMIND,Dreamborn| Villain,4,1,2,Common
-ROF-092,2,Emerald,Character,5,1,Ray - Easygoing Firefly,RAYEASYGOINGFIREFLY,Storyborn| Ally,3,3,3,Common
-ROF-093,2,Emerald,Character,3,0,The Queen - Disguised Peddler,THEQUEENDISGUISEDPEDDLER,Storyborn| Villain| Queen,2,3,0,Super Rare
-ROF-094,2,Emerald,Character,5,1,Tiana - True Princess,TIANATRUEPRINCESS,Storyborn| Hero| Princess,5,3,3,Uncommon
-ROF-095,2,Emerald,Character,5,1,Virana - Fang Chief,VIRANAFANGCHIEF,Storyborn| Villain| Queen,5,5,2,Common
-ROF-096,2,Emerald,Action - Song,3,0,Bibbidi Bobbidi Boo,BIBBIDIBOBBIDIBOO,,,,,Rare
-ROF-097,2,Emerald,Action,2,0,Bounce,BOUNCE,,,,,Uncommon
-ROF-098,2,Emerald,Action,3,1,Hypnotize,HYPNOTIZE,,,,,Common
-ROF-099,2,Emerald,Action,1,1,Improvise,IMPROVISE,,,,,Common
-ROF-100,2,Emerald,Action,4,1,Pack Tactics,PACKTACTICS,,,,,Rare
-ROF-101,2,Emerald,Action,3,1,Ring The Bell,RINGTHEBELL,,,,,Uncommon
-ROF-102,2,Emerald,Item,3,0,Ratigan's Marvelous Trap,RATIGAN'SMARVELOUSTRAP,,,,,Rare
-ROF-103,2,Ruby,Character,3,1,Baloo - Fun-Loving Bear,BALOOFUNLOVINGBEAR,Storyborn| Ally,4,3,1,Common
-ROF-104,2,Ruby,Character,2,1,Boun - Precocious Entrepreneur,BOUNPRECOCIOUSENTREPRENEUR,Storyborn| Ally,2,3,1,Common
-ROF-105,2,Ruby,Character,5,1,Card Soldiers - Full Deck,CARDSOLDIERSFULLDECK,Storyborn| Ally,5,5,2,Uncommon
-ROF-106,2,Ruby,Character,5,1,Donald Duck - Not Again!,DONALDDUCKNOTAGAIN!,Dreamborn| Hero,1,5,1,Legendary
-ROF-107,2,Ruby,Character,1,1,Felicia - Always Hungry,FELICIAALWAYSHUNGRY,Dreamborn| Ally,3,1,0,Common
-ROF-108,2,Ruby,Character,3,1,Fidget - Ratigan's Henchman,FIDGETRATIGAN'SHENCHMAN,Dreamborn| Ally,3,2,1,Common
-ROF-109,2,Ruby,Character,3,0,Honest John - Not That Honest,HONESTJOHNNOTTHATHONEST,Storyborn| Villain,2,3,1,Rare
-ROF-110,2,Ruby,Character,6,0,Lady Tremaine - Imperious Queen,LADYTREMAINEIMPERIOUSQUEEN,Floodborn| Villain| Queen,3,4,2,Super Rare
-ROF-111,2,Ruby,Character,2,0,Lady Tremaine - Overbearing Matriarch,LADYTREMAINEOVERBEARINGMATRIARCH,Storyborn| Villain,2,2,1,Common
-ROF-112,2,Ruby,Character,7,1,Lumiere - Hotheaded Candelabra,LUMIEREHOTHEADEDCANDELABRA,Dreamborn| Ally,7,7,2,Rare
-ROF-113,2,Ruby,Character,3,1,Minnie Mouse - Stylish Surfer,MINNIEMOUSESTYLISHSURFER,Dreamborn| Hero,1,3,2,Uncommon
-ROF-114,2,Ruby,Character,4,1,Minnie Mouse - Wide-Eyed Diver,MINNIEMOUSEWIDEEYEDDIVER,Floodborn| Hero,2,3,1,Rare
-ROF-115,2,Ruby,Character,2,1,Minnie Mouse - Zipping Around,MINNIEMOUSEZIPPINGAROUND,Storyborn| Hero,3,2,2,Common
-ROF-116,2,Ruby,Character,2,1,Mother Gothel - Withered And Wicked,MOTHERGOTHELWITHEREDANDWICKED,Storyborn| Villain,3,4,1,Uncommon
-ROF-117,2,Ruby,Character,4,0,Mulan - Soldier In Training,MULANSOLDIERINTRAINING,Storyborn| Hero| Princess,4,3,1,Common
-ROF-118,2,Ruby,Character,4,0,Namaari - Nemesis,NAMAARINEMESIS,Storyborn| Villain| Princess,3,3,1,Super Rare
-ROF-119,2,Ruby,Character,2,1,Queen Of Hearts - Impulsive Ruler,QUEENOFHEARTSIMPULSIVERULER,Storyborn| Villain| Queen,2,2,1,Uncommon
-ROF-120,2,Ruby,Character,5,1,Queen Of Hearts - Sensing Weakness,QUEENOFHEARTSSENSINGWEAKNESS,Floodborn| Villain| Queen,4,3,1,Uncommon
-ROF-121,2,Ruby,Character,5,0,Ratigan - Very Large Mouse,RATIGANVERYLARGEMOUSE,Storyborn| Villain,3,3,2,Rare
-ROF-122,2,Ruby,Character,3,1,Raya - Headstrong,RAYAHEADSTRONG,Storyborn| Hero| Princess,2,3,1,Common
-ROF-123,2,Ruby,Character,6,1,Raya - Leader of Heart,RAYALEADEROFHEART,Floodborn| Hero| Princess,5,3,2,Super Rare
-ROF-124,2,Ruby,Character,4,1,Raya - Warrior Of Kumandra,RAYAWARRIOROFKUMANDRA,Storyborn| Hero| Princess,5,3,1,Uncommon
-ROF-125,2,Ruby,Character,7,0,Scar - Vicious Cheater,SCARVICIOUSCHEATER,,6,5,2,Legendary
-ROF-126,2,Ruby,Character,3,1,Shere Khan - Menacing Predator,SHEREKHANMENACINGPREDATOR,Storyborn| Villain,3,3,1,Rare
-ROF-127,2,Ruby,Character,3,1,Tigger - One Of A Kind,TIGGERONEOFAKIND,Dreamborn| Tigger,3,3,1,Common
-ROF-128,2,Ruby,Character,4,0,Tuk Tuk - Wrecking Ball,TUKTUKWRECKINGBALL,Storyborn| Ally,4,5,0,Rare
-ROF-129,2,Ruby,Action - Song,2,1,Go The Distance,GOTHEDISTANCE,,,,,Common
-ROF-130,2,Ruby,Action - Song,2,1,Teeth and Ambitions,TEETHANDAMBITIONS,,,,,Rare
-ROF-131,2,Ruby,Action - Song,3,0,The Most Diabolical Scheme,THEMOSTDIABOLICALSCHEME,,,,,Uncommon
-ROF-132,2,Ruby,Action,1,1,What Did You Call Me?,WHATDIDYOUCALLME?,,,,,Common
-ROF-133,2,Ruby,Action - Song,2,1,You Can Fly!,YOUCANFLY!,,,,,Uncommon
-ROF-134,2,Ruby,Item,4,0,Dinner Bell,DINNERBELL,,,,,Rare
-ROF-135,2,Ruby,Item,2,0,Peter Pan's Dagger,PETERPAN'SDAGGER,,,,,Common
-ROF-136,2,Ruby,Item,1,0,Sword In The Stone,SWORDINTHESTONE,,,,,Uncommon
-ROF-137,2,Sapphire,Character,3,1,Alice - Growing Girl,ALICEGROWINGGIRL,Dreamborn| Hero,1,4,1,Legendary
-ROF-138,2,Sapphire,Character,6,1,Basil - Great Mouse Detective,BASILGREATMOUSEDETECTIVE,Floodborn| Hero| Detective,3,4,3,Super Rare
-ROF-139,2,Sapphire,Character,2,1,Basil - Of Baker Street,BASILOFBAKERSTREET,Dreamborn| Hero| Detective,2,2,1,Common
-ROF-140,2,Sapphire,Character,4,1,Basil - Perceptive Investigator,BASILPERCEPTIVEINVESTIGATOR,Storyborn| Hero| Detective,3,4,2,Common
-ROF-141,2,Sapphire,Character,3,1,Caterpillar - Calm and Collected,CATERPILLARCALMANDCOLLECTED,Dreamborn,1,3,3,Uncommon
-ROF-142,2,Sapphire,Character,5,1,Cogsworth - Grandfather Clock,COGSWORTHGRANDFATHERCLOCK,Floodborn| Ally,2,5,2,Super Rare
-ROF-143,2,Sapphire,Character,2,1,Cogsworth - Talking Clock,COGSWORTHTALKINGCLOCK,Storyborn| Ally,2,3,1,Uncommon
-ROF-144,2,Sapphire,Character,2,1,Cruella De Vil - Fashionable Cruiser,CRUELLADEVILFASHIONABLECRUISER,Dreamborn| Villain,3,2,1,Common
-ROF-145,2,Sapphire,Character,5,1,Cruella De Vil - Perfectly Wretched,CRUELLADEVILPERFECTLYWRETCHED,Floodborn| Villain,4,3,2,Uncommon
-ROF-146,2,Sapphire,Character,2,1,Duke Weaselton - Small-Time Crook,DUKEWEASELTONSMALLTIMECROOK,Storyborn,1,2,2,Common
-ROF-147,2,Sapphire,Character,6,0,Gaston - Intellectual Powerhouse,GASTONINTELLECTUALPOWERHOUSE,Floodborn| Villain,4,4,3,Rare
-ROF-148,2,Sapphire,Character,7,0,Grand Pabbie - Oldest And Wisest,GRANDPABBIEOLDESTANDWISEST,Storyborn| Mentor,3,6,3,Super Rare
-ROF-149,2,Sapphire,Character,4,1,Hiram Flaversham - Toymaker,HIRAMFLAVERSHAMTOYMAKER,Storyborn| Inventor,1,6,1,Rare
-ROF-150,2,Sapphire,Character,4,0,James - Role Model,JAMESROLEMODEL,Storyborn| Mentor,3,3,2,Common
-ROF-151,2,Sapphire,Character,1,1,Jasmine - Heir Of Agrabah,JASMINEHEIROFAGRABAH,Storyborn| Hero| Princess,1,2,1,Common
-ROF-152,2,Sapphire,Character,3,1,Judy Hopps - Optimistic Officer,JUDYHOPPSOPTIMISTICOFFICER,Storyborn| Hero,2,3,2,Uncommon
-ROF-153,2,Sapphire,Character,4,0,Mrs. Judson - Housekeeper,MRS.JUDSONHOUSEKEEPER,Storyborn| Ally,1,5,2,Rare
-ROF-154,2,Sapphire,Character,4,1,Nick Wilde - Wily Fox,NICKWILDEWILYFOX,Storyborn| Ally,2,4,2,Uncommon
-ROF-155,2,Sapphire,Character,2,1,Noi - Orphaned Thief,NOIORPHANEDTHIEF,Storyborn| Ally,1,2,2,Rare
-ROF-156,2,Sapphire,Character,1,1,Owl - Logical Lecturer,OWLLOGICALLECTURER,Storyborn| Ally,2,2,1,Common
-ROF-157,2,Sapphire,Character,4,1,Prince Charming - Heir To The Throne,PRINCECHARMINGHEIRTOTHETHRONE,Dreamborn| Hero| Prince,3,3,3,Rare
-ROF-158,2,Sapphire,Character,5,1,Rabbit - Reluctant Host,RABBITRELUCTANTHOST,Storyborn| Ally,4,6,2,Common
-ROF-159,2,Sapphire,Character,4,0,Sisu - Divine Water Dragon,SISUDIVINEWATERDRAGON,Storyborn| Hero| Deity| Dragon,2,4,2,Legendary
-ROF-160,2,Sapphire,Character,4,1,The Nokk - Water Spirit,THENOKKWATERSPIRIT,Storyborn,4,3,1,Common
-ROF-161,2,Sapphire,Character,3,1,Winnie The Pooh - Having A Think,WINNIETHEPOOHHAVINGATHINK,Storyborn| Hero,2,3,2,Rare
-ROF-162,2,Sapphire,Action,4,0,Falling Down The Rabbit Hole,FALLINGDOWNTHERABBITHOLE,,,,,Rare
-ROF-163,2,Sapphire,Action - Song,4,1,Four Dozen Eggs,FOURDOZENEGGS,,,,,Uncommon
-ROF-164,2,Sapphire,Action,3,0,Launch,LAUNCH,,,,,Uncommon
-ROF-165,2,Sapphire,Action,1,1,Nothing To Hide,NOTHINGTOHIDE,,,,,Common
-ROF-166,2,Sapphire,Item,3,1,Fang Crossbow,FANGCROSSBOW,,,,,Uncommon
-ROF-167,2,Sapphire,Item,2,1,Gumbo Pot,GUMBOPOT,,,,,Common
-ROF-168,2,Sapphire,Item,3,0,Maurice's Workshop,MAURICE'SWORKSHOP,,,,,Rare
-ROF-169,2,Sapphire,Item,1,1,Pawpsicle,PAWPSICLE,,,,,Common
-ROF-170,2,Sapphire,Item,4,1,Sardine Can,SARDINECAN,,,,,Uncommon
-ROF-171,2,Steel,Character,4,1,Beast - Forbidding Recluse,BEASTFORBIDDINGRECLUSE,Dreamborn| Hero| Prince,3,4,1,Common
-ROF-172,2,Steel,Character,6,1,Beast - Selfless Protector,BEASTSELFLESSPROTECTOR,Storyborn| Hero| Prince,2,8,1,Super Rare
-ROF-173,2,Steel,Character,5,1,Beast - Tragic Hero,BEASTTRAGICHERO,Floodborn| Hero| Prince,3,5,2,Legendary
-ROF-174,2,Steel,Character,3,1,Benja - Guardian of the Dragon Gem,BENJAGUARDIANOFTHEDRAGONGEM,Storyborn| Mentor| King,2,3,2,Common
-ROF-175,2,Steel,Character,4,0,Chief Bogo - Respected Officer,CHIEFBOGORESPECTEDOFFICER,Dreamborn,2,4,2,Rare
-ROF-176,2,Steel,Character,2,1,Cinderella - Knight In Training,CINDERELLAKNIGHTINTRAINING,Dreamborn| Hero| Princess| Knight,2,2,1,Common
-ROF-177,2,Steel,Character,7,1,Cinderella - Stouthearted,CINDERELLASTOUTHEARTED,Floodborn| Hero| Princess| Knight,5,5,3,Super Rare
-ROF-178,2,Steel,Character,5,1,Donald Duck - Deep-Sea Diver,DONALDDUCKDEEPSEADIVER,Dreamborn| Hero,6,5,1,Common
-ROF-179,2,Steel,Character,4,1,Eli La Bouff - Big Daddy,ELILABOUFFBIGDADDY,Storyborn| Mentor,2,5,2,Uncommon
-ROF-180,2,Steel,Character,9,1,Goofy - Knight for a Day,GOOFYKNIGHTFORADAY,Dreamborn| Hero| Knight,10,10,4,Rare
-ROF-181,2,Steel,Character,6,1,Hercules - Divine Hero,HERCULESDIVINEHERO,Floodborn| Hero| Prince| Deity,6,3,2,Rare
-ROF-182,2,Steel,Character,2,1,Hercules - Hero In Training,HERCULESHEROINTRAINING,Storyborn| Hero| Prince,2,3,1,Common
-ROF-183,2,Steel,Character,4,1,Jafar - Dreadnought,JAFARDREADNOUGHT,Floodborn| Villain| Sorcerer,3,4,1,Uncommon
-ROF-184,2,Steel,Character,3,1,Jafar - Royal Vizier,JAFARROYALVIZIER,Storyborn|Villain| Deity,3,2,1,Common
-ROF-185,2,Steel,Character,6,1,Kronk - Junior Chipmunk,KRONKJUNIORCHIPMUNK,Storyborn| Ally,4,5,2,Rare
-ROF-186,2,Steel,Character,3,1,Lawrence - Jealous Manservant,LAWRENCEJEALOUSMANSERVANT,Storyborn| Ally,0,4,2,Uncommon
-ROF-187,2,Steel,Character,5,1,Li Shang - Archery Instructor,LISHANGARCHERYINSTRUCTOR,Storyborn| Hero,3,6,2,Uncommon
-ROF-188,2,Steel,Character,3,1,Magic Broom - Industrial Model,MAGICBROOMINDUSTRIALMODEL,Dreamborn| Broom,2,3,1,Common
-ROF-189,2,Steel,Character,4,0,Namaari - Morning Mist,NAMAARIMORNINGMIST,Storyborn| Villain| Princess,2,4,1,Legendary
-ROF-190,2,Steel,Character,6,1,Pacha - Village Leader,PACHAVILLAGELEADER,Storyborn| Hero,4,8,2,Uncommon
-ROF-191,2,Steel,Character,3,1,Prince Naveen - Penniless Royal,PRINCENAVEENPENNILESSROYAL,Storyborn| Prince,4,3,1,Common
-ROF-192,2,Steel,Character,7,1,Queen Of Hearts - Capricious Monarch,QUEENOFHEARTSCAPRICIOUSMONARCH,Storyborn| Villain| Queen,5,6,1,Rare
-ROF-193,2,Steel,Character,2,0,Robin Hood - Capable Fighter,ROBINHOODCAPABLEFIGHTER,Dreamborn| Hero,1,3,1,Uncommon
-ROF-194,2,Steel,Character,2,1,The Huntsman - Reluctant Enforcer,THEHUNTSMANRELUCTANTENFORCER,Storyborn| Ally,1,1,2,Rare
-ROF-195,2,Steel,Character,3,1,The Prince - Never Gives Up,THEPRINCENEVERGIVESUP,Dreamborn| Hero| Prince,1,3,2,Uncommon
-ROF-196,2,Steel,Character,4,0,Tiana - Celebrating Princess,TIANACELEBRATINGPRINCESS,Dreamborn| Hero| Princess,1,4,2,Super Rare
-ROF-197,2,Steel,Character,1,1,Tiana - Diligent Waitress,TIANADILIGENTWAITRESS,Storyborn| Hero| Princess,1,3,1,Common
-ROF-198,2,Steel,Action,2,1,Charge!,CHARGE!,,,,,Common
-ROF-199,2,Steel,Action - Song,3,0,Let The Storm Rage On,LETTHESTORMRAGEON,,,,,Common
-ROF-200,2,Steel,Action,2,0,Pick A Fight,PICKAFIGHT,,,,,Uncommon
-ROF-201,2,Steel,Action - Song,3,1,Strength Of A Raging Fire,STRENGTHOFARAGINGFIRE,,,,,Rare
-ROF-202,2,Steel,Item,1,1,Last Cannon,LASTCANNON,,,,,Common
-ROF-203,2,Steel,Item,2,0,Mouse Armor,MOUSEARMOR,,,,,Uncommon
-ROF-204,2,Steel,Item,3,1,Weight Set,WEIGHTSET,,,,,Rare
-SSK-001,5,Amber,Character,2,1,Koda - Talkative Cub,KODATALKATIVECUB,Storyborn| Ally,2,1,2,Rare
-SSK-002,5,Amber,Character,1,1,Nala - Mischievous Cub,NALAMISCHIEVOUSCUB,Storyborn| Ally,0,4,1,Uncommon
-SSK-003,5,Amber,Character,4,1,Prince Naveen - Ukulele Player,PRINCENAVEENUKULELEPLAYER,Storyborn| Hero| Prince,3,3,2,Common
-SSK-004,5,Amber,Character,4,1,Rutt - Northern Moose,RUTTNORTHERNMOOSE,Storyborn| Ally,3,4,1,Common
-SSK-005,5,Amber,Character,2,1,Kenai - Big Brother,KENAIBIGBROTHER,Storyborn| Hero,1,4,1,Common
-SSK-006,5,Amber,Character,1,1,Vanellope von Schweetz - Sugar Rush Champ,VANELLOPEVONSCHWEETZSUGARRUSHCHAMP,Storyborn| Hero| Princess| Racer,2,2,1,Common
-SSK-007,5,Amber,Character,4,1,Tuke - Northern Moose,TUKENORTHERNMOOSE,Storyborn| Ally,4,4,1,Common
-SSK-008,5,Amber,Character,2,1,Lilo - Junior Cake Decorator,LILOJUNIORCAKEDECORATOR,Storyborn| Hero,1,3,1,Common
-SSK-009,5,Amber,Character,2,1,Vanellope von Schweetz - Candy Mechanic,VANELLOPEVONSCHWEETZCANDYMECHANIC,Dreamborn| Hero| Princess| Racer,2,2,1,Common
-SSK-010,5,Amber,Character,3,1,Fix-It Felix  Jr. - Trusty Builder,FIXITFELIXJR.TRUSTYBUILDER,Storyborn| Hero,2,4,1,Common
-SSK-011,5,Amber,Character,3,1,Gazelle - Pop Star,GAZELLEPOPSTAR,Storyborn| Ally,2,3,2,Common
-SSK-012,5,Amber,Character,5,1,Fix-It Felix  Jr. - Niceland Steward,FIXITFELIXJR.NICELANDSTEWARD,Floodborn| Hero,4,5,1,Uncommon
-SSK-013,5,Amber,Character,9,0,Kristoff - Reindeer Keeper,KRISTOFFREINDEERKEEPER,Dreamborn| Ally,3,7,1,Rare
-SSK-014,5,Amber,Character,5,1,Mirabel Madrigal - Family Gatherer,MIRABELMADRIGALFAMILYGATHERER,Storyborn| Hero| Madrigal ,5,5,5,Legendary
-SSK-015,5,Amber,Character,5,1,Minnie Mouse - Drum Major,MINNIEMOUSEDRUMMAJOR,Floodborn| Hero,4,4,2,Super Rare
-SSK-016,5,Amber,Character,1,0,Daisy Duck - Donald's Date,DAISYDUCKDONALD'SDATE,Storyborn| Ally,1,4,2,Super Rare
-SSK-017,5,Amber,Character,2,1,Fix-It Felix  Jr. - Delighted Sightseer,FIXITFELIXJR.DELIGHTEDSIGHTSEER,Storyborn| Hero,1,3,1,Common
-SSK-018,5,Amber,Character,3,0,Moana - Determined Explorer,MOANADETERMINEDEXPLORER,Storyborn| Hero| Princess ,3,4,2,Common
-SSK-019,5,Amber,Character,4,1,Vanellope von Schweetz - Sugar Rush Princess,VANELLOPEVONSCHWEETZSUGARRUSHPRINCESS,Floodborn| Hero| Princess| Racer,2,4,2,Rare
-SSK-020,5,Amber,Character,4,1,Alan-a-Dale - Rockin' Rooster,ALANADALEROCKIN'ROOSTER,Storyborn| Ally,2,3,2,Uncommon
-SSK-021,5,Amber,Character,7,0,Wreck-It Ralph - Admiral Underpants,WRECKITRALPHADMIRALUNDERPANTS,Storyborn| Hero,6,7,2,Common
-SSK-022,5,Amber,Character,6,1,Maid Marian - Lady of the Lists,MAIDMARIANLADYOFTHELISTS,Dreamborn| Princess,4,5,2,Uncommon
-SSK-023,5,Amber,Character,4,1,Sven - Reindeer Steed,SVENREINDEERSTEED,Storyborn| Ally,3,3,2,Uncommon
-SSK-024,5,Amber,Character,4,1,Minnie Mouse - Compassionate Friend,MINNIEMOUSECOMPASSIONATEFRIEND,Storyborn| Hero,1,5,2,Common
-SSK-025,5,Amber,Action - Song,4,1,Try Everything,TRYEVERYTHING,,,,,Uncommon
-SSK-026,5,Amber,Action,3,1,Healing Touch,HEALINGTOUCH,,,,,Common
-SSK-027,5,Amber,Action,5,0,Revive,REVIVE,,,,,Rare
-SSK-028,5,Amber,Action - Song,6,0,Blast From Your Past,BLASTFROMYOURPAST,,,,,Super Rare
-SSK-029,5,Amber,Action,2,0,Invited to the Ball,INVITEDTOTHEBALL,,,,,Common
-SSK-030,5,Amber,Item,2,1,Healing Decanter,HEALINGDECANTER,,,,,Common
-SSK-031,5,Amber,Item,2,1,Queen's Sensor Core,QUEEN'SSENSORCORE,,,,,Rare
-SSK-032,5,Amber,Item,2,1,Amber Chromicon,AMBERCHROMICON,,,,,Common
-SSK-033,5,Amber,Location,2,1,Rapunzel's Tower - Secluded Prison,RAPUNZEL'STOWERSECLUDEDPRISON,,,8,,Uncommon
-SSK-034,5,Amber,Location,3,1,Pride Lands - Jungle Oasis,PRIDELANDSJUNGLEOASIS,,,8,1,Rare
-SSK-035,5,Amethyst,Character,8,0,Maleficent - Formidable Queen,MALEFICENTFORMIDABLEQUEEN,Floodborn| Villain| Queen| Sorcerer ,7,7,2,Super Rare
-SSK-036,5,Amethyst,Character,6,1,The Nokk - Mythical Spirit,THENOKKMYTHICALSPIRIT,Storyborn| Ally,5,5,1,Common
-SSK-037,5,Amethyst,Character,1,1,Cogsworth - Illuminary Watchman,COGSWORTHILLUMINARYWATCHMAN,Dreamborn| Ally,1,1,1,Common
-SSK-038,5,Amethyst,Character,4,1,Merlin - Turtle,MERLINTURTLE,Storyborn| Mentor| Sorcerer,3,3,2,Common
-SSK-039,5,Amethyst,Character,3,1,Archimedes - Exasperated Owl,ARCHIMEDESEXASPERATEDOWL,Storyborn| Ally,2,2,2,Common
-SSK-040,5,Amethyst,Character,4,1,Bruni - Fire Salamander,BRUNIFIRESALAMANDER,Storyborn| Ally,2,2,2,Uncommon
-SSK-041,5,Amethyst,Character,4,1,Earth Giant - Living Mountain,EARTHGIANTLIVINGMOUNTAIN,Storyborn| Ally,4,5,2,Common
-SSK-042,5,Amethyst,Character,3,1,Gale - Wind Spirit,GALEWINDSPIRIT,Storyborn| Ally,1,2,2,Common
-SSK-043,5,Amethyst,Character,3,1,White Rabbit - Royal Herald,WHITERABBITROYALHERALD,Storyborn| Ally,3,4,1,Common
-SSK-044,5,Amethyst,Character,4,1,Madam Mim - Elephant,MADAMMIMELEPHANT,Storyborn| Villain| Sorcerer,3,7,1,Super Rare
-SSK-045,5,Amethyst,Character,6,0,Luisa Madrigal - Entertaining Muscle,LUISAMADRIGALENTERTAININGMUSCLE,,4,8,3,Rare
-SSK-046,5,Amethyst,Character,7,0,Anna - Mystical Majesty,ANNAMYSTICALMAJESTY,Floodborn| Hero| Queen| Sorcerer,4,5,2,Rare
-SSK-047,5,Amethyst,Character,5,1,Archimedes - Electrified Owl,ARCHIMEDESELECTRIFIEDOWL,Floodborn| Ally,1,4,2,Uncommon
-SSK-048,5,Amethyst,Character,5,1,Elsa - The Fifth Spirit,ELSATHEFIFTHSPIRIT,Dreamborn| Hero| Queen| Sorcerer ,2,5,1,Super Rare
-SSK-049,5,Amethyst,Character,7,0,Genie - Main Attraction,GENIEMAINATTRACTION,Storyborn| Ally,5,5,2,Legendary
-SSK-050,5,Amethyst,Character,9,1,Olaf - Happy Passenger,OLAFHAPPYPASSENGER,Storyborn| Ally,6,6,3,Rare
-SSK-051,5,Amethyst,Character,3,1,Maleficent - Vexed Partygoer,MALEFICENTVEXEDPARTYGOER,Storyborn| Villain| Sorcerer ,0,4,2,Uncommon
-SSK-052,5,Amethyst,Character,5,1,Monstro - Whale of a Whale,MONSTROWHALEOFAWHALE,Storyborn,5,6,1,Uncommon
-SSK-053,5,Amethyst,Character,4,1,Magica De Spell - Cruel Sorceress,MAGICADESPELLCRUELSORCERESS,Storyborn| Villain| Sorcerer,2,5,1,Rare
-SSK-054,5,Amethyst,Character,2,1,Maleficent - Vengeful Sorceress,MALEFICENTVENGEFULSORCERESS,Storyborn| Villain| Sorcerer ,2,2,2,Common
-SSK-055,5,Amethyst,Character,4,0,Rafiki - Shaman Duelist,RAFIKISHAMANDUELIST,Storyborn| Mentor| Sorcerer ,1,4,2,Rare
-SSK-056,5,Amethyst,Character,3,0,Anna - Eager Acolyte,ANNAEAGERACOLYTE,Dreamborn| Hero| Queen ,1,3,1,Common
-SSK-057,5,Amethyst,Character,4,1,King of Hearts - Monarch of Wonderland,KINGOFHEARTSMONARCHOFWONDERLAND,Storyborn| Ally| King ,1,4,2,Common
-SSK-058,5,Amethyst,Character,6,1,Camilo Madrigal - Family Copycat,CAMILOMADRIGALFAMILYCOPYCAT,Storyborn| Ally| Madrigal,3,7,1,Legendary
-SSK-059,5,Amethyst,Action,2,1,Hypnotic Strength,HYPNOTICSTRENGTH,,,,,Common
-SSK-060,5,Amethyst,Action,5,1,Finders Keepers,FINDERSKEEPERS,,,,,Uncommon
-SSK-061,5,Amethyst,Action - Song,3,1,We Know The Way,WEKNOWTHEWAY,,,,,Rare
-SSK-062,5,Amethyst,Action,2,0,Gathering Knowledge And Wisdom,GATHERINGKNOWLEDGEANDWISDOM,,,,,Common
-SSK-063,5,Amethyst,Action,3,1,Magical Aid,MAGICALAID,,,,,Uncommon
-SSK-064,5,Amethyst,Item,1,1,Retrosphere,RETROSPHERE,,,,,Common
-SSK-065,5,Amethyst,Item,6,0,Half Hexwell Crown,HALFHEXWELLCROWN,,,,,Rare
-SSK-066,5,Amethyst,Item,2,1,Amethyst Chromicon,AMETHYSTCHROMICON,,,,,Uncommon
-SSK-067,5,Amethyst,Location,3,1,Elsa's Ice Palace - Place of Solitude,ELSA'SICEPALACEPLACEOFSOLITUDE,,,4,1,Rare
-SSK-068,5,Amethyst,Location,3,1,The Library - A Gift for Belle,THELIBRARYAGIFTFORBELLE,,,8,1,Uncommon
-SSK-069,5,Emerald,Character,9,0,Robin Hood - Timely Contestant,ROBINHOODTIMELYCONTESTANT,Storyborn| Hero,6,6,4,Rare
-SSK-070,5,Emerald,Character,3,1,Shenzi - Scar's Accomplice,SHENZISCAR'SACCOMPLICE,Storyborn| Ally| Hyena,2,3,1,Uncommon
-SSK-071,5,Emerald,Character,1,1,Little John - Camp Cook,LITTLEJOHNCAMPCOOK,Storyborn| Ally,0,4,1,Uncommon
-SSK-072,5,Emerald,Character,5,1,Zazu - Advisor to Mufasa,ZAZUADVISORTOMUFASA,Storyborn| Ally,3,5,2,Common
-SSK-073,5,Emerald,Character,4,1,Ulf - Mime,ULFMIME,Storyborn| Ally,4,3,2,Common
-SSK-074,5,Emerald,Character,3,0,Ed - Laughing Hyena,EDLAUGHINGHYENA,Storyborn| Ally| Hyena,2,3,1,Common
-SSK-075,5,Emerald,Character,3,1,Flora - Good Fairy,FLORAGOODFAIRY,Storyborn| Ally| Fairy,2,4,1,Common
-SSK-076,5,Emerald,Character,1,1,Merryweather - Good Fairy,MERRYWEATHERGOODFAIRY,Storyborn| Ally| Fairy,1,2,1,Common
-SSK-077,5,Emerald,Character,2,1,Robin Hood - Archery Contestant,ROBINHOODARCHERYCONTESTANT,Storyborn| Hero,2,2,1,Common
-SSK-078,5,Emerald,Character,5,1,Fauna - Good Fairy,FAUNAGOODFAIRY,Storyborn| Ally| Fairy ,3,7,2,Common
-SSK-079,5,Emerald,Character,4,1,Iago - Fake Flamingo,IAGOFAKEFLAMINGO,Storyborn| Ally,2,4,1,Rare
-SSK-080,5,Emerald,Character,2,0,Banzai - Gluttonous Predator,BANZAIGLUTTONOUSPREDATOR,Storyborn| Ally| Hyena,3,2,2,Rare
-SSK-081,5,Emerald,Character,4,0,Ed - Hysterical Partygoer,EDHYSTERICALPARTYGOER,Storyborn| Ally| Hyena ,2,4,2,Uncommon
-SSK-082,5,Emerald,Character,3,0,Scroop - Odious Mutineer,SCROOPODIOUSMUTINEER,,2,1,2,Common
-SSK-083,5,Emerald,Character,7,1,Prince Phillip - Swordsman of the Realm,PRINCEPHILLIPSWORDSMANOFTHEREALM,Storyborn| Hero| Prince ,3,9,3,Common
-SSK-084,5,Emerald,Character,7,1,Clarabelle - Light on Her Hooves,CLARABELLELIGHTONHERHOOVES,Floodborn| Ally,5,6,2,Legendary
-SSK-085,5,Emerald,Character,3,0,Anna - Diplomatic Queen,ANNADIPLOMATICQUEEN,Storyborn| Hero| Queen,2,3,2,Legendary
-SSK-086,5,Emerald,Character,1,1,Clarabelle - Clumsy Guest,CLARABELLECLUMSYGUEST,Storyborn| Ally,1,2,1,Common
-SSK-087,5,Emerald,Character,2,1,Banzai - Taunting Hyena,BANZAITAUNTINGHYENA,Storyborn| Ally| Hyena,2,2,1,Common
-SSK-088,5,Emerald,Character,5,1,Robin Hood - Sneaky Sleuth,ROBINHOODSNEAKYSLEUTH,Floodborn| Hero,3,5,1,Uncommon
-SSK-089,5,Emerald,Character,2,1,Mother Gothel - Conceited Manipulator,MOTHERGOTHELCONCEITEDMANIPULATOR,Storyborn| Villain,1,3,1,Uncommon
-SSK-090,5,Emerald,Character,3,1,Clarabelle - Contented Wallflower,CLARABELLECONTENTEDWALLFLOWER,Storyborn| Ally,2,3,1,Uncommon
-SSK-091,5,Emerald,Character,5,1,Shenzi - Head Hyena,SHENZIHEADHYENA,Storyborn| Ally| Hyena,3,6,1,Common
-SSK-092,5,Emerald,Character,6,1,Mother Gothel - Unwavering Schemer,MOTHERGOTHELUNWAVERINGSCHEMER,Floodborn| Villain ,4,6,2,Super Rare
-SSK-093,5,Emerald,Character,4,1,Scar - Vengeful Lion,SCARVENGEFULLION,Storyborn| Villain,4,2,2,Common
-SSK-094,5,Emerald,Action,2,1,Hypnotic Deduction,HYPNOTICDEDUCTION,,,,,Common
-SSK-095,5,Emerald,Action,3,1,Night Howler Rage,NIGHTHOWLERRAGE,,,,,Common
-SSK-096,5,Emerald,Action - Song,4,1,You're Welcome,YOU'REWELCOME,,,,,Common
-SSK-097,5,Emerald,Action,4,0,Remember Who You Are,REMEMBERWHOYOUARE,,,,,Rare
-SSK-098,5,Emerald,Item,3,1,Prince John's Mirror,PRINCEJOHN'SMIRROR,,,,,Rare
-SSK-099,5,Emerald,Item,1,1,Obscurosphere,OBSCUROSPHERE,,,,,Common
-SSK-100,5,Emerald,Item,3,0,Emerald Chromicon,EMERALDCHROMICON,,,,,Uncommon
-SSK-101,5,Emerald,Location,2,1,Sherwood Forest - Outlaw Hideaway,SHERWOODFORESTOUTLAWHIDEAWAY,,,7,0,Rare
-SSK-102,5,Emerald,Location,3,1,Tropical Rainforest - Jaguar Lair,TROPICALRAINFORESTJAGUARLAIR,,,6,1,Uncommon
-SSK-103,5,Ruby,Character,2,1,Taffyta Muttonfudge - Ruthless Rival,TAFFYTAMUTTONFUDGERUTHLESSRIVAL,Storyborn| Ally| Racer,2,2,2,Uncommon
-SSK-104,5,Ruby,Character,3,1,Wreck-It Ralph - Demolition Dude,WRECKITRALPHDEMOLITIONDUDE,Storyborn| Hero,1,3,1,Rare
-SSK-105,5,Ruby,Character,6,1,Maximus - Team Champion,MAXIMUSTEAMCHAMPION,Storyborn| Ally,3,5,2,Super Rare
-SSK-106,5,Ruby,Character,2,0,Turbo - Royal Hack,TURBOROYALHACK,Storyborn| Villain| Racer,2,3,1,Uncommon
-SSK-107,5,Ruby,Character,5,1,Donald Duck - Pie Slinger,DONALDDUCKPIESLINGER,Floodborn| Hero| Knight,3,6,1,Common
-SSK-108,5,Ruby,Character,4,1,Rancis Fluggerbutter - Chocolate Charger,RANCISFLUGGERBUTTERCHOCOLATECHARGER,Storyborn| Ally| Racer,4,4,1,Common
-SSK-109,5,Ruby,Character,5,1,Scar - Betrayer,SCARBETRAYER,Storyborn| Villain,6,3,2,Uncommon
-SSK-110,5,Ruby,Character,3,0,Snowanna Rainbeau,SNOWANNARAINBEAU,Storyborn| Ally| Racer,2,4,1,Common
-SSK-111,5,Ruby,Character,2,1,Daisy Duck - Spotless Food-Fighter,DAISYDUCKSPOTLESSFOODFIGHTER,Storyborn| Hero,2,2,1,Common
-SSK-112,5,Ruby,Character,4,1,Mickey Mouse - Enthusiastic Dancer,MICKEYMOUSEENTHUSIASTICDANCER,Dreamborn| Hero,2,4,2,Common
-SSK-113,5,Ruby,Character,3,1,Ratigan - Raging Rat,RATIGANRAGINGRAT,Dreamborn| Villain,1,5,1,Common
-SSK-114,5,Ruby,Character,1,1,Taffyta Muttonfudge - Crowd Favorite,TAFFYTAMUTTONFUDGECROWDFAVORITE,Storyborn| Ally| Racer,1,2,1,Common
-SSK-115,5,Ruby,Character,5,0,Denahi - Avenging Brother,DENAHIAVENGINGBROTHER,Storyborn,7,5,2,Rare
-SSK-116,5,Ruby,Character,7,1,Pete - Steamboat Rival,PETESTEAMBOATRIVAL,Storyborn| Villain,6,6,2,Super Rare
-SSK-117,5,Ruby,Character,4,1,Taffyta Muttonfudge - Sour Speedster,TAFFYTAMUTTONFUDGESOURSPEEDSTER,Floodborn| Ally| Racer,3,3,1,Uncommon
-SSK-118,5,Ruby,Character,4,0,Robin Hood - Sharpshooter,ROBINHOODSHARPSHOOTER,Storyborn| Hero,1,4,2,Legendary
-SSK-119,5,Ruby,Character,9,0,Gaston - Pure Paragon,GASTONPUREPARAGON,Dreamborn| Villain,10,6,2,Rare
-SSK-120,5,Ruby,Character,3,1,Pete - Pastry Chomper,PETEPASTRYCHOMPER,Storyborn| Villain,4,3,1,Common
-SSK-121,5,Ruby,Character,1,0,Arthur - Novice Sparrow,ARTHURNOVICESPARROW,Storyborn| Hero,2,3,,Common
-SSK-122,5,Ruby,Character,3,1,Donald Duck - Daisy's Date,DONALDDUCKDAISY'SDATE,Storyborn| Ally,2,4,1,Common
-SSK-123,5,Ruby,Character,7,0,Ratigan - Party Crasher,RATIGANPARTYCRASHER,Floodborn| Villain,5,5,3,Rare
-SSK-124,5,Ruby,Character,4,0,Vanellope Von Schweetz - Random Roster Racer,VANELLOPEVONSCHWEETZRANDOMROSTERRACER,Storyborn| Hero| Princess| Racer,3,3,2,Rare
-SSK-125,5,Ruby,Character,1,0,Simba - Adventurous Successor,SIMBAADVENTUROUSSUCCESSOR,Storyborn| Hero| Prince,2,1,1,Common
-SSK-126,5,Ruby,Character,3,1,Minnie Mouse - Dazzling Dancer,MINNIEMOUSEDAZZLINGDANCER,Dreamborn| Hero,2,3,1,Uncommon
-SSK-127,5,Ruby,Action,1,1,Break Free,BREAKFREE,,,,,Common
-SSK-128,5,Ruby,Action,2,1,Evil Comes Prepared,EVILCOMESPREPARED,,,,,Common
-SSK-129,5,Ruby,Action - Song,7,1,Don't Let the Frostbite Bite,DON'TLETTHEFROSTBITEBITE,,,,,Rare
-SSK-130,5,Ruby,Action,3,0,Glimmer VS Glimmer,GLIMMERVSGLIMMER,,,,,Uncommon
-SSK-131,5,Ruby,Action,3,1,Who's With Me?,WHO'SWITHME?,,,,,Super Rare
-SSK-132,5,Ruby,Item,1,1,Potion of Might,POTIONOFMIGHT,,,,,Common
-SSK-133,5,Ruby,Item,3,0,The Sword Released,THESWORDRELEASED,,,,,Rare
-SSK-134,5,Ruby,Item,1,1,Ruby Chromicon,RUBYCHROMICON,,,,,Uncommon
-SSK-135,5,Ruby,Location,1,0,Sugar Rush Speedway - Starting Line,SUGARRUSHSPEEDWAYSTARTINGLINE,,,5,,Rare
-SSK-136,5,Ruby,Location,2,1,Ratigan's Party - Seedy Back Room,RATIGAN'SPARTYSEEDYBACKROOM,,,7,,Uncommon
-SSK-137,5,Sapphire,Character,1,1,King Candy - Sovereign of Sugar,KINGCANDYSOVEREIGNOFSUGAR,Storyborn| Villain| King| Racer,2,2,1,Common
-SSK-138,5,Sapphire,Character,4,1,Chaca - Impressive Daughter,CHACAIMPRESSIVEDAUGHTER,Storyborn| Ally,4,3,2,Common
-SSK-139,5,Sapphire,Character,2,1,The Queen - Cruelest of All,THEQUEENCRUELESTOFALL,Storyborn| Villain| Queen| Sorcerer,0,4,1,Common
-SSK-140,5,Sapphire,Character,4,0,Scrooge McDuck - Afficionado of Antiquities,SCROOGEMCDUCKAFFICIONADOOFANTIQUITIES,Storyborn| Hero,5,5,2,Rare
-SSK-141,5,Sapphire,Character,3,1,Prince John - Opportunistic Briber,PRINCEJOHNOPPORTUNISTICBRIBER,Dreamborn| Villain| Prince,1,5,1,Common
-SSK-142,5,Sapphire,Character,4,1,Merlin - Back from Bermuda,MERLINBACKFROMBERMUDA,Storyborn| Mentor| Sorcerer,1,4,2,Common
-SSK-143,5,Sapphire,Character,3,1,Pacha - Emperor's Guide,PACHAEMPEROR'SGUIDE,Storyborn| Hero,0,4,2,Uncommon
-SSK-144,5,Sapphire,Character,5,1,The Queen - Fairest of All,THEQUEENFAIRESTOFALL,Floodborn| Villain| Queen| Sorcerer,2,6,1,Super Rare
-SSK-145,5,Sapphire,Character,9,0,Sheriff of Nottingham - Bushel Britches,SHERIFFOFNOTTINGHAMBUSHELBRITCHES,Storyborn| Villain,5,9,4,Super Rare
-SSK-146,5,Sapphire,Character,2,0,Chicha - Dedicated Mother,CHICHADEDICATEDMOTHER,Storyborn| Ally,2,1,1,Rare
-SSK-147,5,Sapphire,Character,4,1,Prince John - Gold Lover,PRINCEJOHNGOLDLOVER,Storyborn| Villain| Prince,3,4,1,Super Rare
-SSK-148,5,Sapphire,Character,4,0,The Queen - Crown of the Council,THEQUEENCROWNOFTHECOUNCIL,Storyborn| Villain| Queen| Sorcerer,3,2,2,Rare
-SSK-149,5,Sapphire,Character,6,1,Kuzco - Selfish Emperor,KUZCOSELFISHEMPEROR,Storyborn| King,3,5,2,Super Rare
-SSK-150,5,Sapphire,Character,8,0,Mufasa - Ruler of Pride Rock,MUFASARULEROFPRIDEROCK,Storyborn| Mentor| King,4,9,4,Legendary
-SSK-151,5,Sapphire,Character,5,1,Ludwig Von Drake - Self-Proclaimed Genius,LUDWIGVONDRAKESELFPROCLAIMEDGENIUS,Storyborn| Ally,4,4,3,Uncommon
-SSK-152,5,Sapphire,Character,1,0,Minnie Mouse - Quick-Thinking Inventor,MINNIEMOUSEQUICKTHINKINGINVENTOR,Dreamborn| Hero| Inventor,1,2,1,Common
-SSK-153,5,Sapphire,Character,1,1,Basil - Practiced Detective,BASILPRACTICEDDETECTIVE,Storyborn| Hero| Detective,2,1,1,Common
-SSK-154,5,Sapphire,Character,5,0,King Candy - Sweet Abomination,KINGCANDYSWEETABOMINATION,Floodborn| Villain| King| Racer,3,3,2,Uncommon
-SSK-155,5,Sapphire,Character,5,1,Donald Duck - Focused Flatfoot,DONALDDUCKFOCUSEDFLATFOOT,Dreamborn| Hero| Detective,3,4,2,Common
-SSK-156,5,Sapphire,Character,2,1,Tanana - Wise Woman,TANANAWISEWOMAN,Storyborn| Ally,1,3,1,Common
-SSK-157,5,Sapphire,Character,2,1,Tipo - Growing Son,TIPOGROWINGSON,Storyborn| Ally,1,2,1,Uncommon
-SSK-158,5,Sapphire,Character,4,0,Belle - Of the Ball,BELLEOFTHEBALL,Dreamborn| Hero| Princess,2,3,2,Rare
-SSK-159,5,Sapphire,Character,6,0,Merlin - Intellectual Visionary,MERLININTELLECTUALVISIONARY,Floodborn| Mentor| Sorcerer,3,7,2,Legendary
-SSK-160,5,Sapphire,Action,2,1,Vision of the Future,VISIONOFTHEFUTURE,,,,,Common
-SSK-161,5,Sapphire,Action,4,0,Royal Tantrum,ROYALTANTRUM,,,,,Rare
-SSK-162,5,Sapphire,Action - Song,2,1,Ever as Before,EVERASBEFORE,,,,,Common
-SSK-163,5,Sapphire,Action,2,1,Hide Away,HIDEAWAY,,,,,Uncommon
-SSK-164,5,Sapphire,Action,1,1,All Funned Out,ALLFUNNEDOUT,,,,,Uncommon
-SSK-165,5,Sapphire,Item,2,1,Medal of Heroes,MEDALOFHEROES,,,,,Common
-SSK-166,5,Sapphire,Item,2,1,Basil's Magnifying Glass,BASIL'SMAGNIFYINGGLASS,,,,,Rare
-SSK-167,5,Sapphire,Item,5,0,Merlin's Carpetbag,MERLIN'SCARPETBAG,,,,,Uncommon
-SSK-168,5,Sapphire,Item,4,0,Sapphire Chromicon,SAPPHIRECHROMICON,,,,,Uncommon
-SSK-169,5,Sapphire,Location,3,1,The Great Illuminary - Radiant Ballroom,THEGREATILLUMINARYRADIANTBALLROOM,,,9,,Rare
-SSK-170,5,Sapphire,Location,1,1,Merlin's Cottage,MERLIN'SCOTTAGE,,,7,,Uncommon
-SSK-171,5,Steel,Character,4,0,Stitch - Team Underdog,STITCHTEAMUNDERDOG,Storyborn| Hero| Alien,1,4,1,Uncommon
-SSK-172,5,Steel,Character,6,1,Jafar - Tyrannical Hypnotist,JAFARTYRANNICALHYPNOTIST,Dreamborn| Villain| Sorcerer,0,7,2,Legendary
-SSK-173,5,Steel,Character,3,1,Simba - Lost Prince,SIMBALOSTPRINCE,Storyborn| Hero| Prince,2,4,1,Common
-SSK-174,5,Steel,Character,1,1,Rudy - Groove Disrupter,RUDYGROOVEDISRUPTER,Storyborn,2,2,1,Common
-SSK-175,5,Steel,Character,4,1,Royal Guard - Bovine Protector,ROYALGUARDBOVINEPROTECTOR,Storyborn,1,7,1,Common
-SSK-176,5,Steel,Character,1,1,Mickey Mouse - Food Fight Defender,MICKEYMOUSEFOODFIGHTDEFENDER,Storyborn| Hero,1,2,1,Common
-SSK-177,5,Steel,Character,2,1,Sleepy - Sluggish Knight,SLEEPYSLUGGISHKNIGHT,Dreamborn| Ally| Knight| Seven Dwarfs,0,4,1,Uncommon
-SSK-178,5,Steel,Character,2,1,Kronk - Unlicensed Investigator,KRONKUNLICENSEDINVESTIGATOR,Dreamborn| Ally,1,4,1,Common
-SSK-179,5,Steel,Character,5,1,Heihei - Protective Rooster,HEIHEIPROTECTIVEROOSTER,Dreamborn| Ally,4,5,2,Common
-SSK-180,5,Steel,Character,4,1,Sneezy - Noisy Knight,SNEEZYNOISYKNIGHT,Dreamborn| Ally| Knight| Seven Dwarfs,3,4,1,Common
-SSK-181,5,Steel,Character,3,1,Dopey - Knight Apprentice,DOPEYKNIGHTAPPRENTICE,Dreamborn| Ally| Knight| Seven Dwarfs,2,2,1,Common
-SSK-182,5,Steel,Character,9,0,Namaari - Resolute Daughter,NAMAARIRESOLUTEDAUGHTER,Storyborn| Villain| Princess,5,5,3,Rare
-SSK-183,5,Steel,Character,5,0,Snow White - Fair-haired,SNOWWHITEFAIRHAIRED,Dreamborn| Hero| Princess| Knight,3,5,3,Super Rare
-SSK-184,5,Steel,Character,4,0,Yzma - Unjustly Treated,YZMAUNJUSTLYTREATED,Dreamborn| Villain| Sorcerer,1,4,2,Rare
-SSK-185,5,Steel,Character,7,0,Kronk - Head of Security,KRONKHEADOFSECURITY,Floodborn| Ally| Captain,6,6,1,Super Rare
-SSK-186,5,Steel,Character,3,1,Grumpy - Skeptical Knight,GRUMPYSKEPTICALKNIGHT,Dreamborn| Ally| Knight| Seven Dwarfs,3,1,1,Super Rare
-SSK-187,5,Steel,Character,3,0,Pete - Wrestling Champ,PETEWRESTLINGCHAMP,Dreamborn| Villain,1,3,1,Rare
-SSK-188,5,Steel,Character,7,0,Sir Ector - Castle Lord,SIRECTORCASTLELORD,Storyborn| Knight,7,10,3,Rare
-SSK-189,5,Steel,Character,4,1,Bashful - Adoring Knight,BASHFULADORINGKNIGHT,Dreamborn| Ally| Knight| Seven Dwarfs,3,4,1,Uncommon
-SSK-190,5,Steel,Character,2,1,Arthur - Wart,ARTHURWART,Storyborn| Hero,2,2,2,Uncommon
-SSK-191,5,Steel,Character,1,1,Happy - Lively Knight,HAPPYLIVELYKNIGHT,Dreamborn| Ally| Knight| Seven Dwarfs,2,1,1,Common
-SSK-192,5,Steel,Character,6,1,Simba - Son of Mufasa,SIMBASONOFMUFASA,Floodborn| Hero| King,3,5,1,Uncommon
-SSK-193,5,Steel,Character,2,0,Doc - Bold Knight,DOCBOLDKNIGHT,Dreamborn| Ally| Knight| Seven Dwarfs,1,3,1,Rare
-SSK-194,5,Steel,Character,7,0,Arthur - King Victorius,ARTHURKINGVICTORIUS,Floodborn| Hero| King,3,6,3,Legendary
-SSK-195,5,Steel,Character,3,1,Pete - Games Referee,PETEGAMESREFEREE,Dreamborn| Villain,3,3,1,Uncommon
-SSK-196,5,Steel,Action,5,1,Tug-Of-War,TUGOFWAR,,,,,Common
-SSK-197,5,Steel,Action - Song,3,1,When Will My Life Begin?,WHENWILLMYLIFEBEGIN?,,,,,Common
-SSK-198,5,Steel,Action,2,1,Duck For Cover!,DUCKFORCOVER!,,,,,Common
-SSK-199,5,Steel,Action,1,0,Food Fight!,FOODFIGHT!,,,,,Uncommon
-SSK-200,5,Steel,Item,1,1,Shield of Arendelle,SHIELDOFARENDELLE,,,,,Common
-SSK-201,5,Steel,Item,4,0,Plate Armor,PLATEARMOR,,,,,Rare
-SSK-202,5,Steel,Item,6,0,Steel Chromicon,STEELCHROMICON,,,,,Uncommon
-SSK-203,5,Steel,Location,3,1,Bad-Anon - Villain Support Center,BADANONVILLAINSUPPORTCENTER,,,7,1,Rare
-SSK-204,5,Steel,Location,2,1,Seven Dwarfs' Mine,SEVENDWARFS'MINE,,,6,1,Uncommon
-TFC-001,1,Amber,Character,4,1,Ariel - On Human Legs,ARIELONHUMANLEGS,Storyborn| Hero| Princess,3,4,2,Uncommon
-TFC-002,1,Amber,Character,3,1,Ariel - Spectacular Singer,ARIELSPECTACULARSINGER,Storyborn| Hero| Princess,2,3,1,Super Rare
-TFC-003,1,Amber,Character,4,1,Cinderella - Gentle and Kind,CINDERELLAGENTLEANDKIND,Storyborn| Hero| Princess,2,5,2,Uncommon
-TFC-004,1,Amber,Character,5,1,Goofy - Musketeer,GOOFYMUSKETEER,Dreamborn| Hero| Musketeer,3,6,1,Uncommon
-TFC-005,1,Amber,Character,8,0,Hades - King of Olympus,HADESKINGOFOLYMPUS,Floodborn| Villain| King| Deity,6,7,1,Rare
-TFC-006,1,Amber,Character,4,0,Hades - Lord of the Underworld,HADESLORDOFTHEUNDERWORLD,Storyborn| Villain| Deity,3,2,1,Rare
-TFC-007,1,Amber,Character,1,1,HeiHei - Boat Snack,HEIHEIBOATSNACK,Storyborn| Ally,1,2,1,Common
-TFC-008,1,Amber,Character,2,1,Lefou - Bumbler,LEFOUBUMBLER,Storyborn| Ally,1,2,2,Uncommon
-TFC-009,1,Amber,Character,1,0,Lilo - Making a Wish,LILOMAKINGAWISH,Storyborn| Hero,1,1,2,Rare
-TFC-010,1,Amber,Character,5,1,Maximus - Palace Horse,MAXIMUSPALACEHORSE,Storyborn| Ally,4,5,1,Super Rare
-TFC-011,1,Amber,Character,3,1,Maximus - Relentless Pursuer,MAXIMUSRELENTLESSPURSUER,Dreamborn| Ally,3,3,1,Uncommon
-TFC-012,1,Amber,Character,3,1,Mickey Mouse - True Friend,MICKEYMOUSETRUEFRIEND,Storyborn| Hero,3,3,2,Uncommon
-TFC-013,1,Amber,Character,2,1,Minnie Mouse - Beloved Princess,MINNIEMOUSEBELOVEDPRINCESS,Dreamborn| Princess,2,3,1,Common
-TFC-014,1,Amber,Character,5,1,Moana - Of Motunui,MOANAOFMOTUNUI,Storyborn| Hero| Princess,1,6,3,Rare
-TFC-015,1,Amber,Character,3,1,Mr. Smee - Loyal First Mate,MR.SMEELOYALFIRSTMATE,Dreamborn| Ally| Pirate,2,5,1,Common
-TFC-016,1,Amber,Character,4,0,Prince Phillip - Dragonslayer,PRINCEPHILLIPDRAGONSLAYER,Storyborn| Hero| Prince,3,3,2,Uncommon
-TFC-017,1,Amber,Character,4,1,Pumbaa - Friendly Warthog,PUMBAAFRIENDLYWARTHOG,Storyborn| Ally,3,5,1,Common
-TFC-018,1,Amber,Character,4,1,Rapunzel - Gifted with Healing,RAPUNZELGIFTEDWITHHEALING,Storyborn| Hero| Princess,1,5,2,Legendary
-TFC-019,1,Amber,Character,2,1,Sebastian - Court Composer,SEBASTIANCOURTCOMPOSER,Storyborn| Ally,2,2,1,Common
-TFC-020,1,Amber,Character,2,1,Simba - Protective Cub,SIMBAPROTECTIVECUB,Storyborn| Hero| Prince,2,3,1,Common
-TFC-021,1,Amber,Character,7,1,Stitch - Carefree Surfer,STITCHCAREFREESURFER,Dreamborn| Hero| Alien,4,8,2,Legendary
-TFC-022,1,Amber,Character,1,1,Stitch - New Dog,STITCHNEWDOG,Storyborn| Hero| Alien,2,2,1,Common
-TFC-023,1,Amber,Character,6,1,Stitch - Rock Star,STITCHROCKSTAR,Floodborn| Hero| Alien,3,5,3,Super Rare
-TFC-024,1,Amber,Character,1,1,Timon - Grub Rustler,TIMONGRUBRUSTLER,Storyborn| Ally,1,2,1,Common
-TFC-025,1,Amber,Action - Song,2,1,Be Our Guest,BEOURGUEST,,,,,Uncommon
-TFC-026,1,Amber,Action,1,1,Control Your Temper!,CONTROLYOURTEMPER!,,,,,Common
-TFC-027,1,Amber,Action - Song,4,1,Hakuna Matata,HAKUNAMATATA,,,,,Common
-TFC-028,1,Amber,Action,1,1,Healing Glow,HEALINGGLOW,,,,,Common
-TFC-029,1,Amber,Action,3,1,Just In Time,JUSTINTIME,,,,,Rare
-TFC-030,1,Amber,Action - Song,3,0,Part of Your World,PARTOFYOURWORLD,,,,,Rare
-TFC-031,1,Amber,Action - Song,4,1,You Have Forgotten Me,YOUHAVEFORGOTTENME,,,,,Uncommon
-TFC-032,1,Amber,Item,1,1,Dinglehopper,DINGLEHOPPER,,,,,Common
-TFC-033,1,Amber,Item,2,0,Lantern,LANTERN,,,,,Rare
-TFC-034,1,Amber,Item,3,0,Ursula's Shell Necklace,URSULA'SSHELLNECKLACE,,,,,Rare
-TFC-035,1,Amethyst,Character,4,1,Anna - Heir to Arendelle,ANNAHEIRTOARENDELLE,Storyborn| Hero| Queen,2,4,2,Uncommon
-TFC-036,1,Amethyst,Character,1,1,Archimedes - Highly Educated Owl,ARCHIMEDESHIGHLYEDUCATEDOWL,Dreamborn| Ally,2,2,1,Common
-TFC-037,1,Amethyst,Character,7,0,Dr. Facilier - Agent Provocateur,DR.FACILIERAGENTPROVOCATEUR,Floodborn| Villain| Sorcerer,4,5,3,Rare
-TFC-038,1,Amethyst,Character,2,1,Dr. Facilier - Charlatan,DR.FACILIERCHARLATAN,Storyborn| Villain| Sorcerer,0,4,1,Common
-TFC-039,1,Amethyst,Character,3,1,Dr. Facilier - Remarkable Gentleman,DR.FACILIERREMARKABLEGENTLEMAN,Storyborn| Villain| Sorcerer,2,4,1,Rare
-TFC-040,1,Amethyst,Character,4,1,Elsa - Queen Regent,ELSAQUEENREGENT,Storyborn| Hero| Queen| Sorcerer,4,4,1,Common
-TFC-041,1,Amethyst,Character,3,1,Elsa - Snow Queen,ELSASNOWQUEEN,Dreamborn| Hero| Queen| Sorcerer,2,3,1,Uncommon
-TFC-042,1,Amethyst,Character,8,0,Elsa - Spirit of Winter,ELSASPIRITOFWINTER,Floodborn| Hero| Queen| Sorcerer,4,6,3,Legendary
-TFC-043,1,Amethyst,Character,5,0,Flotsam - Ursula's Spy,FLOTSAMURSULA'SSPY,Storyborn| Ally,3,4,2,Rare
-TFC-044,1,Amethyst,Character,4,1,Jafar - Keeper of Secrets,JAFARKEEPEROFSECRETS,Dreamborn| Villain| Sorcerer,0,5,2,Rare
-TFC-045,1,Amethyst,Character,4,1,Jafar - Wicked Sorcerer,JAFARWICKEDSORCERER,Dreamborn| Villain| Sorcerer,2,5,1,Common
-TFC-046,1,Amethyst,Character,4,1,Jetsam - Ursula's Spy,JETSAMURSULA'SSPY,Storyborn| Ally,3,3,1,Common
-TFC-047,1,Amethyst,Character,2,1,Magic Broom - Bucket Brigade,MAGICBROOMBUCKETBRIGADE,Dreamborn| Broom,2,2,1,Common
-TFC-048,1,Amethyst,Character,1,0,Maleficent - Biding Her Time,MALEFICENTBIDINGHERTIME,Dreamborn| Villain| Sorcerer,1,1,2,Rare
-TFC-049,1,Amethyst,Character,3,1,Maleficent - Sorceress,MALEFICENTSORCERESS,Storyborn| Villain| Sorcerer,2,2,1,Common
-TFC-050,1,Amethyst,Character,6,0,Marshmallow - Persistent Guardian,MARSHMALLOWPERSISTENTGUARDIAN,Storyborn| Ally,5,5,1,Super Rare
-TFC-051,1,Amethyst,Character,4,1,Mickey Mouse - Wayward Sorcerer,MICKEYMOUSEWAYWARDSORCERER,Dreamborn| Sorcerer,3,4,2,Super Rare
-TFC-052,1,Amethyst,Character,1,1,Olaf - Friendly Snowman,OLAFFRIENDLYSNOWMAN,Storyborn| Ally,1,3,1,Uncommon
-TFC-053,1,Amethyst,Character,1,1,Pascal - Rapunzel's Companion,PASCALRAPUNZEL'SCOMPANION,Storyborn| Ally,1,1,1,Uncommon
-TFC-054,1,Amethyst,Character,3,0,Rafiki - Mysterious Sage,RAFIKIMYSTERIOUSSAGE,Dreamborn| Mentor| Sorcerer,3,3,1,Uncommon
-TFC-055,1,Amethyst,Character,6,1,Sven - Official Ice Deliverer,SVENOFFICIALICEDELIVERER,Storyborn| Ally,5,7,1,Uncommon
-TFC-056,1,Amethyst,Character,5,1,The Queen - Wicked and Vain,THEQUEENWICKEDANDVAIN,Storyborn| Villain| Queen,4,5,1,Super Rare
-TFC-057,1,Amethyst,Character,3,1,The Wardrobe - Belle's Confidant,THEWARDROBEBELLE'SCONFIDANT,Dreamborn| Ally,3,4,1,Common
-TFC-058,1,Amethyst,Character,5,0,Tinker Bell - Peter Pan's Ally,TINKERBELLPETERPAN'SALLY,Storyborn| Ally| Fairy,3,3,2,Common
-TFC-059,1,Amethyst,Character,7,0,Ursula - Power Hungry,URSULAPOWERHUNGRY,Storyborn| Villain| Sorcerer,2,8,3,Legendary
-TFC-060,1,Amethyst,Character,2,1,Yzma - Alchemist,YZMAALCHEMIST,Dreamborn| Villain| Sorcerer,2,2,1,Common
-TFC-061,1,Amethyst,Character,4,0,Zeus - God of Lightning,ZEUSGODOFLIGHTNING,Storyborn| Deity,0,4,2,Rare
-TFC-062,1,Amethyst,Action,1,1,Befuddle,BEFUDDLE,,,,,Uncommon
-TFC-063,1,Amethyst,Action,2,0,Freeze,FREEZE,,,,,Common
-TFC-064,1,Amethyst,Action - Song,3,1,Friends On The Other Side,FRIENDSONTHEOTHERSIDE,,,,,Common
-TFC-065,1,Amethyst,Action - Song,1,1,Reflection,REFLECTION,,,,,Uncommon
-TFC-066,1,Amethyst,Item,2,0,Magic Mirror,MAGICMIRROR,,,,,Rare
-TFC-067,1,Amethyst,Item,2,0,Ursula's Cauldron,URSULA'SCAULDRON,,,,,Uncommon
-TFC-068,1,Amethyst,Item,3,1,White Rabbit's Pocket Watch,WHITERABBIT'SPOCKETWATCH,,,,,Rare
-TFC-069,1,Emerald,Character,2,1,Aladdin - Prince Ali,ALADDINPRINCEALI,Storyborn| Hero| Prince,2,2,1,Common
-TFC-070,1,Emerald,Character,5,0,Beast - Wolfsbane,BEASTWOLFSBANE,Dreamborn| Hero| Prince,4,4,2,Legendary
-TFC-071,1,Emerald,Character,3,1,Cheshire Cat - Not All There,CHESHIRECATNOTALLTHERE,Storyborn,0,3,2,Uncommon
-TFC-072,1,Emerald,Character,2,1,Cruella De Vil - Miserable as Usual,CRUELLADEVILMISERABLEASUSUAL,Storyborn| Villain,1,3,1,Rare
-TFC-073,1,Emerald,Character,1,1,Duke Of Weselton - Opportunistic Official,DUKEOFWESELTONOPPORTUNISTICOFFICIAL,Storyborn| Villain,2,2,1,Common
-TFC-074,1,Emerald,Character,2,1,Flynn Rider - Charming Rogue,FLYNNRIDERCHARMINGROGUE,Storyborn| Hero| Prince,1,2,2,Uncommon
-TFC-075,1,Emerald,Character,6,0,Genie - On the Job,GENIEONTHEJOB,Storyborn| Ally,3,4,2,Super Rare
-TFC-076,1,Emerald,Character,8,0,Genie - Powers Unleashed,GENIEPOWERSUNLEASHED,Floodborn| Hero,3,5,3,Rare
-TFC-077,1,Emerald,Character,2,1,Genie - The Ever Impressive,GENIETHEEVERIMPRESSIVE,Dreamborn| Ally,2,3,1,Common
-TFC-078,1,Emerald,Character,4,1,Hans - Scheming Prince,HANSSCHEMINGPRINCE,Storyborn| Villain| Prince,3,3,3,Rare
-TFC-079,1,Emerald,Character,3,1,Horace - No-Good Scoundrel,HORACENOGOODSCOUNDREL,Storyborn| Ally,4,3,1,Common
-TFC-080,1,Emerald,Character,3,1,Iago - Loud-Mouthed Parrot,IAGOLOUDMOUTHEDPARROT,Storyborn| Ally,1,4,1,Rare
-TFC-081,1,Emerald,Character,3,1,Jasper - Common Crook,JASPERCOMMONCROOK,Storyborn| Ally,2,4,1,Uncommon
-TFC-082,1,Emerald,Character,6,1,John Silver - Alien Pirate,JOHNSILVERALIENPIRATE,Storyborn| Villain| Alien| Pirate| Captain,5,5,2,Legendary
-TFC-083,1,Emerald,Character,5,1,Jumba Jookiba - Renegade Scientist,JUMBAJOOKIBARENEGADESCIENTIST,Dreamborn| Alien| Inventor,4,5,2,Uncommon
-TFC-084,1,Emerald,Character,5,0,Kuzco - Temperamental Emperor,KUZCOTEMPERAMENTALEMPEROR,Storyborn| King,2,4,3,Rare
-TFC-085,1,Emerald,Character,6,0,Lady Tremaine - Wicked Stepmother,LADYTREMAINEWICKEDSTEPMOTHER,Dreamborn| Villain,1,5,1,Rare
-TFC-086,1,Emerald,Character,5,1,Mad Hatter - Gracious Host,MADHATTERGRACIOUSHOST,Storyborn,2,4,3,Uncommon
-TFC-087,1,Emerald,Character,2,1,Megara - Pulling the Strings,MEGARAPULLINGTHESTRINGS,Dreamborn| Ally,2,1,1,Common
-TFC-088,1,Emerald,Character,7,0,Mickey Mouse - Artful Rogue,MICKEYMOUSEARTFULROGUE,Floodborn| Hero,6,5,2,Super Rare
-TFC-089,1,Emerald,Character,3,1,Mickey Mouse - Steamboat Pilot,MICKEYMOUSESTEAMBOATPILOT,Storyborn| Hero| Captain,3,4,1,Common
-TFC-090,1,Emerald,Character,6,1,Mother Gothel - Selfish Manipulator,MOTHERGOTHELSELFISHMANIPULATOR,Storyborn| Villain,3,6,2,Super Rare
-TFC-091,1,Emerald,Character,3,1,Peter Pan - Never Landing,PETERPANNEVERLANDING,Dreamborn| Hero,3,2,1,Common
-TFC-092,1,Emerald,Character,2,1,Tamatoa - Drab Little Crab,TAMATOADRABLITTLECRAB,Dreamborn,1,4,1,Uncommon
-TFC-093,1,Emerald,Character,4,1,Tinker Bell - Most Helpful,TINKERBELLMOSTHELPFUL,Storyborn| Ally| Fairy,2,3,1,Common
-TFC-094,1,Emerald,Action,3,0,Do It Again!,DOITAGAIN!,,,,,Rare
-TFC-095,1,Emerald,Action - Song,3,0,Mother Knows Best,MOTHERKNOWSBEST,,,,,Uncommon
-TFC-096,1,Emerald,Action,1,0,Stampede,STAMPEDE,,,,,Common
-TFC-097,1,Emerald,Action,5,0,Steal From The Rich,STEALFROMTHERICH,,,,,Rare
-TFC-098,1,Emerald,Action - Song,2,1,Sudden Chill,SUDDENCHILL,,,,,Common
-TFC-099,1,Emerald,Action,3,1,The Beast Is Mine!,THEBEASTISMINE!,,,,,Uncommon
-TFC-100,1,Emerald,Action,1,1,Vicious Betrayal,VICIOUSBETRAYAL,,,,,Common
-TFC-101,1,Emerald,Item,2,0,Dr. Facilier's Cards,DR.FACILIER'SCARDS,,,,,Uncommon
-TFC-102,1,Emerald,Item,2,1,Stolen Scimitar,STOLENSCIMITAR,,,,,Common
-TFC-103,1,Ruby,Character,3,1,Abu - Mischievous Monkey,ABUMISCHIEVOUSMONKEY,Storyborn| Ally,3,2,2,Common
-TFC-104,1,Ruby,Character,7,1,Aladdin - Heroic Outlaw,ALADDINHEROICOUTLAW,Floodborn| Hero,5,5,2,Super Rare
-TFC-105,1,Ruby,Character,3,1,Aladdin - Street Rat,ALADDINSTREETRAT,Storyborn| Hero,2,2,1,Common
-TFC-106,1,Ruby,Character,5,1,Captain - Colonel's Lieutenant,CAPTAINCOLONEL'SLIEUTENANT,Storyborn| Ally| Captain,6,5,1,Uncommon
-TFC-107,1,Ruby,Character,7,0,Captain Hook - Ruthless Pirate,CAPTAINHOOKRUTHLESSPIRATE,Storyborn| Villain| Pirate| Captain,5,5,2,Rare
-TFC-108,1,Ruby,Character,2,1,Donald Duck - Boisterous Fowl,DONALDDUCKBOISTEROUSFOWL,Storyborn,2,3,1,Uncommon
-TFC-109,1,Ruby,Character,4,1,Elsa - Ice Surfer,ELSAICESURFER,Dreamborn| Hero| Queen| Sorcerer,3,4,1,Common
-TFC-110,1,Ruby,Character,2,1,Gaston - Arrogant Hunter,GASTONARROGANTHUNTER,Storyborn| Villain,4,2,0,Common
-TFC-111,1,Ruby,Character,5,1,Goofy - Daredevil,GOOFYDAREDEVIL,Dreamborn| Hero,3,4,2,Common
-TFC-112,1,Ruby,Character,2,1,Lefou - Instigator,LEFOUINSTIGATOR,Dreamborn| Ally,2,2,1,Rare
-TFC-113,1,Ruby,Character,9,1,Maleficent - Monstrous Dragon,MALEFICENTMONSTROUSDRAGON,Storyborn| Villain| Dragon,7,5,2,Legendary
-TFC-114,1,Ruby,Character,5,1,Maui - Hero to All,MAUIHEROTOALL,Storyborn| Hero| Deity,6,5,0,Rare
-TFC-115,1,Ruby,Character,8,1,Mickey Mouse - Brave Little Tailor,MICKEYMOUSEBRAVELITTLETAILOR,Dreamborn| Hero,5,5,4,Legendary
-TFC-116,1,Ruby,Character,1,1,Minnie Mouse - Always Classy,MINNIEMOUSEALWAYSCLASSY,Storyborn| Hero,1,3,1,Common
-TFC-117,1,Ruby,Character,5,1,Moana - Chosen by the Ocean,MOANACHOSENBYTHEOCEAN,Storyborn| Hero| Princess,2,6,2,Uncommon
-TFC-118,1,Ruby,Character,5,1,Mulan - Imperial Soldier,MULANIMPERIALSOLDIER,Storyborn| Hero| Princess,4,5,1,Super Rare
-TFC-119,1,Ruby,Character,3,0,Peter Pan - Fearless Fighter,PETERPANFEARLESSFIGHTER,Storyborn| Hero,3,2,1,Common
-TFC-120,1,Ruby,Character,4,1,Pongo - Ol' Rascal,PONGOOL'RASCAL,Storyborn| Hero,2,3,2,Common
-TFC-121,1,Ruby,Character,6,0,Rapunzel - Letting Down Her Hair,RAPUNZELLETTINGDOWNHERHAIR,Dreamborn| Hero| Princess,5,4,2,Uncommon
-TFC-122,1,Ruby,Character,4,1,Scar - Fiery Usurper,SCARFIERYUSURPER,Dreamborn| Villain,5,3,1,Common
-TFC-123,1,Ruby,Character,8,0,Scar - Shameless Firebrand,SCARSHAMELESSFIREBRAND,Floodborn| Villain| King,6,6,1,Rare
-TFC-124,1,Ruby,Character,1,1,Sergeant Tibbs - Courageous Cat,SERGEANTTIBBSCOURAGEOUSCAT,Storyborn| Ally,2,2,1,Common
-TFC-125,1,Ruby,Character,6,1,Stitch - Abomination,STITCHABOMINATION,Storyborn| Hero| Alien,4,6,3,Rare
-TFC-126,1,Ruby,Character,6,0,Te Ka - The Burning One,TEKATHEBURNINGONE,Storyborn| Villain| Deity,8,6,0,Super Rare
-TFC-127,1,Ruby,Character,6,1,Tigger - Wonderful Thing,TIGGERWONDERFULTHING,Storyborn| Tigger,4,4,2,Uncommon
-TFC-128,1,Ruby,Action - Song,7,0,Be Prepared,BEPREPARED,,,,,Rare
-TFC-129,1,Ruby,Action,2,1,Cut To The Chase,CUTTOTHECHASE,,,,,Uncommon
-TFC-130,1,Ruby,Action,5,0,Dragon Fire,DRAGONFIRE,,,,,Uncommon
-TFC-131,1,Ruby,Action,1,1,Fan The Flames,FANTHEFLAMES,,,,,Uncommon
-TFC-132,1,Ruby,Action,1,1,He's Got A Sword!,HE'SGOTASWORD!,,,,,Common
-TFC-133,1,Ruby,Action,2,1,Tangle,TANGLE,,,,,Common
-TFC-134,1,Ruby,Item,3,0,Poisoned Apple,POISONEDAPPLE,,,,,Rare
-TFC-135,1,Ruby,Item,1,1,Shield Of Virtue,SHIELDOFVIRTUE,,,,,Uncommon
-TFC-136,1,Ruby,Item,4,0,Sword Of Truth,SWORDOFTRUTH,,,,,Rare
-TFC-137,1,Sapphire,Character,4,0,Ariel - Whoseit Collector,ARIELWHOSEITCOLLECTOR,Storyborn| Hero| Princess,3,3,1,Rare
-TFC-138,1,Sapphire,Character,4,1,Aurora - Briar Rose,AURORABRIARROSE,Storyborn| Hero| Princess,2,5,1,Common
-TFC-139,1,Sapphire,Character,5,1,Aurora - Dreaming Guardian,AURORADREAMINGGUARDIAN,Floodborn| Hero| Princess,3,5,2,Super Rare
-TFC-140,1,Sapphire,Character,2,1,Aurora - Regal Princess,AURORAREGALPRINCESS,Storyborn| Hero| Princess,2,2,2,Uncommon
-TFC-141,1,Sapphire,Character,3,1,Belle - Inventive Engineer,BELLEINVENTIVEENGINEER,Dreamborn| Hero| Princess| Inventor,2,3,2,Uncommon
-TFC-142,1,Sapphire,Character,4,1,Belle - Strange but special,BELLESTRANGEBUTSPECIAL,Storyborn| Hero| Princess,2,4,1,Legendary
-TFC-143,1,Sapphire,Character,7,1,Chief Tui - Respected Leader,CHIEFTUIRESPECTEDLEADER,Storyborn| Mentor| King,3,6,3,Uncommon
-TFC-144,1,Sapphire,Character,5,1,Donald Duck - Strutting His Stuff,DONALDDUCKSTRUTTINGHISSTUFF,Dreamborn| Hero| Inventor,4,3,2,Common
-TFC-145,1,Sapphire,Character,1,1,Flounder - Voice Of Reason,FLOUNDERVOICEOFREASON,Storyborn| Ally,2,2,1,Common
-TFC-146,1,Sapphire,Character,2,1,Gramma Tala - Storyteller,GRAMMATALASTORYTELLER,Storyborn| Mentor,1,1,1,Uncommon
-TFC-147,1,Sapphire,Character,7,0,Hades - Infernal Schemer,HADESINFERNALSCHEMER,Dreamborn| Villain| Deity,3,6,2,Legendary
-TFC-148,1,Sapphire,Character,3,1,Jasmine - Disguised,JASMINEDISGUISED,Storyborn| Princess,3,3,2,Common
-TFC-149,1,Sapphire,Character,5,1,Jasmine - Queen Of Agrabah,JASMINEQUEENOFAGRABAH,Floodborn| Hero| Princess| Queen,2,5,2,Rare
-TFC-150,1,Sapphire,Character,4,1,Maleficent - Sinister Visitor,MALEFICENTSINISTERVISITOR,Storyborn| Villain| Sorcerer,3,4,2,Common
-TFC-151,1,Sapphire,Character,5,1,Maleficent - Uninvited,MALEFICENTUNINVITED,Dreamborn| Villain| Sorcerer,3,6,3,Rare
-TFC-152,1,Sapphire,Character,6,1,Maurice - World-Famous Inventor,MAURICEWORLDFAMOUSINVENTOR,Dreamborn| Mentor| Inventor,2,7,2,Rare
-TFC-153,1,Sapphire,Character,4,1,Merlin - Self-Appointed Mentor,MERLINSELFAPPOINTEDMENTOR,Dreamborn| Mentor| Sorcerer,3,4,1,Common
-TFC-154,1,Sapphire,Character,3,0,Mickey Mouse - Detective,MICKEYMOUSEDETECTIVE,Dreamborn| Hero| Detective,1,3,1,Common
-TFC-155,1,Sapphire,Character,6,1,Mufasa - King of the Pride Lands,MUFASAKINGOFTHEPRIDELANDS,Storyborn| Mentor| King,4,6,3,Common
-TFC-156,1,Sapphire,Character,2,1,Philoctetes - Trainer of Heroes,PHILOCTETESTRAINEROFHEROES,Storyborn| Mentor,3,1,1,Common
-TFC-157,1,Sapphire,Character,6,1,Robin Hood - Unrivaled Archer,ROBINHOODUNRIVALEDARCHER,Storyborn| Hero,4,4,2,Super Rare
-TFC-158,1,Sapphire,Character,6,1,Scar - Mastermind,SCARMASTERMIND,Storyborn| Villain,5,4,2,Rare
-TFC-159,1,Sapphire,Character,8,1,Tamatoa - So Shiny!,TAMATOASOSHINY!,Storyborn| Villain,5,8,1,Super Rare
-TFC-160,1,Sapphire,Character,7,1,Triton - The Sea King,TRITONTHESEAKING,Storyborn| King,5,9,2,Uncommon
-TFC-161,1,Sapphire,Action,1,1,Develop Your Brain,DEVELOPYOURBRAIN,,,,,Common
-TFC-162,1,Sapphire,Action,3,0,If It's Not Baroque,IFIT'SNOTBAROQUE,,,,,Rare
-TFC-163,1,Sapphire,Action - Song,5,1,Let It Go,LETITGO,,,,,Rare
-TFC-164,1,Sapphire,Action - Song,2,0,One Jump Ahead,ONEJUMPAHEAD,,,,,Uncommon
-TFC-165,1,Sapphire,Action,1,1,Work Together,WORKTOGETHER,,,,,Common
-TFC-166,1,Sapphire,Item,2,1,Coconut Basket,COCONUTBASKET,,,,,Uncommon
-TFC-167,1,Sapphire,Item,4,1,Eye Of The Fates,EYEOFTHEFATES,,,,,Uncommon
-TFC-168,1,Sapphire,Item,3,1,Fishbone Quill,FISHBONEQUILL,,,,,Rare
-TFC-169,1,Sapphire,Item,1,1,Magic Golden Flower,MAGICGOLDENFLOWER,,,,,Common
-TFC-170,1,Sapphire,Item,1,1,Scepter Of Arendelle,SCEPTEROFARENDELLE,,,,,Uncommon
-TFC-171,1,Steel,Character,2,1,Aladdin - Cornered Swordsman,ALADDINCORNEREDSWORDSMAN,Storyborn| Hero,2,1,2,Common
-TFC-172,1,Steel,Character,5,1,Beast - Hardheaded,BEASTHARDHEADED,Storyborn| Hero| Prince,4,4,2,Uncommon
-TFC-173,1,Steel,Character,4,0,Captain Hook - Captain of the Jolly Roger,CAPTAINHOOKCAPTAINOFTHEJOLLYROGER,Storyborn| Villain| Pirate| Captain,3,4,1,Rare
-TFC-174,1,Steel,Character,1,1,Captain Hook - Forceful Duelist,CAPTAINHOOKFORCEFULDUELIST,Dreamborn| Villain| Pirate| Captain,1,2,1,Common
-TFC-175,1,Steel,Character,5,0,Captain Hook - Thinking a Happy Thought,CAPTAINHOOKTHINKINGAHAPPYTHOUGHT,Floodborn| Villain| Pirate| Captain,2,5,1,Rare
-TFC-176,1,Steel,Character,5,1,Cerberus - Three-Headed Dog,CERBERUSTHREEHEADEDDOG,Storyborn,5,6,1,Common
-TFC-177,1,Steel,Character,4,1,Donald Duck - Musketeer,DONALDDUCKMUSKETEER,Dreamborn| Hero| Musketeer,2,5,1,Uncommon
-TFC-178,1,Steel,Character,8,1,Gantu - Galactic Federation Captain,GANTUGALACTICFEDERATIONCAPTAIN,Storyborn| Alien| Captain,6,6,2,Legendary
-TFC-179,1,Steel,Character,1,1,Goons - Maleficent's Underlings,GOONSMALEFICENT'SUNDERLINGS,Storyborn| Ally,2,2,1,Common
-TFC-180,1,Steel,Character,4,1,Hans - Thirteenth in Line,HANSTHIRTEENTHINLINE,Storyborn| Villain| Prince,3,3,2,Super Rare
-TFC-181,1,Steel,Character,3,1,Hercules - True Hero,HERCULESTRUEHERO,Dreamborn| Hero| Prince,3,3,1,Common
-TFC-182,1,Steel,Character,3,1,Kristoff - Offical Ice Master,KRISTOFFOFFICALICEMASTER,Storyborn| Ally,3,3,2,Common
-TFC-183,1,Steel,Character,6,1,Kronk - Right-Hand Man,KRONKRIGHTHANDMAN,Storyborn| Ally,6,6,2,Uncommon
-TFC-184,1,Steel,Character,3,1,Lilo - Galactic Hero,LILOGALACTICHERO,Dreamborn| Hero,4,2,2,Uncommon
-TFC-185,1,Steel,Character,8,1,Maui - Demigod,MAUIDEMIGOD,Storyborn| Hero| Deity,8,8,3,Rare
-TFC-186,1,Steel,Character,6,1,Mickey Mouse - Musketeer,MICKEYMOUSEMUSKETEER,Dreamborn| Hero| Musketeer,2,7,2,Rare
-TFC-187,1,Steel,Character,2,1,Prince Eric - Dashing and Brave,PRINCEERICDASHINGANDBRAVE,Storyborn| Hero| Prince,1,3,1,Common
-TFC-188,1,Steel,Character,1,1,Simba - Future King,SIMBAFUTUREKING,Storyborn| Hero| Prince,1,2,1,Common
-TFC-189,1,Steel,Character,7,1,Simba - Returned King,SIMBARETURNEDKING,Storyborn| Hero| King,4,6,2,Rare
-TFC-190,1,Steel,Character,5,0,Simba - Rightful Heir,SIMBARIGHTFULHEIR,Storyborn| Hero| Prince,3,5,2,Uncommon
-TFC-191,1,Steel,Character,5,1,Starkey - Hook's Henchman,STARKEYHOOK'SHENCHMAN,Storyborn| Ally| Pirate,5,4,1,Uncommon
-TFC-192,1,Steel,Character,6,1,Te Ka - Heartless,TEKAHEARTLESS,Dreamborn| Villain| Deity,5,5,2,Legendary
-TFC-193,1,Steel,Character,6,1,Tinker Bell - Giant Fairy,TINKERBELLGIANTFAIRY,Floodborn| Ally| Fairy,4,5,2,Super Rare
-TFC-194,1,Steel,Character,3,1,Tinker Bell - Tiny Tactician,TINKERBELLTINYTACTICIAN,Dreamborn| Ally| Fairy,2,4,1,Common
-TFC-195,1,Steel,Action - Song,5,0,A Whole New World,AWHOLENEWWORLD,,,,,Super Rare
-TFC-196,1,Steel,Action,2,1,Break,BREAK,,,,,Common
-TFC-197,1,Steel,Action,1,0,Fire The Cannons!,FIRETHECANNONS!,,,,,Common
-TFC-198,1,Steel,Action - Song,5,0,Grab Your Sword,GRABYOURSWORD,,,,,Rare
-TFC-199,1,Steel,Action,2,1,Ransack,RANSACK,,,,,Uncommon
-TFC-200,1,Steel,Action,3,1,Smash,SMASH,,,,,Uncommon
-TFC-201,1,Steel,Item,2,1,Beast's Mirror,BEAST'SMIRROR,,,,,Common
-TFC-202,1,Steel,Item,2,1,Frying Pan,FRYINGPAN,,,,,Uncommon
-TFC-203,1,Steel,Item,4,0,Musketeer Tabard,MUSKETEERTABARD,,,,,Rare
-TFC-204,1,Steel,Item,3,0,Plasma Blaster,PLASMABLASTER,,,,,Rare
-URS-001,4,Amber,Character,1,1,Agustin Madrigal - Clumsy Dad,AGUSTINMADRIGALCLUMSYDAD,Storyborn| Mentor| Madrigal,2,2,1,Common
-URS-002,4,Amber,Character,3,0,Alma Madrigal - Family Matriarch,ALMAMADRIGALFAMILYMATRIARCH,Storyborn| Mentor| Madrigal,1,3,2,Rare
-URS-003,4,Amber,Character,4,1,Ariel - Singing Mermaid,ARIELSINGINGMERMAID,Storyborn| Hero| Princess,3,3,2,Rare
-URS-004,4,Amber,Character,5,1,Cinderella - Melody Weaver,CINDERELLAMELODYWEAVER,Dreamborn| Hero| Princess,1,5,2,Legendary
-URS-005,4,Amber,Character,4,1,Cogsworth - Majordomo,COGSWORTHMAJORDOMO,Dreamborn| Ally,3,3,1,Common
-URS-006,4,Amber,Character,1,1,Daisy Duck - Lovely Lady,DAISYDUCKLOVELYLADY,Dreamborn| Ally,1,3,1,Uncommon
-URS-007,4,Amber,Character,4,1,Daisy Duck - Musketeer Spy,DAISYDUCKMUSKETEERSPY,Dreamborn| Hero| Musketeer,2,3,1,Common
-URS-008,4,Amber,Character,3,1,Donald Duck - Musketeer Soldier,DONALDDUCKMUSKETEERSOLDIER,Dreamborn| Hero| Musketeer,2,3,1,Uncommon
-URS-009,4,Amber,Character,3,1,Felix Madrigal - Fun-Loving Family Man,FELIXMADRIGALFUNLOVINGFAMILYMAN,Storyborn| Ally| Madrigal,2,4,2,Uncommon
-URS-010,4,Amber,Character,3,0,Gaston - Despicable Dealer,GASTONDESPICABLEDEALER,Storyborn| Villain,2,4,1,Super Rare
-URS-011,4,Amber,Character,1,1,Golden Harp - Enchanter of the Land,GOLDENHARPENCHANTEROFTHELAND,Storyborn| Ally,1,4,2,Rare
-URS-012,4,Amber,Character,4,0,Goofy - Musketeer Swordsman,GOOFYMUSKETEERSWORDSMAN,Dreamborn| Hero| Musketeer,3,4,2,Rare
-URS-013,4,Amber,Character,3,1,Julieta Madrigal - Excellent Cook,JULIETAMADRIGALEXCELLENTCOOK,Storyborn| Mentor| Madrigal,1,4,1,Uncommon
-URS-014,4,Amber,Character,3,1,Max - Loyal Sheepdog,MAXLOYALSHEEPDOG,Storyborn| Ally,4,3,1,Common
-URS-015,4,Amber,Character,4,1,Mickey Mouse - Leader of the Band,MICKEYMOUSELEADEROFTHEBAND,Storyborn| Hero,2,5,1,Uncommon
-URS-016,4,Amber,Character,7,0,Mickey Mouse - Musketeer Captain,MICKEYMOUSEMUSKETEERCAPTAIN,Floodborn| Hero| Musketeer| Captain,3,6,2,Legendary
-URS-017,4,Amber,Character,5,0,Minnie Mouse - Musketeer Champion,MINNIEMOUSEMUSKETEERCHAMPION,Dreamborn| Hero| Musketeer,1,5,2,Super Rare
-URS-018,4,Amber,Character,5,0,Mirabel Madrigal - Gift of the Family,MIRABELMADRIGALGIFTOFTHEFAMILY,Dreamborn| Hero| Madrigal,3,5,2,Super Rare
-URS-019,4,Amber,Character,2,1,Mirabel Madrigal - Prophecy Finder,MIRABELMADRIGALPROPHECYFINDER,Storyborn| Hero| Madrigal,2,2,1,Common
-URS-020,4,Amber,Character,5,1,Pluto - Rescue Dog,PLUTORESCUEDOG,Storyborn| Ally,4,5,2,Common
-URS-021,4,Amber,Character,3,1,Prince Eric - Seafaring Prince,PRINCEERICSEAFARINGPRINCE,Dreamborn| Hero| Prince,3,3,1,Common
-URS-022,4,Amber,Character,6,1,Prince Eric - Ursula's Groom,PRINCEERICURSULA'SGROOM,Floodborn| Hero| Prince,5,5,2,Uncommon
-URS-023,4,Amber,Character,2,1,Stitch - Alien Dancer,STITCHALIENDANCER,Storyborn| Hero| Alien,2,3,1,Common
-URS-024,4,Amber,Character,4,0,Ursula - Eric's Bride,URSULAERIC'SBRIDE,Floodborn| Villain| Princess| Sorcerer,2,4,2,Rare
-URS-025,4,Amber,Character,2,1,Ursula - Vanessa,URSULAVANESSA,Storyborn| Villain| Sorcerer,1,4,1,Common
-URS-026,4,Amber,Action,2,0,Bruno's Return,BRUNO'SRETURN,,,,,Uncommon
-URS-027,4,Amber,Action,1,1,First Aid,FIRSTAID,,,,,Common
-URS-028,4,Amber,Action - Song,7,1,Look at this Family,LOOKATTHISFAMILY,,,,,Rare
-URS-029,4,Amber,Action - Song,4,1,Lost in the Woods,LOSTINTHEWOODS,,,,,Uncommon
-URS-030,4,Amber,Action,3,0,Sign the Scroll,SIGNTHESCROLL,,,,,Uncommon
-URS-031,4,Amber,Item,2,1,Miracle Candle,MIRACLECANDLE,,,,,Rare
-URS-032,4,Amber,Item,2,1,Record Player,RECORDPLAYER,,,,,Common
-URS-033,4,Amber,Location,1,1,Atlantica - Concert Hall,ATLANTICACONCERTHALL,,,6,,Common
-URS-034,4,Amber,Location,2,1,The Underworld - River Styx,THEUNDERWORLDRIVERSTYX,,,6,1,Rare
-URS-035,4,Amethyst,Character,3,1,Antonio Madrigal - Animal Expert,ANTONIOMADRIGALANIMALEXPERT,Storyborn| Ally| Madrigal,3,4,1,Uncommon
-URS-036,4,Amethyst,Character,5,1,Belle - Accomplished Mystic,BELLEACCOMPLISHEDMYSTIC,Floodborn| Hero| Princess| Sorcerer,4,4,2,Super Rare
-URS-037,4,Amethyst,Character,3,1,Belle - Untrained Mystic,BELLEUNTRAINEDMYSTIC,Dreamborn| Hero| Princess,3,3,1,Common
-URS-038,4,Amethyst,Character,5,0,Bruno Madrigal - Out of the Shadows,BRUNOMADRIGALOUTOFTHESHADOWS,Storyborn| Ally| Madrigal,4,5,1,Rare
-URS-039,4,Amethyst,Character,4,1,Bruno Madrigal - Undetected Uncle,BRUNOMADRIGALUNDETECTEDUNCLE,Storyborn| Ally| Madrigal,3,3,1,Super Rare
-URS-040,4,Amethyst,Character,4,1,Camilo Madrigal - Prankster,CAMILOMADRIGALPRANKSTER,Storyborn| Ally| Madrigal,2,5,1,Uncommon
-URS-041,4,Amethyst,Character,4,1,Dolores Madrigal - Easy Listener,DOLORESMADRIGALEASYLISTENER,Storyborn| Ally| Madrigal,3,3,2,Common
-URS-042,4,Amethyst,Character,3,0,Elsa - Storm Chaser,ELSASTORMCHASER,Storyborn| Hero| Queen| Sorcerer,1,4,1,Rare
-URS-043,4,Amethyst,Character,3,0,Flotsam - Ursula's "Baby",FLOTSAMURSULA'S"BABY",Dreamborn| Ally,4,2,1,Uncommon
-URS-044,4,Amethyst,Character,6,1,Flotsam & Jetsam - Entangling Eels,FLOTSAM&JETSAMENTANGLINGEELS,Floodborn| Ally,5,5,2,Uncommon
-URS-045,4,Amethyst,Character,5,1,Isabela Madrigal - Golden Child,ISABELAMADRIGALGOLDENCHILD,Storyborn| Ally| Madrigal,3,4,1,Rare
-URS-046,4,Amethyst,Character,3,1,Jetsam - Ursula's "Baby",JETSAMURSULA'S"BABY",Dreamborn| Ally,2,4,1,Common
-URS-047,4,Amethyst,Character,4,0,Luisa Madrigal - Magically Strong One,LUISAMADRIGALMAGICALLYSTRONGONE,Storyborn| Ally| Madrigal,4,3,1,Common
-URS-048,4,Amethyst,Character,1,1,Magic Broom - Illuminary Keeper,MAGICBROOMILLUMINARYKEEPER,Dreamborn| Broom,1,2,1,Common
-URS-049,4,Amethyst,Character,3,1,Magic Broom - Lively Sweeper,MAGICBROOMLIVELYSWEEPER,Dreamborn| Broom,2,4,1,Common
-URS-050,4,Amethyst,Character,2,1,Magical Maid - Feather Duster,MAGICALMAIDFEATHERDUSTER,Storyborn| Ally,2,2,2,Uncommon
-URS-051,4,Amethyst,Character,3,0,Marshmallow - Terrifying Snowman,MARSHMALLOWTERRIFYINGSNOWMAN,Storyborn| Ally,0,3,1,Uncommon
-URS-052,4,Amethyst,Character,4,1,Mrs. Potts - Enchanted Teapot,MRS.POTTSENCHANTEDTEAPOT,Storyborn| Ally,3,4,2,Rare
-URS-053,4,Amethyst,Character,5,0,Pepa Madrigal - Weather Maker,PEPAMADRIGALWEATHERMAKER,Storyborn| Ally| Madrigal,1,5,1,Rare
-URS-054,4,Amethyst,Character,3,0,Peter Pan - Shadow Finder,PETERPANSHADOWFINDER,Storyborn| Hero,2,3,1,Super Rare
-URS-055,4,Amethyst,Character,2,1,Pico - Helpful Toucan,PICOHELPFULTOUCAN,Storyborn| Ally,3,2,1,Common
-URS-056,4,Amethyst,Character,6,1,Tick-Tock - Ever-Present Pursuer,TICKTOCKEVERPRESENTPURSUER,Storyborn| Ally,4,7,1,Common
-URS-057,4,Amethyst,Character,2,1,Ursula - Mad Sea Witch,URSULAMADSEAWITCH,Dreamborn| Villain| Sorcerer,1,3,1,Uncommon
-URS-058,4,Amethyst,Character,7,1,Ursula - Sea Witch Queen,URSULASEAWITCHQUEEN,Floodborn| Villain| Queen| Sorcerer,4,7,3,Legendary
-URS-059,4,Amethyst,Character,2,1,Yen Sid - Powerful Sorcerer,YENSIDPOWERFULSORCERER,Storyborn| Hero| Sorcerer,1,3,1,Legendary
-URS-060,4,Amethyst,Action - Song,2,1,Poor Unfortunate Souls,POORUNFORTUNATESOULS,,,,,Common
-URS-061,4,Amethyst,Action - Song,10,0,Second Star to the Right,SECONDSTARTOTHERIGHT,,,,,Rare
-URS-062,4,Amethyst,Action,1,1,Swing Into Action,SWINGINTOACTION,,,,,Common
-URS-063,4,Amethyst,Action,3,0,Ursula's Plan,URSULA'SPLAN,,,,,Uncommon
-URS-064,4,Amethyst,Item,2,1,Mystical Rose,MYSTICALROSE,,,,,Rare
-URS-065,4,Amethyst,Item,2,1,Rose Lantern,ROSELANTERN,,,,,Common
-URS-066,4,Amethyst,Item,2,1,Triton's Trident,TRITON'STRIDENT,,,,,Uncommon
-URS-067,4,Amethyst,Location,1,1,Casa Madrigal - Casita,CASAMADRIGALCASITA,,,6,,Common
-URS-068,4,Amethyst,Location,3,0,Ursula's Lair - Eye of the Storm,URSULA'SLAIREYEOFTHESTORM,,,6,1,Rare
-URS-069,4,Emerald,Character,5,1,Cri-Kee - Lucky Cricket,CRIKEELUCKYCRICKET,Storyborn| Ally,3,4,3,Rare
-URS-070,4,Emerald,Character,3,0,Diablo - Devoted Herald,DIABLODEVOTEDHERALD,Floodborn| Ally,2,2,1,Legendary
-URS-071,4,Emerald,Character,1,1,Diablo - Maleficent's Spy,DIABLOMALEFICENT'SSPY,Storyborn| Ally,1,2,1,Common
-URS-072,4,Emerald,Character,4,1,Gunther - Interior Designer,GUNTHERINTERIORDESIGNER,Dreamborn| Ally,3,3,2,Common
-URS-073,4,Emerald,Character,2,1,Gus - Champion of Cheese,GUSCHAMPIONOFCHEESE,Storyborn| Ally,2,3,1,Common
-URS-074,4,Emerald,Character,4,1,Hades - Double Dealer,HADESDOUBLEDEALER,Storyborn| Villain| Deity,3,3,1,Legendary
-URS-075,4,Emerald,Character,3,1,HeiHei - Bumbling Rooster,HEIHEIBUMBLINGROOSTER,Storyborn| Ally,2,3,2,Uncommon
-URS-076,4,Emerald,Character,3,1,Hera - Queen of the Gods,HERAQUEENOFTHEGODS,Storyborn| Queen| Deity,1,3,2,Rare
-URS-077,4,Emerald,Character,3,1,Jaq - Connoisseur of Climbing,JAQCONNOISSEUROFCLIMBING,Storyborn| Ally,1,4,2,Common
-URS-078,4,Emerald,Character,5,0,Jasmine - Desert Warrior,JASMINEDESERTWARRIOR,Dreamborn| Hero| Princess,3,3,2,Rare
-URS-079,4,Emerald,Character,3,0,Megara - Captivating Cynic,MEGARACAPTIVATINGCYNIC,Dreamborn| Ally,3,6,2,Common
-URS-080,4,Emerald,Character,5,1,Megara - Liberated one,MEGARALIBERATEDONE,Storyborn| Ally,4,4,2,Uncommon
-URS-081,4,Emerald,Character,3,1,Pain - Immortal Sidekick,PAINIMMORTALSIDEKICK,Storyborn| Ally,2,4,2,Uncommon
-URS-082,4,Emerald,Character,4,1,Panic - Immortal Sidekick,PANICIMMORTALSIDEKICK,Storyborn| Ally,3,3,2,Uncommon
-URS-083,4,Emerald,Character,5,1,Pegasus - Cloud Racer,PEGASUSCLOUDRACER,Floodborn| Ally,3,3,2,Uncommon
-URS-084,4,Emerald,Character,1,1,Pegasus - Gift for Hercules,PEGASUSGIFTFORHERCULES,Storyborn| Ally,1,1,1,Common
-URS-085,4,Emerald,Character,2,0,Pete - Born to Cheat,PETEBORNTOCHEAT,Dreamborn| Villain| Musketeer,2,3,1,Super Rare
-URS-086,4,Emerald,Character,4,1,Pete - Rotten Guy,PETEROTTENGUY,Storyborn| Villain| Musketeer,1,5,2,Uncommon
-URS-087,4,Emerald,Character,9,1,Prince Phillip - Vanquisher of Foes,PRINCEPHILLIPVANQUISHEROFFOES,Floodborn| Hero| Prince,6,6,3,Super Rare
-URS-088,4,Emerald,Character,4,0,Prince Phillip - Warden of the Woods,PRINCEPHILLIPWARDENOFTHEWOODS,Dreamborn| Hero| Prince,3,4,2,Rare
-URS-089,4,Emerald,Character,1,1,The Fates - Only One Eye,THEFATESONLYONEEYE,Storyborn| Ally,2,1,1,Common
-URS-090,4,Emerald,Character,4,1,The Muses - Proclaimers of Heroes,THEMUSESPROCLAIMERSOFHEROES,Storyborn| Ally,2,4,1,Rare
-URS-091,4,Emerald,Character,5,1,Tor - Florist,TORFLORIST,Dreamborn| Ally,4,7,1,Common
-URS-092,4,Emerald,Character,3,1,Zeus - Mr. Lightning Bolts,ZEUSMR.LIGHTNINGBOLTS,Storyborn| King| Deity,0,5,2,Super Rare
-URS-093,4,Emerald,Action,2,1,Dodge!,DODGE!,,,,,Common
-URS-094,4,Emerald,Action,2,0,Make the Potion,MAKETHEPOTION,,,,,Common
-URS-095,4,Emerald,Action - Song,8,0,Under the Sea,UNDERTHESEA,,,,,Rare
-URS-096,4,Emerald,Action,1,0,Ursula's Trickery,URSULA'STRICKERY,,,,,Uncommon
-URS-097,4,Emerald,Action - Song,5,1,We Don't Talk About Bruno,WEDON'TTALKABOUTBRUNO,,,,,Rare
-URS-098,4,Emerald,Item,2,0,Hidden Inkcaster,HIDDENINKCASTER,,,,,Common
-URS-099,4,Emerald,Item,2,1,Signed Contract,SIGNEDCONTRACT,,,,,Uncommon
-URS-100,4,Emerald,Item,3,1,Vision Slab,VISIONSLAB,,,,,Uncommon
-URS-101,4,Emerald,Location,1,1,Hidden Cove - Tranquil Haven,HIDDENCOVETRANQUILHAVEN,,,6,,Common
-URS-102,4,Emerald,Location,4,1,Ursula's Garden - Full of the Unfortunate,URSULA'SGARDENFULLOFTHEUNFORTUNATE,,,7,1,Rare
-URS-103,4,Ruby,Character,3,1,Beast - Wounded,BEASTWOUNDED,Storyborn| Hero| Prince,2,6,2,Uncommon
-URS-104,4,Ruby,Character,4,1,Benja - Bold United,BENJABOLDUNITED,Storyborn| Mentor| King,5,3,1,Common
-URS-105,4,Ruby,Character,2,1,Fa Zhou - Mulan's Father,FAZHOUMULAN'SFATHER,Storyborn| Mentor,0,4,1,Common
-URS-106,4,Ruby,Character,2,1,Flynn Rider - Frenemy,FLYNNRIDERFRENEMY,Storyborn| Hero| Prince,2,2,1,Super Rare
-URS-107,4,Ruby,Character,4,1,Goofy - Super Goof,GOOFYSUPERGOOF,Storyborn| Hero,2,4,1,Rare
-URS-108,4,Ruby,Character,3,0,Hercules - Clumsy Kid,HERCULESCLUMSYKID,Storyborn| Hero| Prince,3,3,1,Common
-URS-109,4,Ruby,Character,5,0,Hercules - Daring Demigod,HERCULESDARINGDEMIGOD,Dreamborn| Hero| Prince,7,3,0,Uncommon
-URS-110,4,Ruby,Character,2,1,Khan - Beloved Steed,KHANBELOVEDSTEED,Storyborn| Ally,3,2,1,Uncommon
-URS-111,4,Ruby,Character,1,1,Li Shang - General's Son,LISHANGGENERAL'SSON,Storyborn| Hero,2,2,1,Common
-URS-112,4,Ruby,Character,3,1,Li Shang - Valorous General,LISHANGVALOROUSGENERAL,Floodborn| Hero,3,2,1,Uncommon
-URS-113,4,Ruby,Character,2,1,Lumiere - Fiery Friend,LUMIEREFIERYFRIEND,Dreamborn| Ally,2,2,1,Rare
-URS-114,4,Ruby,Character,6,1,Mulan - Elite Archer,MULANELITEARCHER,Floodborn| Hero| Princess,2,6,2,Legendary
-URS-115,4,Ruby,Character,2,1,Mulan - Enemy of Entanglement,MULANENEMYOFENTANGLEMENT,Storyborn| Hero| Princess,1,3,1,Uncommon
-URS-116,4,Ruby,Character,1,1,Mulan - Injured Soldier,MULANINJUREDSOLDIER,Storyborn| Hero| Princess,2,3,1,Common
-URS-117,4,Ruby,Character,3,0,Namaari - Heir of Fang,NAMAARIHEIROFFANG,Storyborn| Villain| Princess,2,3,1,Rare
-URS-118,4,Ruby,Character,6,1,Nessus - River guardian,NESSUSRIVERGUARDIAN,Storyborn| Villain,7,5,2,Uncommon
-URS-119,4,Ruby,Character,4,1,Noi - Acrobatic Baby,NOIACROBATICBABY,Storyborn| Ally,4,4,1,Super Rare
-URS-120,4,Ruby,Character,2,1,Pegasus - Flying Steed,PEGASUSFLYINGSTEED,Storyborn| Ally,3,1,1,Common
-URS-121,4,Ruby,Character,3,1,Raya - Fierce Protector,RAYAFIERCEPROTECTOR,Storyborn| Hero| Princess,3,3,1,Super Rare
-URS-122,4,Ruby,Character,4,1,Raya - Guardian of the Dragon Gem,RAYAGUARDIANOFTHEDRAGONGEM,Storyborn| Hero| Princess,3,3,2,Common
-URS-123,4,Ruby,Character,3,0,Sisu - Daring Visitor,SISUDARINGVISITOR,Storyborn| Hero| Deity| Dragon,1,1,1,Uncommon
-URS-124,4,Ruby,Character,3,1,Sisu - Emboldened Warrior,SISUEMBOLDENEDWARRIOR,Storyborn| Hero| Deity| Dragon,1,4,2,Rare
-URS-125,4,Ruby,Character,8,0,Sisu - Empowered Sibling,SISUEMPOWEREDSIBLING,Floodborn| Hero| Deity| Dragon,5,4,3,Legendary
-URS-126,4,Ruby,Character,4,0,Tong - Survivor,TONGSURVIVOR,Storyborn| Ally,3,6,0,Common
-URS-127,4,Ruby,Character,3,1,Tuk Tuk - Lively Partner,TUKTUKLIVELYPARTNER,Storyborn| Ally,2,3,1,Rare
-URS-128,4,Ruby,Action - Song,6,1,A Pirate's Life,APIRATE'SLIFE,,,,,Uncommon
-URS-129,4,Ruby,Action - Song,4,0,Be King Undisputed,BEKINGUNDISPUTED,,,,,Rare
-URS-130,4,Ruby,Action,3,1,Brawl,BRAWL,,,,,Common
-URS-131,4,Ruby,Item,1,1,Imperial Proclamation,IMPERIALPROCLAMATION,,,,,Rare
-URS-132,4,Ruby,Item,2,1,Medallion Weights,MEDALLIONWEIGHTS,,,,,Uncommon
-URS-133,4,Ruby,Item,3,0,The Plank,THEPLANK,,,,,Common
-URS-134,4,Ruby,Item,1,1,Vitalisphere,VITALISPHERE,,,,,Common
-URS-135,4,Ruby,Location,2,1,Snuggly Duckling - Disreputable Pub,SNUGGLYDUCKLINGDISREPUTABLEPUB,,,9,,Rare
-URS-136,4,Ruby,Location,1,1,Training Grounds - Impossible Pillar,TRAININGGROUNDSIMPOSSIBLEPILLAR,,,5,0,Common
-URS-137,4,Sapphire,Character,2,1,Anna - Braving the Storm,ANNABRAVINGTHESTORM,Dreamborn| Hero| Queen,1,4,1,Common
-URS-138,4,Sapphire,Character,4,1,Anna - True-Hearted,ANNATRUEHEARTED,Dreamborn| Hero| Queen| Knight,2,4,2,Super Rare
-URS-139,4,Sapphire,Character,6,0,Ariel - Treasure Collector,ARIELTREASURECOLLECTOR,Storyborn| Hero| Princess,3,4,3,Super Rare
-URS-140,4,Sapphire,Character,4,1,Aurora - Lore Guardian,AURORALOREGUARDIAN,Floodborn| Hero| Princess,3,3,2,Super Rare
-URS-141,4,Sapphire,Character,2,1,Aurora - Tranquil Princess,AURORATRANQUILPRINCESS,Dreamborn| Hero| Princess,1,3,1,Common
-URS-142,4,Sapphire,Character,5,1,Dang Hu - Talon Chief,DANGHUTALONCHIEF,Storyborn| Villain,3,5,2,Rare
-URS-143,4,Sapphire,Character,1,1,Fa Li - Mulan's Mother,FALIMULAN'SMOTHER,Storyborn| Mentor,1,3,1,Common
-URS-144,4,Sapphire,Character,3,1,Flounder - Collector's Companion,FLOUNDERCOLLECTOR'SCOMPANION,Storyborn| Ally,2,2,2,Uncommon
-URS-145,4,Sapphire,Character,4,1,Hades - Meticulous Plotter,HADESMETICULOUSPLOTTER,Storyborn| Villain| Deity,3,6,1,Uncommon
-URS-146,4,Sapphire,Character,3,1,Hans - Noble Scoundrel,HANSNOBLESCOUNDREL,Storyborn| Villain| Prince,3,2,2,Common
-URS-147,4,Sapphire,Character,4,1,Iduna - Caring Mother,IDUNACARINGMOTHER,Storyborn| Mentor| Queen,3,3,1,Uncommon
-URS-148,4,Sapphire,Character,8,1,John Silver - Terror of the Realm,JOHNSILVERTERROROFTHEREALM,Dreamborn| Villain| Alien| Pirate| Captain,8,8,3,Rare
-URS-149,4,Sapphire,Character,3,1,Olaf - Carrot Enthusiast,OLAFCARROTENTHUSIAST,Floodborn| Ally,1,4,2,Uncommon
-URS-150,4,Sapphire,Character,1,1,Olaf - Trusting Companion,OLAFTRUSTINGCOMPANION,Storyborn| Ally,1,2,1,Common
-URS-151,4,Sapphire,Character,3,1,Pascal - Inquisitive Pet,PASCALINQUISITIVEPET,Storyborn| Ally,3,3,1,Common
-URS-152,4,Sapphire,Character,3,1,Prince Phillip - Gallant Defender,PRINCEPHILLIPGALLANTDEFENDER,Storyborn| Hero| Prince,1,3,2,Rare
-URS-153,4,Sapphire,Character,5,1,Rapunzel - Appreciative Artist,RAPUNZELAPPRECIATIVEARTIST,Dreamborn| Hero| Princess,3,5,3,Rare
-URS-154,4,Sapphire,Character,2,1,Scuttle - Expert on Humans,SCUTTLEEXPERTONHUMANS,Storyborn| Ally,1,3,1,Uncommon
-URS-155,4,Sapphire,Character,6,1,Sisu - Wise Friend,SISUWISEFRIEND,Storyborn| Hero| Deity| Dragon,6,6,2,Uncommon
-URS-156,4,Sapphire,Character,3,1,The Queen - Diviner,THEQUEENDIVINER,Dreamborn| Villain| Queen| Sorcerer,3,3,1,Legendary
-URS-157,4,Sapphire,Character,4,1,Transformed Chef - Castle Stove,TRANSFORMEDCHEFCASTLESTOVE,Storyborn| Ally,3,3,,Common
-URS-158,4,Sapphire,Character,9,1,Triton - Champion of Atlantica,TRITONCHAMPIONOFATLANTICA,Floodborn| King,7,9,3,Legendary
-URS-159,4,Sapphire,Character,3,0,Triton - Discerning King,TRITONDISCERNINGKING,Storyborn| King,3,3,1,Rare
-URS-160,4,Sapphire,Character,4,1,Triton - Young Prince,TRITONYOUNGPRINCE,Dreamborn| Prince,3,4,1,Uncommon
-URS-161,4,Sapphire,Character,2,1,Tuk Tuk - Curious Partner,TUKTUKCURIOUSPARTNER,Storyborn| Ally,2,3,1,Common
-URS-162,4,Sapphire,Action - Song,8,0,Dig a Little Deeper,DIGALITTLEDEEPER,,,,,Uncommon
-URS-163,4,Sapphire,Action,1,1,Glean,GLEAN,,,,,Common
-URS-164,4,Sapphire,Action - Song,2,1,Seldom All They Seem,SELDOMALLTHEYSEEM,,,,,Common
-URS-165,4,Sapphire,Action - Song,6,1,Treasures Untold,TREASURESUNTOLD,,,,,Rare
-URS-166,4,Sapphire,Item,3,1,Field of Ice,FIELDOFICE,,,,,Rare
-URS-167,4,Sapphire,Item,3,1,Great Stone Dragon,GREATSTONEDRAGON,,,,,Uncommon
-URS-168,4,Sapphire,Item,1,0,Ice Block,ICEBLOCK,,,,,Common
-URS-169,4,Sapphire,Location,2,1,Ariel's Grotto - A Secret Place,ARIEL'SGROTTOASECRETPLACE,,,7,0,Rare
-URS-170,4,Sapphire,Location,3,1,Winter Camp - Medical Tent,WINTERCAMPMEDICALTENT,,,8,1,Common
-URS-171,4,Steel,Character,3,1,Aladdin - Brave Rescuer,ALADDINBRAVERESCUER,Floodborn| Hero,3,3,1,Uncommon
-URS-172,4,Steel,Character,1,1,Aladdin - Resolute Swordsman,ALADDINRESOLUTESWORDSMAN,Storyborn| Hero,1,3,1,Common
-URS-173,4,Steel,Character,2,1,Arges - The Cyclops,ARGESTHECYCLOPS,Storyborn| Titan,3,3,1,Common
-URS-174,4,Steel,Character,3,1,Ariel - Determined Mermaid,ARIELDETERMINEDMERMAID,Storyborn| Hero| Princess,2,4,1,Common
-URS-175,4,Steel,Character,6,1,Ariel - Sonic Warrior,ARIELSONICWARRIOR,Floodborn| Hero| Princess,3,8,2,Super Rare
-URS-176,4,Steel,Character,3,1,Beast - Thick-Skinned,BEASTTHICKSKINNED,Storyborn| Hero| Prince,2,3,1,Common
-URS-177,4,Steel,Character,3,1,Chi-Fu - Imperial Advisor,CHIFUIMPERIALADVISOR,Storyborn| Ally,0,5,1,Uncommon
-URS-178,4,Steel,Character,5,1,Chien-Po - Imperial Soldier,CHIENPOIMPERIALSOLDIER,Storyborn| Ally,4,7,1,Common
-URS-179,4,Steel,Character,4,1,Donald Duck - Buccaneer,DONALDDUCKBUCCANEER,Dreamborn| Hero| Pirate| Captain,3,4,1,Legendary
-URS-180,4,Steel,Character,6,1,Hercules - Beloved Hero,HERCULESBELOVEDHERO,Storyborn| Hero| Prince,6,5,2,Rare
-URS-181,4,Steel,Character,3,1,Lefou - Opportunistic Flunky,LEFOUOPPORTUNISTICFLUNKY,Dreamborn| Ally,2,3,1,Rare
-URS-182,4,Steel,Character,5,1,Li Shang - Imperial Captain,LISHANGIMPERIALCAPTAIN,Dreamborn| Hero| Captain,5,5,2,Uncommon
-URS-183,4,Steel,Character,3,1,Ling - Imperial Soldier,LINGIMPERIALSOLDIER,Storyborn| Ally,3,3,1,Uncommon
-URS-184,4,Steel,Character,3,1,Luisa Madrigal - Rock of the Family,LUISAMADRIGALROCKOFTHEFAMILY,Storyborn| Ally| Madrigal,2,4,1,Common
-URS-185,4,Steel,Character,2,1,Magic Broom - Aerial Cleaner,MAGICBROOMAERIALCLEANER,Dreamborn| Broom,2,3,1,Common
-URS-186,4,Steel,Character,6,1,Magic Broom - Brigade Commander,MAGICBROOMBRIGADECOMMANDER,Dreamborn| Broom,2,6,2,Super Rare
-URS-187,4,Steel,Character,5,1,Mickey Mouse - Playful Sorcerer,MICKEYMOUSEPLAYFULSORCERER,Floodborn| Hero| Sorcerer,3,4,2,Rare
-URS-188,4,Steel,Character,2,1,Mickey Mouse - Standard Bearer,MICKEYMOUSESTANDARDBEARER,Storyborn| Hero,1,3,1,Common
-URS-189,4,Steel,Character,4,1,Mulan - Armored Fighter,MULANARMOREDFIGHTER,Storyborn| Hero| Princess,3,6,1,Uncommon
-URs-190,4,Steel,Character,4,1,Philoctetes - No-Nonsense Instructor,PHILOCTETESNONONSENSEINSTRUCTOR,Storyborn| Ally,2,3,2,Rare
-URS-191,4,Steel,Character,5,0,Piglet - Sturdy Swordsman,PIGLETSTURDYSWORDSMAN,Dreamborn| Hero,3,5,3,Legendary
-URS-192,4,Steel,Character,4,1,Rajah - Royal Protector,RAJAHROYALPROTECTOR,Storyborn| Ally,3,4,2,Rare
-URS-193,4,Steel,Character,7,1,Raya - Unstoppable Force,RAYAUNSTOPPABLEFORCE,Dreamborn| Hero| Princess,3,6,2,Super Rare
-URS-194,4,Steel,Character,4,1,Yao - Imperial Soldier,YAOIMPERIALSOLDIER,Storyborn| Ally,2,5,1,Common
-URS-195,4,Steel,Action,4,0,Avalanche,AVALANCHE,,,,,Uncommon
-URS-196,4,Steel,Action - Song,4,1,I Find 'Em  I Flatten 'Em,IFIND'EMIFLATTEN'EM,,,,,Uncommon
-URS-197,4,Steel,Action - Song,3,0,One Last Hope,ONELASTHOPE,,,,,Rare
-URS-198,4,Steel,Action - Song,10,0,The Mob Song,THEMOBSONG,,,,,Uncommon
-URS-199,4,Steel,Action,1,0,Triton's Decree,TRITON'SDECREE,,,,,Common
-URS-200,4,Steel,Item,1,1,Fortisphere,FORTISPHERE,,,,,Common
-URS-201,4,Steel,Item,2,1,Imperial Bow,IMPERIALBOW,,,,,Uncommon
-URS-202,4,Steel,Item,3,0,RLS Legacy's Cannon,RLSLEGACY'SCANNON,,,,,Rare
-URS-203,4,Steel,Location,4,1,The Wall - Border Fortress,THEWALLBORDERFORTRESS,,,8,0,Rare
-URS-204,4,Steel,Location,2,1,Thebes - The Big Olive,THEBESTHEBIGOLIVE,,,7,0,Common
+collectorID,set,color,type,inkcost,inkable,cardname,tags,strength,willpower,lore,rarity
+INK-001,Set3,Amber,Character,3,0,Baloo - von Bruinwald XIII,Dreamborn| Hero,0,3,1,Rare
+INK-002,Set3,Amber,Character,4,1,Bernard - Brand-New Agent,Storyborn| Hero,1,5,2,Rare
+INK-003,Set3,Amber,Character,10,0,Chernabog - Evildoer,Storyborn| Villain,9,9,3,Super Rare
+INK-004,Set3,Amber,Character,2,1,Dalmatian Puppy - Tail Wagger,Storyborn| Puppy,2,3,1,Common
+INK-005,Set3,Amber,Character,4,1,Joshua Sweet - The Doctor,Storyborn| Ally,1,5,2,Common
+INK-006,Set3,Amber,Character,1,1,Kida - Atlantean,Storyborn| Hero| Princess,2,2,1,Common
+INK-007,Set3,Amber,Character,5,1,Kida - Protector of Atlantis,Floodborn| Hero| Princess,3,5,2,Legendary
+INK-008,Set3,Amber,Character,4,0,Lucky - The 15th Puppy,Storyborn| Puppy,2,3,1,Rare
+INK-009,Set3,Amber,Character,2,1,Minnie Mouse - Musical Artist,Dreamborn| Hero,1,3,1,Rare
+INK-010,Set3,Amber,Character,2,1,Miss Bianca - Rescue Aid Society Agent,Storyborn| Hero,2,2,1,Common
+INK-011,Set3,Amber,Character,6,1,Mr. Snoops - Inept Businessman,Dreamborn| Ally,4,8,2,Common
+INK-012,Set3,Amber,Character,5,1,Nani - Protective Sister,Storyborn| Hero,3,6,2,Uncommon
+INK-013,Set3,Amber,Character,2,1,Orville - Ace Pilot,Storyborn| Ally,1,4,1,Common
+INK-014,Set3,Amber,Character,4,1,Patch - Intimidating Pup,Storyborn| Puppy,3,4,1,Common
+INK-015,Set3,Amber,Character,6,0,Perdita - Devoted Mother,Storyborn| Hero,1,6,2,Legendary
+INK-016,Set3,Amber,Character,2,1,Piglet - Pooh Pirate Captain,Dreamborn| Hero| Pirate| Captain,2,2,1,Super Rare
+INK-017,Set3,Amber,Character,7,1,Pluto - Determined Defender,Floodborn| Ally,3,8,2,Rare
+INK-018,Set3,Amber,Character,1,0,Pluto - Friendly Pooch,Storyborn| Ally,0,2,1,Uncommon
+INK-019,Set3,Amber,Character,3,1,Pongo - Determined Father,Storyborn| Hero,3,2,1,Super Rare
+INK-020,Set3,Amber,Character,3,1,Queen of Hearts - Wonderland Empress,Dreamborn| Villain| Queen,3,3,1,Uncommon
+INK-021,Set3,Amber,Character,3,1,Rolly - Hungry Pup,Storyborn| Puppy,3,3,1,Uncommon
+INK-022,Set3,Amber,Character,4,0,Tinker Bell - Generous Fairy,Storyborn| Ally| Fairy,1,4,1,Uncommon
+INK-023,Set3,Amber,Character,2,1,Wendy Darling - Talented Sailor,Dreamborn| Hero,1,3,2,Uncommon
+INK-024,Set3,Amber,Action,5,0,99 Puppies,,,,,Uncommon
+INK-025,Set3,Amber,Action,1,1,Boss's Orders,,,,,Common
+INK-026,Set3,Amber,Action - Song,3,1,Heal What Has Been Hurt,,,,,Common
+INK-027,Set3,Amber,Action,1,1,Quick Patch,,,,,Common
+INK-028,Set3,Amber,Action - Song,2,1,The Bare Necessities,,,,,Rare
+INK-029,Set3,Amber,Item,2,1,Cleansing Rainwater,,,,,Common
+INK-030,Set3,Amber,Item,4,0,Heart of Atlantis,,,,,Rare
+INK-031,Set3,Amber,Item,2,1,Wildcat's Wrench,,,,,Uncommon
+INK-032,Set3,Amber,Location,1,1,Never Land - Mermaid Lagoon,,,4,1,Common
+INK-033,Set3,Amber,Location,2,0,Pride Lands - Pride Rock,,,7,1,Rare
+INK-034,Set3,Amber,Location,3,0,Tiana's Palace - Jazz Restaurant,,,8,1,Uncommon
+INK-035,Set3,Amethyst,Character,6,1,Alice - Tea Alchemist,Dreamborn| Hero| Sorcerer,4,4,2,Super Rare
+INK-036,Set3,Amethyst,Character,1,1,Chernabog's Followers - Creatures of Evil,Storyborn| Ally,2,1,1,Uncommon
+INK-037,Set3,Amethyst,Character,1,1,Diablo - Faithful Pet,Dreamborn| Ally,2,1,1,Common
+INK-038,Set3,Amethyst,Character,4,0,Genie - Supportive Friend,Storyborn| Ally,3,5,1,Super Rare
+INK-039,Set3,Amethyst,Character,3,1,Hydros - Ice Titan,Storyborn| Titan,2,2,2,Uncommon
+INK-040,Set3,Amethyst,Character,3,1,Iago - Pretty Polly,Storyborn| Ally,3,2,1,Common
+INK-041,Set3,Amethyst,Character,3,1,Jafar - Lamp thief,Storyborn| Villain| Sorcerer,2,2,2,Uncommon
+INK-042,Set3,Amethyst,Character,7,1,Jafar - Striking Illusionist,Floodborn| Villain| Sorcerer,4,5,1,Legendary
+INK-043,Set3,Amethyst,Character,2,1,Lena Sabrewing - Rebellious Teenager,Storyborn| Hero| Sorcerer,1,3,1,Common
+INK-044,Set3,Amethyst,Character,6,0,Magic Broom - Dancing Duster,Dreamborn| Broom,3,3,1,Uncommon
+INK-045,Set3,Amethyst,Character,5,0,Magic Broom - Swift Cleaner,Dreamborn| Broom,4,4,2,Common
+INK-046,Set3,Amethyst,Character,3,1,Magic Broom - The Big Sweeper,Dreamborn|  Broom,1,5,1,Common
+INK-047,Set3,Amethyst,Character,2,1,Magic Carpet - Flying Rug,Storyborn| Ally,2,1,1,Common
+INK-048,Set3,Amethyst,Character,2,1,Magica De Spell - Ambitious Witch,Storyborn| Villain| Sorcerer,2,3,1,Common
+INK-049,Set3,Amethyst,Character,7,0,Magica De Spell - The Midas Touch,Floodborn| Villain| Sorcerer,4,6,,Super Rare
+INK-050,Set3,Amethyst,Character,4,1,Magica De Spell - Thieving Sorceress,Storyborn| Villain| Sorcerer,3,4,2,Uncommon
+INK-051,Set3,Amethyst,Character,5,1,Maleficent - Mistress of All Evil,Storyborn| Villain| Sorcerer,2,3,2,Legendary
+INK-052,Set3,Amethyst,Character,6,0,Mama Odie - Voice of Wisdom,Dreamborn| Ally| Sorcerer,3,6,2,Uncommon
+INK-053,Set3,Amethyst,Character,2,1,Pua - Potbellied Buddy,Storyborn| Ally,2,2,2,Common
+INK-054,Set3,Amethyst,Character,1,1,Rafiki - Mystical Fighter,Dreamborn| Mentor| Sorcerer,0,2,1,Rare
+INK-055,Set3,Amethyst,Character,5,1,Stratos - Tornado Titan,Storyborn| Titan,4,4,,Rare
+INK-056,Set3,Amethyst,Character,4,1,The Firebird - Force of Destruction,Dreamborn| Villain,6,2,1,Common
+INK-057,Set3,Amethyst,Character,3,1,The Queen - Hateful Rival,Dreamborn| Villain| Queen| Sorcerer,4,3,1,Common
+INK-058,Set3,Amethyst,Character,4,0,Treasure Guardian - Protector of the Cave,Storyborn,6,6,2,Rare
+INK-059,Set3,Amethyst,Character,3,0,Ursula - Sea Witch,Dreamborn| Villain| Sorcerer,3,3,1,Rare
+INK-060,Set3,Amethyst,Action,1,1,Bestow A Gift,,,,,Common
+INK-061,Set3,Amethyst,Action - Song,1,1,It Calls Me,,,,,Uncommon
+INK-062,Set3,Amethyst,Action,3,0,Last-Ditch Effort,,,,,Uncommon
+INK-063,Set3,Amethyst,Action - Song,3,1,The Boss Is On A Roll,,,,,Rare
+INK-064,Set3,Amethyst,Item,2,0,The Lamp,,,,,Rare
+INK-065,Set3,Amethyst,Item,2,1,The Sorcerer's Hat,,,,,Rare
+INK-066,Set3,Amethyst,Location,2,1,Forbidden Mountain - Maleficent's Castle,,,6,1,Common
+INK-067,Set3,Amethyst,Location,4,1,The Queen's Castle - Mirror Chamber,,,7,2,Rare
+INK-068,Set3,Amethyst,Location,3,1,The Sorcerer's Tower - Wondrous Workspace,,,7,,Uncommon
+INK-069,Set3,Emerald,Character,4,1,Cubby - Mighty Lost Boy,Storyborn| Ally,3,5,1,Common
+INK-070,Set3,Emerald,Character,1,0,Cursed Merfolk - Ursula's Handiwork,Storyborn,0,1,2,Rare
+INK-071,Set3,Emerald,Character,5,1,Don Karnage - Prince of Pirates,Dreamborn| Villain| Prince| Pirate,4,4,2,Common
+INK-072,Set3,Emerald,Character,3,1,Flotsam - Riffraff,Dreamborn| Ally,5,2,1,Common
+INK-073,Set3,Emerald,Character,4,1,Friar Tuck - Priest of Nottingham,Storyborn| Ally,2,4,2,Uncommon
+INK-074,Set3,Emerald,Character,5,0,Helga Sinclair - Femme Fatale,Floodborn| Villain,4,4,2,Super Rare
+INK-075,Set3,Emerald,Character,2,1,Helga Sinclair - Vengeful Partner,Storyborn| Villain,2,1,1,Rare
+INK-076,Set3,Emerald,Character,3,1,Jetsam - Riffraff,Dreamborn| Ally,2,2,2,Common
+INK-077,Set3,Emerald,Character,3,1,Kit Cloudkicker - Tough Guy,Storyborn| Ally,2,2,1,Uncommon
+INK-078,Set3,Emerald,Character,3,0,Lyle Tiberius Rourke - Cunning Mercenary,Storyborn| Villain,2,4,1,Super Rare
+INK-079,Set3,Emerald,Character,1,1,Milo Thatch - Clever Cartographer,Dreamborn| Hero,2,2,1,Common
+INK-080,Set3,Emerald,Character,7,0,Milo Thatch - King of Atlantis,Floodborn| Hero| King,4,4,3,Legendary
+INK-081,Set3,Emerald,Character,2,1,Morph - Space Goo,Storyborn| Ally| Alien,2,1,1,Rare
+INK-082,Set3,Emerald,Character,4,1,Peter Pan - Lost Boy Leader,Dreamborn| Hero,3,3,1,Rare
+INK-083,Set3,Emerald,Character,5,0,Prince John - Phony King,Storyborn| Villain| Prince,2,4,2,Uncommon
+INK-084,Set3,Emerald,Character,6,1,Robin Hood - Daydreamer,Dreamborn| Hero,4,5,4,Rare
+INK-085,Set3,Emerald,Character,4,1,Shenzi - Hyena Pack Leader,Storyborn| Ally| Hyena,0,6,1,Super Rare
+INK-086,Set3,Emerald,Character,2,1,Sir Hiss - Aggravating Asp,Dreamborn| Ally,3,1,1,Common
+INK-087,Set3,Emerald,Character,2,1,Skippy - Energetic Rabbit,Storyborn| Ally,2,2,1,Common
+INK-088,Set3,Emerald,Character,7,1,Starkey - Devious Pirate,Storyborn| Ally| Pirate,6,6,3,Uncommon
+INK-089,Set3,Emerald,Character,5,1,Stitch - Covert Agent,Dreamborn| Hero| Alien,3,3,2,Rare
+INK-090,Set3,Emerald,Character,2,1,Ursula - Deceiver,Storyborn| Villain| Sorcerer,1,3,1,Uncommon
+INK-091,Set3,Emerald,Character,3,1,Ursula - Deceiver of All,Dreamborn| Villain| Sorcerer,2,3,1,Legendary
+INK-092,Set3,Emerald,Character,3,1,Wildcat - Mechanic,Storyborn| Ally,2,3,1,Uncommon
+INK-093,Set3,Emerald,Character,1,1,Zazu - Steward of the Pride Lands,Storyborn| Ally,2,1,1,Common
+INK-094,Set3,Emerald,Action - Song,2,1,Has Set My Heaaaaaaart . . .,,,,,Uncommon
+INK-095,Set3,Emerald,Action - Song,1,1,I Will Find My Way,,,,,Common
+INK-096,Set3,Emerald,Action - Song,2,1,Strike A Good Match,,,,,Common
+INK-097,Set3,Emerald,Item,2,1,Airfoil,,,,,Common
+INK-098,Set3,Emerald,Item,3,0,Robin's Bow,,,,,Uncommon
+INK-099,Set3,Emerald,Item,4,0,Starlight Vial,,,,,Rare
+INK-100,Set3,Emerald,Location,1,1,De Vil Manor - Cruella's Estate,,,4,1,Common
+INK-101,Set3,Emerald,Location,4,1,Fang - River City,,,6,2,Rare
+INK-102,Set3,Emerald,Location,3,1,Kuzco's Palace - Home of the Emperor,,,7,1,Uncommon
+INK-103,Set3,Ruby,Character,3,1,Ariel - Adventurous Collector,Dreamborn| Hero| Princess,2,3,1,Super Rare
+INK-104,Set3,Ruby,Character,5,1,Billy Bones - Keeper of the Map,Storyborn| Alien| Pirate,6,5,1,Common
+INK-105,Set3,Ruby,Character,5,1,Captain Hook - Master Swordsman,Dreamborn| Villain| Pirate| Captain,5,4,1,Rare
+INK-106,Set3,Ruby,Character,2,0,Della Duck - Unstoppable Mom,Storyborn| Ally,3,3,,Common
+INK-107,Set3,Ruby,Character,2,1,HeiHei - Accidental Explorer,Storyborn| Ally,3,2,1,Uncommon
+INK-108,Set3,Ruby,Character,6,0,Hydra - Deadly Serpent,Storyborn,6,5,2,Legendary
+INK-109,Set3,Ruby,Character,5,1,Jim Hawkins - Space Traveler,Storyborn| Hero,4,4,2,Legendary
+INK-110,Set3,Ruby,Character,2,1,Jim Hawkins - Thrill Seeker,Dreamborn| Hero,3,2,1,Common
+INK-111,Set3,Ruby,Character,3,0,Kakamora - Menacing Sailor,Storyborn| Pirate,3,2,1,Common
+INK-112,Set3,Ruby,Character,6,0,Madame Medusa - The Boss,Storyborn| Villain,4,4,1,Super Rare
+INK-113,Set3,Ruby,Character,3,0,Maui - Soaring Demigod,Storyborn| Hero| Deity,5,2,,Uncommon
+INK-114,Set3,Ruby,Character,7,1,Maui - Whale,Storyborn| Hero| Deity,8,8,1,Rare
+INK-115,Set3,Ruby,Character,2,1,Milo Thatch - Spirited Scholar,Storyborn| Hero,2,2,1,Common
+INK-116,Set3,Ruby,Character,5,1,Moana - Born Leader,Floodborn| Hero| Princess| Captain,4,4,2,Rare
+INK-117,Set3,Ruby,Character,4,1,Moana - Undeterred Voyager,Storyborn| Hero| Princess,3,4,1,Common
+INK-118,Set3,Ruby,Character,2,1,Nutsy - Vulture Henchman,Storyborn| Ally,2,3,1,Common
+INK-119,Set3,Ruby,Character,3,1,Peter Pan - Never Land Hero,Storyborn| Hero,1,3,2,Common
+INK-120,Set3,Ruby,Character,6,1,Peter Pan - Pirate's Bane,Floodborn| Hero,4,5,2,Rare
+INK-121,Set3,Ruby,Character,4,0,Prince Eric - Expert Helmsman,Dreamborn| Hero| Prince,2,2,2,Super Rare
+INK-122,Set3,Ruby,Character,5,1,Scroop - Backstabber,Storyborn| Villain| Alien| Pirate,2,5,2,Uncommon
+INK-123,Set3,Ruby,Character,2,0,Simba - Scrappy Cub,Storyborn| Hero| Prince,1,1,3,Rare
+INK-124,Set3,Ruby,Character,4,1,Slightly - Lost Boy,Storyborn| Ally,4,3,1,Uncommon
+INK-125,Set3,Ruby,Character,2,0,Stitch - Little Rocket,Dreamborn| Hero| Alien,3,1,1,Common
+INK-126,Set3,Ruby,Character,2,1,Trigger - Not-So-Sharp Shooter,Storyborn| Ally,3,1,1,Uncommon
+INK-127,Set3,Ruby,Character,3,1,Webby Vanderquack - Enthusiastic Duck,Storyborn| Ally,3,4,1,Common
+INK-128,Set3,Ruby,Action,3,1,Divebomb,,,,,Uncommon
+INK-129,Set3,Ruby,Action - Song,2,1,I've Got A Dream,,,,,Uncommon
+INK-130,Set3,Ruby,Action,4,0,On Your Feet! Now!,,,,,Rare
+INK-131,Set3,Ruby,Action,1,1,Voyage,,,,,Common
+INK-132,Set3,Ruby,Item,3,1,Maui's Fish Hook,,,,,Rare
+INK-133,Set3,Ruby,Item,3,1,Sumerian Talisman,,,,,Uncommon
+INK-134,Set3,Ruby,Location,3,1,Agrabah - Marketplace,,,5,2,Common
+INK-135,Set3,Ruby,Location,1,0,Jolly Roger - Hook's Ship,,,5,,Uncommon
+INK-136,Set3,Ruby,Location,4,0,RLS Legacy - Solar Galleon,,,8,2,Rare
+INK-137,Set3,Sapphire,Character,5,1,Audrey Ramirez - The Engineer,Storyborn| Ally,2,5,2,Rare
+INK-138,Set3,Sapphire,Character,3,1,Captain Amelia - First in Command,Storyborn| Alien| Captain,1,5,1,Common
+INK-139,Set3,Sapphire,Character,3,1,Dewey - Showy Nephew,Dreamborn| Ally,2,3,2,Uncommon
+INK-140,Set3,Sapphire,Character,4,1,Flintheart Glomgold - Lone Cheater,Storyborn| Villain,3,4,2,Uncommon
+INK-141,Set3,Sapphire,Character,2,1,Genie - Cramped in the lamp,Storyborn| Ally,2,2,2,Uncommon
+INK-142,Set3,Sapphire,Character,4,1,Gramma Tala - Keeper of Ancient Stories,Storyborn| Mentor,3,3,1,Common
+INK-143,Set3,Sapphire,Character,7,1,Gramma Tala - Spirit of the Ocean,Floodborn| Mentor,4,8,2,Legendary
+INK-144,Set3,Sapphire,Character,3,1,Gyro Gearloose - Gadget Whiz,Storyborn| Ally| Inventor,1,4,1,Rare
+INK-145,Set3,Sapphire,Character,2,1,Huey - Savvy Nephew,Storyborn| Ally,2,2,1,Rare
+INK-146,Set3,Sapphire,Character,7,1,King Louie - Bandleader,Storyborn| Ally| King,7,7,3,Common
+INK-147,Set3,Sapphire,Character,6,1,Kit Cloudkicker - Navigator,Floodborn| Ally,2,5,3,Uncommon
+INK-148,Set3,Sapphire,Character,1,1,Kit Cloudkicker - Spunky Bear Cub,Storyborn| Ally,0,1,1,Common
+INK-149,Set3,Sapphire,Character,4,1,Louie - Chill Nephew,Dreamborn| Ally,3,4,2,Common
+INK-150,Set3,Sapphire,Character,5,1,Maid Marian - Delightful Dreamer,Storyborn| Princess,4,4,2,Common
+INK-151,Set3,Sapphire,Character,3,0,Mama Odie - Mystical Maven,Storyborn| Mentor,1,3,1,Rare
+INK-152,Set3,Sapphire,Character,3,1,Pluto - Mickey's Clever Friend,Dreamborn| Ally,3,4,1,Common
+INK-153,Set3,Sapphire,Character,5,1,Rufus - Orphanage Cat,Dreamborn| Ally,4,5,1,Common
+INK-154,Set3,Sapphire,Character,5,0,Scrooge McDuck - Richest Duck in the World,Storyborn| Hero,3,5,1,Super Rare
+INK-155,Set3,Sapphire,Character,2,1,Scrooge McDuck - Uncle Moneybags,Dreamborn| Hero,1,3,1,Uncommon
+INK-156,Set3,Sapphire,Character,4,1,The Queen - Mirror Seeker,Storyborn| Villain| Queen| Sorcerer,2,5,1,Uncommon
+INK-157,Set3,Sapphire,Character,5,1,Tinker Bell - Very Clever Fairy,Dreamborn| Ally| Fairy,3,4,2,Super Rare
+INK-158,Set3,Sapphire,Character,3,1,Wendy Darling - Authority on Peter Pan,Storyborn| Hero,3,1,2,Super Rare
+INK-159,Set3,Sapphire,Action,2,1,Distract,,,,,Common
+INK-160,Set3,Sapphire,Action - Song,5,1,Friend Like Me,,,,,Rare
+INK-161,Set3,Sapphire,Action - Song,4,0,How Far I'll Go,,,,,Uncommon
+INK-162,Set3,Sapphire,Action,2,1,Repair,,,,,Common
+INK-163,Set3,Sapphire,Item,2,1,Aurelian Gyrosensor,,,,,Rare
+INK-164,Set3,Sapphire,Item,3,1,Heart of Te Fiti,,,,,Rare
+INK-165,Set3,Sapphire,Item,7,0,Lucky Dime,,,,,Legendary
+INK-166,Set3,Sapphire,Item,2,0,Scrooge's Top Hat,,,,,Uncommon
+INK-167,Set3,Sapphire,Item,4,1,Vault Door,,,,,Common
+INK-168,Set3,Sapphire,Location,1,1,Belle's House - Maurice's Workshop,,,6,,Rare
+INK-169,Set3,Sapphire,Location,4,1,McDuck Manor - Scrooge's Mansion,,,9,2,Common
+INK-170,Set3,Sapphire,Location,2,1,Motunui - Island Paradise,,,5,1,Uncommon
+INK-171,Set3,Steel,Character,4,1,Chief Tui - Proud of Motunui,Storyborn| Mentor| King,3,4,2,Common
+INK-172,Set3,Steel,Character,5,1,Eeyore - Overstuffed Donkey,Storyborn| Ally,4,5,1,Common
+INK-173,Set3,Steel,Character,3,1,Gustav the Giant - Terror of the Kingdom,Dreamborn| Villain,6,6,1,Rare
+INK-174,Set3,Steel,Character,6,1,Hades - Hotheaded Ruler,Storyborn| Villain| Deity,5,5,2,Rare
+INK-175,Set3,Steel,Character,3,1,Helga Sinclair - Right-Hand Woman,Storyborn| Villain,2,4,1,Common
+INK-176,Set3,Steel,Character,3,1,John Silver - Greedy Treasure Seeker,Dreamborn| Villain| Alien| Pirate| Captain,3,3,1,Rare
+INK-177,Set3,Steel,Character,2,1,Kida - Royal Warrior,Storyborn| Hero| Princess,2,3,1,Common
+INK-178,Set3,Steel,Character,6,1,Little John - Resourceful Outlaw,Floodborn| Hero,4,5,2,Super Rare
+INK-179,Set3,Steel,Character,3,1,Little John - Robin's Pal,Storyborn| Ally,2,4,1,Uncommon
+INK-180,Set3,Steel,Character,4,1,Lythos - Rock Titan,Storyborn| Titan,4,1,1,Uncommon
+INK-181,Set3,Steel,Character,3,1,Mickey Mouse - Stalwart Explorer,Dreamborn| Hero,3,3,1,Common
+INK-182,Set3,Steel,Character,4,0,Mickey Mouse - Trumpeter,Dreamborn| Hero,0,1,1,Legendary
+INK-183,Set3,Steel,Character,1,1,Minnie Mouse - Funky Spelunker,Dreamborn| Hero,0,3,1,Common
+INK-184,Set3,Steel,Character,2,1,Mr. Smee - Bumbling Mate,Storyborn| Ally| Pirate,3,3,2,Uncommon
+INK-185,Set3,Steel,Character,7,1,Mufasa - Champion of the Pride Lands,Storyborn| Mentor| King,3,10,3,Rare
+INK-186,Set3,Steel,Character,3,1,Nala - Fierce Friend,Storyborn| Ally,2,4,2,Uncommon
+INK-187,Set3,Steel,Character,5,1,Pyros - Lava Titan,Storyborn| Titan,5,4,1,Rare
+INK-188,Set3,Steel,Character,2,1,Razoul - Palace Guard,Storyborn| Ally| Captain,1,3,1,Common
+INK-189,Set3,Steel,Character,1,1,Robin Hood - Beloved Outlaw,Storyborn| Hero,2,2,1,Common
+INK-190,Set3,Steel,Character,5,1,Robin Hood - Champion of Sherwood,Floodborn| Hero,3,6,2,Legendary
+INK-191,Set3,Steel,Character,4,0,Sheriff of Nottingham - Corrupt Official,Dreamborn| Villain,2,4,1,Super Rare
+INK-192,Set3,Steel,Character,7,1,Simba - Fighting Prince,Dreamborn|  Hero| Prince,5,7,2,Super Rare
+INK-193,Set3,Steel,Character,5,1,Simba - Rightful King,Storyborn| Hero| King,4,6,1,Uncommon
+INK-194,Set3,Steel,Character,5,1,Thaddeus E. Klang - Metallic Leader,Storyborn| Villain,3,5,2,Uncommon
+INK-195,Set3,Steel,Action - Song,4,0,And Then Along Came Zeus,,,,,Rare
+INK-196,Set3,Steel,Action,2,1,Ba-Boom!,,,,,Common
+INK-197,Set3,Steel,Action,1,1,Olympus Would Be That Way,,,,,Common
+INK-198,Set3,Steel,Action,3,1,Rise Of The Titans,,,,,Uncommon
+INK-199,Set3,Steel,Item,3,0,Captain Hook's Rapier,,,,,Uncommon
+INK-200,Set3,Steel,Item,3,1,Gizmosuit,,,,,Common
+INK-201,Set3,Steel,Item,3,1,Map of Treasure Planet,,,,,Rare
+INK-202,Set3,Steel,Location,2,1,Maui's Place of Exile - Hidden Island,,,5,,Rare
+INK-203,Set3,Steel,Location,2,1,Nottingham - Prince John's Castle,,,6,1,Common
+INK-204,Set3,Steel,Location,1,1,The Bayou - Mysterious Swamp,,,3,1,Uncommon
+ROF-001,Set2,Amber,Character,4,1,Bashful - Hopeless Romantic,Storyborn| Ally| Seven Dwarfs,2,5,3,Uncommon
+ROF-002,Set2,Amber,Character,6,1,Christopher Robin - Adventurer,Dreamborn| Hero,2,6,2,Rare
+ROF-003,Set2,Amber,Character,1,1,Cinderella - Ballroom Sensation,Storyborn| Hero| Princess,1,2,1,Rare
+ROF-004,Set2,Amber,Character,7,1,Cobra Bubbles - Just a Social Worker,Storyborn| Ally,5,9,2,Rare
+ROF-005,Set2,Amber,Character,3,1,Doc - Leader of the Seven Dwarfs,Storyborn| Ally| Seven Dwarfs,2,3,2,Uncommon
+ROF-006,Set2,Amber,Character,3,1,Dopey - Always Playful,Storyborn| Ally| Seven Dwarfs,2,2,1,Uncommon
+ROF-007,Set2,Amber,Character,5,1,Eudora - Accomplished Seamstress,Storyborn| Ally,1,9,2,Common
+ROF-008,Set2,Amber,Character,3,1,Gaston - Baritone Bully,Dreamborn| Villain,3,3,1,Uncommon
+ROF-009,Set2,Amber,Character,2,1,Grand Duke - Advisor to the King,Storyborn| Ally,2,2,1,Rare
+ROF-010,Set2,Amber,Character,4,1,Grumpy - Bad-Tempered,Storyborn|  Ally| Seven Dwarfs,3,4,1,Common
+ROF-011,Set2,Amber,Character,5,1,Happy - Good-Natured,Storyborn| Ally| Seven Dwarfs,3,5,2,Common
+ROF-012,Set2,Amber,Character,7,1,King Louie - Jungle VIP,Storyborn| King,3,8,2,Super Rare
+ROF-013,Set2,Amber,Character,6,1,Mickey Mouse - Friendly Face,Storyborn| Hero,1,6,3,Super Rare
+ROF-014,Set2,Amber,Character,5,1,Mufasa - Betrayed Leader,Storyborn| Mentor| King,3,3,2,Legendary
+ROF-015,Set2,Amber,Character,3,1,Mulan - Free Spirit,Dreamborn| Hero| Princess,2,3,2,Common
+ROF-016,Set2,Amber,Character,4,1,Mulan - Reflecting,Floodborn| Hero| Princess,3,3,2,Rare
+ROF-017,Set2,Amber,Character,2,1,Nana - Darling Family Pet,Storyborn| Ally,1,3,1,Uncommon
+ROF-018,Set2,Amber,Character,3,1,Piglet - Very Small Animal,Storyborn| Ally,2,4,2,Common
+ROF-019,Set2,Amber,Character,5,1,Rapunzel - Gifted Artist,Floodborn| Hero| Princess,0,6,2,Uncommon
+ROF-020,Set2,Amber,Character,2,1,Rapunzel - Sunshine,Dreamborn| Hero| Princess,1,4,1,Common
+ROF-021,Set2,Amber,Character,2,1,Sleepy - Nodding Off,Storyborn| Ally| Seven Dwarfs,2,3,2,Common
+ROF-022,Set2,Amber,Character,2,1,Sneezy - Very Allergic,Storyborn| Ally| Seven Dwarfs,1,4,1,Common
+ROF-023,Set2,Amber,Character,2,1,Snow White - Lost in the Forest,Storyborn| Hero| Princess,2,3,1,Common
+ROF-024,Set2,Amber,Character,2,1,Snow White - Unexpected Houseguest,Storyborn| Hero| Princess,1,2,1,Uncommon
+ROF-025,Set2,Amber,Character,6,0,Snow White - Well Wisher,Floodborn| Hero| Princess,3,5,2,Legendary
+ROF-026,Set2,Amber,Character,5,1,The Queen - Commanding Presence,Floodborn| Villain| Queen,4,3,2,Super Rare
+ROF-027,Set2,Amber,Character,1,1,The Queen - Regal Monarch,Storyborn| Villain| Queen,2,2,1,Common
+ROF-028,Set2,Amber,Action,2,1,Hold Still,,,,,Common
+ROF-029,Set2,Amber,Action,2,0,Last Stand,,,,,Uncommon
+ROF-030,Set2,Amber,Action - Song,2,1,Painting the Roses Red,,,,,Common
+ROF-031,Set2,Amber,Action - Song,3,1,World's Greatest Criminal Mind,,,,,Rare
+ROF-032,Set2,Amber,Action - Song,2,0,Zero to Hero,,,,,Uncommon
+ROF-033,Set2,Amber,Item,3,0,Dragon Gem,,,,,Rare
+ROF-034,Set2,Amber,Item,2,0,Sleepy's Flute,,,,,Rare
+ROF-035,Set2,Amethyst,Character,3,0,Arthur - Wizard's Apprentice,Dreamborn| Hero| Sorcerer,1,3,1,Super Rare
+ROF-036,Set2,Amethyst,Character,2,1,Blue Fairy - Rewarding Good Deeds,Storyborn| Ally| Fairy,1,1,1,Uncommon
+ROF-037,Set2,Amethyst,Character,1,1,Chip The Teacup - Gentle Soul,Storyborn| Ally,2,2,1,Common
+ROF-038,Set2,Amethyst,Character,4,1,Dr. Facilier - Savvy Opportunist,Storyborn| Villain| Sorcerer,4,2,1,Common
+ROF-039,Set2,Amethyst,Character,4,1,Elsa - Gloves Off,Storyborn| Hero| Queen| Sorcerer,3,4,1,Common
+ROF-040,Set2,Amethyst,Character,5,1,Fairy Godmother - Here to Help,Storyborn| Ally| Fairy,3,7,2,Uncommon
+ROF-041,Set2,Amethyst,Character,5,1,Fairy Godmother - Mystic Armorer,Floodborn| Mentor| Fairy,3,4,2,Legendary
+ROF-042,Set2,Amethyst,Character,3,1,Fairy Godmother - Pure Heart,Storyborn| Ally| Fairy,3,4,1,Common
+ROF-043,Set2,Amethyst,Character,2,1,HeiHei - Persistent Presence,Dreamborn| Ally,2,1,1,Uncommon
+ROF-044,Set2,Amethyst,Character,2,1,Jiminy Cricket - Pinocchio's Conscience,Storyborn| Mentor,1,2,1,Common
+ROF-045,Set2,Amethyst,Character,2,1,Kuzco - Wanted Llama,Storyborn| King,1,2,1,Common
+ROF-046,Set2,Amethyst,Character,3,1,Madam Mim - Fox,Storyborn| Villain| Sorcerer,4,3,1,Rare
+ROF-047,Set2,Amethyst,Character,7,1,Madam Mim - Purple Dragon,Storyborn| Villain| Sorcerer| Dragon,5,7,4,Legendary
+ROF-048,Set2,Amethyst,Character,5,1,Madam Mim - Rival of Merlin,Floodborn| Villain| Sorcerer,2,5,2,Rare
+ROF-049,Set2,Amethyst,Character,2,1,Madam Mim - Snake,Storyborn| Villain| Sorcerer,3,3,1,Uncommon
+ROF-050,Set2,Amethyst,Character,3,1,Merlin - Crab,Storyborn| Mentor| Sorcerer,3,3,1,Common
+ROF-051,Set2,Amethyst,Character,4,1,Merlin - Goat,Storyborn| Mentor| Sorcerer,4,3,1,Uncommon
+ROF-052,Set2,Amethyst,Character,4,0,Merlin - Rabbit,Storyborn| Mentor| Sorcerer,2,3,1,Rare
+ROF-053,Set2,Amethyst,Character,4,1,Merlin - Shapeshifter,Storyborn| Mentor| Sorcerer,1,5,1,Rare
+ROF-054,Set2,Amethyst,Character,2,1,Merlin - Squirrel,Storyborn| Mentor| Sorcerer,2,1,1,Common
+ROF-055,Set2,Amethyst,Character,4,0,Peter Pan's Shadow - Not Sewn On,Storyborn| Ally,2,3,2,Super Rare
+ROF-056,Set2,Amethyst,Character,2,0,Pinocchio - Star Attraction,Storyborn| Hero,1,1,3,Rare
+ROF-057,Set2,Amethyst,Character,5,0,Pinocchio - On The Run,Floodborn| Hero,3,3,2,Uncommon
+ROF-058,Set2,Amethyst,Character,2,0,Pinocchio - Talkative Puppet,Storyborn| Hero,1,1,1,Uncommon
+ROF-059,Set2,Amethyst,Character,5,1,Winnie The Pooh - Hunny Wizard,Dreamborn| Hero| Sorcerer,5,5,2,Common
+ROF-060,Set2,Amethyst,Character,6,1,Yzma - Scary Beyond All Reason,Floodborn| Villain| Sorcerer,4,4,2,Super Rare
+ROF-061,Set2,Amethyst,Character,3,1,Yzma - Without Beauty Sleep,Storyborn| Villain| Sorcerer,3,4,1,Uncommon
+ROF-062,Set2,Amethyst,Action - Song,3,0,Gruesome And Grim,,,,,Rare
+ROF-063,Set2,Amethyst,Action,1,1,I'm Stuck!,,,,,Common
+ROF-064,Set2,Amethyst,Action - Song,2,1,Legend Of The Sword In The Stone,,,,,Common
+ROF-065,Set2,Amethyst,Item,4,0,Binding Contract,,,,,Uncommon
+ROF-066,Set2,Amethyst,Item,1,0,Croquet Mallet,,,,,Common
+ROF-067,Set2,Amethyst,Item,2,0,Perplexing Signposts,,,,,Rare
+ROF-068,Set2,Amethyst,Item,3,0,The Sorcerer's Spellbook,,,,,Rare
+ROF-069,Set2,Emerald,Character,4,1,Arthur - Trained Swordsman,Dreamborn| Hero,4,3,2,Common
+ROF-070,Set2,Emerald,Character,6,1,Beast - Relentless,Storyborn| Hero| Prince,4,5,2,Legendary
+ROF-071,Set2,Emerald,Character,3,0,Belle - Bookworm,Storyborn| Hero| Princess,2,4,1,Uncommon
+ROF-072,Set2,Emerald,Character,5,0,Belle - Hidden Archer,Floodborn| Hero| Princess,3,3,3,Legendary
+ROF-073,Set2,Emerald,Character,2,1,Bucky - Squirrel Squeak Tutor,Storyborn| Ally,1,1,1,Uncommon
+ROF-074,Set2,Emerald,Character,2,1,Cheshire Cat - Always Grinning,Storyborn,3,2,1,Uncommon
+ROF-075,Set2,Emerald,Character,8,1,Cheshire Cat - From the Shadows,Floodborn,5,6,2,Super Rare
+ROF-076,Set2,Emerald,Character,4,1,Daisy Duck - Secret Agent,Dreamborn| Ally,2,3,2,Uncommon
+ROF-077,Set2,Emerald,Character,4,1,Donald Duck - Perfect Gentleman,Floodborn| Ally,2,5,2,Uncommon
+ROF-078,Set2,Emerald,Character,3,1,Donald Duck - Sleepwalker,Storyborn,0,5,1,Common
+ROF-079,Set2,Emerald,Character,7,1,Dr. Facilier - Fortune Teller,Storyborn| Villain| Sorcerer,4,4,3,Super Rare
+ROF-080,Set2,Emerald,Character,2,1,Enchantress - Unexpected Judge,Dreamborn| Sorcerer,1,1,2,Common
+ROF-081,Set2,Emerald,Character,1,1,Flynn Rider - Confident Vagabond,Storyborn| Hero| Prince,1,3,1,Common
+ROF-082,Set2,Emerald,Character,4,0,Flynn Rider - His Own Biggest Fan,Floodborn| Hero| Prince,2,3,4,Rare
+ROF-083,Set2,Emerald,Character,2,1,Gaston - Scheming Suitor,Storyborn| Villain,1,3,1,Common
+ROF-084,Set2,Emerald,Character,6,1,Little John - Loyal Friend,Storyborn| Ally,6,6,2,Rare
+ROF-085,Set2,Emerald,Character,5,0,Lucifer - Cunning Cat,Storyborn| Ally,2,2,2,Rare
+ROF-086,Set2,Emerald,Character,2,1,Pain - Underworld Imp,Storyborn| Ally,1,4,2,Uncommon
+ROF-087,Set2,Emerald,Character,3,0,Panic - Underworld Imp,Storyborn| Ally,2,3,2,Common
+ROF-088,Set2,Emerald,Character,5,1,Pete - Bad Guy,Storyborn| Ally,3,4,2,Rare
+ROF-089,Set2,Emerald,Character,3,0,Prince John - Greediest of All,Dreamborn| Villain| Prince,1,2,2,Rare
+ROF-090,Set2,Emerald,Character,2,0,Queen Of Hearts - Quick-Tempered,Dreamborn| Villain| Queen,1,2,2,Common
+ROF-091,Set2,Emerald,Character,4,1,Ratigan - Criminal Mastermind,Dreamborn| Villain,4,1,2,Common
+ROF-092,Set2,Emerald,Character,5,1,Ray - Easygoing Firefly,Storyborn| Ally,3,3,3,Common
+ROF-093,Set2,Emerald,Character,3,0,The Queen - Disguised Peddler,Storyborn| Villain| Queen,2,3,0,Super Rare
+ROF-094,Set2,Emerald,Character,5,1,Tiana - True Princess,Storyborn| Hero| Princess,5,3,3,Uncommon
+ROF-095,Set2,Emerald,Character,5,1,Virana - Fang Chief,Storyborn| Villain| Queen,5,5,2,Common
+ROF-096,Set2,Emerald,Action - Song,3,0,Bibbidi Bobbidi Boo,,,,,Rare
+ROF-097,Set2,Emerald,Action,2,0,Bounce,,,,,Uncommon
+ROF-098,Set2,Emerald,Action,3,1,Hypnotize,,,,,Common
+ROF-099,Set2,Emerald,Action,1,1,Improvise,,,,,Common
+ROF-100,Set2,Emerald,Action,4,1,Pack Tactics,,,,,Rare
+ROF-101,Set2,Emerald,Action,3,1,Ring The Bell,,,,,Uncommon
+ROF-102,Set2,Emerald,Item,3,0,Ratigan's Marvelous Trap,,,,,Rare
+ROF-103,Set2,Ruby,Character,3,1,Baloo - Fun-Loving Bear,Storyborn| Ally,4,3,1,Common
+ROF-104,Set2,Ruby,Character,2,1,Boun - Precocious Entrepreneur,Storyborn| Ally,2,3,1,Common
+ROF-105,Set2,Ruby,Character,5,1,Card Soldiers - Full Deck,Storyborn| Ally,5,5,2,Uncommon
+ROF-106,Set2,Ruby,Character,5,1,Donald Duck - Not Again!,Dreamborn| Hero,1,5,1,Legendary
+ROF-107,Set2,Ruby,Character,1,1,Felicia - Always Hungry,Dreamborn| Ally,3,1,0,Common
+ROF-108,Set2,Ruby,Character,3,1,Fidget - Ratigan's Henchman,Dreamborn| Ally,3,2,1,Common
+ROF-109,Set2,Ruby,Character,3,0,Honest John - Not That Honest,Storyborn| Villain,2,3,1,Rare
+ROF-110,Set2,Ruby,Character,6,0,Lady Tremaine - Imperious Queen,Floodborn| Villain| Queen,3,4,2,Super Rare
+ROF-111,Set2,Ruby,Character,2,0,Lady Tremaine - Overbearing Matriarch,Storyborn| Villain,2,2,1,Common
+ROF-112,Set2,Ruby,Character,7,1,Lumiere - Hotheaded Candelabra,Dreamborn| Ally,7,7,2,Rare
+ROF-113,Set2,Ruby,Character,3,1,Minnie Mouse - Stylish Surfer,Dreamborn| Hero,1,3,2,Uncommon
+ROF-114,Set2,Ruby,Character,4,1,Minnie Mouse - Wide-Eyed Diver,Floodborn| Hero,2,3,1,Rare
+ROF-115,Set2,Ruby,Character,2,1,Minnie Mouse - Zipping Around,Storyborn| Hero,3,2,2,Common
+ROF-116,Set2,Ruby,Character,2,1,Mother Gothel - Withered And Wicked,Storyborn| Villain,3,4,1,Uncommon
+ROF-117,Set2,Ruby,Character,4,0,Mulan - Soldier In Training,Storyborn| Hero| Princess,4,3,1,Common
+ROF-118,Set2,Ruby,Character,4,0,Namaari - Nemesis,Storyborn| Villain| Princess,3,3,1,Super Rare
+ROF-119,Set2,Ruby,Character,2,1,Queen Of Hearts - Impulsive Ruler,Storyborn| Villain| Queen,2,2,1,Uncommon
+ROF-120,Set2,Ruby,Character,5,1,Queen Of Hearts - Sensing Weakness,Floodborn| Villain| Queen,4,3,1,Uncommon
+ROF-121,Set2,Ruby,Character,5,0,Ratigan - Very Large Mouse,Storyborn| Villain,3,3,2,Rare
+ROF-122,Set2,Ruby,Character,3,1,Raya - Headstrong,Storyborn| Hero| Princess,2,3,1,Common
+ROF-123,Set2,Ruby,Character,6,1,Raya - Leader of Heart,Floodborn| Hero| Princess,5,3,2,Super Rare
+ROF-124,Set2,Ruby,Character,4,1,Raya - Warrior Of Kumandra,Storyborn| Hero| Princess,5,3,1,Uncommon
+ROF-125,Set2,Ruby,Character,7,0,Scar - Vicious Cheater,,6,5,2,Legendary
+ROF-126,Set2,Ruby,Character,3,1,Shere Khan - Menacing Predator,Storyborn| Villain,3,3,1,Rare
+ROF-127,Set2,Ruby,Character,3,1,Tigger - One Of A Kind,Dreamborn| Tigger,3,3,1,Common
+ROF-128,Set2,Ruby,Character,4,0,Tuk Tuk - Wrecking Ball,Storyborn| Ally,4,5,0,Rare
+ROF-129,Set2,Ruby,Action - Song,2,1,Go The Distance,,,,,Common
+ROF-130,Set2,Ruby,Action - Song,2,1,Teeth and Ambitions,,,,,Rare
+ROF-131,Set2,Ruby,Action - Song,3,0,The Most Diabolical Scheme,,,,,Uncommon
+ROF-132,Set2,Ruby,Action,1,1,What Did You Call Me?,,,,,Common
+ROF-133,Set2,Ruby,Action - Song,2,1,You Can Fly!,,,,,Uncommon
+ROF-134,Set2,Ruby,Item,4,0,Dinner Bell,,,,,Rare
+ROF-135,Set2,Ruby,Item,2,0,Peter Pan's Dagger,,,,,Common
+ROF-136,Set2,Ruby,Item,1,0,Sword In The Stone,,,,,Uncommon
+ROF-137,Set2,Sapphire,Character,3,1,Alice - Growing Girl,Dreamborn| Hero,1,4,1,Legendary
+ROF-138,Set2,Sapphire,Character,6,1,Basil - Great Mouse Detective,Floodborn| Hero| Detective,3,4,3,Super Rare
+ROF-139,Set2,Sapphire,Character,2,1,Basil - Of Baker Street,Dreamborn| Hero| Detective,2,2,1,Common
+ROF-140,Set2,Sapphire,Character,4,1,Basil - Perceptive Investigator,Storyborn| Hero| Detective,3,4,2,Common
+ROF-141,Set2,Sapphire,Character,3,1,Caterpillar - Calm and Collected,Dreamborn,1,3,3,Uncommon
+ROF-142,Set2,Sapphire,Character,5,1,Cogsworth - Grandfather Clock,Floodborn| Ally,2,5,2,Super Rare
+ROF-143,Set2,Sapphire,Character,2,1,Cogsworth - Talking Clock,Storyborn| Ally,2,3,1,Uncommon
+ROF-144,Set2,Sapphire,Character,2,1,Cruella De Vil - Fashionable Cruiser,Dreamborn| Villain,3,2,1,Common
+ROF-145,Set2,Sapphire,Character,5,1,Cruella De Vil - Perfectly Wretched,Floodborn| Villain,4,3,2,Uncommon
+ROF-146,Set2,Sapphire,Character,2,1,Duke Weaselton - Small-Time Crook,Storyborn,1,2,2,Common
+ROF-147,Set2,Sapphire,Character,6,0,Gaston - Intellectual Powerhouse,Floodborn| Villain,4,4,3,Rare
+ROF-148,Set2,Sapphire,Character,7,0,Grand Pabbie - Oldest And Wisest,Storyborn| Mentor,3,6,3,Super Rare
+ROF-149,Set2,Sapphire,Character,4,1,Hiram Flaversham - Toymaker,Storyborn| Inventor,1,6,1,Rare
+ROF-150,Set2,Sapphire,Character,4,0,James - Role Model,Storyborn| Mentor,3,3,2,Common
+ROF-151,Set2,Sapphire,Character,1,1,Jasmine - Heir Of Agrabah,Storyborn| Hero| Princess,1,2,1,Common
+ROF-152,Set2,Sapphire,Character,3,1,Judy Hopps - Optimistic Officer,Storyborn| Hero,2,3,2,Uncommon
+ROF-153,Set2,Sapphire,Character,4,0,Mrs. Judson - Housekeeper,Storyborn| Ally,1,5,2,Rare
+ROF-154,Set2,Sapphire,Character,4,1,Nick Wilde - Wily Fox,Storyborn| Ally,2,4,2,Uncommon
+ROF-155,Set2,Sapphire,Character,2,1,Noi - Orphaned Thief,Storyborn| Ally,1,2,2,Rare
+ROF-156,Set2,Sapphire,Character,1,1,Owl - Logical Lecturer,Storyborn| Ally,2,2,1,Common
+ROF-157,Set2,Sapphire,Character,4,1,Prince Charming - Heir To The Throne,Dreamborn| Hero| Prince,3,3,3,Rare
+ROF-158,Set2,Sapphire,Character,5,1,Rabbit - Reluctant Host,Storyborn| Ally,4,6,2,Common
+ROF-159,Set2,Sapphire,Character,4,0,Sisu - Divine Water Dragon,Storyborn| Hero| Deity| Dragon,2,4,2,Legendary
+ROF-160,Set2,Sapphire,Character,4,1,The Nokk - Water Spirit,Storyborn,4,3,1,Common
+ROF-161,Set2,Sapphire,Character,3,1,Winnie The Pooh - Having A Think,Storyborn| Hero,2,3,2,Rare
+ROF-162,Set2,Sapphire,Action,4,0,Falling Down The Rabbit Hole,,,,,Rare
+ROF-163,Set2,Sapphire,Action - Song,4,1,Four Dozen Eggs,,,,,Uncommon
+ROF-164,Set2,Sapphire,Action,3,0,Launch,,,,,Uncommon
+ROF-165,Set2,Sapphire,Action,1,1,Nothing To Hide,,,,,Common
+ROF-166,Set2,Sapphire,Item,3,1,Fang Crossbow,,,,,Uncommon
+ROF-167,Set2,Sapphire,Item,2,1,Gumbo Pot,,,,,Common
+ROF-168,Set2,Sapphire,Item,3,0,Maurice's Workshop,,,,,Rare
+ROF-169,Set2,Sapphire,Item,1,1,Pawpsicle,,,,,Common
+ROF-170,Set2,Sapphire,Item,4,1,Sardine Can,,,,,Uncommon
+ROF-171,Set2,Steel,Character,4,1,Beast - Forbidding Recluse,Dreamborn| Hero| Prince,3,4,1,Common
+ROF-172,Set2,Steel,Character,6,1,Beast - Selfless Protector,Storyborn| Hero| Prince,2,8,1,Super Rare
+ROF-173,Set2,Steel,Character,5,1,Beast - Tragic Hero,Floodborn| Hero| Prince,3,5,2,Legendary
+ROF-174,Set2,Steel,Character,3,1,Benja - Guardian of the Dragon Gem,Storyborn| Mentor| King,2,3,2,Common
+ROF-175,Set2,Steel,Character,4,0,Chief Bogo - Respected Officer,Dreamborn,2,4,2,Rare
+ROF-176,Set2,Steel,Character,2,1,Cinderella - Knight In Training,Dreamborn| Hero| Princess| Knight,2,2,1,Common
+ROF-177,Set2,Steel,Character,7,1,Cinderella - Stouthearted,Floodborn| Hero| Princess| Knight,5,5,3,Super Rare
+ROF-178,Set2,Steel,Character,5,1,Donald Duck - Deep-Sea Diver,Dreamborn| Hero,6,5,1,Common
+ROF-179,Set2,Steel,Character,4,1,Eli La Bouff - Big Daddy,Storyborn| Mentor,2,5,2,Uncommon
+ROF-180,Set2,Steel,Character,9,1,Goofy - Knight for a Day,Dreamborn| Hero| Knight,10,10,4,Rare
+ROF-181,Set2,Steel,Character,6,1,Hercules - Divine Hero,Floodborn| Hero| Prince| Deity,6,3,2,Rare
+ROF-182,Set2,Steel,Character,2,1,Hercules - Hero In Training,Storyborn| Hero| Prince,2,3,1,Common
+ROF-183,Set2,Steel,Character,4,1,Jafar - Dreadnought,Floodborn| Villain| Sorcerer,3,4,1,Uncommon
+ROF-184,Set2,Steel,Character,3,1,Jafar - Royal Vizier,Storyborn|Villain| Deity,3,2,1,Common
+ROF-185,Set2,Steel,Character,6,1,Kronk - Junior Chipmunk,Storyborn| Ally,4,5,2,Rare
+ROF-186,Set2,Steel,Character,3,1,Lawrence - Jealous Manservant,Storyborn| Ally,0,4,2,Uncommon
+ROF-187,Set2,Steel,Character,5,1,Li Shang - Archery Instructor,Storyborn| Hero,3,6,2,Uncommon
+ROF-188,Set2,Steel,Character,3,1,Magic Broom - Industrial Model,Dreamborn| Broom,2,3,1,Common
+ROF-189,Set2,Steel,Character,4,0,Namaari - Morning Mist,Storyborn| Villain| Princess,2,4,1,Legendary
+ROF-190,Set2,Steel,Character,6,1,Pacha - Village Leader,Storyborn| Hero,4,8,2,Uncommon
+ROF-191,Set2,Steel,Character,3,1,Prince Naveen - Penniless Royal,Storyborn| Prince,4,3,1,Common
+ROF-192,Set2,Steel,Character,7,1,Queen Of Hearts - Capricious Monarch,Storyborn| Villain| Queen,5,6,1,Rare
+ROF-193,Set2,Steel,Character,2,0,Robin Hood - Capable Fighter,Dreamborn| Hero,1,3,1,Uncommon
+ROF-194,Set2,Steel,Character,2,1,The Huntsman - Reluctant Enforcer,Storyborn| Ally,1,1,2,Rare
+ROF-195,Set2,Steel,Character,3,1,The Prince - Never Gives Up,Dreamborn| Hero| Prince,1,3,2,Uncommon
+ROF-196,Set2,Steel,Character,4,0,Tiana - Celebrating Princess,Dreamborn| Hero| Princess,1,4,2,Super Rare
+ROF-197,Set2,Steel,Character,1,1,Tiana - Diligent Waitress,Storyborn| Hero| Princess,1,3,1,Common
+ROF-198,Set2,Steel,Action,2,1,Charge!,,,,,Common
+ROF-199,Set2,Steel,Action - Song,3,0,Let The Storm Rage On,,,,,Common
+ROF-200,Set2,Steel,Action,2,0,Pick A Fight,,,,,Uncommon
+ROF-201,Set2,Steel,Action - Song,3,1,Strength Of A Raging Fire,,,,,Rare
+ROF-202,Set2,Steel,Item,1,1,Last Cannon,,,,,Common
+ROF-203,Set2,Steel,Item,2,0,Mouse Armor,,,,,Uncommon
+ROF-204,Set2,Steel,Item,3,1,Weight Set,,,,,Rare
+SSK-001,Set5,Amber,Character,2,1,Koda - Talkative Cub,Storyborn| Ally,2,1,2,Rare
+SSK-002,Set5,Amber,Character,1,1,Nala - Mischievous Cub,Storyborn| Ally,0,4,1,Uncommon
+SSK-003,Set5,Amber,Character,4,1,Prince Naveen - Ukulele Player,Storyborn| Hero| Prince,3,3,2,Common
+SSK-004,Set5,Amber,Character,4,1,Rutt - Northern Moose,Storyborn| Ally,3,4,1,Common
+SSK-005,Set5,Amber,Character,2,1,Kenai - Big Brother,Storyborn| Hero,1,4,1,Common
+SSK-006,Set5,Amber,Character,1,1,Vanellope von Schweetz - Sugar Rush Champ,Storyborn| Hero| Princess| Racer,2,2,1,Common
+SSK-007,Set5,Amber,Character,4,1,Tuke - Northern Moose,Storyborn| Ally,4,4,1,Common
+SSK-008,Set5,Amber,Character,2,1,Lilo - Junior Cake Decorator,Storyborn| Hero,1,3,1,Common
+SSK-009,Set5,Amber,Character,2,1,Vanellope von Schweetz - Candy Mechanic,Dreamborn| Hero| Princess| Racer,2,2,1,Common
+SSK-010,Set5,Amber,Character,3,1,Fix-It Felix  Jr. - Trusty Builder,Storyborn| Hero,2,4,1,Common
+SSK-011,Set5,Amber,Character,3,1,Gazelle - Pop Star,Storyborn| Ally,2,3,2,Common
+SSK-012,Set5,Amber,Character,5,1,Fix-It Felix  Jr. - Niceland Steward,Floodborn| Hero,4,5,1,Uncommon
+SSK-013,Set5,Amber,Character,9,0,Kristoff - Reindeer Keeper,Dreamborn| Ally,3,7,1,Rare
+SSK-014,Set5,Amber,Character,5,1,Mirabel Madrigal - Family Gatherer,Storyborn| Hero| Madrigal ,5,5,5,Legendary
+SSK-015,Set5,Amber,Character,5,1,Minnie Mouse - Drum Major,Floodborn| Hero,4,4,2,Super Rare
+SSK-016,Set5,Amber,Character,1,0,Daisy Duck - Donald's Date,Storyborn| Ally,1,4,2,Super Rare
+SSK-017,Set5,Amber,Character,2,1,Fix-It Felix  Jr. - Delighted Sightseer,Storyborn| Hero,1,3,1,Common
+SSK-018,Set5,Amber,Character,3,0,Moana - Determined Explorer,Storyborn| Hero| Princess ,3,4,2,Common
+SSK-019,Set5,Amber,Character,4,1,Vanellope von Schweetz - Sugar Rush Princess,Floodborn| Hero| Princess| Racer,2,4,2,Rare
+SSK-020,Set5,Amber,Character,4,1,Alan-a-Dale - Rockin' Rooster,Storyborn| Ally,2,3,2,Uncommon
+SSK-021,Set5,Amber,Character,7,0,Wreck-It Ralph - Admiral Underpants,Storyborn| Hero,6,7,2,Common
+SSK-022,Set5,Amber,Character,6,1,Maid Marian - Lady of the Lists,Dreamborn| Princess,4,5,2,Uncommon
+SSK-023,Set5,Amber,Character,4,1,Sven - Reindeer Steed,Storyborn| Ally,3,3,2,Uncommon
+SSK-024,Set5,Amber,Character,4,1,Minnie Mouse - Compassionate Friend,Storyborn| Hero,1,5,2,Common
+SSK-025,Set5,Amber,Action - Song,4,1,Try Everything,,,,,Uncommon
+SSK-026,Set5,Amber,Action,3,1,Healing Touch,,,,,Common
+SSK-027,Set5,Amber,Action,5,0,Revive,,,,,Rare
+SSK-028,Set5,Amber,Action - Song,6,0,Blast From Your Past,,,,,Super Rare
+SSK-029,Set5,Amber,Action,2,0,Invited to the Ball,,,,,Common
+SSK-030,Set5,Amber,Item,2,1,Healing Decanter,,,,,Common
+SSK-031,Set5,Amber,Item,2,1,Queen's Sensor Core,,,,,Rare
+SSK-032,Set5,Amber,Item,2,1,Amber Chromicon,,,,,Common
+SSK-033,Set5,Amber,Location,2,1,Rapunzel's Tower - Secluded Prison,,,8,,Uncommon
+SSK-034,Set5,Amber,Location,3,1,Pride Lands - Jungle Oasis,,,8,1,Rare
+SSK-035,Set5,Amethyst,Character,8,0,Maleficent - Formidable Queen,Floodborn| Villain| Queen| Sorcerer ,7,7,2,Super Rare
+SSK-036,Set5,Amethyst,Character,6,1,The Nokk - Mythical Spirit,Storyborn| Ally,5,5,1,Common
+SSK-037,Set5,Amethyst,Character,1,1,Cogsworth - Illuminary Watchman,Dreamborn| Ally,1,1,1,Common
+SSK-038,Set5,Amethyst,Character,4,1,Merlin - Turtle,Storyborn| Mentor| Sorcerer,3,3,2,Common
+SSK-039,Set5,Amethyst,Character,3,1,Archimedes - Exasperated Owl,Storyborn| Ally,2,2,2,Common
+SSK-040,Set5,Amethyst,Character,4,1,Bruni - Fire Salamander,Storyborn| Ally,2,2,2,Uncommon
+SSK-041,Set5,Amethyst,Character,4,1,Earth Giant - Living Mountain,Storyborn| Ally,4,5,2,Common
+SSK-042,Set5,Amethyst,Character,3,1,Gale - Wind Spirit,Storyborn| Ally,1,2,2,Common
+SSK-043,Set5,Amethyst,Character,3,1,White Rabbit - Royal Herald,Storyborn| Ally,3,4,1,Common
+SSK-044,Set5,Amethyst,Character,4,1,Madam Mim - Elephant,Storyborn| Villain| Sorcerer,3,7,1,Super Rare
+SSK-045,Set5,Amethyst,Character,6,0,Luisa Madrigal - Entertaining Muscle,,4,8,3,Rare
+SSK-046,Set5,Amethyst,Character,7,0,Anna - Mystical Majesty,Floodborn| Hero| Queen| Sorcerer,4,5,2,Rare
+SSK-047,Set5,Amethyst,Character,5,1,Archimedes - Electrified Owl,Floodborn| Ally,1,4,2,Uncommon
+SSK-048,Set5,Amethyst,Character,5,1,Elsa - The Fifth Spirit,Dreamborn| Hero| Queen| Sorcerer ,2,5,1,Super Rare
+SSK-049,Set5,Amethyst,Character,7,0,Genie - Main Attraction,Storyborn| Ally,5,5,2,Legendary
+SSK-050,Set5,Amethyst,Character,9,1,Olaf - Happy Passenger,Storyborn| Ally,6,6,3,Rare
+SSK-051,Set5,Amethyst,Character,3,1,Maleficent - Vexed Partygoer,Storyborn| Villain| Sorcerer ,0,4,2,Uncommon
+SSK-052,Set5,Amethyst,Character,5,1,Monstro - Whale of a Whale,Storyborn,5,6,1,Uncommon
+SSK-053,Set5,Amethyst,Character,4,1,Magica De Spell - Cruel Sorceress,Storyborn| Villain| Sorcerer,2,5,1,Rare
+SSK-054,Set5,Amethyst,Character,2,1,Maleficent - Vengeful Sorceress,Storyborn| Villain| Sorcerer ,2,2,2,Common
+SSK-055,Set5,Amethyst,Character,4,0,Rafiki - Shaman Duelist,Storyborn| Mentor| Sorcerer ,1,4,2,Rare
+SSK-056,Set5,Amethyst,Character,3,0,Anna - Eager Acolyte,Dreamborn| Hero| Queen ,1,3,1,Common
+SSK-057,Set5,Amethyst,Character,4,1,King of Hearts - Monarch of Wonderland,Storyborn| Ally| King ,1,4,2,Common
+SSK-058,Set5,Amethyst,Character,6,1,Camilo Madrigal - Family Copycat,Storyborn| Ally| Madrigal,3,7,1,Legendary
+SSK-059,Set5,Amethyst,Action,2,1,Hypnotic Strength,,,,,Common
+SSK-060,Set5,Amethyst,Action,5,1,Finders Keepers,,,,,Uncommon
+SSK-061,Set5,Amethyst,Action - Song,3,1,We Know The Way,,,,,Rare
+SSK-062,Set5,Amethyst,Action,2,0,Gathering Knowledge And Wisdom,,,,,Common
+SSK-063,Set5,Amethyst,Action,3,1,Magical Aid,,,,,Uncommon
+SSK-064,Set5,Amethyst,Item,1,1,Retrosphere,,,,,Common
+SSK-065,Set5,Amethyst,Item,6,0,Half Hexwell Crown,,,,,Rare
+SSK-066,Set5,Amethyst,Item,2,1,Amethyst Chromicon,,,,,Uncommon
+SSK-067,Set5,Amethyst,Location,3,1,Elsa's Ice Palace - Place of Solitude,,,4,1,Rare
+SSK-068,Set5,Amethyst,Location,3,1,The Library - A Gift for Belle,,,8,1,Uncommon
+SSK-069,Set5,Emerald,Character,9,0,Robin Hood - Timely Contestant,Storyborn| Hero,6,6,4,Rare
+SSK-070,Set5,Emerald,Character,3,1,Shenzi - Scar's Accomplice,Storyborn| Ally| Hyena,2,3,1,Uncommon
+SSK-071,Set5,Emerald,Character,1,1,Little John - Camp Cook,Storyborn| Ally,0,4,1,Uncommon
+SSK-072,Set5,Emerald,Character,5,1,Zazu - Advisor to Mufasa,Storyborn| Ally,3,5,2,Common
+SSK-073,Set5,Emerald,Character,4,1,Ulf - Mime,Storyborn| Ally,4,3,2,Common
+SSK-074,Set5,Emerald,Character,3,0,Ed - Laughing Hyena,Storyborn| Ally| Hyena,2,3,1,Common
+SSK-075,Set5,Emerald,Character,3,1,Flora - Good Fairy,Storyborn| Ally| Fairy,2,4,1,Common
+SSK-076,Set5,Emerald,Character,1,1,Merryweather - Good Fairy,Storyborn| Ally| Fairy,1,2,1,Common
+SSK-077,Set5,Emerald,Character,2,1,Robin Hood - Archery Contestant,Storyborn| Hero,2,2,1,Common
+SSK-078,Set5,Emerald,Character,5,1,Fauna - Good Fairy,Storyborn| Ally| Fairy ,3,7,2,Common
+SSK-079,Set5,Emerald,Character,4,1,Iago - Fake Flamingo,Storyborn| Ally,2,4,1,Rare
+SSK-080,Set5,Emerald,Character,2,0,Banzai - Gluttonous Predator,Storyborn| Ally| Hyena,3,2,2,Rare
+SSK-081,Set5,Emerald,Character,4,0,Ed - Hysterical Partygoer,Storyborn| Ally| Hyena ,2,4,2,Uncommon
+SSK-082,Set5,Emerald,Character,3,0,Scroop - Odious Mutineer,,2,1,2,Common
+SSK-083,Set5,Emerald,Character,7,1,Prince Phillip - Swordsman of the Realm,Storyborn| Hero| Prince ,3,9,3,Common
+SSK-084,Set5,Emerald,Character,7,1,Clarabelle - Light on Her Hooves,Floodborn| Ally,5,6,2,Legendary
+SSK-085,Set5,Emerald,Character,3,0,Anna - Diplomatic Queen,Storyborn| Hero| Queen,2,3,2,Legendary
+SSK-086,Set5,Emerald,Character,1,1,Clarabelle - Clumsy Guest,Storyborn| Ally,1,2,1,Common
+SSK-087,Set5,Emerald,Character,2,1,Banzai - Taunting Hyena,Storyborn| Ally| Hyena,2,2,1,Common
+SSK-088,Set5,Emerald,Character,5,1,Robin Hood - Sneaky Sleuth,Floodborn| Hero,3,5,1,Uncommon
+SSK-089,Set5,Emerald,Character,2,1,Mother Gothel - Conceited Manipulator,Storyborn| Villain,1,3,1,Uncommon
+SSK-090,Set5,Emerald,Character,3,1,Clarabelle - Contented Wallflower,Storyborn| Ally,2,3,1,Uncommon
+SSK-091,Set5,Emerald,Character,5,1,Shenzi - Head Hyena,Storyborn| Ally| Hyena,3,6,1,Common
+SSK-092,Set5,Emerald,Character,6,1,Mother Gothel - Unwavering Schemer,Floodborn| Villain ,4,6,2,Super Rare
+SSK-093,Set5,Emerald,Character,4,1,Scar - Vengeful Lion,Storyborn| Villain,4,2,2,Common
+SSK-094,Set5,Emerald,Action,2,1,Hypnotic Deduction,,,,,Common
+SSK-095,Set5,Emerald,Action,3,1,Night Howler Rage,,,,,Common
+SSK-096,Set5,Emerald,Action - Song,4,1,You're Welcome,,,,,Common
+SSK-097,Set5,Emerald,Action,4,0,Remember Who You Are,,,,,Rare
+SSK-098,Set5,Emerald,Item,3,1,Prince John's Mirror,,,,,Rare
+SSK-099,Set5,Emerald,Item,1,1,Obscurosphere,,,,,Common
+SSK-100,Set5,Emerald,Item,3,0,Emerald Chromicon,,,,,Uncommon
+SSK-101,Set5,Emerald,Location,2,1,Sherwood Forest - Outlaw Hideaway,,,7,0,Rare
+SSK-102,Set5,Emerald,Location,3,1,Tropical Rainforest - Jaguar Lair,,,6,1,Uncommon
+SSK-103,Set5,Ruby,Character,2,1,Taffyta Muttonfudge - Ruthless Rival,Storyborn| Ally| Racer,2,2,2,Uncommon
+SSK-104,Set5,Ruby,Character,3,1,Wreck-It Ralph - Demolition Dude,Storyborn| Hero,1,3,1,Rare
+SSK-105,Set5,Ruby,Character,6,1,Maximus - Team Champion,Storyborn| Ally,3,5,2,Super Rare
+SSK-106,Set5,Ruby,Character,2,0,Turbo - Royal Hack,Storyborn| Villain| Racer,2,3,1,Uncommon
+SSK-107,Set5,Ruby,Character,5,1,Donald Duck - Pie Slinger,Floodborn| Hero| Knight,3,6,1,Common
+SSK-108,Set5,Ruby,Character,4,1,Rancis Fluggerbutter - Chocolate Charger,Storyborn| Ally| Racer,4,4,1,Common
+SSK-109,Set5,Ruby,Character,5,1,Scar - Betrayer,Storyborn| Villain,6,3,2,Uncommon
+SSK-110,Set5,Ruby,Character,3,0,Snowanna Rainbeau,Storyborn| Ally| Racer,2,4,1,Common
+SSK-111,Set5,Ruby,Character,2,1,Daisy Duck - Spotless Food-Fighter,Storyborn| Hero,2,2,1,Common
+SSK-112,Set5,Ruby,Character,4,1,Mickey Mouse - Enthusiastic Dancer,Dreamborn| Hero,2,4,2,Common
+SSK-113,Set5,Ruby,Character,3,1,Ratigan - Raging Rat,Dreamborn| Villain,1,5,1,Common
+SSK-114,Set5,Ruby,Character,1,1,Taffyta Muttonfudge - Crowd Favorite,Storyborn| Ally| Racer,1,2,1,Common
+SSK-115,Set5,Ruby,Character,5,0,Denahi - Avenging Brother,Storyborn,7,5,2,Rare
+SSK-116,Set5,Ruby,Character,7,1,Pete - Steamboat Rival,Storyborn| Villain,6,6,2,Super Rare
+SSK-117,Set5,Ruby,Character,4,1,Taffyta Muttonfudge - Sour Speedster,Floodborn| Ally| Racer,3,3,1,Uncommon
+SSK-118,Set5,Ruby,Character,4,0,Robin Hood - Sharpshooter,Storyborn| Hero,1,4,2,Legendary
+SSK-119,Set5,Ruby,Character,9,0,Gaston - Pure Paragon,Dreamborn| Villain,10,6,2,Rare
+SSK-120,Set5,Ruby,Character,3,1,Pete - Pastry Chomper,Storyborn| Villain,4,3,1,Common
+SSK-121,Set5,Ruby,Character,1,0,Arthur - Novice Sparrow,Storyborn| Hero,2,3,,Common
+SSK-122,Set5,Ruby,Character,3,1,Donald Duck - Daisy's Date,Storyborn| Ally,2,4,1,Common
+SSK-123,Set5,Ruby,Character,7,0,Ratigan - Party Crasher,Floodborn| Villain,5,5,3,Rare
+SSK-124,Set5,Ruby,Character,4,0,Vanellope Von Schweetz - Random Roster Racer,Storyborn| Hero| Princess| Racer,3,3,2,Rare
+SSK-125,Set5,Ruby,Character,1,0,Simba - Adventurous Successor,Storyborn| Hero| Prince,2,1,1,Common
+SSK-126,Set5,Ruby,Character,3,1,Minnie Mouse - Dazzling Dancer,Dreamborn| Hero,2,3,1,Uncommon
+SSK-127,Set5,Ruby,Action,1,1,Break Free,,,,,Common
+SSK-128,Set5,Ruby,Action,2,1,Evil Comes Prepared,,,,,Common
+SSK-129,Set5,Ruby,Action - Song,7,1,Don't Let the Frostbite Bite,,,,,Rare
+SSK-130,Set5,Ruby,Action,3,0,Glimmer VS Glimmer,,,,,Uncommon
+SSK-131,Set5,Ruby,Action,3,1,Who's With Me?,,,,,Super Rare
+SSK-132,Set5,Ruby,Item,1,1,Potion of Might,,,,,Common
+SSK-133,Set5,Ruby,Item,3,0,The Sword Released,,,,,Rare
+SSK-134,Set5,Ruby,Item,1,1,Ruby Chromicon,,,,,Uncommon
+SSK-135,Set5,Ruby,Location,1,0,Sugar Rush Speedway - Starting Line,,,5,,Rare
+SSK-136,Set5,Ruby,Location,2,1,Ratigan's Party - Seedy Back Room,,,7,,Uncommon
+SSK-137,Set5,Sapphire,Character,1,1,King Candy - Sovereign of Sugar,Storyborn| Villain| King| Racer,2,2,1,Common
+SSK-138,Set5,Sapphire,Character,4,1,Chaca - Impressive Daughter,Storyborn| Ally,4,3,2,Common
+SSK-139,Set5,Sapphire,Character,2,1,The Queen - Cruelest of All,Storyborn| Villain| Queen| Sorcerer,0,4,1,Common
+SSK-140,Set5,Sapphire,Character,4,0,Scrooge McDuck - Afficionado of Antiquities,Storyborn| Hero,5,5,2,Rare
+SSK-141,Set5,Sapphire,Character,3,1,Prince John - Opportunistic Briber,Dreamborn| Villain| Prince,1,5,1,Common
+SSK-142,Set5,Sapphire,Character,4,1,Merlin - Back from Bermuda,Storyborn| Mentor| Sorcerer,1,4,2,Common
+SSK-143,Set5,Sapphire,Character,3,1,Pacha - Emperor's Guide,Storyborn| Hero,0,4,2,Uncommon
+SSK-144,Set5,Sapphire,Character,5,1,The Queen - Fairest of All,Floodborn| Villain| Queen| Sorcerer,2,6,1,Super Rare
+SSK-145,Set5,Sapphire,Character,9,0,Sheriff of Nottingham - Bushel Britches,Storyborn| Villain,5,9,4,Super Rare
+SSK-146,Set5,Sapphire,Character,2,0,Chicha - Dedicated Mother,Storyborn| Ally,2,1,1,Rare
+SSK-147,Set5,Sapphire,Character,4,1,Prince John - Gold Lover,Storyborn| Villain| Prince,3,4,1,Super Rare
+SSK-148,Set5,Sapphire,Character,4,0,The Queen - Crown of the Council,Storyborn| Villain| Queen| Sorcerer,3,2,2,Rare
+SSK-149,Set5,Sapphire,Character,6,1,Kuzco - Selfish Emperor,Storyborn| King,3,5,2,Super Rare
+SSK-150,Set5,Sapphire,Character,8,0,Mufasa - Ruler of Pride Rock,Storyborn| Mentor| King,4,9,4,Legendary
+SSK-151,Set5,Sapphire,Character,5,1,Ludwig Von Drake - Self-Proclaimed Genius,Storyborn| Ally,4,4,3,Uncommon
+SSK-152,Set5,Sapphire,Character,1,0,Minnie Mouse - Quick-Thinking Inventor,Dreamborn| Hero| Inventor,1,2,1,Common
+SSK-153,Set5,Sapphire,Character,1,1,Basil - Practiced Detective,Storyborn| Hero| Detective,2,1,1,Common
+SSK-154,Set5,Sapphire,Character,5,0,King Candy - Sweet Abomination,Floodborn| Villain| King| Racer,3,3,2,Uncommon
+SSK-155,Set5,Sapphire,Character,5,1,Donald Duck - Focused Flatfoot,Dreamborn| Hero| Detective,3,4,2,Common
+SSK-156,Set5,Sapphire,Character,2,1,Tanana - Wise Woman,Storyborn| Ally,1,3,1,Common
+SSK-157,Set5,Sapphire,Character,2,1,Tipo - Growing Son,Storyborn| Ally,1,2,1,Uncommon
+SSK-158,Set5,Sapphire,Character,4,0,Belle - Of the Ball,Dreamborn| Hero| Princess,2,3,2,Rare
+SSK-159,Set5,Sapphire,Character,6,0,Merlin - Intellectual Visionary,Floodborn| Mentor| Sorcerer,3,7,2,Legendary
+SSK-160,Set5,Sapphire,Action,2,1,Vision of the Future,,,,,Common
+SSK-161,Set5,Sapphire,Action,4,0,Royal Tantrum,,,,,Rare
+SSK-162,Set5,Sapphire,Action - Song,2,1,Ever as Before,,,,,Common
+SSK-163,Set5,Sapphire,Action,2,1,Hide Away,,,,,Uncommon
+SSK-164,Set5,Sapphire,Action,1,1,All Funned Out,,,,,Uncommon
+SSK-165,Set5,Sapphire,Item,2,1,Medal of Heroes,,,,,Common
+SSK-166,Set5,Sapphire,Item,2,1,Basil's Magnifying Glass,,,,,Rare
+SSK-167,Set5,Sapphire,Item,5,0,Merlin's Carpetbag,,,,,Uncommon
+SSK-168,Set5,Sapphire,Item,4,0,Sapphire Chromicon,,,,,Uncommon
+SSK-169,Set5,Sapphire,Location,3,1,The Great Illuminary - Radiant Ballroom,,,9,,Rare
+SSK-170,Set5,Sapphire,Location,1,1,Merlin's Cottage,,,7,,Uncommon
+SSK-171,Set5,Steel,Character,4,0,Stitch - Team Underdog,Storyborn| Hero| Alien,1,4,1,Uncommon
+SSK-172,Set5,Steel,Character,6,1,Jafar - Tyrannical Hypnotist,Dreamborn| Villain| Sorcerer,0,7,2,Legendary
+SSK-173,Set5,Steel,Character,3,1,Simba - Lost Prince,Storyborn| Hero| Prince,2,4,1,Common
+SSK-174,Set5,Steel,Character,1,1,Rudy - Groove Disrupter,Storyborn,2,2,1,Common
+SSK-175,Set5,Steel,Character,4,1,Royal Guard - Bovine Protector,Storyborn,1,7,1,Common
+SSK-176,Set5,Steel,Character,1,1,Mickey Mouse - Food Fight Defender,Storyborn| Hero,1,2,1,Common
+SSK-177,Set5,Steel,Character,2,1,Sleepy - Sluggish Knight,Dreamborn| Ally| Knight| Seven Dwarfs,0,4,1,Uncommon
+SSK-178,Set5,Steel,Character,2,1,Kronk - Unlicensed Investigator,Dreamborn| Ally,1,4,1,Common
+SSK-179,Set5,Steel,Character,5,1,Heihei - Protective Rooster,Dreamborn| Ally,4,5,2,Common
+SSK-180,Set5,Steel,Character,4,1,Sneezy - Noisy Knight,Dreamborn| Ally| Knight| Seven Dwarfs,3,4,1,Common
+SSK-181,Set5,Steel,Character,3,1,Dopey - Knight Apprentice,Dreamborn| Ally| Knight| Seven Dwarfs,2,2,1,Common
+SSK-182,Set5,Steel,Character,9,0,Namaari - Resolute Daughter,Storyborn| Villain| Princess,5,5,3,Rare
+SSK-183,Set5,Steel,Character,5,0,Snow White - Fair-haired,Dreamborn| Hero| Princess| Knight,3,5,3,Super Rare
+SSK-184,Set5,Steel,Character,4,0,Yzma - Unjustly Treated,Dreamborn| Villain| Sorcerer,1,4,2,Rare
+SSK-185,Set5,Steel,Character,7,0,Kronk - Head of Security,Floodborn| Ally| Captain,6,6,1,Super Rare
+SSK-186,Set5,Steel,Character,3,1,Grumpy - Skeptical Knight,Dreamborn| Ally| Knight| Seven Dwarfs,3,1,1,Super Rare
+SSK-187,Set5,Steel,Character,3,0,Pete - Wrestling Champ,Dreamborn| Villain,1,3,1,Rare
+SSK-188,Set5,Steel,Character,7,0,Sir Ector - Castle Lord,Storyborn| Knight,7,10,3,Rare
+SSK-189,Set5,Steel,Character,4,1,Bashful - Adoring Knight,Dreamborn| Ally| Knight| Seven Dwarfs,3,4,1,Uncommon
+SSK-190,Set5,Steel,Character,2,1,Arthur - Wart,Storyborn| Hero,2,2,2,Uncommon
+SSK-191,Set5,Steel,Character,1,1,Happy - Lively Knight,Dreamborn| Ally| Knight| Seven Dwarfs,2,1,1,Common
+SSK-192,Set5,Steel,Character,6,1,Simba - Son of Mufasa,Floodborn| Hero| King,3,5,1,Uncommon
+SSK-193,Set5,Steel,Character,2,0,Doc - Bold Knight,Dreamborn| Ally| Knight| Seven Dwarfs,1,3,1,Rare
+SSK-194,Set5,Steel,Character,7,0,Arthur - King Victorius,Floodborn| Hero| King,3,6,3,Legendary
+SSK-195,Set5,Steel,Character,3,1,Pete - Games Referee,Dreamborn| Villain,3,3,1,Uncommon
+SSK-196,Set5,Steel,Action,5,1,Tug-Of-War,,,,,Common
+SSK-197,Set5,Steel,Action - Song,3,1,When Will My Life Begin?,,,,,Common
+SSK-198,Set5,Steel,Action,2,1,Duck For Cover!,,,,,Common
+SSK-199,Set5,Steel,Action,1,0,Food Fight!,,,,,Uncommon
+SSK-200,Set5,Steel,Item,1,1,Shield of Arendelle,,,,,Common
+SSK-201,Set5,Steel,Item,4,0,Plate Armor,,,,,Rare
+SSK-202,Set5,Steel,Item,6,0,Steel Chromicon,,,,,Uncommon
+SSK-203,Set5,Steel,Location,3,1,Bad-Anon - Villain Support Center,,,7,1,Rare
+SSK-204,Set5,Steel,Location,2,1,Seven Dwarfs' Mine,,,6,1,Uncommon
+TFC-001,Set1,Amber,Character,4,1,Ariel - On Human Legs,Storyborn| Hero| Princess,3,4,2,Uncommon
+TFC-002,Set1,Amber,Character,3,1,Ariel - Spectacular Singer,Storyborn| Hero| Princess,2,3,1,Super Rare
+TFC-003,Set1,Amber,Character,4,1,Cinderella - Gentle and Kind,Storyborn| Hero| Princess,2,5,2,Uncommon
+TFC-004,Set1,Amber,Character,5,1,Goofy - Musketeer,Dreamborn| Hero| Musketeer,3,6,1,Uncommon
+TFC-005,Set1,Amber,Character,8,0,Hades - King of Olympus,Floodborn| Villain| King| Deity,6,7,1,Rare
+TFC-006,Set1,Amber,Character,4,0,Hades - Lord of the Underworld,Storyborn| Villain| Deity,3,2,1,Rare
+TFC-007,Set1,Amber,Character,1,1,HeiHei - Boat Snack,Storyborn| Ally,1,2,1,Common
+TFC-008,Set1,Amber,Character,2,1,Lefou - Bumbler,Storyborn| Ally,1,2,2,Uncommon
+TFC-009,Set1,Amber,Character,1,0,Lilo - Making a Wish,Storyborn| Hero,1,1,2,Rare
+TFC-010,Set1,Amber,Character,5,1,Maximus - Palace Horse,Storyborn| Ally,4,5,1,Super Rare
+TFC-011,Set1,Amber,Character,3,1,Maximus - Relentless Pursuer,Dreamborn| Ally,3,3,1,Uncommon
+TFC-012,Set1,Amber,Character,3,1,Mickey Mouse - True Friend,Storyborn| Hero,3,3,2,Uncommon
+TFC-013,Set1,Amber,Character,2,1,Minnie Mouse - Beloved Princess,Dreamborn| Princess,2,3,1,Common
+TFC-014,Set1,Amber,Character,5,1,Moana - Of Motunui,Storyborn| Hero| Princess,1,6,3,Rare
+TFC-015,Set1,Amber,Character,3,1,Mr. Smee - Loyal First Mate,Dreamborn| Ally| Pirate,2,5,1,Common
+TFC-016,Set1,Amber,Character,4,0,Prince Phillip - Dragonslayer,Storyborn| Hero| Prince,3,3,2,Uncommon
+TFC-017,Set1,Amber,Character,4,1,Pumbaa - Friendly Warthog,Storyborn| Ally,3,5,1,Common
+TFC-018,Set1,Amber,Character,4,1,Rapunzel - Gifted with Healing,Storyborn| Hero| Princess,1,5,2,Legendary
+TFC-019,Set1,Amber,Character,2,1,Sebastian - Court Composer,Storyborn| Ally,2,2,1,Common
+TFC-020,Set1,Amber,Character,2,1,Simba - Protective Cub,Storyborn| Hero| Prince,2,3,1,Common
+TFC-021,Set1,Amber,Character,7,1,Stitch - Carefree Surfer,Dreamborn| Hero| Alien,4,8,2,Legendary
+TFC-022,Set1,Amber,Character,1,1,Stitch - New Dog,Storyborn| Hero| Alien,2,2,1,Common
+TFC-023,Set1,Amber,Character,6,1,Stitch - Rock Star,Floodborn| Hero| Alien,3,5,3,Super Rare
+TFC-024,Set1,Amber,Character,1,1,Timon - Grub Rustler,Storyborn| Ally,1,2,1,Common
+TFC-025,Set1,Amber,Action - Song,2,1,Be Our Guest,,,,,Uncommon
+TFC-026,Set1,Amber,Action,1,1,Control Your Temper!,,,,,Common
+TFC-027,Set1,Amber,Action - Song,4,1,Hakuna Matata,,,,,Common
+TFC-028,Set1,Amber,Action,1,1,Healing Glow,,,,,Common
+TFC-029,Set1,Amber,Action,3,1,Just In Time,,,,,Rare
+TFC-030,Set1,Amber,Action - Song,3,0,Part of Your World,,,,,Rare
+TFC-031,Set1,Amber,Action - Song,4,1,You Have Forgotten Me,,,,,Uncommon
+TFC-032,Set1,Amber,Item,1,1,Dinglehopper,,,,,Common
+TFC-033,Set1,Amber,Item,2,0,Lantern,,,,,Rare
+TFC-034,Set1,Amber,Item,3,0,Ursula's Shell Necklace,,,,,Rare
+TFC-035,Set1,Amethyst,Character,4,1,Anna - Heir to Arendelle,Storyborn| Hero| Queen,2,4,2,Uncommon
+TFC-036,Set1,Amethyst,Character,1,1,Archimedes - Highly Educated Owl,Dreamborn| Ally,2,2,1,Common
+TFC-037,Set1,Amethyst,Character,7,0,Dr. Facilier - Agent Provocateur,Floodborn| Villain| Sorcerer,4,5,3,Rare
+TFC-038,Set1,Amethyst,Character,2,1,Dr. Facilier - Charlatan,Storyborn| Villain| Sorcerer,0,4,1,Common
+TFC-039,Set1,Amethyst,Character,3,1,Dr. Facilier - Remarkable Gentleman,Storyborn| Villain| Sorcerer,2,4,1,Rare
+TFC-040,Set1,Amethyst,Character,4,1,Elsa - Queen Regent,Storyborn| Hero| Queen| Sorcerer,4,4,1,Common
+TFC-041,Set1,Amethyst,Character,3,1,Elsa - Snow Queen,Dreamborn| Hero| Queen| Sorcerer,2,3,1,Uncommon
+TFC-042,Set1,Amethyst,Character,8,0,Elsa - Spirit of Winter,Floodborn| Hero| Queen| Sorcerer,4,6,3,Legendary
+TFC-043,Set1,Amethyst,Character,5,0,Flotsam - Ursula's Spy,Storyborn| Ally,3,4,2,Rare
+TFC-044,Set1,Amethyst,Character,4,1,Jafar - Keeper of Secrets,Dreamborn| Villain| Sorcerer,0,5,2,Rare
+TFC-045,Set1,Amethyst,Character,4,1,Jafar - Wicked Sorcerer,Dreamborn| Villain| Sorcerer,2,5,1,Common
+TFC-046,Set1,Amethyst,Character,4,1,Jetsam - Ursula's Spy,Storyborn| Ally,3,3,1,Common
+TFC-047,Set1,Amethyst,Character,2,1,Magic Broom - Bucket Brigade,Dreamborn| Broom,2,2,1,Common
+TFC-048,Set1,Amethyst,Character,1,0,Maleficent - Biding Her Time,Dreamborn| Villain| Sorcerer,1,1,2,Rare
+TFC-049,Set1,Amethyst,Character,3,1,Maleficent - Sorceress,Storyborn| Villain| Sorcerer,2,2,1,Common
+TFC-050,Set1,Amethyst,Character,6,0,Marshmallow - Persistent Guardian,Storyborn| Ally,5,5,1,Super Rare
+TFC-051,Set1,Amethyst,Character,4,1,Mickey Mouse - Wayward Sorcerer,Dreamborn| Sorcerer,3,4,2,Super Rare
+TFC-052,Set1,Amethyst,Character,1,1,Olaf - Friendly Snowman,Storyborn| Ally,1,3,1,Uncommon
+TFC-053,Set1,Amethyst,Character,1,1,Pascal - Rapunzel's Companion,Storyborn| Ally,1,1,1,Uncommon
+TFC-054,Set1,Amethyst,Character,3,0,Rafiki - Mysterious Sage,Dreamborn| Mentor| Sorcerer,3,3,1,Uncommon
+TFC-055,Set1,Amethyst,Character,6,1,Sven - Official Ice Deliverer,Storyborn| Ally,5,7,1,Uncommon
+TFC-056,Set1,Amethyst,Character,5,1,The Queen - Wicked and Vain,Storyborn| Villain| Queen,4,5,1,Super Rare
+TFC-057,Set1,Amethyst,Character,3,1,The Wardrobe - Belle's Confidant,Dreamborn| Ally,3,4,1,Common
+TFC-058,Set1,Amethyst,Character,5,0,Tinker Bell - Peter Pan's Ally,Storyborn| Ally| Fairy,3,3,2,Common
+TFC-059,Set1,Amethyst,Character,7,0,Ursula - Power Hungry,Storyborn| Villain| Sorcerer,2,8,3,Legendary
+TFC-060,Set1,Amethyst,Character,2,1,Yzma - Alchemist,Dreamborn| Villain| Sorcerer,2,2,1,Common
+TFC-061,Set1,Amethyst,Character,4,0,Zeus - God of Lightning,Storyborn| Deity,0,4,2,Rare
+TFC-062,Set1,Amethyst,Action,1,1,Befuddle,,,,,Uncommon
+TFC-063,Set1,Amethyst,Action,2,0,Freeze,,,,,Common
+TFC-064,Set1,Amethyst,Action - Song,3,1,Friends On The Other Side,,,,,Common
+TFC-065,Set1,Amethyst,Action - Song,1,1,Reflection,,,,,Uncommon
+TFC-066,Set1,Amethyst,Item,2,0,Magic Mirror,,,,,Rare
+TFC-067,Set1,Amethyst,Item,2,0,Ursula's Cauldron,,,,,Uncommon
+TFC-068,Set1,Amethyst,Item,3,1,White Rabbit's Pocket Watch,,,,,Rare
+TFC-069,Set1,Emerald,Character,2,1,Aladdin - Prince Ali,Storyborn| Hero| Prince,2,2,1,Common
+TFC-070,Set1,Emerald,Character,5,0,Beast - Wolfsbane,Dreamborn| Hero| Prince,4,4,2,Legendary
+TFC-071,Set1,Emerald,Character,3,1,Cheshire Cat - Not All There,Storyborn,0,3,2,Uncommon
+TFC-072,Set1,Emerald,Character,2,1,Cruella De Vil - Miserable as Usual,Storyborn| Villain,1,3,1,Rare
+TFC-073,Set1,Emerald,Character,1,1,Duke Of Weselton - Opportunistic Official,Storyborn| Villain,2,2,1,Common
+TFC-074,Set1,Emerald,Character,2,1,Flynn Rider - Charming Rogue,Storyborn| Hero| Prince,1,2,2,Uncommon
+TFC-075,Set1,Emerald,Character,6,0,Genie - On the Job,Storyborn| Ally,3,4,2,Super Rare
+TFC-076,Set1,Emerald,Character,8,0,Genie - Powers Unleashed,Floodborn| Hero,3,5,3,Rare
+TFC-077,Set1,Emerald,Character,2,1,Genie - The Ever Impressive,Dreamborn| Ally,2,3,1,Common
+TFC-078,Set1,Emerald,Character,4,1,Hans - Scheming Prince,Storyborn| Villain| Prince,3,3,3,Rare
+TFC-079,Set1,Emerald,Character,3,1,Horace - No-Good Scoundrel,Storyborn| Ally,4,3,1,Common
+TFC-080,Set1,Emerald,Character,3,1,Iago - Loud-Mouthed Parrot,Storyborn| Ally,1,4,1,Rare
+TFC-081,Set1,Emerald,Character,3,1,Jasper - Common Crook,Storyborn| Ally,2,4,1,Uncommon
+TFC-082,Set1,Emerald,Character,6,1,John Silver - Alien Pirate,Storyborn| Villain| Alien| Pirate| Captain,5,5,2,Legendary
+TFC-083,Set1,Emerald,Character,5,1,Jumba Jookiba - Renegade Scientist,Dreamborn| Alien| Inventor,4,5,2,Uncommon
+TFC-084,Set1,Emerald,Character,5,0,Kuzco - Temperamental Emperor,Storyborn| King,2,4,3,Rare
+TFC-085,Set1,Emerald,Character,6,0,Lady Tremaine - Wicked Stepmother,Dreamborn| Villain,1,5,1,Rare
+TFC-086,Set1,Emerald,Character,5,1,Mad Hatter - Gracious Host,Storyborn,2,4,3,Uncommon
+TFC-087,Set1,Emerald,Character,2,1,Megara - Pulling the Strings,Dreamborn| Ally,2,1,1,Common
+TFC-088,Set1,Emerald,Character,7,0,Mickey Mouse - Artful Rogue,Floodborn| Hero,6,5,2,Super Rare
+TFC-089,Set1,Emerald,Character,3,1,Mickey Mouse - Steamboat Pilot,Storyborn| Hero| Captain,3,4,1,Common
+TFC-090,Set1,Emerald,Character,6,1,Mother Gothel - Selfish Manipulator,Storyborn| Villain,3,6,2,Super Rare
+TFC-091,Set1,Emerald,Character,3,1,Peter Pan - Never Landing,Dreamborn| Hero,3,2,1,Common
+TFC-092,Set1,Emerald,Character,2,1,Tamatoa - Drab Little Crab,Dreamborn,1,4,1,Uncommon
+TFC-093,Set1,Emerald,Character,4,1,Tinker Bell - Most Helpful,Storyborn| Ally| Fairy,2,3,1,Common
+TFC-094,Set1,Emerald,Action,3,0,Do It Again!,,,,,Rare
+TFC-095,Set1,Emerald,Action - Song,3,0,Mother Knows Best,,,,,Uncommon
+TFC-096,Set1,Emerald,Action,1,0,Stampede,,,,,Common
+TFC-097,Set1,Emerald,Action,5,0,Steal From The Rich,,,,,Rare
+TFC-098,Set1,Emerald,Action - Song,2,1,Sudden Chill,,,,,Common
+TFC-099,Set1,Emerald,Action,3,1,The Beast Is Mine!,,,,,Uncommon
+TFC-100,Set1,Emerald,Action,1,1,Vicious Betrayal,,,,,Common
+TFC-101,Set1,Emerald,Item,2,0,Dr. Facilier's Cards,,,,,Uncommon
+TFC-102,Set1,Emerald,Item,2,1,Stolen Scimitar,,,,,Common
+TFC-103,Set1,Ruby,Character,3,1,Abu - Mischievous Monkey,Storyborn| Ally,3,2,2,Common
+TFC-104,Set1,Ruby,Character,7,1,Aladdin - Heroic Outlaw,Floodborn| Hero,5,5,2,Super Rare
+TFC-105,Set1,Ruby,Character,3,1,Aladdin - Street Rat,Storyborn| Hero,2,2,1,Common
+TFC-106,Set1,Ruby,Character,5,1,Captain - Colonel's Lieutenant,Storyborn| Ally| Captain,6,5,1,Uncommon
+TFC-107,Set1,Ruby,Character,7,0,Captain Hook - Ruthless Pirate,Storyborn| Villain| Pirate| Captain,5,5,2,Rare
+TFC-108,Set1,Ruby,Character,2,1,Donald Duck - Boisterous Fowl,Storyborn,2,3,1,Uncommon
+TFC-109,Set1,Ruby,Character,4,1,Elsa - Ice Surfer,Dreamborn| Hero| Queen| Sorcerer,3,4,1,Common
+TFC-110,Set1,Ruby,Character,2,1,Gaston - Arrogant Hunter,Storyborn| Villain,4,2,0,Common
+TFC-111,Set1,Ruby,Character,5,1,Goofy - Daredevil,Dreamborn| Hero,3,4,2,Common
+TFC-112,Set1,Ruby,Character,2,1,Lefou - Instigator,Dreamborn| Ally,2,2,1,Rare
+TFC-113,Set1,Ruby,Character,9,1,Maleficent - Monstrous Dragon,Storyborn| Villain| Dragon,7,5,2,Legendary
+TFC-114,Set1,Ruby,Character,5,1,Maui - Hero to All,Storyborn| Hero| Deity,6,5,0,Rare
+TFC-115,Set1,Ruby,Character,8,1,Mickey Mouse - Brave Little Tailor,Dreamborn| Hero,5,5,4,Legendary
+TFC-116,Set1,Ruby,Character,1,1,Minnie Mouse - Always Classy,Storyborn| Hero,1,3,1,Common
+TFC-117,Set1,Ruby,Character,5,1,Moana - Chosen by the Ocean,Storyborn| Hero| Princess,2,6,2,Uncommon
+TFC-118,Set1,Ruby,Character,5,1,Mulan - Imperial Soldier,Storyborn| Hero| Princess,4,5,1,Super Rare
+TFC-119,Set1,Ruby,Character,3,0,Peter Pan - Fearless Fighter,Storyborn| Hero,3,2,1,Common
+TFC-120,Set1,Ruby,Character,4,1,Pongo - Ol' Rascal,Storyborn| Hero,2,3,2,Common
+TFC-121,Set1,Ruby,Character,6,0,Rapunzel - Letting Down Her Hair,Dreamborn| Hero| Princess,5,4,2,Uncommon
+TFC-122,Set1,Ruby,Character,4,1,Scar - Fiery Usurper,Dreamborn| Villain,5,3,1,Common
+TFC-123,Set1,Ruby,Character,8,0,Scar - Shameless Firebrand,Floodborn| Villain| King,6,6,1,Rare
+TFC-124,Set1,Ruby,Character,1,1,Sergeant Tibbs - Courageous Cat,Storyborn| Ally,2,2,1,Common
+TFC-125,Set1,Ruby,Character,6,1,Stitch - Abomination,Storyborn| Hero| Alien,4,6,3,Rare
+TFC-126,Set1,Ruby,Character,6,0,Te Ka - The Burning One,Storyborn| Villain| Deity,8,6,0,Super Rare
+TFC-127,Set1,Ruby,Character,6,1,Tigger - Wonderful Thing,Storyborn| Tigger,4,4,2,Uncommon
+TFC-128,Set1,Ruby,Action - Song,7,0,Be Prepared,,,,,Rare
+TFC-129,Set1,Ruby,Action,2,1,Cut To The Chase,,,,,Uncommon
+TFC-130,Set1,Ruby,Action,5,0,Dragon Fire,,,,,Uncommon
+TFC-131,Set1,Ruby,Action,1,1,Fan The Flames,,,,,Uncommon
+TFC-132,Set1,Ruby,Action,1,1,He's Got A Sword!,,,,,Common
+TFC-133,Set1,Ruby,Action,2,1,Tangle,,,,,Common
+TFC-134,Set1,Ruby,Item,3,0,Poisoned Apple,,,,,Rare
+TFC-135,Set1,Ruby,Item,1,1,Shield Of Virtue,,,,,Uncommon
+TFC-136,Set1,Ruby,Item,4,0,Sword Of Truth,,,,,Rare
+TFC-137,Set1,Sapphire,Character,4,0,Ariel - Whoseit Collector,Storyborn| Hero| Princess,3,3,1,Rare
+TFC-138,Set1,Sapphire,Character,4,1,Aurora - Briar Rose,Storyborn| Hero| Princess,2,5,1,Common
+TFC-139,Set1,Sapphire,Character,5,1,Aurora - Dreaming Guardian,Floodborn| Hero| Princess,3,5,2,Super Rare
+TFC-140,Set1,Sapphire,Character,2,1,Aurora - Regal Princess,Storyborn| Hero| Princess,2,2,2,Uncommon
+TFC-141,Set1,Sapphire,Character,3,1,Belle - Inventive Engineer,Dreamborn| Hero| Princess| Inventor,2,3,2,Uncommon
+TFC-142,Set1,Sapphire,Character,4,1,Belle - Strange but special,Storyborn| Hero| Princess,2,4,1,Legendary
+TFC-143,Set1,Sapphire,Character,7,1,Chief Tui - Respected Leader,Storyborn| Mentor| King,3,6,3,Uncommon
+TFC-144,Set1,Sapphire,Character,5,1,Donald Duck - Strutting His Stuff,Dreamborn| Hero| Inventor,4,3,2,Common
+TFC-145,Set1,Sapphire,Character,1,1,Flounder - Voice Of Reason,Storyborn| Ally,2,2,1,Common
+TFC-146,Set1,Sapphire,Character,2,1,Gramma Tala - Storyteller,Storyborn| Mentor,1,1,1,Uncommon
+TFC-147,Set1,Sapphire,Character,7,0,Hades - Infernal Schemer,Dreamborn| Villain| Deity,3,6,2,Legendary
+TFC-148,Set1,Sapphire,Character,3,1,Jasmine - Disguised,Storyborn| Princess,3,3,2,Common
+TFC-149,Set1,Sapphire,Character,5,1,Jasmine - Queen Of Agrabah,Floodborn| Hero| Princess| Queen,2,5,2,Rare
+TFC-150,Set1,Sapphire,Character,4,1,Maleficent - Sinister Visitor,Storyborn| Villain| Sorcerer,3,4,2,Common
+TFC-151,Set1,Sapphire,Character,5,1,Maleficent - Uninvited,Dreamborn| Villain| Sorcerer,3,6,3,Rare
+TFC-152,Set1,Sapphire,Character,6,1,Maurice - World-Famous Inventor,Dreamborn| Mentor| Inventor,2,7,2,Rare
+TFC-153,Set1,Sapphire,Character,4,1,Merlin - Self-Appointed Mentor,Dreamborn| Mentor| Sorcerer,3,4,1,Common
+TFC-154,Set1,Sapphire,Character,3,0,Mickey Mouse - Detective,Dreamborn| Hero| Detective,1,3,1,Common
+TFC-155,Set1,Sapphire,Character,6,1,Mufasa - King of the Pride Lands,Storyborn| Mentor| King,4,6,3,Common
+TFC-156,Set1,Sapphire,Character,2,1,Philoctetes - Trainer of Heroes,Storyborn| Mentor,3,1,1,Common
+TFC-157,Set1,Sapphire,Character,6,1,Robin Hood - Unrivaled Archer,Storyborn| Hero,4,4,2,Super Rare
+TFC-158,Set1,Sapphire,Character,6,1,Scar - Mastermind,Storyborn| Villain,5,4,2,Rare
+TFC-159,Set1,Sapphire,Character,8,1,Tamatoa - So Shiny!,Storyborn| Villain,5,8,1,Super Rare
+TFC-160,Set1,Sapphire,Character,7,1,Triton - The Sea King,Storyborn| King,5,9,2,Uncommon
+TFC-161,Set1,Sapphire,Action,1,1,Develop Your Brain,,,,,Common
+TFC-162,Set1,Sapphire,Action,3,0,If It's Not Baroque,,,,,Rare
+TFC-163,Set1,Sapphire,Action - Song,5,1,Let It Go,,,,,Rare
+TFC-164,Set1,Sapphire,Action - Song,2,0,One Jump Ahead,,,,,Uncommon
+TFC-165,Set1,Sapphire,Action,1,1,Work Together,,,,,Common
+TFC-166,Set1,Sapphire,Item,2,1,Coconut Basket,,,,,Uncommon
+TFC-167,Set1,Sapphire,Item,4,1,Eye Of The Fates,,,,,Uncommon
+TFC-168,Set1,Sapphire,Item,3,1,Fishbone Quill,,,,,Rare
+TFC-169,Set1,Sapphire,Item,1,1,Magic Golden Flower,,,,,Common
+TFC-170,Set1,Sapphire,Item,1,1,Scepter Of Arendelle,,,,,Uncommon
+TFC-171,Set1,Steel,Character,2,1,Aladdin - Cornered Swordsman,Storyborn| Hero,2,1,2,Common
+TFC-172,Set1,Steel,Character,5,1,Beast - Hardheaded,Storyborn| Hero| Prince,4,4,2,Uncommon
+TFC-173,Set1,Steel,Character,4,0,Captain Hook - Captain of the Jolly Roger,Storyborn| Villain| Pirate| Captain,3,4,1,Rare
+TFC-174,Set1,Steel,Character,1,1,Captain Hook - Forceful Duelist,Dreamborn| Villain| Pirate| Captain,1,2,1,Common
+TFC-175,Set1,Steel,Character,5,0,Captain Hook - Thinking a Happy Thought,Floodborn| Villain| Pirate| Captain,2,5,1,Rare
+TFC-176,Set1,Steel,Character,5,1,Cerberus - Three-Headed Dog,Storyborn,5,6,1,Common
+TFC-177,Set1,Steel,Character,4,1,Donald Duck - Musketeer,Dreamborn| Hero| Musketeer,2,5,1,Uncommon
+TFC-178,Set1,Steel,Character,8,1,Gantu - Galactic Federation Captain,Storyborn| Alien| Captain,6,6,2,Legendary
+TFC-179,Set1,Steel,Character,1,1,Goons - Maleficent's Underlings,Storyborn| Ally,2,2,1,Common
+TFC-180,Set1,Steel,Character,4,1,Hans - Thirteenth in Line,Storyborn| Villain| Prince,3,3,2,Super Rare
+TFC-181,Set1,Steel,Character,3,1,Hercules - True Hero,Dreamborn| Hero| Prince,3,3,1,Common
+TFC-182,Set1,Steel,Character,3,1,Kristoff - Offical Ice Master,Storyborn| Ally,3,3,2,Common
+TFC-183,Set1,Steel,Character,6,1,Kronk - Right-Hand Man,Storyborn| Ally,6,6,2,Uncommon
+TFC-184,Set1,Steel,Character,3,1,Lilo - Galactic Hero,Dreamborn| Hero,4,2,2,Uncommon
+TFC-185,Set1,Steel,Character,8,1,Maui - Demigod,Storyborn| Hero| Deity,8,8,3,Rare
+TFC-186,Set1,Steel,Character,6,1,Mickey Mouse - Musketeer,Dreamborn| Hero| Musketeer,2,7,2,Rare
+TFC-187,Set1,Steel,Character,2,1,Prince Eric - Dashing and Brave,Storyborn| Hero| Prince,1,3,1,Common
+TFC-188,Set1,Steel,Character,1,1,Simba - Future King,Storyborn| Hero| Prince,1,2,1,Common
+TFC-189,Set1,Steel,Character,7,1,Simba - Returned King,Storyborn| Hero| King,4,6,2,Rare
+TFC-190,Set1,Steel,Character,5,0,Simba - Rightful Heir,Storyborn| Hero| Prince,3,5,2,Uncommon
+TFC-191,Set1,Steel,Character,5,1,Starkey - Hook's Henchman,Storyborn| Ally| Pirate,5,4,1,Uncommon
+TFC-192,Set1,Steel,Character,6,1,Te Ka - Heartless,Dreamborn| Villain| Deity,5,5,2,Legendary
+TFC-193,Set1,Steel,Character,6,1,Tinker Bell - Giant Fairy,Floodborn| Ally| Fairy,4,5,2,Super Rare
+TFC-194,Set1,Steel,Character,3,1,Tinker Bell - Tiny Tactician,Dreamborn| Ally| Fairy,2,4,1,Common
+TFC-195,Set1,Steel,Action - Song,5,0,A Whole New World,,,,,Super Rare
+TFC-196,Set1,Steel,Action,2,1,Break,,,,,Common
+TFC-197,Set1,Steel,Action,1,0,Fire The Cannons!,,,,,Common
+TFC-198,Set1,Steel,Action - Song,5,0,Grab Your Sword,,,,,Rare
+TFC-199,Set1,Steel,Action,2,1,Ransack,,,,,Uncommon
+TFC-200,Set1,Steel,Action,3,1,Smash,,,,,Uncommon
+TFC-201,Set1,Steel,Item,2,1,Beast's Mirror,,,,,Common
+TFC-202,Set1,Steel,Item,2,1,Frying Pan,,,,,Uncommon
+TFC-203,Set1,Steel,Item,4,0,Musketeer Tabard,,,,,Rare
+TFC-204,Set1,Steel,Item,3,0,Plasma Blaster,,,,,Rare
+URS-001,Set4,Amber,Character,1,1,Agustin Madrigal - Clumsy Dad,Storyborn| Mentor| Madrigal,2,2,1,Common
+URS-002,Set4,Amber,Character,3,0,Alma Madrigal - Family Matriarch,Storyborn| Mentor| Madrigal,1,3,2,Rare
+URS-003,Set4,Amber,Character,4,1,Ariel - Singing Mermaid,Storyborn| Hero| Princess,3,3,2,Rare
+URS-004,Set4,Amber,Character,5,1,Cinderella - Melody Weaver,Dreamborn| Hero| Princess,1,5,2,Legendary
+URS-005,Set4,Amber,Character,4,1,Cogsworth - Majordomo,Dreamborn| Ally,3,3,1,Common
+URS-006,Set4,Amber,Character,1,1,Daisy Duck - Lovely Lady,Dreamborn| Ally,1,3,1,Uncommon
+URS-007,Set4,Amber,Character,4,1,Daisy Duck - Musketeer Spy,Dreamborn| Hero| Musketeer,2,3,1,Common
+URS-008,Set4,Amber,Character,3,1,Donald Duck - Musketeer Soldier,Dreamborn| Hero| Musketeer,2,3,1,Uncommon
+URS-009,Set4,Amber,Character,3,1,Felix Madrigal - Fun-Loving Family Man,Storyborn| Ally| Madrigal,2,4,2,Uncommon
+URS-010,Set4,Amber,Character,3,0,Gaston - Despicable Dealer,Storyborn| Villain,2,4,1,Super Rare
+URS-011,Set4,Amber,Character,1,1,Golden Harp - Enchanter of the Land,Storyborn| Ally,1,4,2,Rare
+URS-012,Set4,Amber,Character,4,0,Goofy - Musketeer Swordsman,Dreamborn| Hero| Musketeer,3,4,2,Rare
+URS-013,Set4,Amber,Character,3,1,Julieta Madrigal - Excellent Cook,Storyborn| Mentor| Madrigal,1,4,1,Uncommon
+URS-014,Set4,Amber,Character,3,1,Max - Loyal Sheepdog,Storyborn| Ally,4,3,1,Common
+URS-015,Set4,Amber,Character,4,1,Mickey Mouse - Leader of the Band,Storyborn| Hero,2,5,1,Uncommon
+URS-016,Set4,Amber,Character,7,0,Mickey Mouse - Musketeer Captain,Floodborn| Hero| Musketeer| Captain,3,6,2,Legendary
+URS-017,Set4,Amber,Character,5,0,Minnie Mouse - Musketeer Champion,Dreamborn| Hero| Musketeer,1,5,2,Super Rare
+URS-018,Set4,Amber,Character,5,0,Mirabel Madrigal - Gift of the Family,Dreamborn| Hero| Madrigal,3,5,2,Super Rare
+URS-019,Set4,Amber,Character,2,1,Mirabel Madrigal - Prophecy Finder,Storyborn| Hero| Madrigal,2,2,1,Common
+URS-020,Set4,Amber,Character,5,1,Pluto - Rescue Dog,Storyborn| Ally,4,5,2,Common
+URS-021,Set4,Amber,Character,3,1,Prince Eric - Seafaring Prince,Dreamborn| Hero| Prince,3,3,1,Common
+URS-022,Set4,Amber,Character,6,1,Prince Eric - Ursula's Groom,Floodborn| Hero| Prince,5,5,2,Uncommon
+URS-023,Set4,Amber,Character,2,1,Stitch - Alien Dancer,Storyborn| Hero| Alien,2,3,1,Common
+URS-024,Set4,Amber,Character,4,0,Ursula - Eric's Bride,Floodborn| Villain| Princess| Sorcerer,2,4,2,Rare
+URS-025,Set4,Amber,Character,2,1,Ursula - Vanessa,Storyborn| Villain| Sorcerer,1,4,1,Common
+URS-026,Set4,Amber,Action,2,0,Bruno's Return,,,,,Uncommon
+URS-027,Set4,Amber,Action,1,1,First Aid,,,,,Common
+URS-028,Set4,Amber,Action - Song,7,1,Look at this Family,,,,,Rare
+URS-029,Set4,Amber,Action - Song,4,1,Lost in the Woods,,,,,Uncommon
+URS-030,Set4,Amber,Action,3,0,Sign the Scroll,,,,,Uncommon
+URS-031,Set4,Amber,Item,2,1,Miracle Candle,,,,,Rare
+URS-032,Set4,Amber,Item,2,1,Record Player,,,,,Common
+URS-033,Set4,Amber,Location,1,1,Atlantica - Concert Hall,,,6,,Common
+URS-034,Set4,Amber,Location,2,1,The Underworld - River Styx,,,6,1,Rare
+URS-035,Set4,Amethyst,Character,3,1,Antonio Madrigal - Animal Expert,Storyborn| Ally| Madrigal,3,4,1,Uncommon
+URS-036,Set4,Amethyst,Character,5,1,Belle - Accomplished Mystic,Floodborn| Hero| Princess| Sorcerer,4,4,2,Super Rare
+URS-037,Set4,Amethyst,Character,3,1,Belle - Untrained Mystic,Dreamborn| Hero| Princess,3,3,1,Common
+URS-038,Set4,Amethyst,Character,5,0,Bruno Madrigal - Out of the Shadows,Storyborn| Ally| Madrigal,4,5,1,Rare
+URS-039,Set4,Amethyst,Character,4,1,Bruno Madrigal - Undetected Uncle,Storyborn| Ally| Madrigal,3,3,1,Super Rare
+URS-040,Set4,Amethyst,Character,4,1,Camilo Madrigal - Prankster,Storyborn| Ally| Madrigal,2,5,1,Uncommon
+URS-041,Set4,Amethyst,Character,4,1,Dolores Madrigal - Easy Listener,Storyborn| Ally| Madrigal,3,3,2,Common
+URS-042,Set4,Amethyst,Character,3,0,Elsa - Storm Chaser,Storyborn| Hero| Queen| Sorcerer,1,4,1,Rare
+URS-043,Set4,Amethyst,Character,3,0,Flotsam - Ursula's "Baby",Dreamborn| Ally,4,2,1,Uncommon
+URS-044,Set4,Amethyst,Character,6,1,Flotsam & Jetsam - Entangling Eels,Floodborn| Ally,5,5,2,Uncommon
+URS-045,Set4,Amethyst,Character,5,1,Isabela Madrigal - Golden Child,Storyborn| Ally| Madrigal,3,4,1,Rare
+URS-046,Set4,Amethyst,Character,3,1,Jetsam - Ursula's "Baby",Dreamborn| Ally,2,4,1,Common
+URS-047,Set4,Amethyst,Character,4,0,Luisa Madrigal - Magically Strong One,Storyborn| Ally| Madrigal,4,3,1,Common
+URS-048,Set4,Amethyst,Character,1,1,Magic Broom - Illuminary Keeper,Dreamborn| Broom,1,2,1,Common
+URS-049,Set4,Amethyst,Character,3,1,Magic Broom - Lively Sweeper,Dreamborn| Broom,2,4,1,Common
+URS-050,Set4,Amethyst,Character,2,1,Magical Maid - Feather Duster,Storyborn| Ally,2,2,2,Uncommon
+URS-051,Set4,Amethyst,Character,3,0,Marshmallow - Terrifying Snowman,Storyborn| Ally,0,3,1,Uncommon
+URS-052,Set4,Amethyst,Character,4,1,Mrs. Potts - Enchanted Teapot,Storyborn| Ally,3,4,2,Rare
+URS-053,Set4,Amethyst,Character,5,0,Pepa Madrigal - Weather Maker,Storyborn| Ally| Madrigal,1,5,1,Rare
+URS-054,Set4,Amethyst,Character,3,0,Peter Pan - Shadow Finder,Storyborn| Hero,2,3,1,Super Rare
+URS-055,Set4,Amethyst,Character,2,1,Pico - Helpful Toucan,Storyborn| Ally,3,2,1,Common
+URS-056,Set4,Amethyst,Character,6,1,Tick-Tock - Ever-Present Pursuer,Storyborn| Ally,4,7,1,Common
+URS-057,Set4,Amethyst,Character,2,1,Ursula - Mad Sea Witch,Dreamborn| Villain| Sorcerer,1,3,1,Uncommon
+URS-058,Set4,Amethyst,Character,7,1,Ursula - Sea Witch Queen,Floodborn| Villain| Queen| Sorcerer,4,7,3,Legendary
+URS-059,Set4,Amethyst,Character,2,1,Yen Sid - Powerful Sorcerer,Storyborn| Hero| Sorcerer,1,3,1,Legendary
+URS-060,Set4,Amethyst,Action - Song,2,1,Poor Unfortunate Souls,,,,,Common
+URS-061,Set4,Amethyst,Action - Song,10,0,Second Star to the Right,,,,,Rare
+URS-062,Set4,Amethyst,Action,1,1,Swing Into Action,,,,,Common
+URS-063,Set4,Amethyst,Action,3,0,Ursula's Plan,,,,,Uncommon
+URS-064,Set4,Amethyst,Item,2,1,Mystical Rose,,,,,Rare
+URS-065,Set4,Amethyst,Item,2,1,Rose Lantern,,,,,Common
+URS-066,Set4,Amethyst,Item,2,1,Triton's Trident,,,,,Uncommon
+URS-067,Set4,Amethyst,Location,1,1,Casa Madrigal - Casita,,,6,,Common
+URS-068,Set4,Amethyst,Location,3,0,Ursula's Lair - Eye of the Storm,,,6,1,Rare
+URS-069,Set4,Emerald,Character,5,1,Cri-Kee - Lucky Cricket,Storyborn| Ally,3,4,3,Rare
+URS-070,Set4,Emerald,Character,3,0,Diablo - Devoted Herald,Floodborn| Ally,2,2,1,Legendary
+URS-071,Set4,Emerald,Character,1,1,Diablo - Maleficent's Spy,Storyborn| Ally,1,2,1,Common
+URS-072,Set4,Emerald,Character,4,1,Gunther - Interior Designer,Dreamborn| Ally,3,3,2,Common
+URS-073,Set4,Emerald,Character,2,1,Gus - Champion of Cheese,Storyborn| Ally,2,3,1,Common
+URS-074,Set4,Emerald,Character,4,1,Hades - Double Dealer,Storyborn| Villain| Deity,3,3,1,Legendary
+URS-075,Set4,Emerald,Character,3,1,HeiHei - Bumbling Rooster,Storyborn| Ally,2,3,2,Uncommon
+URS-076,Set4,Emerald,Character,3,1,Hera - Queen of the Gods,Storyborn| Queen| Deity,1,3,2,Rare
+URS-077,Set4,Emerald,Character,3,1,Jaq - Connoisseur of Climbing,Storyborn| Ally,1,4,2,Common
+URS-078,Set4,Emerald,Character,5,0,Jasmine - Desert Warrior,Dreamborn| Hero| Princess,3,3,2,Rare
+URS-079,Set4,Emerald,Character,3,0,Megara - Captivating Cynic,Dreamborn| Ally,3,6,2,Common
+URS-080,Set4,Emerald,Character,5,1,Megara - Liberated one,Storyborn| Ally,4,4,2,Uncommon
+URS-081,Set4,Emerald,Character,3,1,Pain - Immortal Sidekick,Storyborn| Ally,2,4,2,Uncommon
+URS-082,Set4,Emerald,Character,4,1,Panic - Immortal Sidekick,Storyborn| Ally,3,3,2,Uncommon
+URS-083,Set4,Emerald,Character,5,1,Pegasus - Cloud Racer,Floodborn| Ally,3,3,2,Uncommon
+URS-084,Set4,Emerald,Character,1,1,Pegasus - Gift for Hercules,Storyborn| Ally,1,1,1,Common
+URS-085,Set4,Emerald,Character,2,0,Pete - Born to Cheat,Dreamborn| Villain| Musketeer,2,3,1,Super Rare
+URS-086,Set4,Emerald,Character,4,1,Pete - Rotten Guy,Storyborn| Villain| Musketeer,1,5,2,Uncommon
+URS-087,Set4,Emerald,Character,9,1,Prince Phillip - Vanquisher of Foes,Floodborn| Hero| Prince,6,6,3,Super Rare
+URS-088,Set4,Emerald,Character,4,0,Prince Phillip - Warden of the Woods,Dreamborn| Hero| Prince,3,4,2,Rare
+URS-089,Set4,Emerald,Character,1,1,The Fates - Only One Eye,Storyborn| Ally,2,1,1,Common
+URS-090,Set4,Emerald,Character,4,1,The Muses - Proclaimers of Heroes,Storyborn| Ally,2,4,1,Rare
+URS-091,Set4,Emerald,Character,5,1,Tor - Florist,Dreamborn| Ally,4,7,1,Common
+URS-092,Set4,Emerald,Character,3,1,Zeus - Mr. Lightning Bolts,Storyborn| King| Deity,0,5,2,Super Rare
+URS-093,Set4,Emerald,Action,2,1,Dodge!,,,,,Common
+URS-094,Set4,Emerald,Action,2,0,Make the Potion,,,,,Common
+URS-095,Set4,Emerald,Action - Song,8,0,Under the Sea,,,,,Rare
+URS-096,Set4,Emerald,Action,1,0,Ursula's Trickery,,,,,Uncommon
+URS-097,Set4,Emerald,Action - Song,5,1,We Don't Talk About Bruno,,,,,Rare
+URS-098,Set4,Emerald,Item,2,0,Hidden Inkcaster,,,,,Common
+URS-099,Set4,Emerald,Item,2,1,Signed Contract,,,,,Uncommon
+URS-100,Set4,Emerald,Item,3,1,Vision Slab,,,,,Uncommon
+URS-101,Set4,Emerald,Location,1,1,Hidden Cove - Tranquil Haven,,,6,,Common
+URS-102,Set4,Emerald,Location,4,1,Ursula's Garden - Full of the Unfortunate,,,7,1,Rare
+URS-103,Set4,Ruby,Character,3,1,Beast - Wounded,Storyborn| Hero| Prince,2,6,2,Uncommon
+URS-104,Set4,Ruby,Character,4,1,Benja - Bold United,Storyborn| Mentor| King,5,3,1,Common
+URS-105,Set4,Ruby,Character,2,1,Fa Zhou - Mulan's Father,Storyborn| Mentor,0,4,1,Common
+URS-106,Set4,Ruby,Character,2,1,Flynn Rider - Frenemy,Storyborn| Hero| Prince,2,2,1,Super Rare
+URS-107,Set4,Ruby,Character,4,1,Goofy - Super Goof,Storyborn| Hero,2,4,1,Rare
+URS-108,Set4,Ruby,Character,3,0,Hercules - Clumsy Kid,Storyborn| Hero| Prince,3,3,1,Common
+URS-109,Set4,Ruby,Character,5,0,Hercules - Daring Demigod,Dreamborn| Hero| Prince,7,3,0,Uncommon
+URS-110,Set4,Ruby,Character,2,1,Khan - Beloved Steed,Storyborn| Ally,3,2,1,Uncommon
+URS-111,Set4,Ruby,Character,1,1,Li Shang - General's Son,Storyborn| Hero,2,2,1,Common
+URS-112,Set4,Ruby,Character,3,1,Li Shang - Valorous General,Floodborn| Hero,3,2,1,Uncommon
+URS-113,Set4,Ruby,Character,2,1,Lumiere - Fiery Friend,Dreamborn| Ally,2,2,1,Rare
+URS-114,Set4,Ruby,Character,6,1,Mulan - Elite Archer,Floodborn| Hero| Princess,2,6,2,Legendary
+URS-115,Set4,Ruby,Character,2,1,Mulan - Enemy of Entanglement,Storyborn| Hero| Princess,1,3,1,Uncommon
+URS-116,Set4,Ruby,Character,1,1,Mulan - Injured Soldier,Storyborn| Hero| Princess,2,3,1,Common
+URS-117,Set4,Ruby,Character,3,0,Namaari - Heir of Fang,Storyborn| Villain| Princess,2,3,1,Rare
+URS-118,Set4,Ruby,Character,6,1,Nessus - River guardian,Storyborn| Villain,7,5,2,Uncommon
+URS-119,Set4,Ruby,Character,4,1,Noi - Acrobatic Baby,Storyborn| Ally,4,4,1,Super Rare
+URS-120,Set4,Ruby,Character,2,1,Pegasus - Flying Steed,Storyborn| Ally,3,1,1,Common
+URS-121,Set4,Ruby,Character,3,1,Raya - Fierce Protector,Storyborn| Hero| Princess,3,3,1,Super Rare
+URS-122,Set4,Ruby,Character,4,1,Raya - Guardian of the Dragon Gem,Storyborn| Hero| Princess,3,3,2,Common
+URS-123,Set4,Ruby,Character,3,0,Sisu - Daring Visitor,Storyborn| Hero| Deity| Dragon,1,1,1,Uncommon
+URS-124,Set4,Ruby,Character,3,1,Sisu - Emboldened Warrior,Storyborn| Hero| Deity| Dragon,1,4,2,Rare
+URS-125,Set4,Ruby,Character,8,0,Sisu - Empowered Sibling,Floodborn| Hero| Deity| Dragon,5,4,3,Legendary
+URS-126,Set4,Ruby,Character,4,0,Tong - Survivor,Storyborn| Ally,3,6,0,Common
+URS-127,Set4,Ruby,Character,3,1,Tuk Tuk - Lively Partner,Storyborn| Ally,2,3,1,Rare
+URS-128,Set4,Ruby,Action - Song,6,1,A Pirate's Life,,,,,Uncommon
+URS-129,Set4,Ruby,Action - Song,4,0,Be King Undisputed,,,,,Rare
+URS-130,Set4,Ruby,Action,3,1,Brawl,,,,,Common
+URS-131,Set4,Ruby,Item,1,1,Imperial Proclamation,,,,,Rare
+URS-132,Set4,Ruby,Item,2,1,Medallion Weights,,,,,Uncommon
+URS-133,Set4,Ruby,Item,3,0,The Plank,,,,,Common
+URS-134,Set4,Ruby,Item,1,1,Vitalisphere,,,,,Common
+URS-135,Set4,Ruby,Location,2,1,Snuggly Duckling - Disreputable Pub,,,9,,Rare
+URS-136,Set4,Ruby,Location,1,1,Training Grounds - Impossible Pillar,,,5,0,Common
+URS-137,Set4,Sapphire,Character,2,1,Anna - Braving the Storm,Dreamborn| Hero| Queen,1,4,1,Common
+URS-138,Set4,Sapphire,Character,4,1,Anna - True-Hearted,Dreamborn| Hero| Queen| Knight,2,4,2,Super Rare
+URS-139,Set4,Sapphire,Character,6,0,Ariel - Treasure Collector,Storyborn| Hero| Princess,3,4,3,Super Rare
+URS-140,Set4,Sapphire,Character,4,1,Aurora - Lore Guardian,Floodborn| Hero| Princess,3,3,2,Super Rare
+URS-141,Set4,Sapphire,Character,2,1,Aurora - Tranquil Princess,Dreamborn| Hero| Princess,1,3,1,Common
+URS-142,Set4,Sapphire,Character,5,1,Dang Hu - Talon Chief,Storyborn| Villain,3,5,2,Rare
+URS-143,Set4,Sapphire,Character,1,1,Fa Li - Mulan's Mother,Storyborn| Mentor,1,3,1,Common
+URS-144,Set4,Sapphire,Character,3,1,Flounder - Collector's Companion,Storyborn| Ally,2,2,2,Uncommon
+URS-145,Set4,Sapphire,Character,4,1,Hades - Meticulous Plotter,Storyborn| Villain| Deity,3,6,1,Uncommon
+URS-146,Set4,Sapphire,Character,3,1,Hans - Noble Scoundrel,Storyborn| Villain| Prince,3,2,2,Common
+URS-147,Set4,Sapphire,Character,4,1,Iduna - Caring Mother,Storyborn| Mentor| Queen,3,3,1,Uncommon
+URS-148,Set4,Sapphire,Character,8,1,John Silver - Terror of the Realm,Dreamborn| Villain| Alien| Pirate| Captain,8,8,3,Rare
+URS-149,Set4,Sapphire,Character,3,1,Olaf - Carrot Enthusiast,Floodborn| Ally,1,4,2,Uncommon
+URS-150,Set4,Sapphire,Character,1,1,Olaf - Trusting Companion,Storyborn| Ally,1,2,1,Common
+URS-151,Set4,Sapphire,Character,3,1,Pascal - Inquisitive Pet,Storyborn| Ally,3,3,1,Common
+URS-152,Set4,Sapphire,Character,3,1,Prince Phillip - Gallant Defender,Storyborn| Hero| Prince,1,3,2,Rare
+URS-153,Set4,Sapphire,Character,5,1,Rapunzel - Appreciative Artist,Dreamborn| Hero| Princess,3,5,3,Rare
+URS-154,Set4,Sapphire,Character,2,1,Scuttle - Expert on Humans,Storyborn| Ally,1,3,1,Uncommon
+URS-155,Set4,Sapphire,Character,6,1,Sisu - Wise Friend,Storyborn| Hero| Deity| Dragon,6,6,2,Uncommon
+URS-156,Set4,Sapphire,Character,3,1,The Queen - Diviner,Dreamborn| Villain| Queen| Sorcerer,3,3,1,Legendary
+URS-157,Set4,Sapphire,Character,4,1,Transformed Chef - Castle Stove,Storyborn| Ally,3,3,,Common
+URS-158,Set4,Sapphire,Character,9,1,Triton - Champion of Atlantica,Floodborn| King,7,9,3,Legendary
+URS-159,Set4,Sapphire,Character,3,0,Triton - Discerning King,Storyborn| King,3,3,1,Rare
+URS-160,Set4,Sapphire,Character,4,1,Triton - Young Prince,Dreamborn| Prince,3,4,1,Uncommon
+URS-161,Set4,Sapphire,Character,2,1,Tuk Tuk - Curious Partner,Storyborn| Ally,2,3,1,Common
+URS-162,Set4,Sapphire,Action - Song,8,0,Dig a Little Deeper,,,,,Uncommon
+URS-163,Set4,Sapphire,Action,1,1,Glean,,,,,Common
+URS-164,Set4,Sapphire,Action - Song,2,1,Seldom All They Seem,,,,,Common
+URS-165,Set4,Sapphire,Action - Song,6,1,Treasures Untold,,,,,Rare
+URS-166,Set4,Sapphire,Item,3,1,Field of Ice,,,,,Rare
+URS-167,Set4,Sapphire,Item,3,1,Great Stone Dragon,,,,,Uncommon
+URS-168,Set4,Sapphire,Item,1,0,Ice Block,,,,,Common
+URS-169,Set4,Sapphire,Location,2,1,Ariel's Grotto - A Secret Place,,,7,0,Rare
+URS-170,Set4,Sapphire,Location,3,1,Winter Camp - Medical Tent,,,8,1,Common
+URS-171,Set4,Steel,Character,3,1,Aladdin - Brave Rescuer,Floodborn| Hero,3,3,1,Uncommon
+URS-172,Set4,Steel,Character,1,1,Aladdin - Resolute Swordsman,Storyborn| Hero,1,3,1,Common
+URS-173,Set4,Steel,Character,2,1,Arges - The Cyclops,Storyborn| Titan,3,3,1,Common
+URS-174,Set4,Steel,Character,3,1,Ariel - Determined Mermaid,Storyborn| Hero| Princess,2,4,1,Common
+URS-175,Set4,Steel,Character,6,1,Ariel - Sonic Warrior,Floodborn| Hero| Princess,3,8,2,Super Rare
+URS-176,Set4,Steel,Character,3,1,Beast - Thick-Skinned,Storyborn| Hero| Prince,2,3,1,Common
+URS-177,Set4,Steel,Character,3,1,Chi-Fu - Imperial Advisor,Storyborn| Ally,0,5,1,Uncommon
+URS-178,Set4,Steel,Character,5,1,Chien-Po - Imperial Soldier,Storyborn| Ally,4,7,1,Common
+URS-179,Set4,Steel,Character,4,1,Donald Duck - Buccaneer,Dreamborn| Hero| Pirate| Captain,3,4,1,Legendary
+URS-180,Set4,Steel,Character,6,1,Hercules - Beloved Hero,Storyborn| Hero| Prince,6,5,2,Rare
+URS-181,Set4,Steel,Character,3,1,Lefou - Opportunistic Flunky,Dreamborn| Ally,2,3,1,Rare
+URS-182,Set4,Steel,Character,5,1,Li Shang - Imperial Captain,Dreamborn| Hero| Captain,5,5,2,Uncommon
+URS-183,Set4,Steel,Character,3,1,Ling - Imperial Soldier,Storyborn| Ally,3,3,1,Uncommon
+URS-184,Set4,Steel,Character,3,1,Luisa Madrigal - Rock of the Family,Storyborn| Ally| Madrigal,2,4,1,Common
+URS-185,Set4,Steel,Character,2,1,Magic Broom - Aerial Cleaner,Dreamborn| Broom,2,3,1,Common
+URS-186,Set4,Steel,Character,6,1,Magic Broom - Brigade Commander,Dreamborn| Broom,2,6,2,Super Rare
+URS-187,Set4,Steel,Character,5,1,Mickey Mouse - Playful Sorcerer,Floodborn| Hero| Sorcerer,3,4,2,Rare
+URS-188,Set4,Steel,Character,2,1,Mickey Mouse - Standard Bearer,Storyborn| Hero,1,3,1,Common
+URS-189,Set4,Steel,Character,4,1,Mulan - Armored Fighter,Storyborn| Hero| Princess,3,6,1,Uncommon
+URs-190,Set4,Steel,Character,4,1,Philoctetes - No-Nonsense Instructor,Storyborn| Ally,2,3,2,Rare
+URS-191,Set4,Steel,Character,5,0,Piglet - Sturdy Swordsman,Dreamborn| Hero,3,5,3,Legendary
+URS-192,Set4,Steel,Character,4,1,Rajah - Royal Protector,Storyborn| Ally,3,4,2,Rare
+URS-193,Set4,Steel,Character,7,1,Raya - Unstoppable Force,Dreamborn| Hero| Princess,3,6,2,Super Rare
+URS-194,Set4,Steel,Character,4,1,Yao - Imperial Soldier,Storyborn| Ally,2,5,1,Common
+URS-195,Set4,Steel,Action,4,0,Avalanche,,,,,Uncommon
+URS-196,Set4,Steel,Action - Song,4,1,I Find 'Em  I Flatten 'Em,,,,,Uncommon
+URS-197,Set4,Steel,Action - Song,3,0,One Last Hope,,,,,Rare
+URS-198,Set4,Steel,Action - Song,10,0,The Mob Song,,,,,Uncommon
+URS-199,Set4,Steel,Action,1,0,Triton's Decree,,,,,Common
+URS-200,Set4,Steel,Item,1,1,Fortisphere,,,,,Common
+URS-201,Set4,Steel,Item,2,1,Imperial Bow,,,,,Uncommon
+URS-202,Set4,Steel,Item,3,0,RLS Legacy's Cannon,,,,,Rare
+URS-203,Set4,Steel,Location,4,1,The Wall - Border Fortress,,,8,0,Rare
+URS-204,Set4,Steel,Location,2,1,Thebes - The Big Olive,,,7,0,Common
