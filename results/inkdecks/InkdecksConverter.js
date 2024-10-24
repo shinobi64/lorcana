@@ -192,6 +192,8 @@ export default class InkdecksConverter {
             .replaceAll(" ", "")
             .replaceAll("’", "'")
             .replaceAll("é", "e")
+            .replaceAll("ā", "a")
+            .replaceAll(" ", "")
             .toUpperCase();
           return matchName === inboundMatch;
         }
