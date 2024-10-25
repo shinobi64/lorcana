@@ -38,7 +38,8 @@ The set 5 emerald steel deck attempts to make use of the combination between Meg
 - 4 Ursula - Deceiver
 - 3 Ursula - Deceiver of All
 - 4 Let the Storm Rage On
-- 3 And Then Along Came Zeus
+- 2 And Then Along Came Zeus
 - 4 Strength of a Raging Fire
 - 4 Pete - Games Referee
-- 2 Hercules - True Hero
+- 2 Hercules - Hero in Training
+- 1 Grab Your Sword
