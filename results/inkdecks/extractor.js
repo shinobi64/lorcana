@@ -3,7 +3,7 @@ import IndecksExtractor from "./IndecksExtractor.js";
 // start extractor with default options
 const options = {
   fetchTournaments: true,
-  numberOfPages: 16,
+  numberOfPages: 20,
   fetchDecklists: true,
   fetchCards: true,
   persistOutput: true,

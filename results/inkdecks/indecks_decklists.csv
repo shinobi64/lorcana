@@ -1,4 +1,402 @@
 tournamentID,decklistID,colorCombination,archeType,rank,top1,top2,top4,top8,top16,top32
+1-nordlore-meisterschaften-tournament-decks-1710,deck-blue-balls-316714,sapphire/steel,Cogsworth & Friends,1st,1,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-e-s-discard-316964,emerald/steel,Discard,2nd,0,1,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-ach-hans-run-its-the-quabatchie-316965,emerald/steel,Discard,3rd,0,0,1,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-green-steel-316966,emerald/steel,Discard,Top4,0,0,1,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-jpk-316967,emerald/steel,Discard,Top8,0,0,0,1,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-ea-aggro-316968,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-phame-316970,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-green-game-316969,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-steelhammersong-316971,amber/steel,Steelsong,Top16,0,0,0,0,1,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-lilarot-317186,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-gianny-317187,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-basicbitch-317188,emerald/steel,Discard,Top16,0,0,0,0,1,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-lady-finders-317211,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-schoby-317212,amber/steel,Steelsong,Top16,0,0,0,0,1,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-bebis-singalong-317213,emerald/steel,Discard,Top16,0,0,0,0,1,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-stabilize-317214,sapphire/steel,Cogsworth & Friends,Top16,0,0,0,0,1,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-just-zan-it-317215,emerald/steel,Discard,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-redfasa-317240,amber/ruby,Mufasa,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-dielilarotepest-317241,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-the-lion-way-317246,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-ra-317267,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-ruby-amethyst-who-is-diablo-317269,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-my-order-didn-t-arrive-317270,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-sechs-seppel-317271,emerald/steel,Discard,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-mistermegageil-317273,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-aggro-317274,amber/amethyst,Hyper Aggro,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-facility-management-317275,amber/steel,Locations,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-joshua198-317276,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-tobr-317291,sapphire/steel,Cogsworth & Friends,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-jim-and-the-rat-317313,amber/ruby,Locations,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-ruby-sapphire-317314,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-banish-317315,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+1-nordlore-meisterschaften-tournament-decks-1710,deck-steel-song-317372,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-steel-song-317373,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-amythist-steel-special-317374,amethyst/steel,Aggro,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-steelsong-317419,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-e-s-discard-317459,emerald/steel,Discard,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-scar-on-fire-317460,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-rollo-auf-die-1-317461,amber/amethyst,Hyper Aggro,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-sasahillmer-317462,emerald/steel,Discard,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-lg-trampolin-317463,amethyst/emerald,Bounce,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-steelsong-317464,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-b-s-317465,sapphire/steel,Cogsworth & Friends,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-amo425-317466,emerald/steel,Discard,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-stunami-317657,amber/steel,Heros,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-girls-power-317658,amethyst/emerald,Bounce,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-eav-317659,amethyst/emerald,Facilier,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-lemon-aggro-317668,amber/emerald,Aggro Quest,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-sisu-on-ice-317703,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-singing-with-linh-317704,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-hips-don-t-lie-317705,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-sisu-on-ice-317706,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-steelsong-317715,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-ferkel-317734,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-meta-317737,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-steelsong-317738,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-ruby-amejim-317739,amethyst/ruby,Bounce Control,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-ich-kann-doch-nix-anderes-317740,amethyst/emerald,Bounce,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-lea425-317741,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-neele-317742,amber/ruby,Mufasa,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-krissis-deck-317753,ruby/sapphire,,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-redfasa-317784,amber/ruby,Mufasa,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-decklists-317811,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-bounce-control-317832,amethyst/ruby,Bounce Control,Top64,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-thekenturner-318332,amethyst/emerald,Bounce,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-stitch-mix-318339,amber/ruby,,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-ohh-you-wanted-to-play-too-317861,amethyst/ruby,Bounce Control,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-donbanano-318330,emerald/steel,Discard,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-ready-to-steal-318331,ruby/steel,,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-r-a-318152,amethyst/ruby,Bounce Control,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-a-whole-new-tempo-318161,amber/steel,Steelsong,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-scooter-318333,amber/amethyst,Hyper Aggro,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-bluesteel-318335,sapphire/steel,Cogsworth & Friends,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-the-incredibly-uncreative-rubythyst-318016,amethyst/ruby,Bounce Control,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-amethyst-sapphire-318340,amethyst/sapphire,Ramp Draw Control,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-copy-paste-318205,amber/steel,Steelsong,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-johnny-s-resorts-318270,amber/steel,Locations,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-meep-318337,amethyst/steel,Brooms Brigade,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-miwii-318334,amber/amethyst,Hyper Aggro,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-ramp-control-318336,sapphire/steel,,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-i-don-t-know-318038,amethyst/ruby,Bounce Control,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-bounce-controle-317974,amethyst/ruby,Bounce Control,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-knights-of-the-opera-318328,amber/steel,Seven Dwarves,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-janosch39-318338,amethyst/steel,Aggro,Top128,0,0,0,0,0,0
+1-nordlore-meisterschaften-tournament-decks-1710,deck-md-tempo-gueve-318329,amber/steel,Steelsong,Top128,0,0,0,0,0,0
+shimmering-skies-championship-tournament-decks-1709,deck-the-king-s-song-316713,amber/steel,Mufasa,1st,1,0,0,0,0,0
+tournoi-lorcana-256-joueurs-ludotrotter-x-royaume-du-tcg-tournament-decks-1708,deck-amethyste-rubis-316704,amethyst/ruby,Bounce Control,1st,1,0,0,0,0,0
+tournoi-lorcana-256-joueurs-ludotrotter-x-royaume-du-tcg-tournament-decks-1708,deck-emeraude-acier-316705,emerald/steel,Discard,2nd,0,1,0,0,0,0
+tournoi-lorcana-256-joueurs-ludotrotter-x-royaume-du-tcg-tournament-decks-1708,deck-ambre-acier-316706,amber/steel,Steelsong,3rd,0,0,1,0,0,0
+tournoi-lorcana-256-joueurs-ludotrotter-x-royaume-du-tcg-tournament-decks-1708,deck-amethyste-emeraude-316707,amethyst/emerald,Bounce,Top4,0,0,1,0,0,0
+tournoi-lorcana-256-joueurs-ludotrotter-x-royaume-du-tcg-tournament-decks-1708,deck-saphir-rubis-316708,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+tournoi-lorcana-256-joueurs-ludotrotter-x-royaume-du-tcg-tournament-decks-1708,deck-saphir-rubis-316709,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+tournoi-lorcana-256-joueurs-ludotrotter-x-royaume-du-tcg-tournament-decks-1708,deck-amethyste-emeraude-316711,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+tournoi-lorcana-256-joueurs-ludotrotter-x-royaume-du-tcg-tournament-decks-1708,deck-amethyste-rubis-316712,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+timmy-mac-s-post-dlc-seattle-tournament-tournament-decks-1713,deck-discard-316910,emerald/steel,Discard,1st,1,0,0,0,0,0
+timmy-mac-s-post-dlc-seattle-tournament-tournament-decks-1713,deck-r-a-316921,amethyst/ruby,Bounce Control,2nd,0,1,0,0,0,0
+timmy-mac-s-post-dlc-seattle-tournament-tournament-decks-1713,deck-r-a-c-316865,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
+timmy-mac-s-post-dlc-seattle-tournament-tournament-decks-1713,deck-b-r-316905,ruby/sapphire,Pawpsicles,Top4,0,0,1,0,0,0
+timmy-mac-s-post-dlc-seattle-tournament-tournament-decks-1713,deck-green-steel-316919,emerald/steel,Discard,Top8,0,0,0,1,0,0
+timmy-mac-s-post-dlc-seattle-tournament-tournament-decks-1713,deck-saved-by-the-belle-316920,emerald/sapphire,Muses's Songs,Top8,0,0,0,1,0,0
+timmy-mac-s-post-dlc-seattle-tournament-tournament-decks-1713,deck-b-s-amber-steel-316886,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+timmy-mac-s-post-dlc-seattle-tournament-tournament-decks-1713,deck-tempo-and-stuff-316922,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+road-to-lorcana-11-tournament-decks-1707,deck-tsi-tchitcha-316014,amethyst/emerald,Bounce,1st,1,0,0,0,0,0
+road-to-lorcana-11-tournament-decks-1707,deck-shinfenix-315948,amethyst/ruby,Bounce Control,2nd,0,1,0,0,0,0
+road-to-lorcana-11-tournament-decks-1707,deck-ntm-lemonstree-315946,ruby/sapphire,Pawpsicles,3rd,0,0,1,0,0,0
+road-to-lorcana-11-tournament-decks-1707,deck-mpetit-315945,ruby/sapphire,Pawpsicles,Top4,0,0,1,0,0,0
+road-to-lorcana-11-tournament-decks-1707,deck-kinukii-315943,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+road-to-lorcana-11-tournament-decks-1707,deck-sv-thor31-316012,amethyst/sapphire,Bounce,Top8,0,0,0,1,0,0
+road-to-lorcana-11-tournament-decks-1707,deck-vidya-316015,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+road-to-lorcana-11-tournament-decks-1707,deck-booboo2501-315941,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+road-to-lorcana-11-tournament-decks-1707,deck-arimane-315940,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
+road-to-lorcana-11-tournament-decks-1707,deck-ashromer-315938,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+road-to-lorcana-11-tournament-decks-1707,deck-clemy-315942,amethyst/emerald,Bounce,Top16,0,0,0,0,1,0
+road-to-lorcana-11-tournament-decks-1707,deck-amaurynash-315939,amethyst/emerald,Bounce,Top16,0,0,0,0,1,0
+road-to-lorcana-11-tournament-decks-1707,deck-graven-316018,amethyst/sapphire,,Top16,0,0,0,0,1,0
+road-to-lorcana-11-tournament-decks-1707,deck-max74-315944,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
+road-to-lorcana-11-tournament-decks-1707,deck-nux-315947,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+road-to-lorcana-11-tournament-decks-1707,deck-waltexplorer-316016,amber/amethyst,Hyper Aggro,Top16,0,0,0,0,1,0
+road-to-lorcana-11-tournament-decks-1707,deck-zaraty-316017,amethyst/ruby,,Top32,0,0,0,0,0,1
+road-to-lorcana-11-tournament-decks-1707,deck-silestone-315962,amber/steel,Steelsong,Top32,0,0,0,0,0,1
+championnat-lorcana-ciel-scintillant-tournament-decks-1712,deck-deck-jaune-gris-316790,amber/steel,,1st,1,0,0,0,0,0
+championnat-lorcana-ciel-scintillant-tournament-decks-1712,deck-steelsong-aggro-316789,amber/steel,Steelsong,2nd,0,1,0,0,0,0
+championnat-lorcana-ciel-scintillant-tournament-decks-1712,deck-deck-vert-violet-316788,emerald/steel,Discard,3rd,0,0,1,0,0,0
+championnat-lorcana-ciel-scintillant-tournament-decks-1712,deck-deck-vert-violet-316787,amethyst/emerald,Bounce,Top4,0,0,1,0,0,0
+baseball-and-games-shimmering-skies-store-championship-tournament-decks-1706,deck-green-purple-315069,amethyst/emerald,Bounce,1st,1,0,0,0,0,0
+baseball-and-games-shimmering-skies-store-championship-tournament-decks-1706,deck-amber-steel-315070,amber/steel,Steelsong,2nd,0,1,0,0,0,0
+baseball-and-games-shimmering-skies-store-championship-tournament-decks-1706,deck-sorta-steel-song-315071,amber/steel,,3rd,0,0,1,0,0,0
+baseball-and-games-shimmering-skies-store-championship-tournament-decks-1706,deck-sapphire-ruby-315072,ruby/sapphire,Pawpsicles,Top4,0,0,1,0,0,0
+baseball-and-games-shimmering-skies-store-championship-tournament-decks-1706,deck-blurple-315073,amethyst/sapphire,Bounce,Top8,0,0,0,1,0,0
+baseball-and-games-shimmering-skies-store-championship-tournament-decks-1706,deck-ruby-amethyst-315075,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+baseball-and-games-shimmering-skies-store-championship-tournament-decks-1706,deck-green-steel-315074,emerald/steel,Shift & Damage,Top8,0,0,0,1,0,0
+baseball-and-games-shimmering-skies-store-championship-tournament-decks-1706,deck-amber-steel-locations-315076,amber/steel,Locations,Top8,0,0,0,1,0,0
+shimmering-skies-championship-tournament-decks-1704,deck-gurple-aggro-314886,amethyst/emerald,,1st,1,0,0,0,0,0
+shimmering-skies-championship-tournament-decks-1704,deck-ruby-amethyst-314887,amethyst/ruby,Aggro,3rd,0,0,1,0,0,0
+set-championship-saarbrucken-himmelsleuchten-battle-bear-tournament-decks-1703,deck-emerald-amethyst-314628,amethyst/emerald,Bounce,1st,1,0,0,0,0,0
+set-championship-saarbrucken-himmelsleuchten-battle-bear-tournament-decks-1703,deck-ruby-amethyst-314629,amethyst/ruby,Bounce Control,2nd,0,1,0,0,0,0
+set-championship-saarbrucken-himmelsleuchten-battle-bear-tournament-decks-1703,deck-sapphire-emerald-314630,emerald/sapphire,,3rd,0,0,1,0,0,0
+set-championship-saarbrucken-himmelsleuchten-battle-bear-tournament-decks-1703,deck-steel-sapphire-314631,sapphire/steel,Cogsworth & Friends,Top4,0,0,1,0,0,0
+set-championship-saarbrucken-himmelsleuchten-battle-bear-tournament-decks-1703,deck-ruby-amethyst-314632,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+set-championship-saarbrucken-himmelsleuchten-battle-bear-tournament-decks-1703,deck-steel-sapphire-314633,sapphire/steel,Cogsworth & Friends,Top8,0,0,0,1,0,0
+set-championship-saarbrucken-himmelsleuchten-battle-bear-tournament-decks-1703,deck-ruby-sapphire-314634,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+set-championship-saarbrucken-himmelsleuchten-battle-bear-tournament-decks-1703,deck-amber-steel-314635,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+himmelsleuchten-set-meisterschaft-tournament-decks-1700,deck-amber-steel-313869,amber/steel,Locations,1st,1,0,0,0,0,0
+himmelsleuchten-set-meisterschaft-tournament-decks-1700,deck-steel-sapphire-313870,sapphire/steel,Cogsworth & Friends,2nd,0,1,0,0,0,0
+himmelsleuchten-set-meisterschaft-tournament-decks-1700,deck-amethyst-emerald-313871,amethyst/emerald,Bounce,3rd,0,0,1,0,0,0
+store-championship-tournament-decks-1699,deck-emerald-steel-313917,emerald/steel,Discard,2nd,0,1,0,0,0,0
+store-championship-tournament-decks-1699,deck-red-purple-313918,amethyst/ruby,Bounce Control,2nd,0,1,0,0,0,0
+store-championship-tournament-decks-1699,deck-blue-steel-wheel-313916,sapphire/steel,Cogsworth & Friends,Top4,0,0,1,0,0,0
+store-championship-tournament-decks-1699,deck-red-purple-313866,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+store-championship-tournament-decks-1699,deck-amber-emerald-tempo-313867,amethyst/emerald,,Top8,0,0,0,1,0,0
+store-championship-tournament-decks-1699,deck-red-blue-313914,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+store-championship-tournament-decks-1699,deck-amber-steel-313915,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+shimmering-skies-championship-tournament-decks-1698,deck-robin-hood-actions-midrange-313296,emerald/ruby,Discard,1st,1,0,0,0,0,0
+store-championship-tournament-decks-1695,deck-ea-aggro-312794,amethyst/emerald,Bounce,1st,1,0,0,0,0,0
+championship-keiken-tournament-decks-1694,deck-green-purple-312688,amethyst/emerald,Bounce,1st,1,0,0,0,0,0
+championship-keiken-tournament-decks-1694,deck-blurple-312691,amethyst/sapphire,Ramp Draw Control,2nd,0,1,0,0,0,0
+championship-keiken-tournament-decks-1694,deck-red-purple-312692,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
+championship-keiken-tournament-decks-1694,deck-ambar-purple-312694,amber/amethyst,,Top4,0,0,1,0,0,0
+championship-keiken-tournament-decks-1694,deck-blue-red-312695,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+championship-keiken-tournament-decks-1694,deck-green-steel-312696,emerald/steel,Discard,Top8,0,0,0,1,0,0
+championship-keiken-tournament-decks-1694,deck-red-purple-312697,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+championship-keiken-tournament-decks-1694,deck-red-blue-312698,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-steel-emerald-312689,emerald/steel,Discard,1st,1,0,0,0,0,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-ruby-sapphire-312687,ruby/sapphire,Pawpsicles,2nd,0,1,0,0,0,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-amethyst-emerald-312686,amethyst/emerald,Bounce,3rd,0,0,1,0,0,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-ruby-sapphire-312685,ruby/sapphire,Pawpsicles,Top4,0,0,1,0,0,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-amber-steel-312684,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-steel-emerald-312683,emerald/steel,Discard,Top8,0,0,0,1,0,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-steel-amber-312682,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-amber-steel-312681,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-ruby-amethyst-312680,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-amethyst-ruby-312679,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-steel-emerald-312678,emerald/steel,Discard,Top16,0,0,0,0,1,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-ruby-amethyst-312677,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-ruby-amethyst-312676,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-sapphire-amber-312675,amber/sapphire,Princesses,Top16,0,0,0,0,1,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-ruby-amethyst-312674,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+shimmering-skies-championship-v-ihrysku-tournament-decks-1693,deck-amber-steel-312673,amber/steel,Steelsong,Top16,0,0,0,0,1,0
+shimmering-skies-set-championship-dados-y-cubitos-tournament-decks-1692,deck-steelsong-312575,amber/steel,Steelsong,1st,1,0,0,0,0,0
+shimmering-skies-set-championship-dados-y-cubitos-tournament-decks-1692,deck-lime-lemon-313000,amber/emerald,Songs,2nd,0,1,0,0,0,0
+shimmering-skies-set-championship-dados-y-cubitos-tournament-decks-1692,deck-pirates-and-friends-313002,ruby/steel,Pirates,3rd,0,0,1,0,0,0
+shimmering-skies-set-championship-dados-y-cubitos-tournament-decks-1692,deck-steelsong-313116,amber/steel,Steelsong,Top4,0,0,1,0,0,0
+shimmering-skies-set-championship-dados-y-cubitos-tournament-decks-1692,deck-amethyst-emerald-313001,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+shimmering-skies-set-championship-dados-y-cubitos-tournament-decks-1692,deck-magic-brooooomss-314099,amethyst/steel,Brooms Brigade,Top8,0,0,0,1,0,0
+shimmering-skies-set-championship-dados-y-cubitos-tournament-decks-1692,deck-hyperaggro-312576,amber/amethyst,Hyper Aggro,Top16,0,0,0,0,1,0
+shimmering-skies-set-championship-dados-y-cubitos-tournament-decks-1692,deck-hyperagro-2-314101,amber/amethyst,Hyper Aggro,Top16,0,0,0,0,1,0
+shimmering-skies-set-championship-dados-y-cubitos-tournament-decks-1692,deck-alice-maximus-313003,ruby/sapphire,,Top16,0,0,0,0,1,0
+shimmering-skies-set-championship-dados-y-cubitos-tournament-decks-1692,deck-caballeros-enanitos-y-robin-hood-314100,amber/steel,Seven Dwarves,Top16,0,0,0,0,1,0
+antre2jeu-set-championship-montpellier-tournament-decks-1689,deck-ambersteelsong-312459,amber/steel,Steelsong,1st,1,0,0,0,0,0
+antre2jeu-set-championship-montpellier-tournament-decks-1689,deck-thanks-woolrick-ii-312458,amethyst/steel,Aggro,2nd,0,1,0,0,0,0
+antre2jeu-set-championship-montpellier-tournament-decks-1689,deck-steelsong-312457,amber/steel,Steelsong,3rd,0,0,1,0,0,0
+antre2jeu-set-championship-montpellier-tournament-decks-1689,deck-ambersteel-312456,amber/steel,Steelsong,Top4,0,0,1,0,0,0
+shimmering-skies-set-championship-tournament-decks-1688,deck-get-wilped-312330,amethyst/ruby,Bounce Control,1st,1,0,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1688,deck-emerald-steel-discard-midrange-312329,emerald/steel,Discard,2nd,0,1,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1688,deck-red-purple-312332,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
+shimmering-skies-set-championship-tournament-decks-1688,deck-shark-bait-ooh-ha-ha-312335,sapphire/steel,Cogsworth & Friends,Top4,0,0,1,0,0,0
+shimmering-skies-set-championship-tournament-decks-1688,deck-rush-hour-312334,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+shimmering-skies-set-championship-tournament-decks-1688,deck-pawp-lawk-and-drawp-it-312338,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+shimmering-skies-set-championship-tournament-decks-1688,deck-purple-steel-bounce-312337,amethyst/steel,Classic Bounce,Top8,0,0,0,1,0,0
+shimmering-skies-set-championship-tournament-decks-1688,deck-ruby-amethyst-set-5-312333,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-312004,emerald/steel,Discard,1st,1,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-amber-311993,amber/steel,Steelsong,2nd,0,1,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-312026,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-312018,amethyst/ruby,Bounce Control,Top4,0,0,1,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312029,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-emerald-amethyst-311994,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-311986,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-311985,emerald/steel,Discard,Top8,0,0,0,1,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312046,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-312045,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-312025,emerald/steel,Discard,Top16,0,0,0,0,1,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312031,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-amber-312012,amber/steel,Steelsong,Top16,0,0,0,0,1,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312003,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-amber-311992,amber/steel,Steelsong,Top16,0,0,0,0,1,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-amber-steel-311995,amber/steel,Mufasa,Top16,0,0,0,0,1,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-311998,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-312023,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-312044,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-312037,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-amber-312036,amber/steel,Steelsong,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312030,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312028,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-312021,emerald/steel,Discard,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-312005,emerald/steel,Discard,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-312022,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-amber-locations-312015,amber/steel,Locations,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-311997,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312019,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-312043,emerald/steel,Discard,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312047,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-amber-steel-311996,amber/steel,Steelsong,Top32,0,0,0,0,0,1
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-sapphire-312006,sapphire/steel,Cogsworth & Friends,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-emerald-amethyst-312009,amethyst/emerald,Bounce,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-312013,amethyst/ruby,Bounce Control,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-312033,amethyst/ruby,Bounce Control,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-312032,amethyst/ruby,Bounce Control,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-312034,emerald/steel,Discard,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312041,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312039,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-sapphire-steel-312042,sapphire/steel,Cogsworth & Friends,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312040,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-amber-312038,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312014,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-emerald-amber-312027,amber/emerald,Aggro Quest,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-amber-amethyst-312024,amber/amethyst,Hyper Aggro,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-amethyst-312002,amethyst/steel,Aggro,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-emerald-steel-312000,emerald/steel,Discard,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-311989,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-311988,emerald/steel,Discard,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-311987,emerald/steel,Discard,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-sapphire-312035,sapphire/steel,Cogsworth & Friends,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-311984,emerald/steel,Discard,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-sapphire-312020,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-amber-312017,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-amber-312016,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-sapphire-steel-312011,sapphire/steel,Cogsworth & Friends,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-312010,emerald/steel,Discard,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-312008,emerald/steel,Discard,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-312007,amethyst/ruby,Bounce Control,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-sapphire-311999,sapphire/steel,Cogsworth & Friends,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-amber-312001,amber/steel,Steelsong,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-steel-emerald-311991,emerald/steel,Discard,Top64,0,0,0,0,0,0
+disney-lorcana-challenge-seattle-tournament-decks-1686,deck-ruby-amethyst-311990,amethyst/ruby,Bounce Control,Top128,0,0,0,0,0,0
+shimmering-skies-set-championship-2nd-women-s-cup-tournament-decks-1701,deck-ruby-amethyst-314191,amethyst/ruby,Aggro,1st,1,0,0,0,0,0
+shimmering-skies-set-championship-2nd-women-s-cup-tournament-decks-1701,deck-wreck-it-ralph-314192,ruby/steel,,2nd,0,1,0,0,0,0
+shimmering-skies-set-championship-2nd-women-s-cup-tournament-decks-1701,deck-amber-steel-steelsong-314193,amber/steel,Steelsong,Top4,0,0,1,0,0,0
+shimmering-skies-set-championship-2nd-women-s-cup-tournament-decks-1701,deck-green-purple-314198,amethyst/emerald,Bounce,Top4,0,0,1,0,0,0
+championnat-de-set-ciel-scintillant-tournament-decks-1697,deck-sapphire-steel-312999,sapphire/steel,Cogsworth & Friends,1st,1,0,0,0,0,0
+championnat-de-set-ciel-scintillant-tournament-decks-1697,deck-amber-amethyst-313004,amber/amethyst,Hyper Aggro,2nd,0,1,0,0,0,0
+championnat-de-set-ciel-scintillant-tournament-decks-1697,deck-chansonnettes-metalliques-313005,amber/steel,Steelsong,Top4,0,0,1,0,0,0
+championnat-de-set-ciel-scintillant-tournament-decks-1697,deck-sisu-on-ice-break-313006,ruby/sapphire,Pawpsicles,Top4,0,0,1,0,0,0
+championnat-de-set-ciel-scintillant-tournament-decks-1697,deck-deck-qui-win-le-cde-313007,emerald/steel,A Whole New Mill,Top8,0,0,0,1,0,0
+championnat-de-set-ciel-scintillant-tournament-decks-1697,deck-purplefasa-313008,amber/amethyst,Hyper Aggro,Top8,0,0,0,1,0,0
+championnat-de-set-ciel-scintillant-tournament-decks-1697,deck-ruby-amethyst-313009,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+shimmering-skies-set-championship-tournament-decks-1690,deck-relentless-surprise-312566,emerald/steel,Shift & Damage,1st,1,0,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1690,deck-mufasa-r-us-vol-1-312561,amber/ruby,Mufasa,3rd,0,0,1,0,0,0
+shimmering-skies-set-championship-tournament-decks-1690,deck-rp-set-champs-312562,amethyst/ruby,Bounce Control,Top4,0,0,1,0,0,0
+shimmering-skies-set-championship-tournament-decks-1690,deck-rp-bounce-312572,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+shimmering-skies-set-championship-tournament-decks-1690,deck-aggro-as-312553,amber/steel,Aggro,Top8,0,0,0,1,0,0
+shimmering-skies-set-championship-tournament-decks-1690,deck-steelsong-312573,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+shimmering-skies-set-championship-tournament-decks-1690,deck-yg-discard-v3-312870,amber/emerald,Discard,Top8,0,0,0,1,0,0
+wcg-shimmering-skies-championship-tournament-decks-1685,deck-ruby-sapphire-311835,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+road-to-lorcana-10-tournament-decks-1684,deck-exp-minato45-311644,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+road-to-lorcana-10-tournament-decks-1684,deck-jorc-311722,emerald/steel,Discard,2nd,0,1,0,0,0,0
+road-to-lorcana-10-tournament-decks-1684,deck-sv-morgan-311760,amber/steel,Steelsong,3rd,0,0,1,0,0,0
+road-to-lorcana-10-tournament-decks-1684,deck-brk-lou-311761,amethyst/emerald,Bounce,Top4,0,0,1,0,0,0
+road-to-lorcana-10-tournament-decks-1684,deck-clemy-311763,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+road-to-lorcana-10-tournament-decks-1684,deck-sv-thor31-311762,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+road-to-lorcana-10-tournament-decks-1684,deck-vidya-311764,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+road-to-lorcana-10-tournament-decks-1684,deck-maxg3-311766,amber/sapphire,Bluefasa,Top8,0,0,0,1,0,0
+road-to-lorcana-10-tournament-decks-1684,deck-karanyyan-311765,amethyst/emerald,Bounce,Top16,0,0,0,0,1,0
+road-to-lorcana-10-tournament-decks-1684,deck-mpetit-311767,emerald/sapphire,Muses's Songs,Top16,0,0,0,0,1,0
+road-to-lorcana-10-tournament-decks-1684,deck-remm5-311768,amethyst/ruby,Aggro,Top16,0,0,0,0,1,0
+road-to-lorcana-10-tournament-decks-1684,deck-rainbowvalou-311769,emerald/steel,Discard,Top16,0,0,0,0,1,0
+road-to-lorcana-10-tournament-decks-1684,deck-cocobalt-312065,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
+road-to-lorcana-10-tournament-decks-1684,deck-ld-daff-312066,amber/amethyst,Hyper Aggro,Top16,0,0,0,0,1,0
+road-to-lorcana-10-tournament-decks-1684,deck-shinfenix-312067,amethyst/sapphire,Bounce,Top16,0,0,0,0,1,0
+road-to-lorcana-10-tournament-decks-1684,deck-ashromer-312068,amber/emerald,Sing Together,Top16,0,0,0,0,1,0
+road-to-lorcana-10-tournament-decks-1684,deck-gravendev-312069,emerald/sapphire,Muses's Songs,Top32,0,0,0,0,0,1
+road-to-lorcana-10-tournament-decks-1684,deck-amaurynach-312070,amethyst/steel,Classic Bounce,Top32,0,0,0,0,0,1
+shimmering-skies-set-championship-tournament-decks-1682,deck-steelsong-311415,amber/steel,Steelsong,1st,1,0,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1682,deck-vert-gris-311412,emerald/steel,Discard,2nd,0,1,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1682,deck-vert-gris-311416,emerald/steel,Discard,3rd,0,0,1,0,0,0
+shimmering-skies-set-championship-tournament-decks-1682,deck-vert-violet-313302,amethyst/emerald,Bounce,Top4,0,0,1,0,0,0
+shimmering-skies-championship-tournament-decks-1679,deck-ruby-sapphire-313123,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+shimmering-skies-championship-tournament-decks-1679,deck-blurple-mais-um-macaco-311408,amethyst/sapphire,Ramp Draw Control,2nd,0,1,0,0,0,0
+shimmering-skies-championship-tournament-decks-1679,deck-ggs-313122,sapphire/steel,Cogsworth & Friends,Top4,0,0,1,0,0,0
+shimmering-skies-championship-tournament-decks-1679,deck-bounce-e-a-313118,amethyst/emerald,Bounce,Top4,0,0,1,0,0,0
+shimmering-skies-championship-tournament-decks-1679,deck-amber-amethyst-313117,amber/amethyst,Hyper Aggro,Top8,0,0,0,1,0,0
+shimmering-skies-championship-tournament-decks-1679,deck-amber-emerald-313125,amber/emerald,,Top8,0,0,0,1,0,0
+shimmering-skies-championship-tournament-decks-1679,deck-r-s-icenb-311387,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+shimmering-skies-championship-tournament-decks-1679,deck-emerald-steel-311256,emerald/steel,Discard,Top8,0,0,0,1,0,0
+shimmering-skies-championship-tournament-decks-1679,deck-repete-313119,amethyst/steel,Classic Bounce,Top16,0,0,0,0,1,0
+shimmering-skies-championship-tournament-decks-1679,deck-amber-sapphire-311253,amber/sapphire,Heros Aggro,Top16,0,0,0,0,1,0
+shimmering-skies-championship-tournament-decks-1679,deck-emerald-steel-311411,emerald/steel,Discard,Top16,0,0,0,0,1,0
+shimmering-skies-championship-tournament-decks-1679,deck-ruby-amethyst-311260,amethyst/ruby,Aggro,Top16,0,0,0,0,1,0
+shimmering-skies-championship-tournament-decks-1679,deck-emerald-amethyst-311286,amethyst/emerald,Bounce,Top16,0,0,0,0,1,0
+shimmering-skies-championship-tournament-decks-1679,deck-so-shiny-313057,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
+shimmering-skies-championship-tournament-decks-1679,deck-jafar-reborn-set-5-313120,amethyst/steel,Jafar Wheel,Top16,0,0,0,0,1,0
+shimmering-skies-championship-tournament-decks-1679,deck-ruby-steel-311410,ruby/steel,Sing & Shift,Top16,0,0,0,0,1,0
+shimmering-skies-championship-tournament-decks-1679,deck-amber-emerald-313124,amber/emerald,Sing Together,Top32,0,0,0,0,0,1
+shimmering-skies-championship-tournament-decks-1679,deck-emerald-steel-311404,emerald/steel,Discard,Top32,0,0,0,0,0,1
+shimmering-skies-championship-tournament-decks-1679,deck-s-s-311409,sapphire/steel,Cogsworth & Friends,Top32,0,0,0,0,0,1
+shimmering-skies-championship-tournament-decks-1679,deck-ambar-emerald-313074,amber/emerald,Sing Together,Top32,0,0,0,0,0,1
+shimmering-skies-championship-tournament-decks-1679,deck-ruby-steel-311413,ruby/steel,,Top32,0,0,0,0,0,1
+shimmering-skies-championship-tournament-decks-1679,deck-bfvfs-torneio-313121,amber/ruby,,Top32,0,0,0,0,0,1
+shimmering-skies-championship-tournament-decks-1679,deck-ambar-steel-s-311417,amber/steel,Steelsong,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-blouge-311536,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+mulligan-challenge-16-tournament-decks-1683,deck-gp-mulligan-challenge-16-311524,amethyst/emerald,Bounce,2nd,0,1,0,0,0,0
+mulligan-challenge-16-tournament-decks-1683,deck-blouge-311537,ruby/sapphire,Pawpsicles,3rd,0,0,1,0,0,0
+mulligan-challenge-16-tournament-decks-1683,deck-steelsong-muligan-311525,amber/steel,Steelsong,Top4,0,0,1,0,0,0
+mulligan-challenge-16-tournament-decks-1683,deck-discard-311535,emerald/steel,Discard,Top8,0,0,0,1,0,0
+mulligan-challenge-16-tournament-decks-1683,deck-viouge-311534,amethyst/ruby,Aggro,Top8,0,0,0,1,0,0
+mulligan-challenge-16-tournament-decks-1683,deck-r-p-challenge-311521,amethyst/ruby,Aggro,Top8,0,0,0,1,0,0
+mulligan-challenge-16-tournament-decks-1683,deck-ligne-droite-311520,emerald/ruby,,Top8,0,0,0,1,0,0
+mulligan-challenge-16-tournament-decks-1683,deck-discard-311533,emerald/steel,Discard,Top16,0,0,0,0,1,0
+mulligan-challenge-16-tournament-decks-1683,deck-w-f-311518,amethyst/sapphire,Bounce,Top16,0,0,0,0,1,0
+mulligan-challenge-16-tournament-decks-1683,deck-lorcana-day-5-311517,amethyst/emerald,Bounce,Top16,0,0,0,0,1,0
+mulligan-challenge-16-tournament-decks-1683,deck-naveen-song-mulligan-challenge-16-311516,amber/steel,Steelsong,Top16,0,0,0,0,1,0
+mulligan-challenge-16-tournament-decks-1683,deck-help-me-bucky-311515,emerald/steel,Discard,Top16,0,0,0,0,1,0
+mulligan-challenge-16-tournament-decks-1683,deck-khana-on-ice-311514,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
+mulligan-challenge-16-tournament-decks-1683,deck-discard-311532,emerald/steel,Discard,Top16,0,0,0,0,1,0
+mulligan-challenge-16-tournament-decks-1683,deck-vv-2-0-311511,amethyst/emerald,Bounce,Top16,0,0,0,0,1,0
+mulligan-challenge-16-tournament-decks-1683,deck-roda-rp-311512,amethyst/ruby,Aggro,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-discard-311531,emerald/steel,Discard,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-rb-v2-61-19ni-sword-no-quill-311509,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-song-311530,amber/steel,Steelsong,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-meule-set-5-311507,emerald/steel,A Whole New Mill,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-rb-item-dinu-311506,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-mullmull-311505,emerald/steel,Discard,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-sisu-on-ice-311504,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-viouge-311503,amethyst/ruby,Aggro,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-discard-311529,amber/emerald,Discard,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-s5-bleu-rouge-311501,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-les-meules-de-megara-311500,emerald/steel,A Whole New Mill,Top32,0,0,0,0,0,1
+mulligan-challenge-16-tournament-decks-1683,deck-viouge-311528,amethyst/ruby,Aggro,Top32,0,0,0,0,0,1
+shimmering-skies-championship-tournament-decks-1681,deck-rb-again-311258,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+shimmering-skies-championship-tournament-decks-1681,deck-emerald-steel-discard-midrange-311259,emerald/steel,Discard,2nd,0,1,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1677,deck-rot-blau-item-309250,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1677,deck-rot-blau-item-309265,ruby/sapphire,Pawpsicles,2nd,0,1,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1677,deck-green-purple-309274,amethyst/emerald,Bounce,3rd,0,0,1,0,0,0
+shimmering-skies-set-championship-tournament-decks-1677,deck-rot-309280,ruby/sapphire,Pawpsicles,Top4,0,0,1,0,0,0
+shimmering-skies-set-championship-tournament-decks-1676,deck-grun-stahl-no-discard-309181,emerald/steel,Shift & Damage,1st,1,0,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1676,deck-steelsong-aggroish-309182,amber/steel,Steelsong,2nd,0,1,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1676,deck-steelsong-astrid-und-allen-309183,amber/steel,Steelsong,3rd,0,0,1,0,0,0
+shimmering-skies-set-championship-tournament-decks-1676,deck-steelsong-309184,amber/steel,Steelsong,Top4,0,0,1,0,0,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-ruby-amethyst-308276,amethyst/ruby,Bounce Control,1st,1,0,0,0,0,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-sisu-on-ice-308277,ruby/sapphire,Pawpsicles,2nd,0,1,0,0,0,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-ruby-amethyst-308278,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-ruby-amethyst-308279,amethyst/ruby,Bounce Control,Top4,0,0,1,0,0,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-ruby-amethyst-308280,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-a-a-hyperaggro-308282,amber/amethyst,Hyper Aggro,Top8,0,0,0,1,0,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-r-s-control-308907,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-r-s-control-308304,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-steelsong-308283,amber/steel,Steelsong,Top16,0,0,0,0,1,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-amber-ruby-redfasa-308284,amber/ruby,Mufasa,Top16,0,0,0,0,1,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-rubysteel-308285,ruby/steel,Sing & Shift,Top16,0,0,0,0,1,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-emerald-steel-discard-308286,emerald/steel,Discard,Top16,0,0,0,0,1,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-emerald-steel-discard-308287,emerald/steel,Discard,Top16,0,0,0,0,1,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-emerald-steel-discard-308288,emerald/steel,Discard,Top16,0,0,0,0,1,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-amber-ruby-308289,amber/ruby,Aggro Control,Top16,0,0,0,0,1,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-steelsong-308290,amber/steel,Steelsong,Top16,0,0,0,0,1,0
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-amethyst-steel-308291,amethyst/steel,Classic Bounce,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-emerald-amethyst-tempo-308292,amethyst/emerald,Bounce,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-ruby-amethyst-308293,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-a-a-hyperaggro-308303,amber/amethyst,Hyper Aggro,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-a-a-hyperaggro-308302,amber/amethyst,Hyper Aggro,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-steelsong-308294,amber/steel,Steelsong,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-s-s-ramp-308295,sapphire/steel,Cogsworth & Friends,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-a-a-hyperaggro-308305,amber/amethyst,Hyper Aggro,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-ruby-amethyst-308296,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-steelsong-308297,amber/steel,Steelsong,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-sapphire-amethyst-308298,amethyst/sapphire,Ramp Draw Control,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-a-a-hyperaggro-308299,amber/amethyst,Hyper Aggro,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-robin-hood-sharpshooter-308306,emerald/ruby,Emeral  Actions,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-ruby-amethyst-308300,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+dragon-world-store-shimmering-skies-championship-tournament-decks-1667,deck-ruby-steel-308301,ruby/steel,Sing & Shift,Top64,0,0,0,0,0,0
 shimmering-skies-set-championship-tournament-decks-1659,deck-r-b-pegasus-306289,ruby/sapphire,Pawpsicles,2nd,0,1,0,0,0,0
 timmy-mac-s-shimmering-skies-set-champs-tournament-decks-1656,deck-redfasa-306023,amber/ruby,Mufasa,1st,1,0,0,0,0,0
 timmy-mac-s-shimmering-skies-set-champs-tournament-decks-1656,deck-dc-steel-song-306442,amber/steel,Steelsong,2nd,0,1,0,0,0,0
@@ -87,6 +485,9 @@ set-5-championships-wurzburg-tournament-decks-1642,deck-sisu-on-ice-305179,ruby/
 set-5-championships-wurzburg-tournament-decks-1642,deck-aggro-305181,amber/amethyst,Hyper Aggro,Top8,0,0,0,1,0,0
 set-5-championships-wurzburg-tournament-decks-1642,deck-steelsong-305183,amber/steel,Steelsong,Top8,0,0,0,1,0,0
 set-5-championships-wurzburg-tournament-decks-1642,deck-trust-issues-305184,sapphire/steel,Cogsworth & Friends,Top8,0,0,0,1,0,0
+shimmering-shine-set-champs-tournament-decks-1641,deck-no-wheel-308990,sapphire/steel,Cogsworth & Friends,1st,1,0,0,0,0,0
+shimmering-shine-set-champs-tournament-decks-1641,deck-amber-steel-308991,amber/steel,Steelsong,2nd,0,1,0,0,0,0
+shimmering-shine-set-champs-tournament-decks-1641,deck-pete-the-pied-piper-305055,amethyst/steel,Aggro,Top4,0,0,1,0,0,0
 shimmering-skies-set-championship-ravensburg-museum-tournament-decks-1640,deck-amethyst-emerald-tempo-yt-305054,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
 maitre-renard-set-championship-montpellier-tournament-decks-1636,deck-tryhard-304896,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
 maitre-renard-set-championship-montpellier-tournament-decks-1636,deck-pimp-song-304893,amber/steel,Steelsong,2nd,0,1,0,0,0,0
@@ -95,7 +496,15 @@ maitre-renard-set-championship-montpellier-tournament-decks-1636,deck-another-bu
 maitre-renard-set-championship-montpellier-tournament-decks-1636,deck-taffytabouche-304881,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
 maitre-renard-set-championship-montpellier-tournament-decks-1636,deck-no-spice-deck-304900,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
 maitre-renard-set-championship-montpellier-tournament-decks-1636,deck-hyperaggro-304903,amber/amethyst,Hyper Aggro,Top8,0,0,0,1,0,0
-maitre-renard-set-championship-montpellier-tournament-decks-1636,deck-ambersteel-aggro-304849,amber/steel,,Top8,0,0,0,1,0,0
+maitre-renard-set-championship-montpellier-tournament-decks-1636,deck-ambersteel-aggro-304849,amber/steel,Aggro,Top8,0,0,0,1,0,0
+disney-lorcana-shimmering-skies-championship-tournament-decks-1680,deck-emerald-steel-311252,emerald/steel,Discard,1st,1,0,0,0,0,0
+disney-lorcana-shimmering-skies-championship-tournament-decks-1680,deck-emerald-steel-discard-midrange-311254,emerald/steel,Discard,2nd,0,1,0,0,0,0
+disney-lorcana-shimmering-skies-championship-tournament-decks-1680,deck-i-think-i-can-311255,amethyst/sapphire,Ramp Draw Control,3rd,0,0,1,0,0,0
+disney-lorcana-shimmering-skies-championship-tournament-decks-1680,deck-no-name-submitted-311257,amethyst/ruby,Aggro,Top4,0,0,1,0,0,0
+shimmering-skies-set-championship-tournament-decks-1678,deck-grun-stahl-discard-309282,emerald/steel,Discard,1st,1,0,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1678,deck-ruby-amethyst-309283,amethyst/ruby,Aggro,2nd,0,1,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1678,deck-steelsong-309284,amber/steel,Steelsong,3rd,0,0,1,0,0,0
+shimmering-skies-set-championship-tournament-decks-1678,deck-ruby-amethyst-309285,amethyst/ruby,Aggro,Top4,0,0,1,0,0,0
 top-deck-keep-shimmering-skies-setchampionship-tournament-decks-1666,deck-steelsong-307725,amber/steel,Steelsong,1st,1,0,0,0,0,0
 top-deck-keep-shimmering-skies-setchampionship-tournament-decks-1666,deck-win-fast-eat-307726,amber/amethyst,Hyper Aggro,2nd,0,1,0,0,0,0
 top-deck-keep-shimmering-skies-setchampionship-tournament-decks-1666,deck-anti-quill-propaganda-307727,ruby/sapphire,Pawpsicles,3rd,0,0,1,0,0,0
@@ -104,7 +513,7 @@ top-deck-keep-shimmering-skies-setchampionship-tournament-decks-1666,deck-trakas
 top-deck-keep-shimmering-skies-setchampionship-tournament-decks-1666,deck-back-on-green-steel-307729,emerald/steel,Discard,Top8,0,0,0,1,0,0
 top-deck-keep-shimmering-skies-setchampionship-tournament-decks-1666,deck-ruby-sapphire-307731,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
 top-deck-keep-shimmering-skies-setchampionship-tournament-decks-1666,deck-emerald-steel-307732,emerald/steel,Discard,Top8,0,0,0,1,0,0
-shimmering-skies-championship-itaca-tournament-decks-1662,deck-amber-steel-307146,amber/steel,,1st,1,0,0,0,0,0
+shimmering-skies-championship-itaca-tournament-decks-1662,deck-amber-steel-307146,amber/steel,Steelsong,1st,1,0,0,0,0,0
 shimmering-skies-championship-itaca-tournament-decks-1662,deck-steel-emerald-midrange-307197,emerald/steel,Discard,2nd,0,1,0,0,0,0
 shimmering-skies-championship-itaca-tournament-decks-1662,deck-amethyst-emerald-307258,amethyst/emerald,Bounce,3rd,0,0,1,0,0,0
 shimmering-skies-championship-itaca-tournament-decks-1662,deck-amber-amethyst-aggro-307144,amber/amethyst,Hyper Aggro,Top4,0,0,1,0,0,0
@@ -149,7 +558,7 @@ shimmering-skies-set-championship-tournament-decks-1633,deck-ruby-amethyst-bounc
 shimmering-skies-set-championship-tournament-decks-1633,deck-emerald-steel-diablo-discard-304777,emerald/steel,Discard,Top8,0,0,0,1,0,0
 shimmering-skies-set-championship-tournament-decks-1633,deck-ruby-sapphire-items-304778,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
 shimmering-skies-set-championship-tournament-decks-1633,deck-ruby-sapphire-items-304894,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
-shimmering-skies-set-championship-tournament-decks-1633,deck-amber-steel-locations-304899,amber/steel,,Top16,0,0,0,0,1,0
+shimmering-skies-set-championship-tournament-decks-1633,deck-amber-steel-locations-304899,amber/steel,Locations,Top16,0,0,0,0,1,0
 shimmering-skies-set-championship-tournament-decks-1633,deck-ruby-amethyst-bounce-304901,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
 shimmering-skies-set-championship-tournament-decks-1633,deck-emerald-steel-diablo-discard-304904,emerald/steel,Discard Aggro,Top16,0,0,0,0,1,0
 shimmering-skies-set-championship-tournament-decks-1633,deck-ruby-sapphire-items-304905,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
@@ -210,7 +619,7 @@ lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303430,amber/steel
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-sapphire-303659,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
 lorca-quest-main-event-tournament-decks-1627,deck-sapphire-amethyst-303801,amethyst/sapphire,Ramp Draw Control,Top32,0,0,0,0,0,1
 lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303155,amber/steel,Steelsong,Top32,0,0,0,0,0,1
-lorca-quest-main-event-tournament-decks-1627,deck-sapphire-amber-303141,amber/sapphire,,Top32,0,0,0,0,0,1
+lorca-quest-main-event-tournament-decks-1627,deck-sapphire-amber-303141,amber/sapphire,Bluefasa,Top32,0,0,0,0,0,1
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-sapphire-303470,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
 lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303521,amber/steel,Steelsong,Top32,0,0,0,0,0,1
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-amethyst-303248,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
@@ -240,7 +649,7 @@ lorca-quest-main-event-tournament-decks-1627,deck-ruby-amethyst-303736,amethyst/
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-amethyst-303361,amethyst/ruby,Bounce Control,Top64,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-steel-amethyst-303299,amethyst/steel,Classic Bounce,Top64,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303760,amber/steel,Steelsong,Top64,0,0,0,0,0,0
-lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303226,amber/steel,,Top64,0,0,0,0,0,0
+lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303226,amber/steel,Aggro,Top64,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-sapphire-303606,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-emerald-sapphire-303236,emerald/sapphire,Muses's Songs,Top64,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303187,emerald/steel,Discard,Top64,0,0,0,0,0,0
@@ -320,7 +729,7 @@ lorca-quest-main-event-tournament-decks-1627,deck-ruby-amethyst-303217,amethyst/
 lorca-quest-main-event-tournament-decks-1627,deck-steel-amber-303311,amber/steel,Steelsong,Top128,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amethyst-emerald-303252,amethyst/emerald,Bounce,Top256,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-amethyst-303623,amethyst/ruby,Bounce Control,Top256,0,0,0,0,0,0
-lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303288,emerald/steel,,Top256,0,0,0,0,0,0
+lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303288,emerald/steel,A Whole New Mill,Top256,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303630,amber/steel,Steelsong,Top256,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-emerald-amethyst-303185,amethyst/emerald,Bounce,Top256,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-emerald-amber-303776,amber/emerald,,Top256,0,0,0,0,0,0
@@ -385,10 +794,10 @@ lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303718,emerald/s
 lorca-quest-main-event-tournament-decks-1627,deck-amethyst-emerald-303135,amethyst/emerald,Bounce,Top256,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-emerald-303163,amber/emerald,Sing Together,Top256,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-amethyst-303402,amethyst/ruby,Bounce Control,Top256,0,0,0,0,0,0
-lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303147,emerald/steel,,Top256,0,0,0,0,0,0
+lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303147,emerald/steel,A Whole New Mill,Top256,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303239,amber/steel,Steelsong,Top256,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amethyst-emerald-303216,amethyst/emerald,Bounce,Top256,0,0,0,0,0,0
-lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303354,amber/steel,,Top256,0,0,0,0,0,0
+lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303354,amber/steel,Seven Dwarves,Top256,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303656,amber/steel,Steelsong,Top256,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-amethyst-303414,amethyst/ruby,Bounce Control,Top256,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303435,amber/steel,Steelsong,Top256,0,0,0,0,0,0
@@ -509,11 +918,11 @@ lorca-quest-main-event-tournament-decks-1627,deck-ruby-sapphire-303643,ruby/sapp
 lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303291,emerald/steel,Discard,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303359,amber/steel,Steelsong,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-emerald-amethyst-303569,amethyst/emerald,Bounce,Top512,0,0,0,0,0,0
-lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303493,emerald/steel,,Top512,0,0,0,0,0,0
+lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303493,emerald/steel,A Whole New Mill,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-steel-sapphire-303538,sapphire/steel,Cogsworth & Friends,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-amethyst-303426,amethyst/ruby,Bounce Control,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-sapphire-303650,ruby/sapphire,Pawpsicles,Top512,0,0,0,0,0,0
-lorca-quest-main-event-tournament-decks-1627,deck-amethyst-amber-303380,amber/amethyst,,Top512,0,0,0,0,0,0
+lorca-quest-main-event-tournament-decks-1627,deck-amethyst-amber-303380,amber/amethyst,Hyper Aggro,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303460,emerald/steel,Discard,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-sapphire-303649,ruby/sapphire,Pawpsicles,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303242,emerald/steel,Discard,Top512,0,0,0,0,0,0
@@ -625,9 +1034,9 @@ lorca-quest-main-event-tournament-decks-1627,deck-sapphire-steel-303333,sapphire
 lorca-quest-main-event-tournament-decks-1627,deck-steel-amethyst-303727,amethyst/steel,Tempo Control,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-amethyst-303197,amber/amethyst,Hyper Aggro,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-deck-303499,undefined/undefined,,Top512,0,0,0,0,0,0
-lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303679,amber/steel,,Top512,0,0,0,0,0,0
+lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303679,amber/steel,Aggro,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-deck-303132,undefined/undefined,,Top512,0,0,0,0,0,0
-lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303161,amber/steel,,Top512,0,0,0,0,0,0
+lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303161,amber/steel,Aggro,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303699,emerald/steel,Discard Aggro,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303310,amber/steel,Steelsong,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-sapphire-303436,ruby/sapphire,Pawpsicles,Top512,0,0,0,0,0,0
@@ -643,7 +1052,7 @@ lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303701,amber/steel
 lorca-quest-main-event-tournament-decks-1627,deck-steel-sapphire-303243,sapphire/steel,Cogsworth & Friends,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303321,amber/steel,Steelsong,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303561,amber/steel,Steelsong,Top512,0,0,0,0,0,0
-lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303334,emerald/steel,,Top512,0,0,0,0,0,0
+lorca-quest-main-event-tournament-decks-1627,deck-steel-emerald-303334,emerald/steel,A Whole New Mill,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-deck-303782,undefined/undefined,,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-amethyst-303261,amber/amethyst,Hyper Aggro,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-sapphire-303167,ruby/sapphire,Pawpsicles,Top512,0,0,0,0,0,0
@@ -671,7 +1080,7 @@ lorca-quest-main-event-tournament-decks-1627,deck-amber-emerald-303655,amber/eme
 lorca-quest-main-event-tournament-decks-1627,deck-deck-303779,undefined/undefined,,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-sapphire-303208,ruby/sapphire,Pawpsicles,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amethyst-steel-303238,amethyst/steel,Jafar Wheel,Top512,0,0,0,0,0,0
-lorca-quest-main-event-tournament-decks-1627,deck-sapphire-amber-303597,amber/sapphire,,Top512,0,0,0,0,0,0
+lorca-quest-main-event-tournament-decks-1627,deck-sapphire-amber-303597,amber/sapphire,Bluefasa,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-amethyst-303661,amber/amethyst,Hyper Aggro,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-sapphire-303723,ruby/sapphire,Pawpsicles,Top512,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-amber-ruby-303204,amber/ruby,,Top512,0,0,0,0,0,0
@@ -698,7 +1107,7 @@ lorca-quest-main-event-tournament-decks-1627,deck-amber-steel-303711,amber/steel
 lorca-quest-main-event-tournament-decks-1627,deck-emerald-steel-303440,emerald/steel,,Other,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-emerald-amethyst-303212,amethyst/emerald,Bounce,Other,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-sapphire-amethyst-303619,amethyst/sapphire,Ramp Draw Control,Other,0,0,0,0,0,0
-lorca-quest-main-event-tournament-decks-1627,deck-steel-amber-303154,amber/steel,,Other,0,0,0,0,0,0
+lorca-quest-main-event-tournament-decks-1627,deck-steel-amber-303154,amber/steel,Steelsong,Other,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-amethyst-303417,amethyst/ruby,Bounce Control,Other,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-ruby-sapphire-303365,ruby/sapphire,Pawpsicles,Other,0,0,0,0,0,0
 lorca-quest-main-event-tournament-decks-1627,deck-emerald-amethyst-303227,amethyst/emerald,Bounce,Other,0,0,0,0,0,0
@@ -877,9 +1286,25 @@ busby-s-lorcana-shimmering-skies-set-championship-tournament-decks-1590,deck-amb
 busby-s-lorcana-shimmering-skies-set-championship-tournament-decks-1590,deck-rb-again-297077,ruby/sapphire,Pawpsicles,3rd,0,0,1,0,0,0
 busby-s-lorcana-shimmering-skies-set-championship-tournament-decks-1590,deck-ha-ha-awilp-297078,amethyst/ruby,Bounce Control,Top4,0,0,1,0,0,0
 busby-s-lorcana-shimmering-skies-set-championship-tournament-decks-1590,deck-amethyst-ruby-bounce-297079,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
-busby-s-lorcana-shimmering-skies-set-championship-tournament-decks-1590,deck-amber-steel-aggro-297071,amber/steel,,Top8,0,0,0,1,0,0
+busby-s-lorcana-shimmering-skies-set-championship-tournament-decks-1590,deck-amber-steel-aggro-297071,amber/steel,Aggro,Top8,0,0,0,1,0,0
 busby-s-lorcana-shimmering-skies-set-championship-tournament-decks-1590,deck-blurple-297080,amethyst/sapphire,Ramp Draw Control,Top8,0,0,0,1,0,0
 busby-s-lorcana-shimmering-skies-set-championship-tournament-decks-1590,deck-i-miss-shim-297081,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-ruby-sapphire-308920,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-steel-amethyst-308921,amethyst/steel,Classic Bounce,2nd,0,1,0,0,0,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-deckanonymous-308922,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-steel-emerald-308923,emerald/steel,Discard,Top4,0,0,1,0,0,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-emerald-amethyst-308924,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-steel-emerald-308925,emerald/steel,Discard,Top8,0,0,0,1,0,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-ruby-amethyst-308926,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-amethyst-emerald-308927,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-ruby-amethyst-308928,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-amber-emerald-308929,amber/emerald,Sing Together,Top16,0,0,0,0,1,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-ruby-emerald-308930,emerald/ruby,Discard,Top16,0,0,0,0,1,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-ruby-amethyst-308931,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-ruby-amethyst-308932,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-steel-amber-308933,amber/steel,Steelsong,Top16,0,0,0,0,1,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-ruby-sapphire-308934,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
+championship-cieli-scintillanti-il-covo-del-nerd-roma-tournament-decks-1674,deck-sapphire-amethyst-308935,amethyst/sapphire,Bounce,Top16,0,0,0,0,1,0
 himmelsleuchten-setmeisterschaft-championship-im-fancy-treasure-tournament-decks-1663,deck-thank-you-zan-307267,emerald/steel,Discard,1st,1,0,0,0,0,0
 himmelsleuchten-setmeisterschaft-championship-im-fancy-treasure-tournament-decks-1663,deck-mystic-maelstrom-v3-307275,amber/amethyst,Hyper Aggro,3rd,0,0,1,0,0,0
 himmelsleuchten-setmeisterschaft-championship-im-fancy-treasure-tournament-decks-1663,deck-skrumbz-deck-307269,amethyst/steel,Brooms Brigade,Top4,0,0,1,0,0,0
@@ -910,7 +1335,7 @@ lorcana-shimmering-skies-championship-tournament-decks-1597,deck-9-5-heroes-2982
 lorcana-shimmering-skies-championship-tournament-decks-1597,deck-hoodsong-298237,emerald/steel,,Top8,0,0,0,1,0,0
 the-light-shimmering-skies-set-championship-tournament-decks-1596,deck-ruby-sapphire-298022,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
 the-light-shimmering-skies-set-championship-tournament-decks-1596,deck-degenercy-298024,emerald/steel,Discard,2nd,0,1,0,0,0,0
-the-light-shimmering-skies-set-championship-tournament-decks-1596,deck-poopoo-298021,amber/steel,,Top4,0,0,1,0,0,0
+the-light-shimmering-skies-set-championship-tournament-decks-1596,deck-poopoo-298021,amber/steel,Steelsong,Top4,0,0,1,0,0,0
 the-light-shimmering-skies-set-championship-tournament-decks-1596,deck-mr-steel-yo-girl-298017,amethyst/steel,Classic Bounce,Top8,0,0,0,1,0,0
 the-light-shimmering-skies-set-championship-tournament-decks-1596,deck-gustav-friends-298023,ruby/steel,Sing & Shift,Top8,0,0,0,1,0,0
 the-light-shimmering-skies-set-championship-tournament-decks-1596,deck-boys-in-the-hood-298025,emerald/steel,Discard Aggro,Top8,0,0,0,1,0,0
@@ -1079,6 +1504,8 @@ shimmering-skies-championship-mindstage-norrkoping-tournament-decks-1519,deck-st
 shimmering-skies-championship-mindstage-norrkoping-tournament-decks-1519,deck-e-a-tempo-295895,amethyst/emerald,Bounce,Top32,0,0,0,0,0,1
 shimmering-skies-championship-mindstage-norrkoping-tournament-decks-1519,deck-sapphire-steel-295891,sapphire/steel,,Top32,0,0,0,0,0,1
 shimmering-skies-championship-mindstage-norrkoping-tournament-decks-1519,deck-cassandras-mulan-295893,ruby/steel,,Top32,0,0,0,0,0,1
+shimmering-skies-set-championship-tournament-decks-1675,deck-blurple-309179,amethyst/sapphire,Ramp Draw Control,1st,1,0,0,0,0,0
+shimmering-skies-set-championship-tournament-decks-1675,deck-ps-zauberbesen-309180,amethyst/steel,Classic Bounce,2nd,0,1,0,0,0,0
 championship-cieli-scintillanti-dadi-e-mattoncini-torino-tournament-decks-1634,deck-amber-steel-304779,amber/steel,Steelsong,1st,1,0,0,0,0,0
 championship-cieli-scintillanti-dadi-e-mattoncini-torino-tournament-decks-1634,deck-amber-emerald-304780,amber/emerald,Songs,2nd,0,1,0,0,0,0
 shimmering-skies-championship-tournament-decks-1618,deck-steel-sapphire-296605,sapphire/steel,Cogsworth & Friends,3rd,0,0,1,0,0,0
@@ -1167,6 +1594,14 @@ lorcana-shimmering-skies-championship-linkoping-tournament-decks-1560,deck-ruby-
 lorcana-shimmering-skies-championship-linkoping-tournament-decks-1560,deck-steel-emerald-294320,emerald/steel,Discard,2nd,0,1,0,0,0,0
 lorcana-shimmering-skies-championship-linkoping-tournament-decks-1560,deck-amber-ruby-294323,amber/ruby,Mufasa,3rd,0,0,1,0,0,0
 lorcana-shimmering-skies-championship-linkoping-tournament-decks-1560,deck-ruby-steel-294327,ruby/steel,Locations,Top4,0,0,1,0,0,0
+core-constructed-tournament-tournament-decks-1673,deck-emerald-amethyst-308912,amethyst/emerald,Bounce,1st,1,0,0,0,0,0
+core-constructed-tournament-tournament-decks-1673,deck-steel-emerald-308913,emerald/steel,Discard,2nd,0,1,0,0,0,0
+core-constructed-tournament-tournament-decks-1673,deck-ruby-amethyst-308914,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
+core-constructed-tournament-tournament-decks-1673,deck-sapphire-ruby-308915,ruby/sapphire,Pawpsicles,Top4,0,0,1,0,0,0
+core-constructed-tournament-tournament-decks-1673,deck-amber-steel-308916,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+core-constructed-tournament-tournament-decks-1673,deck-emerald-amber-308917,amber/emerald,Aggro Quest,Top8,0,0,0,1,0,0
+core-constructed-tournament-tournament-decks-1673,deck-emerald-amethyst-308918,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+core-constructed-tournament-tournament-decks-1673,deck-sapphire-ruby-308919,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
 win-box-cieli-scintillanti-tournament-decks-1550,deck-emerald-amber-293534,amber/emerald,Aggro Quest,1st,1,0,0,0,0,0
 win-box-cieli-scintillanti-tournament-decks-1550,deck-amber-steel-293535,amber/steel,Steelsong,2nd,0,1,0,0,0,0
 win-box-cieli-scintillanti-tournament-decks-1550,deck-amethyst-ruby-293536,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
@@ -1182,6 +1617,14 @@ south-florida-lorcana-network-10-9-locals-swiss-results-tournament-decks-1545,de
 ligue-lorcana-troll-savant-tournament-decks-1541,deck-croa-glouglou-292941,amber/emerald,Sing Together,1st,1,0,0,0,0,0
 ligue-lorcana-troll-savant-tournament-decks-1541,deck-balais-magiques-293327,amethyst/steel,Brooms,2nd,0,1,0,0,0,0
 ligue-lorcana-troll-savant-tournament-decks-1541,deck-vert-gris-293328,emerald/steel,Discard,Top4,0,0,1,0,0,0
+store-championship-cieli-scintillanti-tournament-decks-1691,deck-emerald-amber-312563,amber/emerald,Sing Together,1st,1,0,0,0,0,0
+store-championship-cieli-scintillanti-tournament-decks-1691,deck-amber-steel-312564,amber/steel,Steelsong,2nd,0,1,0,0,0,0
+store-championship-cieli-scintillanti-tournament-decks-1691,deck-amber-steel-312565,amber/steel,Steelsong,3rd,0,0,1,0,0,0
+store-championship-cieli-scintillanti-tournament-decks-1691,deck-emerald-steel-312567,emerald/steel,Discard,Top4,0,0,1,0,0,0
+store-championship-cieli-scintillanti-tournament-decks-1691,deck-emerald-amethyst-312568,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+store-championship-cieli-scintillanti-tournament-decks-1691,deck-emerad-steel-312569,emerald/steel,Discard,Top8,0,0,0,1,0,0
+store-championship-cieli-scintillanti-tournament-decks-1691,deck-ruby-sapphire-312570,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+store-championship-cieli-scintillanti-tournament-decks-1691,deck-emerald-amethyst-312571,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
 disney-lorcana-shimmering-skies-championship-gemini-games-game-tournament-decks-1658,deck-r-b-gemini-games-306264,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
 grapes-games-shimmering-skies-set-championship-tournament-decks-1602,deck-emerald-steel-298766,emerald/steel,Discard,1st,1,0,0,0,0,0
 grapes-games-shimmering-skies-set-championship-tournament-decks-1602,deck-ruby-sapphire-298885,ruby/sapphire,Pawpsicles,2nd,0,1,0,0,0,0
@@ -1279,6 +1722,8 @@ flash-cards-shimmering-skies-championship-tournament-decks-1512,deck-ruby-amethy
 flash-cards-shimmering-skies-championship-tournament-decks-1512,deck-steel-amethyst-291911,amethyst/steel,Classic Bounce,Top8,0,0,0,1,0,0
 flash-cards-shimmering-skies-championship-tournament-decks-1512,deck-store-champs-set-5-nick-j-291913,amber/amethyst,Hyper Aggro,Top8,0,0,0,1,0,0
 flash-cards-shimmering-skies-championship-tournament-decks-1512,deck-emerald-steel-291912,emerald/steel,Discard,Top8,0,0,0,1,0,0
+weatherlight-games-shimmering-skies-championship-tournament-decks-1672,deck-robin-hood-sharpshooter-discard-308874,emerald/ruby,Discard,2nd,0,1,0,0,0,0
+weatherlight-games-shimmering-skies-championship-tournament-decks-1672,deck-blurple-freeze-mage-308875,amethyst/sapphire,Bounce,Top16,0,0,0,0,1,0
 shimmering-skies-store-championship-tournament-decks-1617,deck-the-queen-s-gambit-2-0-296571,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
 shimmering-skies-championship-decks-and-dice-tournament-decks-1565,deck-just-in-time-for-lemon-lime-295146,amber/emerald,Aggro Quest,2nd,0,1,0,0,0,0
 championship-cieli-scintillanti-games-academy-messina-tournament-decks-1559,deck-steel-emerald-294170,emerald/steel,Discard,1st,1,0,0,0,0,0
@@ -1601,7 +2046,7 @@ open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-ruby-amet
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-amber-steel-291397,amber/steel,Steelsong,Top256,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-ruby-sapphire-291574,ruby/sapphire,Pawpsicles,Top256,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-deck-291290,undefined/undefined,,Top256,0,0,0,0,0,0
-open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-steel-emerald-291646,emerald/steel,,Top256,0,0,0,0,0,0
+open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-steel-emerald-291646,emerald/steel,A Whole New Mill,Top256,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-deck-291385,undefined/undefined,,Top256,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-ruby-sapphire-291615,ruby/sapphire,Pawpsicles,Top256,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-amber-steel-291357,amber/steel,Steelsong,Top256,0,0,0,0,0,0
@@ -1787,7 +2232,7 @@ open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-amber-ame
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-amethyst-emerald-291221,amethyst/emerald,Bounce,Top512,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-ruby-sapphire-291249,ruby/sapphire,Pawpsicles,Top512,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-steel-sapphire-291568,sapphire/steel,,Top512,0,0,0,0,0,0
-open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-amber-emerald-291545,amber/emerald,,Top512,0,0,0,0,0,0
+open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-amber-emerald-291545,amber/emerald,Discard,Top512,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-ruby-amethyst-291595,amethyst/ruby,Bounce Control,Top512,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-ruby-amethyst-291540,amethyst/ruby,Bounce Control,Top512,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-amethyst-steel-291325,amethyst/steel,,Top512,0,0,0,0,0,0
@@ -1910,7 +2355,7 @@ open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-ruby-stee
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-amber-ruby-291496,amber/ruby,Mufasa,Other,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-ruby-sapphire-291602,ruby/sapphire,Pawpsicles,Other,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-ruby-sapphire-291291,ruby/sapphire,Pawpsicles,Other,0,0,0,0,0,0
-open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-ruby-emerald-291514,emerald/ruby,,Other,0,0,0,0,0,0
+open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-ruby-emerald-291514,emerald/ruby,Emeral  Actions,Other,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-ruby-amber-291375,amber/ruby,,Other,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-steel-amethyst-291610,amethyst/steel,,Other,0,0,0,0,0,0
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,deck-steel-sapphire-291363,sapphire/steel,Cogsworth & Friends,Other,0,0,0,0,0,0
@@ -2044,13 +2489,14 @@ lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-amethyst-ruby-280157,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-ruby-sapphire-280154,ruby/sapphire,Pawpsicles,Top4,0,0,1,0,0,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-birm-item-280694,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
-lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-rp-midrange-ssk-281666,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-birmies-280653,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-rp-midrange-ssk-281666,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-g-p-283582,amethyst/emerald,Bounce,Top16,0,0,0,0,1,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-steel-song-283583,amber/steel,Steelsong,Top16,0,0,0,0,1,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-birmingham-280556,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-amber-steel-279791,amber/steel,Steelsong,Top16,0,0,0,0,1,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-amber-emerald-279795,amber/emerald,Sing Together,Top16,0,0,0,0,1,0
+lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-amethyst-emerald-309922,amethyst/emerald,Bounce,Top32,0,0,0,0,0,1
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-birmingham-281669,amethyst/emerald,Bounce,Top32,0,0,0,0,0,1
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-ruby-sapphire-280927,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-ruby-amethyst-280652,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
@@ -2072,10 +2518,10 @@ lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-no-gothel-green-purple-281670,amethyst/emerald,Bounce,Top64,0,0,0,0,0,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-blue-red-280654,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-squeeze-em-283584,amber/emerald,Sing Together,Top64,0,0,0,0,0,0
+lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-bibi-281058,amethyst/emerald,Bounce,Top64,0,0,0,0,0,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-br-dragons-280555,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-you-re-not-prepared-280159,amethyst/ruby,Aggro,Top64,0,0,0,0,0,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-ruby-sapphire-279655,ruby/sapphire,Pawpsicles,Top64,0,0,0,0,0,0
-lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-bibi-281058,amethyst/emerald,Bounce,Top64,0,0,0,0,0,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-there-can-only-be-one-lucky-dime-279554,ruby/sapphire,Pawpsicles,Top128,0,0,0,0,0,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-amethyst-emerald-279784,amethyst/emerald,Bounce,Top128,0,0,0,0,0,0
 lorcana-european-challenge-birmingham-2024-final-standings-tournament-decks-1462,deck-doctor-discard-279707,emerald/steel,Discard,Top128,0,0,0,0,0,0
@@ -2269,7 +2715,7 @@ mulligan-challenge-13-tournament-decks-1435,deck-steelsong-270605,amber/steel,St
 mulligan-challenge-13-tournament-decks-1435,deck-e-a-v2-270604,amethyst/emerald,Bounce,Top16,0,0,0,0,1,0
 mulligan-challenge-13-tournament-decks-1435,deck-vv-270603,amethyst/emerald,Bounce,Top16,0,0,0,0,1,0
 mulligan-challenge-13-tournament-decks-1435,deck-ruby-saphyr-tipo-s-control-270602,ruby/sapphire,Pawpsicles,Top16,0,0,0,0,1,0
-mulligan-challenge-13-tournament-decks-1435,deck-amber-steel-location-270601,amber/steel,,Top16,0,0,0,0,1,0
+mulligan-challenge-13-tournament-decks-1435,deck-amber-steel-location-270601,amber/steel,Locations,Top16,0,0,0,0,1,0
 mulligan-challenge-13-tournament-decks-1435,deck-steel-sapphire-270600,sapphire/steel,Cogsworth & Friends,Top32,0,0,0,0,0,1
 mulligan-challenge-13-tournament-decks-1435,deck-amber-emerald-270599,amber/emerald,Aggro Quest,Top32,0,0,0,0,0,1
 mulligan-challenge-13-tournament-decks-1435,deck-bleu-violet-270598,amethyst/sapphire,Ramp Draw Control,Top32,0,0,0,0,0,1
@@ -2854,7 +3300,7 @@ ttg-lorcana-ursula-s-return-case-tournament-tournament-decks-1304,deck-harpsongs
 ttg-lorcana-ursula-s-return-case-tournament-tournament-decks-1304,deck-ruby-amethyst-231811,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
 wheel-of-fortune-tournament-decks-1306,deck-brooms-235850,amethyst/steel,Brooms Brigade,1st,1,0,0,0,0,0
 wheel-of-fortune-tournament-decks-1306,deck-hero-blue-steel-235851,sapphire/steel,Hook Shift,2nd,0,1,0,0,0,0
-wheel-of-fortune-tournament-decks-1306,deck-pabbie-princess-235820,amber/sapphire,Princesses Standard,3rd,0,0,1,0,0,0
+wheel-of-fortune-tournament-decks-1306,deck-pabbie-princess-235820,amber/sapphire,Princesses,3rd,0,0,1,0,0,0
 wheel-of-fortune-tournament-decks-1306,deck-steast-bitch-235852,amber/steel,,Top4,0,0,1,0,0,0
 wheel-of-fortune-tournament-decks-1306,deck-bwrple-235845,amethyst/sapphire,Bounce,Top8,0,0,0,1,0,0
 wheel-of-fortune-tournament-decks-1306,deck-villainous-235853,amber/steel,,Top8,0,0,0,1,0,0
@@ -3454,3 +3900,209 @@ championnat-de-set-4-le-retour-d-ursula-tournament-decks-1196,deck-deck-nul-2176
 championnat-de-set-4-le-retour-d-ursula-tournament-decks-1196,deck-viouge-217625,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
 championnat-de-set-4-le-retour-d-ursula-tournament-decks-1196,deck-emerald-steel-217626,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
 championnat-de-set-4-le-retour-d-ursula-tournament-decks-1196,deck-ruby-amethyst-217627,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+ursula-s-return-championship-metropolis-center-tournament-decks-1189,deck-ruby-sapphire-216817,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+ursula-s-return-championship-metropolis-center-tournament-decks-1189,deck-ruby-amethyst-216818,amethyst/ruby,Bounce Control,2nd,0,1,0,0,0,0
+ursula-s-return-championship-metropolis-center-tournament-decks-1189,deck-ruby-amethyst-216819,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
+ursula-s-return-championship-metropolis-center-tournament-decks-1189,deck-emerald-steel-216820,emerald/steel,Bucky Discard,Top4,0,0,1,0,0,0
+ursula-s-return-championship-metropolis-center-tournament-decks-1189,deck-emerald-steel-216821,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+ursula-s-return-championship-metropolis-center-tournament-decks-1189,deck-emerald-steel-216822,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+ursula-s-return-championship-metropolis-center-tournament-decks-1189,deck-ruby-sapphire-216852,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+ursula-s-return-championship-metropolis-center-tournament-decks-1189,deck-emerald-steel-216853,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1188,deck-just-another-ruby-amethyst-216689,amethyst/ruby,Bounce Control,2nd,0,1,0,0,0,0
+battle-bear-kl-disney-lorcana-ursulas-ruckkehr-set-championship-tournament-decks-1185,deck-ruby-sapphire-215890,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+battle-bear-kl-disney-lorcana-ursulas-ruckkehr-set-championship-tournament-decks-1185,deck-ruby-amethyst-215888,amethyst/ruby,Bounce Control,2nd,0,1,0,0,0,0
+battle-bear-kl-disney-lorcana-ursulas-ruckkehr-set-championship-tournament-decks-1185,deck-steel-emerald-215531,emerald/steel,Bucky Discard,Top4,0,0,1,0,0,0
+battle-bear-kl-disney-lorcana-ursulas-ruckkehr-set-championship-tournament-decks-1185,deck-emerald-steel-215533,emerald/steel,Bucky Discard,Top4,0,0,1,0,0,0
+battle-bear-kl-disney-lorcana-ursulas-ruckkehr-set-championship-tournament-decks-1185,deck-sapphire-steel-215878,sapphire/steel,Cogsworth & Friends,Top8,0,0,0,1,0,0
+battle-bear-kl-disney-lorcana-ursulas-ruckkehr-set-championship-tournament-decks-1185,deck-ruby-amethyst-215881,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+battle-bear-kl-disney-lorcana-ursulas-ruckkehr-set-championship-tournament-decks-1185,deck-amber-steel-215883,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+battle-bear-kl-disney-lorcana-ursulas-ruckkehr-set-championship-tournament-decks-1185,deck-amber-steel-215884,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+ursula-s-return-tournament-decks-1184,deck-sapphire-ruby-215688,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+ursula-s-return-tournament-decks-1184,deck-emerald-steel-215690,emerald/steel,Bucky Discard,2nd,0,1,0,0,0,0
+ursula-s-return-tournament-decks-1184,deck-amethyst-steel-215700,amethyst/steel,Classic Bounce,3rd,0,0,1,0,0,0
+ursula-s-return-set-championship-tournament-decks-1183,deck-bucky-cooks-216120,emerald/steel,Bucky Discard,1st,1,0,0,0,0,0
+ursula-s-return-set-championship-tournament-decks-1183,deck-emerald-steel-216936,emerald/steel,Bucky Discard,2nd,0,1,0,0,0,0
+ursula-s-return-set-championship-tournament-decks-1183,deck-land-sea-air-216940,amber/emerald,Sing Together,3rd,0,0,1,0,0,0
+ursula-s-return-set-championship-tournament-decks-1183,deck-emerald-steel-216937,emerald/steel,Bucky Discard,Top4,0,0,1,0,0,0
+ursula-s-return-set-championship-tournament-decks-1183,deck-ra-control-217036,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1183,deck-saphire-steel-217037,sapphire/steel,Cogsworth & Friends,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1183,deck-es-bucky-217038,emerald/steel,Bucky Discard,Top16,0,0,0,0,1,0
+ursula-s-return-championship-tournament-decks-1181,deck-emerald-amethyst-215984,amethyst/emerald,Bounce,1st,1,0,0,0,0,0
+ursula-s-return-championship-tournament-decks-1181,deck-ruby-amethyst-215983,amethyst/ruby,Bounce Control,2nd,0,1,0,0,0,0
+ursula-s-return-championship-tournament-decks-1181,deck-ruby-amethyst-215982,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
+ursula-s-return-championship-tournament-decks-1181,deck-steel-sapphire-215981,sapphire/steel,Cogsworth & Friends,Top4,0,0,1,0,0,0
+ursula-s-return-championship-tournament-decks-1181,deck-ruby-amethyst-215987,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+ursula-s-return-championship-tournament-decks-1181,deck-steel-emerald-215988,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+ursula-s-return-championship-tournament-decks-1181,deck-ruby-amethyst-215985,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+ursula-s-return-championship-tournament-decks-1181,deck-amethyst-steel-215986,amethyst/steel,Classic Bounce,Top8,0,0,0,1,0,0
+ursula-set-champs-tournament-decks-1180,deck-sisu-on-ice-215729,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+ursula-set-champs-tournament-decks-1180,deck-bucky-discard-216053,emerald/steel,Bucky Discard,2nd,0,1,0,0,0,0
+ursula-set-champs-tournament-decks-1180,deck-mufasa-215813,amber/ruby,Mufasa,Top8,0,0,0,1,0,0
+ursula-set-champs-tournament-decks-1180,deck-cogsworth-and-friends-215730,sapphire/steel,Cogsworth & Friends,Top8,0,0,0,1,0,0
+ursula-set-champs-tournament-decks-1180,deck-mufasa-aggro-215812,amber/ruby,Mufasa,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1179,deck-amber-ruby-215647,amber/ruby,Mufasa,1st,1,0,0,0,0,0
+ursula-s-return-set-championship-tournament-decks-1179,deck-sapphire-steel-215728,sapphire/steel,Cogsworth & Friends,2nd,0,1,0,0,0,0
+ursula-s-return-set-championship-tournament-decks-1179,deck-green-wheelsong-215646,emerald/steel,A Whole New Mill,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1179,deck-in-humble-we-trust-216931,amber/ruby,Mufasa,Top16,0,0,0,0,1,0
+drewbees-collectables-set-championship-ursula-s-return-tournament-decks-1178,deck-saphire-steel-215644,sapphire/steel,Cogsworth & Friends,1st,1,0,0,0,0,0
+drewbees-collectables-set-championship-ursula-s-return-tournament-decks-1178,deck-emerald-steel-215643,emerald/steel,Bucky Discard,2nd,0,1,0,0,0,0
+drewbees-collectables-set-championship-ursula-s-return-tournament-decks-1178,deck-rip-bucky-215641,emerald/steel,Bucky Discard,3rd,0,0,1,0,0,0
+drewbees-collectables-set-championship-ursula-s-return-tournament-decks-1178,deck-mufasa-s-wheel-215642,amber/steel,Mufasa,Top4,0,0,1,0,0,0
+drewbees-collectables-set-championship-ursula-s-return-tournament-decks-1178,deck-jim-hawktuah-215640,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+drewbees-collectables-set-championship-ursula-s-return-tournament-decks-1178,deck-ursula-es-set-v11-0-215639,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+drewbees-collectables-set-championship-ursula-s-return-tournament-decks-1178,deck-christmas-in-july-215638,emerald/ruby,Evasive,Top8,0,0,0,1,0,0
+drewbees-collectables-set-championship-ursula-s-return-tournament-decks-1178,deck-amethyst-steel-215637,amethyst/steel,Classic Bounce,Top8,0,0,0,1,0,0
+ursula-sea-witch-queen-party-ursula-s-return-championship-tournament-decks-1174,deck-grey-green-215384,emerald/steel,Bucky Discard,1st,1,0,0,0,0,0
+ursula-sea-witch-queen-party-ursula-s-return-championship-tournament-decks-1174,deck-purple-grey-215989,amethyst/emerald,Bounce,2nd,0,1,0,0,0,0
+ursula-sea-witch-queen-party-ursula-s-return-championship-tournament-decks-1174,deck-purple-red-216333,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
+ursula-sea-witch-queen-party-ursula-s-return-championship-tournament-decks-1174,deck-purple-red-216343,amethyst/ruby,Bounce Control,Top4,0,0,1,0,0,0
+ursula-sea-witch-queen-party-ursula-s-return-championship-tournament-decks-1174,deck-grey-blue-216895,sapphire/steel,Cogsworth & Friends,Top8,0,0,0,1,0,0
+ursula-sea-witch-queen-party-ursula-s-return-championship-tournament-decks-1174,deck-purple-red-217630,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+ursula-sea-witch-queen-party-ursula-s-return-championship-tournament-decks-1174,deck-purple-red-217671,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+ursula-sea-witch-queen-party-ursula-s-return-championship-tournament-decks-1174,deck-grey-green-218305,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+dragonct-ursula-s-return-championship-tournament-decks-1169,deck-bounce-control-215295,amethyst/ruby,Bounce Control,1st,1,0,0,0,0,0
+dragonct-ursula-s-return-championship-tournament-decks-1169,deck-bucky-discard-215296,emerald/steel,Bucky Discard,2nd,0,1,0,0,0,0
+dragonct-ursula-s-return-championship-tournament-decks-1169,deck-bounce-control-215297,amethyst/ruby,Bounce Control,3rd,0,0,1,0,0,0
+dragonct-ursula-s-return-championship-tournament-decks-1169,deck-bucky-discard-215298,emerald/steel,Bucky Discard,Top4,0,0,1,0,0,0
+dragonct-ursula-s-return-championship-tournament-decks-1169,deck-bucky-discard-215345,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+dragonct-ursula-s-return-championship-tournament-decks-1169,deck-classic-bounce-215299,amethyst/steel,Classic Bounce,Top8,0,0,0,1,0,0
+dragonct-ursula-s-return-championship-tournament-decks-1169,deck-cogsworth-friends-215300,sapphire/steel,Cogsworth & Friends,Top8,0,0,0,1,0,0
+dragonct-ursula-s-return-championship-tournament-decks-1169,deck-bucky-discard-215304,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+championnat-de-set-le-retour-d-ursula-playin-rivoli-tournament-decks-1164,deck-sauce-magique-rapide-215287,amethyst/emerald,Bounce,Top4,0,0,1,0,0,0
+set-championship-tournament-decks-1161,deck-steel-emerald-215111,emerald/steel,Bucky Discard,1st,1,0,0,0,0,0
+set-championship-tournament-decks-1161,deck-ruby-amethyst-215112,amethyst/ruby,Bounce Control,2nd,0,1,0,0,0,0
+set-championship-tournament-decks-1161,deck-ruby-amber-215113,amber/ruby,Aggro Control,3rd,0,0,1,0,0,0
+set-championship-tournament-decks-1161,deck-ruby-sapphire-215114,ruby/sapphire,Pawpsicles,Top4,0,0,1,0,0,0
+set-championship-tournament-decks-1161,deck-steel-amber-215115,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+set-championship-tournament-decks-1161,deck-amber-steel-215116,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+set-championship-tournament-decks-1161,deck-ruby-amethyst-215117,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+set-championship-tournament-decks-1161,deck-steel-emerald-215118,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+lorcana-ursula-s-championship-tournament-decks-1299,deck-steel-sapphire-227385,sapphire/steel,Cogsworth & Friends,Other,0,0,0,0,0,0
+lorcana-ursula-s-championship-tournament-decks-1299,deck-steel-sapphire-227386,sapphire/steel,,Other,0,0,0,0,0,0
+lorcana-ursula-s-championship-tournament-decks-1299,deck-steel-sapphire-227387,sapphire/steel,Hook Shift,Other,0,0,0,0,0,0
+lorcana-ursula-s-championship-tournament-decks-1299,deck-ruby-sapphire-227379,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+lorcana-ursula-s-championship-tournament-decks-1299,deck-bucky-discard-227380,emerald/steel,Bucky Discard,2nd,0,1,0,0,0,0
+lorcana-ursula-s-championship-tournament-decks-1299,deck-steelsong-227381,amber/steel,Steelsong,3rd,0,0,1,0,0,0
+lorcana-ursula-s-championship-tournament-decks-1299,deck-steel-sapphire-227382,sapphire/steel,Cogsworth & Friends,Top4,0,0,1,0,0,0
+lorcana-ursula-s-championship-tournament-decks-1299,deck-bucky-discard-227384,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+lorcana-ursula-s-championship-tournament-decks-1299,deck-steel-sapphire-227388,sapphire/steel,Hook Shift,Top8,0,0,0,1,0,0
+7-13-lorcana-ursula-s-return-championship-tournament-decks-1280,deck-bluufasa-226253,amber/sapphire,Bluefasa,Top4,0,0,1,0,0,0
+ursula-s-return-championship-tournament-decks-1278,deck-crik-yee-226250,amethyst/emerald,Bounce,1st,1,0,0,0,0,0
+ursula-s-return-championship-tournament-decks-1278,deck-my-secret-fasa-226251,amber/steel,Mufasa,2nd,0,1,0,0,0,0
+lorcana-ursula-s-return-championship-tournament-decks-1277,deck-scrubbles-e-a-aggro-bounce-226249,amethyst/emerald,Bounce,1st,1,0,0,0,0,0
+ursula-s-return-championship-tournament-decks-1275,deck-icy-pops-214736,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+championnat-de-set-4-le-retour-d-ursula-le-vrai-tournament-decks-1215,deck-ruby-sapphire-220080,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+championnat-de-set-4-le-retour-d-ursula-le-vrai-tournament-decks-1215,deck-emerald-steel-220076,emerald/steel,Bucky Discard,2nd,0,1,0,0,0,0
+championnat-de-set-4-le-retour-d-ursula-le-vrai-tournament-decks-1215,deck-amber-steel-220086,amber/steel,Steelsong,Top4,0,0,1,0,0,0
+championnat-de-set-4-le-retour-d-ursula-le-vrai-tournament-decks-1215,deck-ruby-amethyst-220095,amethyst/ruby,Bounce Control,Top4,0,0,1,0,0,0
+gkg-ursula-s-return-championship-tournament-decks-1213,deck-hyper-discard-219260,amber/emerald,Songs,2nd,0,1,0,0,0,0
+ursula-s-return-store-championship-tournament-decks-1211,deck-emerald-steel-bucky-discard-219101,emerald/steel,Bucky Discard,1st,1,0,0,0,0,0
+ursula-s-return-store-championship-tournament-decks-1211,deck-amber-emerald-discard-219098,amber/emerald,Sing Together,2nd,0,1,0,0,0,0
+ursula-s-return-store-championship-tournament-decks-1211,deck-sapphire-steel-ramp-219096,sapphire/steel,Cogsworth & Friends,Top4,0,0,1,0,0,0
+ursula-s-return-store-championship-tournament-decks-1211,deck-emerald-steel-bucky-discard-219099,emerald/steel,Bucky Discard,Top4,0,0,1,0,0,0
+ursula-s-return-store-championship-tournament-decks-1211,deck-steel-song-219095,amber/steel,Steelsong,Top8,0,0,0,1,0,0
+ursula-s-return-store-championship-tournament-decks-1211,deck-ruby-amethyst-midrange-219097,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+ursula-s-return-store-championship-tournament-decks-1211,deck-emerald-steel-bucky-discard-219100,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+ursula-s-return-store-championship-tournament-decks-1211,deck-ruby-amethyst-midrange-219102,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+galactus-tiburtina-roma-ursula-s-return-set-championship-tournament-decks-1209,deck-ruby-amethyst-218566,amethyst/ruby,Bounce Control,1st,1,0,0,0,0,0
+galactus-tiburtina-roma-ursula-s-return-set-championship-tournament-decks-1209,deck-emerald-steel-218567,emerald/steel,Bucky Discard,2nd,0,1,0,0,0,0
+galactus-tiburtina-roma-ursula-s-return-set-championship-tournament-decks-1209,deck-emerald-steel-218568,emerald/steel,Bucky Discard,3rd,0,0,1,0,0,0
+galactus-tiburtina-roma-ursula-s-return-set-championship-tournament-decks-1209,deck-ruby-amethyst-218569,amethyst/ruby,Bounce Control,Top4,0,0,1,0,0,0
+galactus-tiburtina-roma-ursula-s-return-set-championship-tournament-decks-1209,deck-emerald-steel-218570,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+galactus-tiburtina-roma-ursula-s-return-set-championship-tournament-decks-1209,deck-ruby-amethyst-218571,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+galactus-tiburtina-roma-ursula-s-return-set-championship-tournament-decks-1209,deck-ruby-amethyst-218572,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+galactus-tiburtina-roma-ursula-s-return-set-championship-tournament-decks-1209,deck-sapphire-steel-218573,sapphire/steel,Cogsworth & Friends,Top8,0,0,0,1,0,0
+championnat-de-set-le-retour-d-ursula-tournament-decks-1202,deck-fly-fly-nuts-217840,emerald/steel,Bucky Discard,1st,1,0,0,0,0,0
+ursula-s-return-championship-tournament-decks-1200,deck-death-ra-217710,amethyst/ruby,Bounce Control,Other,0,0,0,0,0,0
+keepseven-disney-lorcana-ursula-set-championship-tournament-decks-1193,deck-emerald-steel-217107,emerald/steel,Bucky Discard,1st,1,0,0,0,0,0
+keepseven-disney-lorcana-ursula-set-championship-tournament-decks-1193,deck-sapphire-steel-217106,sapphire/steel,Cogsworth & Friends,2nd,0,1,0,0,0,0
+keepseven-disney-lorcana-ursula-set-championship-tournament-decks-1193,deck-es-bucky-discard-217105,emerald/steel,Bucky Discard,3rd,0,0,1,0,0,0
+keepseven-disney-lorcana-ursula-set-championship-tournament-decks-1193,deck-bucky-217104,emerald/steel,Bucky Discard,Top4,0,0,1,0,0,0
+keepseven-disney-lorcana-ursula-set-championship-tournament-decks-1193,deck-wolfsrudel-217098,emerald/ruby,Evasive,Top8,0,0,0,1,0,0
+keepseven-disney-lorcana-ursula-set-championship-tournament-decks-1193,deck-flynn-217097,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+keepseven-disney-lorcana-ursula-set-championship-tournament-decks-1193,deck-that-squeaking-squirrel-217096,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+keepseven-disney-lorcana-ursula-set-championship-tournament-decks-1193,deck-going-places-217080,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-emerald-steel-217031,emerald/steel,Bucky Discard,1st,1,0,0,0,0,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-get-buck-d-216938,ruby/sapphire,Pawpsicles,2nd,0,1,0,0,0,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-violet-blue-216946,amethyst/steel,Classic Bounce,3rd,0,0,1,0,0,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-necessary-evil-216943,amethyst/ruby,Bounce Control,Top4,0,0,1,0,0,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-logitimate-bounce-216987,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-emerald-amethyst-216948,amethyst/emerald,Bounce,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-free-bucky-217025,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-get-buck-d-2-the-fellowship-of-the-buck-216942,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-of-mice-and-mermaids-217020,sapphire/steel,Cogsworth & Friends,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-purple-good-stuff-216934,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-silly-songs-under-the-sea-216947,amber/emerald,Sing Together,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-rella-della-217029,amber/steel,Steelsong,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-swept-away-216945,amethyst/steel,Brooms,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-ruby-amethyst-217024,amethyst/ruby,Bounce Control,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-macie-s-mufasa-216939,amber/ruby,Mufasa,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-search-and-destroy-217003,sapphire/steel,Cogsworth & Friends,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1192,deck-oh-wait-that-s-bad-217030,ruby/steel,Sing & Shift,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1192,deck-jafar-s-world-217032,amethyst/steel,Classic Bounce,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1192,deck-sapphire-steel-217034,sapphire/steel,Cogsworth & Friends,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1192,deck-tanks-healers-216944,amber/ruby,Mufasa,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1192,deck-sapphire-steel-216935,sapphire/steel,Heros,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1192,deck-rush-in-roulette-217027,amethyst/steel,,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1192,deck-sapphire-steel-216941,sapphire/steel,Heros,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1192,deck-heroic-upstroke-217033,sapphire/steel,Heros,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1192,deck-magenta-madness-217028,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1192,deck-amber-amethyst-aggro-217023,amber/amethyst,Hyper Aggro,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1192,deck-emerald-amethyst-216966,amethyst/emerald,Bounce,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1192,deck-sisu-on-d-ice-216950,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+set-champs-tournament-decks-1191,deck-google-maps-216932,amethyst/ruby,Bounce Control,1st,1,0,0,0,0,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-steel-emerald-223272,emerald/steel,Bucky Discard,1st,1,0,0,0,0,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-emerald-steel-223282,emerald/steel,Bucky Discard,2nd,0,1,0,0,0,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-blue-steel-ursula-s-return-216212,sapphire/steel,Cogsworth & Friends,3rd,0,0,1,0,0,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-amber-emerald-223274,amber/emerald,Greenfasa,Top4,0,0,1,0,0,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-steel-emerald-223270,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-steel-sapphire-223266,sapphire/steel,Cogsworth & Friends,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-emerald-steel-223280,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-brooms-223277,amethyst/steel,Classic Bounce,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-steel-emerald-223264,emerald/steel,Tiana,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-amethyst-amber-223271,amber/amethyst,Hyper Aggro,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-sapphire-steel-223267,sapphire/steel,Heros,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-ruby-steel-223279,ruby/steel,Heros,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-lemon-lime-225751,amber/emerald,Sing Together,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-emerald-steel-223278,emerald/steel,Bucky Discard,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-amethyst-amber-223276,amber/amethyst,Hyper Aggro,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-steel-emerald-223281,emerald/steel,Bucky Discard,Top16,0,0,0,0,1,0
+ursula-s-return-set-championship-tournament-decks-1182,deck-ruby-sapphire-223273,ruby/sapphire,Pawpsicles,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1182,deck-ruby-amethyst-223268,amethyst/ruby,Bounce Control,Top32,0,0,0,0,0,1
+ursula-s-return-set-championship-tournament-decks-1182,deck-steel-amethyst-223269,amethyst/steel,Brooms Brigade,Top32,0,0,0,0,0,1
+arche-tellus-ursula-s-return-set-championship-tournament-decks-1177,deck-amethyst-ruby-214683,amethyst/ruby,Bounce Control,1st,1,0,0,0,0,0
+arche-tellus-ursula-s-return-set-championship-tournament-decks-1177,deck-ruby-sapphire-214681,ruby/sapphire,Pawpsicles,2nd,0,1,0,0,0,0
+arche-tellus-ursula-s-return-set-championship-tournament-decks-1177,deck-amethyst-steel-214666,amethyst/steel,Tempo Control,Top4,0,0,1,0,0,0
+arche-tellus-ursula-s-return-set-championship-tournament-decks-1177,deck-ruby-amethyst-214786,amethyst/ruby,Bounce Control,Top4,0,0,1,0,0,0
+arche-tellus-ursula-s-return-set-championship-tournament-decks-1177,deck-steel-emerald-214508,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+arche-tellus-ursula-s-return-set-championship-tournament-decks-1177,deck-ruby-sapphire-214511,ruby/sapphire,Pawpsicles,Top8,0,0,0,1,0,0
+arche-tellus-ursula-s-return-set-championship-tournament-decks-1177,deck-sapphire-steel-214669,sapphire/steel,Cogsworth & Friends,Top8,0,0,0,1,0,0
+arche-tellus-ursula-s-return-set-championship-tournament-decks-1177,deck-ruby-amethyst-214784,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1176,deck-ruby-sapphire-215469,ruby/sapphire,Pawpsicles,1st,1,0,0,0,0,0
+ursula-s-return-set-championship-tournament-decks-1176,deck-green-wheelsong-215468,emerald/steel,A Whole New Mill,2nd,0,1,0,0,0,0
+ursula-s-return-set-championship-tournament-decks-1176,deck-emerald-amber-215470,amber/emerald,Sing Together,3rd,0,0,1,0,0,0
+ursula-s-return-set-championship-tournament-decks-1176,deck-sapphire-steel-215471,sapphire/steel,Cogsworth & Friends,Top4,0,0,1,0,0,0
+ursula-s-return-set-championship-tournament-decks-1176,deck-ruby-amethyst-215472,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1176,deck-ruby-amethyst-215473,amethyst/ruby,Bounce Control,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1176,deck-amber-ruby-215474,amber/ruby,Mufasa,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1176,deck-emerald-steel-215475,emerald/steel,Bucky Discard,Top8,0,0,0,1,0,0
+ursula-s-return-set-championship-tournament-decks-1176,deck-purple-steel-215476,amethyst/steel,Classic Bounce,Top16,0,0,0,0,1,0
+championnat-de-set-le-retour-d-ursula-tournament-decks-1175,deck-ruby-amethyst-215467,amethyst/ruby,Bounce Control,2nd,0,1,0,0,0,0
+ursulas-ruckkehr-meisterschaft-im-jupet-tournament-decks-1173,deck-steel-emerald-214393,emerald/steel,Bucky Discard,1st,1,0,0,0,0,0
+ursulas-ruckkehr-meisterschaft-im-jupet-tournament-decks-1173,deck-emerald-steel-214397,emerald/steel,Bucky Discard,2nd,0,1,0,0,0,0
+ursulas-ruckkehr-meisterschaft-im-jupet-tournament-decks-1173,deck-ruby-sapphire-214384,ruby/sapphire,Pawpsicles,Top4,0,0,1,0,0,0
+ursulas-ruckkehr-meisterschaft-im-jupet-tournament-decks-1173,deck-emerald-steel-214389,emerald/steel,Bucky Discard,Top4,0,0,1,0,0,0
+disney-lorcana-ursula-s-return-championship-tournament-decks-1172,deck-steel-emerald-214596,emerald/steel,Bucky Discard,1st,1,0,0,0,0,0
+disney-lorcana-ursula-s-return-championship-tournament-decks-1172,deck-ruby-amethyst-214590,amethyst/ruby,Bounce Control,2nd,0,1,0,0,0,0
+disney-lorcana-ursula-s-return-championship-tournament-decks-1172,deck-sapphire-steel-214586,sapphire/steel,Cogsworth & Friends,Top4,0,0,1,0,0,0
+disney-lorcana-ursula-s-return-championship-tournament-decks-1172,deck-emerald-steel-214593,emerald/steel,Bucky Discard,Top4,0,0,1,0,0,0
+ursula-s-return-championship-itaca-tournament-decks-1171,deck-ae-discardsongs-215376,amber/emerald,Sing Together,2nd,0,1,0,0,0,0
+disney-lorcana-ursula-s-return-store-championship-tournament-decks-1170,deck-bucky-handrip-215379,emerald/steel,Bucky Discard,1st,1,0,0,0,0,0
+disney-lorcana-ursula-s-return-store-championship-tournament-decks-1170,deck-locations-215375,amethyst/ruby,Bounce Control,2nd,0,1,0,0,0,0
+ursula-s-return-championship-tournament-decks-1168,deck-steel-emerald-215294,emerald/steel,Bucky Discard,2nd,0,1,0,0,0,0
+ursula-s-return-championship-tournament-decks-1167,deck-sisu-on-ice-spicy-tremaine-215292,ruby/sapphire,Pawpsicles,2nd,0,1,0,0,0,0
+ursula-s-return-championship-tournament-decks-1167,deck-emerald-steel-215293,emerald/steel,Bucky Discard,Top4,0,0,1,0,0,0
+ursula-s-return-championship-tournament-decks-1166,deck-steel-emerald-215290,emerald/steel,Bucky Discard,1st,1,0,0,0,0,0
+dracarys-juegos-ursula-s-return-championship-tournament-decks-1165,deck-set-championship-ursula-dracarys-215288,amethyst/emerald,Bounce,1st,1,0,0,0,0,0
+lorcana-championship-ursula-s-tournament-decks-1163,deck-broom-championship-215284,amethyst/steel,Brooms,Top4,0,0,1,0,0,0
+mez-comics-games-ursula-s-return-championship-tournament-decks-1162,deck-heros-for-hire-215190,amber/sapphire,Heros Aggro,1st,1,0,0,0,0,0
