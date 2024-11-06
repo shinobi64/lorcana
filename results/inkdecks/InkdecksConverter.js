@@ -219,6 +219,9 @@ export default class InkdecksConverter {
           case "Snow White - Fair - Hearted":
             uniqueId = "SSK-183";
             break;
+          case "Snowanna Rainbeau - Cool Competitor":
+            uniqueId = "SSK-110";
+            break;
         }
         return uniqueId;
       }
