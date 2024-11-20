@@ -672,3 +672,20 @@ Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,PlayDraw,Result,OwnL
 2024-11-16,Set6,Wizards Well,Sealed 11-16,Sealed,Sealed,Darksteel1,Sealed,Draw,Win,3/6/9/12/15/20,1/2/3/4/6
 2024-11-16,Set6,Wizards Well,Sealed 11-16,Sealed,Sealed,Seynara,Sealed,Play,Win,4/7/9/13/19/20,1/4/6/8
 2024-11-16,Set6,Wizards Well,Sealed 11-16,Sealed,Sealed,Seynara,Sealed,Draw,Win,2/4/6/8/13/20,1/3/4/5/6/7/8/9/10
+2024-11-18,Set6,Home,Online,Constructed,Ruby Sapphire Control,Nastra,Sapphire Steel Items,Play,Loss,18,20
+2024-11-18,Set6,Home,Online,Constructed,Emerald Sapphire Mufasa,Nastra,Sapphire Steel Items,Draw,Loss,16,20
+2024-11-18,Set6,Home,Online,Constructed,Amber Amethyst Hyper Aggro,Nastra,Amethyst Steel Aggro,Play,Win,20,7
+2024-11-19,Set6,Home,Online,Constructed,Ruby Amethyst Burn,Darksteel1,Amethyst Emerald Aggro,Play,Loss,,
+2024-11-19,Set6,Home,Online,Constructed,Ruby Amethyst Burn,Darksteel1,Amethyst Emerald Aggro,Play,Win,,
+2024-11-19,Set6,Home,Online,Constructed,Ruby Amethyst Burn,Darksteel1,Amethyst Emerald Aggro,Draw,Win,,
+2024-11-19,Set6,Home,Online,Constructed,Ruby Amethyst Burn,Darksteel1,Emerald Steel Aggro,Play,Win,,
+2024-11-19,Set6,Home,Online,Constructed,Ruby Amethyst Burn,Darksteel1,Emerald Steel Aggro,Draw,Loss,,
+2024-11-19,Set6,Home,Online,Constructed,Ruby Amethyst Burn,Darksteel1,Emerald Steel Aggro,Play,Win,,
+2024-11-20,Set6,Wizards Well,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Emerald Steel Aggro,Play,Loss,,
+2024-11-20,Set6,Wizards Well,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Emerald Steel Aggro,Play,Win,,
+2024-11-20,Set6,Wizards Well,Casual,Constructed,Amber Amethyst Hyper Aggro,fionikatze,Amber Ruby Mufasa,Draw,Loss,,
+2024-11-20,Set6,Wizards Well,Casual,Constructed,Ruby Sapphire Control,gretakatze,Amber Amethyst Hyper Aggro,Draw,Loss,,
+2024-11-20,Set6,Wizards Well,Liga 11-20,Draft,Draft,Al-ex,Draft,Play,Win,1/3/5/7/12/15/20,1/2/4/7/8
+2024-11-20,Set6,Wizards Well,Liga 11-20,Draft,Draft,Al-ex,Draft,Draw,Win,1/2/3/2/6/5/9/12/11/17/20,1/2/3/5/7/11
+2024-11-20,Set6,Wizards Well,Liga 11-20,Draft,Draft,Tintenvorrat_Wooky,Draft,Draw,Win,1/4/7/12/15/20,1/2/3/4/6/9/10/11
+2024-11-20,Set6,Wizards Well,Liga 11-20,Draft,Draft,Tintenvorrat_Wooky,Draft,Draw,Win,2/6/8/12/17/20,1/2/4/5
