@@ -689,3 +689,21 @@ Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,PlayDraw,Result,OwnL
 2024-11-20,Set6,Wizards Well,Liga 11-20,Draft,Draft,Al-ex,Draft,Draw,Win,1/2/3/2/6/5/9/12/11/17/20,1/2/3/5/7/11
 2024-11-20,Set6,Wizards Well,Liga 11-20,Draft,Draft,Tintenvorrat_Wooky,Draft,Draw,Win,1/4/7/12/15/20,1/2/3/4/6/9/10/11
 2024-11-20,Set6,Wizards Well,Liga 11-20,Draft,Draft,Tintenvorrat_Wooky,Draft,Draw,Win,2/6/8/12/17/20,1/2/4/5
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Ruby Sapphire Control,Draw,Win,1/2/3/6/10/15/17/20,1/4/6/9/10/8/9
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Ruby Sapphire Control,Play,Loss,1/2/3/5/8/10/12/14/16/17,1/4/5/6/7/10/8/11/14/17/20
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Amethyst Burn,Darksteel1,Ruby Sapphire Control,Draw,Loss,1/2/3/5/6/7/8/9/11/12/14/16/14/15,1/2/3/5/6/5/9/12/15/20
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Amethyst Burn,Darksteel1,Ruby Sapphire Control,Play,Loss,1/3/4/7/9/11/12/13/11/12/10/11/13/14/15/17/15,1/2/5/7/9/11/13/14/17/20
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Amber Emerald Hyper Aggro,Draw,Win,2/7/11/17/20,2/5/10/12/14/16
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Amber Emerald Hyper Aggro,Play,Loss,1,1/4/8/14/17/20
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Amber Emerald Hyper Aggro,Draw,Loss,,2/7/10/11/15/20
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Amber Emerald Hyper Aggro,Play,Loss,1/2/3/5/6/7/8/11,2/4/7/10/13/14/16/20
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Ruby Sapphire Control,Draw,Loss,1/2/3/5/6,2/6/9/15/20
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Amethyst Emerald Aggro,Draw,Win,1/3/4/6/7/13/20,1/3/5/6/8
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Amethyst Emerald Aggro,Play,Win,1/2/5/9/11/14/20,2/4/8/11/14/15/16/17/18
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Amethyst Emerald Aggro,Draw,Win,1/4/7/14/20,2/4/9/12/15/18
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Amethyst Emerald Aggro,Play,Loss,1/3/4/8,1/2/4/6/7/5/6/9/11/13/14/20
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Ruby Sapphire Control,Play,Loss,7,1/3/5/8/11/13/19/20
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Ruby Sapphire Control,Draw,Win,1/2/5/9/13/18/20,1/2/4/7/11
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Ruby Sapphire Control,Play,Win,1/2/3/1/2/3/5/8/10/15/17/20,1/3/4/5/6/7/5
+2024-11-24,Set6,Home,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Ruby Sapphire Control,Draw,Loss,1/2/4/10/17,1/2/3/5/8/11/14/12/15/17/20
+2024-11-24,Set6,Home,Casual,Constructed,Amber Ruby Mufasa,Darksteel1,Ruby Sapphire Control,Play,Win,1/2/4/5/7/9/11/9/13/15/13/17/20,2/4
