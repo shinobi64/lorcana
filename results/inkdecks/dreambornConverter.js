@@ -4,7 +4,7 @@ import DreambornCardlistConverter from "./DreambornCardlistConverter.js";
 const options = {
   createCardDimension: true,
   persistCardDimension: true,
-  fetchCardData: false,
+  fetchCardData: true,
   sourceFileName: "cardDetails.json",
   cardDimensionFileName: "dreamborn_cards.csv",
 };
