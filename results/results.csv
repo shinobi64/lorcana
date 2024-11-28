@@ -726,3 +726,17 @@ Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,PlayDraw,Result,OwnL
 2024-11-26,Set6,Home,Online,Constructed,Amber Ruby Mufasa,lorcanitoAnonym,Amber Ruby Mufasa,Play,Win,,
 2024-11-26,Set6,Home,Casual,Constructed,Amber Ruby Mufasa,ITFairy,Amethyst Emerald Tempo,Play,Win,,
 2024-11-26,Set6,Home,Casual,Constructed,Amber Ruby Mufasa,ITFairy,Amethyst Emerald Tempo,Draw,Win,,
+2024-11-27,Set6,Wizards Well,Casual,Constructed,Amber Ruby Mufasa,Darksteel1,Amethyst Emerald Tempo,Play,Loss,1/2/4/8/10,2/4/5/7/9/10/12/18/20
+2024-11-27,Set6,Wizards Well,Casual,Constructed,Amber Ruby Mufasa,Darksteel1,Amethyst Emerald Tempo,Draw,Loss,2/4/6,1/4/5/6/7/9/11/13/18/20
+2024-11-27,Set6,Wizards Well,Casual,Constructed,Amber Ruby Mufasa,Darksteel1,Amethyst Emerald Tempo,Play,Loss,2/6/12,1/3/4/5/7/9/11/20
+2024-11-27,Set6,Wizards Well,Casual,Constructed,Amethyst Steel Aggro,Darksteel1,Amethyst Emerald Tempo,Draw,Win,1/4/6/7/8/9/10/12/13/15/17/18/20,3/7/11/13
+2024-11-27,Set6,Wizards Well,Casual,Constructed,Amethyst Steel Aggro,Darksteel1,Amethyst Emerald Tempo,Play,Loss,1/4/5/7/9/11/12/14/16/18,1/4/7/10/15/20
+2024-11-27,Set6,Wizards Well,Casual,Constructed,Ruby Sapphire Control,Darksteel1,Amethyst Emerald Tempo,Draw,Win,3/5/10/20,2/4/5/6/8/9
+2024-11-27,Set6,Wizards Well,Liga 11-27,Constructed,Amber Ruby Mufasa,Ironlady94,Sapphire Steel Items,Play,Win,2/5/7/14/20,5
+2024-11-27,Set6,Wizards Well,Liga 11-27,Constructed,Amber Ruby Mufasa,Ironlady94,Sapphire Steel Items,Draw,Loss,2/6/7/9,1/2/4/6/8/13/18/20
+2024-11-27,Set6,Wizards Well,Liga 11-27,Constructed,Amber Ruby Mufasa,Ironlady94,Sapphire Steel Items,Play,Win,2/6/10/18/20,2
+2024-11-27,Set6,Wizards Well,Liga 11-27,Constructed,Amber Ruby Mufasa,Ohli,Ruby Amethyst Burn,Draw,Loss,2/6/14,2/3/4/5/7/8/10/12/13/15/17/18/20
+2024-11-27,Set6,Wizards Well,Liga 11-27,Constructed,Amber Ruby Mufasa,Ohli,Ruby Amethyst Burn,Play,Win,4/6/8/10/12/18/20,1/2/3/4/5/7/8/9/10/12/13/14
+2024-11-27,Set6,Wizards Well,Liga 11-27,Constructed,Amber Ruby Mufasa,Ohli,Ruby Amethyst Burn,Draw,Win,1/0/1/3/8/13/20,1/3/4/5/6/7/9/11/12/15/16
+2024-11-27,Set6,Wizards Well,Liga 11-27,Constructed,Amber Ruby Mufasa,Darksteel1,Ruby Sapphire Control,Draw,Win,2/5/7/9/11/13/11/13/18/20,1/2/4/7/8/11
+2024-11-27,Set6,Wizards Well,Liga 11-27,Constructed,Amber Ruby Mufasa,Darksteel1,Ruby Sapphire Control,Play,Win,2/6/11/14/16/18/20,1/2/3/5/7
