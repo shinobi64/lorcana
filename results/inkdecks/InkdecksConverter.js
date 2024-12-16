@@ -222,6 +222,9 @@ export default class InkdecksConverter {
           case "Snowanna Rainbeau - Cool Competitor":
             uniqueId = "SSK-110";
             break;
+          case "Benja - Bold Uniter":
+            uniqueId = "URS-104";
+            break;
         }
         return uniqueId;
       }
