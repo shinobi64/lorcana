@@ -1,4 +1,208 @@
 collectorID,set,color,type,inkcost,inkable,cardname,tags,strength,willpower,lore,rarity
+AZS-001,Set6,Amber,Character,3,0,Owl - Pirate Lookout,Storyborn| Ally| Pirate,3,3,1,Uncommon
+AZS-002,Set6,Amber,Character,2,0,Lilo - Escape Artist,Storyborn| Hero,1,2,2,Super Rare
+AZS-003,Set6,Amber,Character,2,0,Winnie the Pooh - Hunny Pirate,Storyborn| Hero| Pirate,2,2,1,Rare
+AZS-004,Set6,Amber,Character,4,0,Gopher - Ship's Carpenter,Storyborn| Ally| Pirate,1,6,2,Uncommon
+AZS-005,Set6,Amber,Character,2,0,Simba - Happy-Go-Lucky,Storyborn| Hero| Prince,1,4,1,Common
+AZS-006,Set6,Amber,Character,3,0,Chip - Friend Indeed,Storyborn| Hero,3,3,1,Common
+AZS-007,Set6,Amber,Character,3,0,Dale - Friend in Need,Storyborn| Hero,3,4,2,Common
+AZS-008,Set6,Amber,Character,3,0,David - Impressive Surfer,Storyborn| Ally,3,3,1,Uncommon
+AZS-009,Set6,Amber,Character,5,0,Prince Naveen - Vigilant First Mate,Floodborn| Hero| Prince,2,6,2,Uncommon
+AZS-010,Set6,Amber,Character,2,0,Prince Naveen - Carefree Explorer,Storyborn| Hero| Prince,2,3,1,Common
+AZS-011,Set6,Amber,Character,4,0,Chief Bogo - Gazelle Fan,Storyborn,4,4,1,Common
+AZS-012,Set6,Amber,Character,4,0,Chip - Ranger Leader,Storyborn| Hero,3,4,2,Uncommon
+AZS-013,Set6,Amber,Character,4,0,Monterey Jack - Good-Hearted Ranger,Storyborn| Ally,0,7,2,Rare
+AZS-014,Set6,Amber,Character,8,0,Chip 'n' Dale - Recovery Rangers,Floodborn| Hero,6,6,3,Rare
+AZS-015,Set6,Amber,Character,6,0,Judy Hopps - Resourceful Rabbit,Storyborn| Hero,3,6,2,Rare
+AZS-016,Set6,Amber,Character,3,0,Tiana - Restaurant Owner,Storyborn| Hero| Princess,1,4,2,Legendary
+AZS-017,Set6,Amber,Character,2,0,Grand Councilwoman - Federation Leader,Storyborn| Alien,1,3,1,Uncommon
+AZS-018,Set6,Amber,Character,4,0,Dale - Mischievous Ranger,Storyborn| Hero,3,4,1,Uncommon
+AZS-019,Set6,Amber,Character,5,0,Nani - Caring Sister,Storyborn| Hero,3,5,2,Rare
+AZS-020,Set6,Amber,Character,5,0,Simba - Pride Protector,Floodborn| Hero| Prince,4,4,2,Legendary
+AZS-021,Set6,Amber,Character,3,0,Kanga - Nurturing Mother,Storyborn| Ally,2,4,1,Rare
+AZS-022,Set6,Amber,Character,1,0,Rabbit - Indignant Pirate,Dreamborn| Ally| Pirate,1,2,1,Common
+AZS-023,Set6,Amber,Character,2,0,Roo - Littlest Pirate,Dreamborn| Ally| Pirate,1,2,1,Common
+AZS-024,Set6,Amber,Character,3,0,Mr. Litwak - Arcade Owner,Storyborn,2,3,1,Common
+AZS-025,Set6,Amber,Character,7,0,Jim Hawkins - Honorable Pirate,Dreamborn| Hero| Pirate| Captain,4,7,2,Super Rare
+AZS-026,Set6,Emerald,Character,2,0,Stitch - Little Trickster,Storyborn| Hero| Alien,1,3,1,Common
+AZS-027,Set6,Amber,Action,1,0,Good Job!,,0,0,0,Common
+AZS-028,Set6,Amber,Action,2,0,I Won't Give In,Song,0,0,0,Common
+AZS-029,Set6,Amber,Action,2,0,Rescue Rangers Away!,,0,0,0,Uncommon
+AZS-030,Set6,Amber,Action,2,0,Safe and Sound,,0,0,0,Rare
+AZS-031,Set6,Amber,Item,1,0,Naveen's Ukulele,,0,0,0,Common
+AZS-032,Set6,Amber,Item,1,0,Pooh Pirate Ship,,0,0,0,Rare
+AZS-033,Set6,Amber,Item,2,0,Scrump,,0,0,0,Uncommon
+AZS-034,Set6,Amber,Location,1,0,Hundred Acre Island - Pooh's Home,,0,5,0,Common
+AZS-035,Set6,Amber,Location,2,0,Sugar Rush Speedway - Finish Line,,0,7,0,Super Rare
+AZS-036,Set6,Amethyst,Character,6,0,Hades - Lord of the Dead,Storyborn| Villain| Deity,3,4,3,Rare
+AZS-037,Set6,Amethyst,Character,2,0,Madam Mim - Tiny Adversary,Storyborn| Villain| Sorcerer,0,3,1,Rare
+AZS-038,Set6,Amethyst,Character,3,0,Genie - Excited Shipbuilder,Storyborn| Ally,4,3,1,Common
+AZS-039,Set6,Amethyst,Character,5,0,Sisu - In Her Element,Storyborn| Hero| Deity| Dragon,3,6,2,Common
+AZS-040,Set6,Amethyst,Character,3,0,The White Rose - Jewel of the Garden,Storyborn,3,3,1,Common
+AZS-041,Set6,Amethyst,Character,2,0,Juju - Mama Odie's Companion,Storyborn| Ally,1,2,1,Common
+AZS-042,Set6,Amethyst,Character,1,0,Rafiki - Shaman of the Savanna,Storyborn| Mentor| Sorcerer,2,2,1,Common
+AZS-043,Set6,Amethyst,Character,3,0,Tinker Bell - Fast Flier,Storyborn| Ally| Fairy,1,3,2,Common
+AZS-044,Set6,Amethyst,Character,2,0,The Carpenter - Dinner Companion,Storyborn,1,1,1,Common
+AZS-045,Set6,Amethyst,Character,4,0,Iago - Reappearing Parrot,Dreamborn| Ally,4,2,1,Common
+AZS-046,Set6,Amethyst,Character,4,0,The Walrus - Greedy Gourmand,Storyborn,3,6,1,Uncommon
+AZS-047,Set6,Amethyst,Character,6,0,Scar - Tempestuous Lion,Dreamborn| Villain| Sorcerer,4,4,2,Uncommon
+AZS-048,Set6,Amethyst,Character,7,0,Tinker Bell - Queen of the Azurite Fairies,Floodborn| Ally| Queen| Fairy| Captain,5,6,2,Uncommon
+AZS-049,Set6,Amethyst,Character,1,0,Diablo - Obedient Raven,Storyborn| Ally,0,1,1,Uncommon
+AZS-050,Set6,Amethyst,Character,4,0,March Hare - Absurd Host,Storyborn,2,3,2,Uncommon
+AZS-051,Set6,Amethyst,Character,3,0,Magic Carpet - Amazing Flier,Storyborn| Ally,1,3,3,Uncommon
+AZS-052,Set6,Amethyst,Character,9,0,Rafiki - Ethereal Guide,Floodborn| Mentor| Sorcerer,6,6,4,Rare
+AZS-053,Set6,Amethyst,Character,4,0,Genie - Wish Fulfilled,Storyborn| Ally,2,4,2,Rare
+AZS-054,Set6,Amethyst,Character,4,0,Sisu - Uniting Dragon,Storyborn| Hero| Deity| Dragon,3,3,2,Super Rare
+AZS-055,Set6,Amethyst,Character,3,0,Madam Mim - Truly Marvelous,Storyborn| Villain| Sorcerer,2,3,1,Super Rare
+AZS-056,Set6,Amethyst,Character,4,0,Yzma - Conniving Chemist,Storyborn| Villain| Sorcerer,3,3,2,Legendary
+AZS-057,Set6,Amethyst,Character,5,0,Mama Odie - Solitary Sage,Storyborn| Ally| Sorcerer,4,5,1,Rare
+AZS-058,Set6,Amethyst,Character,4,0,Peter Pan - Shadow Catcher,Storyborn| Hero,1,3,1,Uncommon
+AZS-059,Set6,Amethyst,Character,1,0,Mad Hatter - Eccentric Host,Storyborn,1,1,1,Super Rare
+AZS-060,Set6,Amethyst,Action,1,0,A Very Merry Unbirthday,Song,0,0,0,Common
+AZS-061,Set6,Amethyst,Character,7,0,Genie - Wonderful Trickster,Floodborn| Ally,4,7,2,Legendary
+AZS-062,Set6,Amethyst,Action,3,0,Making Magic,,0,0,0,Common
+AZS-063,Set6,Amethyst,Action,2,0,Lose the Way,,0,0,0,Uncommon
+AZS-064,Set6,Amethyst,Action,5,0,Seeking the Half Crown,,0,0,0,Rare
+AZS-065,Set6,Amethyst,Item,2,0,Maleficent's Staff,,0,0,0,Rare
+AZS-066,Set6,Amethyst,Item,2,0,Mad Hatter's Teapot,,0,0,0,Common
+AZS-067,Set6,Amethyst,Item,4,0,Pixie Dust,,0,0,0,Uncommon
+AZS-068,Set6,Amethyst,Location,1,0,Fairy Ship - Royal Vessel,,0,4,1,Common
+AZS-069,Set6,Amethyst,Location,2,0,Mystical Tree - Mama Odie's Home,,0,7,0,Rare
+AZS-070,Set6,Emerald,Character,3,0,Jasmine - Royal Seafarer,Storyborn| Hero| Princess,2,3,1,Rare
+AZS-071,Set6,Emerald,Character,3,0,Captain Hook - Underhanded,Storyborn| Villain| Pirate| Captain,1,4,2,Rare
+AZS-072,Set6,Emerald,Character,4,0,Stitch - Alien Buccaneer,Floodborn| Hero| Alien| Pirate,3,4,2,Rare
+AZS-073,Set6,Emerald,Character,2,0,Go Go Tomago - Darting Dynamo,Storyborn| Hero| Inventor,2,2,1,Rare
+AZS-074,Set6,Emerald,Character,2,1,Honey Lemon - Chemical Genius,Storyborn| Hero| Inventor ,1,1,2,Uncommon
+AZS-075,Set6,Emerald,Character,1,0,Fred - Mascot by Day,Storyborn| Hero,1,1,1,Common
+AZS-076,Set6,Emerald,Character,1,0,Tootles - Lost Boy,Storyborn| Ally,2,2,1,Common
+AZS-077,Set6,Emerald,Character,4,0,Dawson - Basil's Assistant,Storyborn| Ally,3,4,2,Common
+AZS-078,Set6,Emerald,Character,4,0,Heathcliff - Stoic Butler,Storyborn| Ally,3,3,2,Common
+AZS-079,Set6,Emerald,Character,3,0,Basil - Hypnotized Mouse,Dreamborn| Hero| Detective,3,2,1,Common
+AZS-080,Set6,Emerald,Character,3,0,Donald Duck - First Mate,Dreamborn| Hero| Pirate,2,3,1,Uncommon
+AZS-081,Set6,Emerald,Character,4,0,Daisy Duck - Pirate Captain,Dreamborn| Hero| Pirate| Captain,3,3,2,Super Rare
+AZS-082,Set6,Emerald,Character,1,0,Mertle Edmonds - Lilo's Rival,Storyborn,1,3,1,Uncommon
+AZS-083,Set6,Emerald,Character,3,0,Prince Phillip - Royal Explorer,Storyborn| Hero| Prince,3,2,2,Uncommon
+AZS-084,Set6,Emerald,Character,6,0,Jasmine - Royal Commodore,Floodborn| Hero| Princess,5,5,2,Legendary
+AZS-085,Set6,Emerald,Character,7,0,Peter Pan - Never Land Prankster,Storyborn| Hero,4,6,1,Super Rare
+AZS-086,Set6,Emerald,Character,6,0,Hercules - Baby Demigod,Storyborn| Hero| Prince,6,3,2,Legendary
+AZS-087,Set6,Emerald,Character,3,0,Alistair Krei - Ambitious Entrepreneur,Storyborn| Inventor,2,4,1,Common
+AZS-088,Set6,Emerald,Character,2,0,Gazelle - Angel with Horns,Dreamborn| Ally,1,2,1,Common
+AZS-089,Set6,Emerald,Character,5,0,Goofy - Expert Shipwright,Dreamborn| Hero| Inventor,1,4,3,Rare
+AZS-090,Set6,Emerald,Character,3,0,Bellwether - Assistant Mayor,Storyborn| Villain,2,3,1,Uncommon
+AZS-091,Set6,Emerald,Character,6,0,Basil - Disguised Detective,Floodborn| Hero| Detective,4,5,2,Uncommon
+AZS-092,Set6,Emerald,Character,2,0,Olivia Flaversham - The Toymaker's Daughter,Storyborn,1,1,3,Rare
+AZS-093,Set6,Emerald,Action,7,0,Bend to My Will,,0,0,0,Super Rare
+AZS-094,Set6,Emerald,Action,1,0,Prepare to Board!,,0,0,0,Common
+AZS-095,Set6,Emerald,Action,2,0,Heffalumps and Woozles,Song,0,0,0,Common
+AZS-096,Set6,Emerald,Action,1,0,Mosquito Bite,,0,0,0,Uncommon
+AZS-097,Set6,Emerald,Action,3,0,You Came Back,,0,0,0,Rare
+AZS-098,Set6,Emerald,Item,2,0,MegaBot,,0,0,0,Uncommon
+AZS-099,Set6,Emerald,Item,2,0,Galactic Communicator,,0,0,0,Common
+AZS-100,Set6,Emerald,Item,1,0,Transport Pod,,0,0,0,Uncommon
+AZS-101,Set6,Emerald,Location,3,0,Perilous Maze - Watery Labyrinth,,0,8,1,Common
+AZS-102,Set6,Emerald,Location,3,0,Owl Island - Secluded Entrance,,0,6,0,Rare
+AZS-103,Set6,Ruby,Character,5,0,Mickey Mouse - Pirate Captain,Floodborn| Hero| Pirate| Captain,4,4,2,Super Rare
+AZS-104,Set6,Ruby,Character,4,0,Kakamora - Boarding Party,Storyborn| Pirate,5,2,1,Uncommon
+AZS-105,Set6,Ruby,Character,2,0,Kakamora - Pirate Pitcher,Storyborn| Pirate,1,3,1,Common
+AZS-106,Set6,Ruby,Character,3,0,Jasmine - Rebellious Princess,Storyborn| Hero| Princess,2,3,2,Uncommon
+AZS-107,Set6,Ruby,Character,4,0,Raya - Kumandran Rider,Storyborn| Hero| Princess,3,3,2,Rare
+AZS-108,Set6,Ruby,Character,2,0,Wendy Darling - Courageous Captain,Dreamborn| Hero| Pirate| Captain,1,2,1,Rare
+AZS-109,Set6,Ruby,Character,4,0,John Silver - Ferocious Friend,Storyborn| Villain| Alien| Pirate| Captain,2,4,2,Uncommon
+AZS-110,Set6,Ruby,Character,3,0,Vanellope Von Schweetz - Gutsy Go-Getter,Storyborn| Hero| Princess| Racer,2,3,1,Uncommon
+AZS-111,Set6,Ruby,Character,1,0,Michael Darling - Playful Swordsman,Storyborn| Ally| Pirate,2,2,1,Common
+AZS-112,Set6,Ruby,Character,2,0,Aladdin - Fearless Navigator,Storyborn| Hero| Prince,2,3,1,Common
+AZS-113,Set6,Ruby,Character,4,0,Markowski - Space Trooper,Storyborn| Ally,3,2,2,Common
+AZS-114,Set6,Ruby,Character,5,0,Abu - Bold Helmsman,Storyborn| Ally,4,4,2,Common
+AZS-115,Set6,Ruby,Character,3,0,Mickey Mouse - Courageous Sailor,Dreamborn| Hero,2,4,1,Common
+AZS-116,Set6,Ruby,Character,3,0,Adorabeezle Winterpop - Ice Rocket Racer,Storyborn| Hero| Racer,1,5,1,Common
+AZS-117,Set6,Ruby,Character,1,0,Moana - Self-Taught Sailor,Dreamborn| Hero| Princess| Pirate,3,2,1,Common
+AZS-118,Set6,Ruby,Character,2,0,John Darling - Sophisticated Swordsman,Storyborn| Ally| Pirate,1,4,1,Uncommon
+AZS-119,Set6,Ruby,Character,4,0,Aladdin - Intrepid Commander,Floodborn| Hero| Prince,1,4,2,Uncommon
+AZS-120,Set6,Ruby,Character,3,0,Minnie Mouse - Pirate Lookout,Dreamborn| Hero| Pirate,3,2,1,Super Rare
+AZS-121,Set6,Ruby,Character,7,0,Moana - Kakamora Leader,Floodborn| Hero| Princess| Pirate| Captain,6,5,1,Rare
+AZS-122,Set6,Ruby,Character,3,0,Pete - Freebooter,Dreamborn| Villain| Pirate,5,2,1,Rare
+AZS-123,Set6,Ruby,Character,6,0,Goofy - Flying Goof,Storyborn| Hero,5,5,1,Rare
+AZS-124,Set6,Ruby,Character,6,0,Maui - Half-Shark,Storyborn| Hero| Deity,7,5,1,Legendary
+AZS-125,Set6,Ruby,Character,5,0,Hades - Strong Arm,Storyborn| Villain| Deity,4,3,1,Legendary
+AZS-126,Set6,Ruby,Character,3,0,Tigger - In the Crow's Nest,Storyborn| Hero| Tigger| Pirate,0,4,1,Rare
+AZS-127,Set6,Ruby,Character,5,0,Scar - Heartless Hunter,Storyborn| Villain,4,2,3,Super Rare
+AZS-128,Set6,Ruby,Action,1,0,Thievery,,0,0,0,Common
+AZS-129,Set6,Ruby,Action,2,0,Lead the Way,,0,0,0,Common
+AZS-130,Set6,Ruby,Action,3,0,The Islands I Pulled from the Sea,Song,0,0,0,Uncommon
+AZS-131,Set6,Ruby,Action,7,0,Energy Blast,,0,0,0,Rare
+AZS-132,Set6,Ruby,Item,2,0,Longboat,,0,0,0,Uncommon
+AZS-133,Set6,Ruby,Item,1,0,Gold Coin,,0,0,0,Common
+AZS-134,Set6,Ruby,Item,1,0,Card Soldier's Spear,,0,0,0,Uncommon
+AZS-135,Set6,Ruby,Location,2,0,Flotilla - Coconut Armada,,0,6,0,Rare
+AZS-136,Set6,Ruby,Location,2,0,Skull Rock - Isolated Fortress,,0,6,0,Common
+AZS-137,Set6,Sapphire,Character,4,0,B.E.N. - Eccentric Robot,Storyborn| Ally| Robot| Pirate,4,3,2,Common
+AZS-138,Set6,Sapphire,Character,2,0,Aunt Cass - Biggest Fan,Storyborn| Mentor,1,3,1,Common
+AZS-139,Set6,Sapphire,Character,3,0,Gadget Hackwrench - Creative Thinker,Storyborn| Ally| Inventor,1,4,1,Common
+AZS-140,Set6,Sapphire,Character,6,0,Gadget Hackwrench - Brilliant Bosun,Floodborn| Ally| Inventor,3,6,3,Super Rare
+AZS-141,Set6,Sapphire,Character,3,0,Zipper - Astute Decoy,Storyborn| Ally,2,2,2,Rare
+AZS-142,Set6,Sapphire,Character,2,0,Oswald - The Lucky Rabbit,Storyborn| Hero,2,1,2,Legendary
+AZS-143,Set6,Sapphire,Character,4,0,Yokai - Enigmatic Inventor,Storyborn| Villain| Inventor,3,3,2,Uncommon
+AZS-144,Set6,Sapphire,Character,3,0,Pleakley - Scientific Expert,Storyborn| Ally| Alien,3,4,1,Uncommon
+AZS-145,Set6,Sapphire,Character,3,0,Hiro Hamada - Robotics Prodigy,Storyborn| Hero| Inventor,0,3,1,Uncommon
+AZS-146,Set6,Sapphire,Character,2,0,HeiHei - Not-So-Tricky Chicken,Storyborn| Ally,2,2,1,Uncommon
+AZS-147,Set6,Sapphire,Character,3,0,Sour Bill - Surly Henchman,Storyborn| Ally,2,3,2,Common
+AZS-148,Set6,Sapphire,Character,1,0,Nick Wilde - Soggy Fox,Storyborn| Ally,1,2,1,Common
+AZS-149,Set6,Sapphire,Character,4,0,Wasabi - Methodical Engineer,Storyborn| Hero| Inventor,3,3,1,Uncommon
+AZS-150,Set6,Sapphire,Character,3,0,Nick Wilde - Sly Fox,Floodborn| Ally,1,3,1,Uncommon
+AZS-151,Set6,Sapphire,Character,2,0,Gadget Hackwrench - Perceptive Mouse,Storyborn| Ally| Inventor,2,3,1,Common
+AZS-152,Set6,Sapphire,Character,4,0,Dr. Delbert Doppler - Fussy Astronomer,Storyborn| Ally| Alien,4,4,1,Uncommon
+AZS-153,Set6,Sapphire,Character,6,0,Tadashi Hamada - Baymax Inventor,Storyborn| Mentor| Inventor,3,3,3,Super Rare
+AZS-154,Set6,Sapphire,Character,4,0,Hiro Hamada - Team Leader,Storyborn| Hero| Inventor,1,5,1,Rare
+AZS-155,Set6,Sapphire,Character,3,0,Tadashi Hamada - Gifted Roboticist,Storyborn| Mentor| Inventor,2,2,2,Rare
+AZS-156,Set6,Sapphire,Character,3,1,Baymax - Personal Healthcare Companion,Storyborn| Hero| Robot,0,4,2,Rare
+AZS-157,Set6,Sapphire,Character,5,0,Baymax - Armored Companion,Storyborn| Hero| Robot,2,6,2,Legendary
+AZS-158,Set6,Sapphire,Character,1,0,Yokai - Professor Callaghan,Storyborn| Villain| Inventor,2,2,1,Common
+AZS-159,Set6,Sapphire,Character,2,0,Hiram Flaversham - Intrigued Inventor,Storyborn| Ally| Inventor,0,2,3,Rare
+AZS-160,Set6,Sapphire,Character,9,0,Yokai - Scientific Supervillain,Floodborn| Villain| Inventor,6,10,2,Rare
+AZS-161,Set6,Sapphire,Character,3,0,Alice - Savvy Sailor,Dreamborn| Hero,1,4,2,Super Rare
+AZS-162,Set6,Sapphire,Action,4,0,We Could Be Immortals,Song,0,0,0,Rare
+AZS-163,Set6,Sapphire,Action,2,0,Sail the Azurite Sea,,0,0,0,Common
+AZS-164,Set6,Sapphire,Action,1,0,Helping Hand,,0,0,0,Common
+AZS-165,Set6,Sapphire,Action,1,0,Prepare Your Bot,,0,0,0,Uncommon
+AZS-166,Set6,Sapphire,Item,2,0,Baymax's Healthcare Chip,,0,0,0,Common
+AZS-167,Set6,Sapphire,Item,2,0,Microbots,,0,0,0,Uncommon
+AZS-168,Set6,Sapphire,Item,3,0,Jumbo Pop,,0,0,0,Common
+AZS-169,Set6,Sapphire,Location,2,0,Rescue Rangers Submarine - Mobile Headquarters,,0,8,0,Rare
+AZS-170,Set6,Sapphire,Location,1,0,Institute of Technology - Prestigious University,,0,5,0,Common
+AZS-171,Set6,Steel,Character,1,0,Kakamora - Long-Range Specialist,Storyborn| Pirate,0,2,1,Common
+AZS-172,Set6,Steel,Character,7,0,Kakamora - Pirate Chief,Storyborn| Pirate| Captain,4,6,2,Rare
+AZS-173,Set6,Steel,Character,2,0,Jim Hawkins - Stubborn Cabin Boy,Storyborn| Hero,0,4,1,Common
+AZS-174,Set6,Steel,Character,4,0,Mr. Big - Shrewd Tycoon,Storyborn,1,1,3,Rare
+AZS-175,Set6,Steel,Character,2,0,Mr. Smee - Steadfast Mate,Storyborn| Ally| Pirate,3,2,1,Uncommon
+AZS-176,Set6,Steel,Character,6,0,Mr. Smee - Captain of the Jolly Roger,Floodborn| Villain| Pirate| Captain,3,6,2,Super Rare
+AZS-177,Set6,Steel,Character,5,0,Mullins - Seasoned Shipmate,Storyborn| Ally| Pirate,6,4,1,Common
+AZS-178,Set6,Steel,Character,2,0,Kohut - Trusted Marine,Storyborn| Ally,2,3,1,Common
+AZS-179,Set6,Steel,Character,3,0,King Hubert - Phillip's Father,Storyborn| Mentor| King,3,4,1,Common
+AZS-180,Set6,Steel,Character,4,0,Hercules - Unwavering Demigod,Dreamborn| Hero| Prince,2,4,2,Common
+AZS-181,Set6,Steel,Character,3,0,John Silver - Ship's Cook,Storyborn| Villain| Alien| Pirate| Captain,3,3,1,Common
+AZS-182,Set6,Steel,Character,2,0,Mr. Arrow - Legacy's First Mate,Storyborn| Ally| Alien,1,2,2,Common
+AZS-183,Set6,Steel,Character,5,0,Jim Hawkins - Rigging Specialist,Floodborn| Hero,5,5,2,Uncommon
+AZS-184,Set6,Steel,Character,5,0,Tuk Tuk - Big Buddy,Storyborn| Ally,6,5,1,Uncommon
+AZS-185,Set6,Steel,Character,3,0,Billy Bones - Space Sailor,Storyborn| Alien| Pirate,2,2,2,Uncommon
+AZS-186,Set6,Steel,Character,4,0,Pluto - Guard Dog,Storyborn| Ally,1,5,1,Uncommon
+AZS-187,Set6,Steel,Character,3,0,Mickey Mouse - Night Watch,Storyborn| Hero,2,3,2,Uncommon
+AZS-188,Set6,Steel,Character,5,0,Cobra Bubbles - Former CIA,Dreamborn| Ally,3,4,2,Rare
+AZS-189,Set6,Steel,Character,5,0,Gantu - Captain Crankyhead,Dreamborn| Alien| Captain,4,3,4,Rare
+AZS-190,Set6,Steel,Character,6,0,Wreck-It Ralph - Ham Hands,Dreamborn| Hero,4,4,3,Legendary
+AZS-191,Set6,Steel,Character,2,0,Calhoun - Marine Sergeant,Storyborn| Hero,3,2,1,Rare
+AZS-192,Set6,Steel,Character,4,0,Captain Amelia - Commander of the Legacy,Storyborn| Ally| Alien| Captain,1,4,2,Super Rare
+AZS-193,Set6,Steel,Character,5,0,Jafar - Power-Hungry Vizier,Dreamborn| Villain| Sorcerer,3,4,1,Super Rare
+AZS-194,Set6,Steel,Character,8,0,John Silver - Stern Captain,Floodborn| Villain| Alien| Pirate| Captain,6,6,2,Legendary
+AZS-195,Set6,Steel,Action,3,0,Hot Potato,,0,0,0,Uncommon
+AZS-196,Set6,Steel,Action,3,0,I'm Still Here,Song,0,0,0,Common
+AZS-197,Set6,Steel,Action,2,0,Twin Fire,,0,0,0,Common
+AZS-198,Set6,Steel,Action,3,0,Ambush!,,0,0,0,Rare
+AZS-199,Set6,Steel,Action,4,0,Unfortunate Situation,,0,0,0,Uncommon
+AZS-200,Set6,Steel,Item,3,0,King's Sensor Core,,0,0,0,Rare
+AZS-201,Set6,Steel,Item,2,0,Training Dummy,,0,0,0,Uncommon
+AZS-202,Set6,Steel,Item,4,0,Sunglasses,,0,0,0,Common
+AZS-203,Set6,Steel,Location,5,0,Treasure Mountain - Azurite Sea Island,,0,9,2,Rare
+AZS-204,Set6,Steel,Location,3,0,Galactic Council Chamber - Courtroom,,0,7,1,Common
 INK-001,Set3,Amber,Character,3,0,Baloo - von Bruinwald XIII,Dreamborn| Hero,0,3,1,Rare
 INK-002,Set3,Amber,Character,4,1,Bernard - Brand-New Agent,Storyborn| Hero,1,5,2,Rare
 INK-003,Set3,Amber,Character,10,0,Chernabog - Evildoer,Storyborn| Villain,9,9,3,Super Rare
