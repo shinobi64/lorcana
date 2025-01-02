@@ -1,11 +1,124 @@
-event,date,location,meta,type,format,playformat
-Shimmering Skies Midnight PreRelease,2024-08-08,Card Club Hockenheim,Set5,Liga,Sealed,BestOfThree
-Shimmering Skies Release,2024-08-10,Wizards Well,Set5,Liga,Sealed,BestOfThree
-Shimmering Skies Liga Draft 08-28,2024-08-28,Wizards Well,Set5,Liga,Draft,BestOfThree
-Shimmering Skies Liga 08-29,2024-08-29,Card Club Hockenheim,Set5,Liga,Constructed,BestOfThree
-Shimmering Skies Liga 09-05,2024-09-05,Card Club Hockenheim,Set5,Liga,Constructed,BestOfThree
-Shimmering Skies Liga 09-11,2024-09-11,Wizards Well,Set5,Liga,Constructed,BestOfThree
-Shimmering Skies Liga 09-18,2024-09-18,Wizards Well,Set5,Liga,Constructed,BestOfThree
-Shimmering Skies Liga 09-19,2024-09-19,Card Club Hockenheim,Set5,Liga,Constructed,BestOfThree
-Disney Lorcana DLC Birmingham,2024-09-21,NEC Birmingham,Set5,Competetive,Constructed,TwoGameFormat
-Disney Lorcana DLC Birmingham Side Competetive Constructed,2024-09-22,NEC Birmingham,Set5,Competetive,Constructed,TwoGameFormat
+Event,Date,Location,Meta,EventType,Type,PlayFormat,Melee
+Wizards Into the Inklands Set Championship,2024-04-21,Wizards Well,Set3,Set Championship,Constructed,BestOfThree,https://melee.gg/Tournament/View/73553
+Spiele-Pyramide Into the Inklands Set Championship,2024-04-24,Spiele-Pyramide,Set3,Set Championship,Constructed,BestOfThree,
+Mana Zone TCG Into the Inklands Set Championship,2024-04-28,Mana Zone TCG,Set3,Set Championship,Constructed,BestOfThree,https://melee.gg/Tournament/View/86451
+Lorcana DLC Lille,2024-05-25,Lille,Set3,Disney Lorcana Challenge,Constructed,TwoGameFormat,https://melee.gg/Tournament/View/76155
+Lorcana DLC Lille Constructed Side,2024-05-26,Lille,Set3,Disney Lorcana Challenge Side,Constructed,TwoGameFormat,https://melee.gg/Tournament/View/98630
+Liga 2024-05-29,2024-05-29,Wizards Well,Set4,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/90657
+Liga 2024-06-05,2024-06-05,Wizards Well,Set4,Liga,Draft,BestOfThree,https://melee.gg/Tournament/View/101252
+Liga 2024-06-06,2024-06-06,Card Club Hockenheim,Set4,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/103297
+Casual 2024-06-12,2024-06-12,Wizards Well,Set4,Casual,Constructed,BestOfThree,
+Liga 2024-06-13,2024-06-13,Card Club Hockenheim,Set4,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/106876
+Liga 2024-06-19,2024-06-19,Wizards Well,Set4,Liga,Draft,BestOfThree,https://melee.gg/Tournament/View/101255
+Liga 2024-06-20,2024-06-20,Card Club Hockenheim,Set4,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/110527
+Liga 2024-06-27,2024-06-27,Card Club Hockenheim,Set4,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/114206
+Casual 2024-06-29,2024-06-29,Card Club Hockenheim,Set4,Casual,Constructed,TwoGameFormat,
+Casual 2024-06-30,2024-06-30,Home,Set4,Casual,Constructed,BestOfThree,
+Casual 2024-07-03,2024-07-03,Wizards Well,Set4,Casual,Constructed,BestOfThree,
+Liga 2024-07-03,2024-07-03,Wizards Well,Set4,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/115136
+Lorcana DLC Bochum,2024-07-05,Bochum,Set4,Disney Lorcana Challenge,Constructed,TwoGameFormat,https://melee.gg/Tournament/View/116552
+Lorcana DLC Bochum Side Sealed,2024-07-06,Bochum,Set4,Disney Lorcana Challenge Side,Sealed,BestOfThree,https://melee.gg/Tournament/View/116862
+Lorcana DLC Bochum Side Constructed,2024-07-06,Bochum,Set4,Disney Lorcana Challenge Side,Constructed,BestOfThree,https://melee.gg/Tournament/View/116868
+Liga 2024-07-11,2024-07-11,Card Club Hockenheim,Set4,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/118931
+Card Club Ursulas Return Set Championship,2024-07-13,Card Club Hockenheim,Set4,Set Championship,Constructed,BestOfThree,https://melee.gg/Tournament/View/106363
+Wizards Ursulas Return Set Championship,2024-07-14,Wizards Well,Set4,Set Championship,Constructed,BestOfThree,https://melee.gg/Tournament/View/101274
+Liga 2024-07-17,2024-07-17,Wizards Well,Set4,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/117246
+Liga 2024-07-18,2024-07-18,Card Club Hockenheim,Set4,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/122206
+JK Ursulas Return Set Championship,2024-07-20,JK Entertainment Darmstadt,Set4,Set Championship,Constructed,TwoGameFormat,https://melee.gg/Tournament/View/97509
+Liga 2024-07-24,2024-07-24,Wizards Well,Set4,Liga,Draft,BestOfThree,https://melee.gg/Tournament/View/117247
+Liga 2024-07-25,2024-07-25,Card Club Hockenheim,Set4,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/123769
+Neusser Ursulas Return Set Championship,2024-07-27,Spielwaren Neusser,Set4,Set Championship,Constructed,TwoGameFormat,https://melee.gg/Tournament/View/106793
+Liga 2024-07-31,2024-07-31,Wizards Well,Set4,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/117248
+Liga 2024-08-01,2024-08-01,Card Club Hockenheim,Set4,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/124976
+Lorcana DLC Bologna,2024-08-03,Bologna,Set4,Disney Lorcana Challenge,Constructed,TwoGameFormat,https://melee.gg/Tournament/View/126763
+Lorcana DLC Bologna Side Sealed,2024-08-04,Bologna,Set4,Disney Lorcana Challenge Side,Sealed,BestOfThree,https://melee.gg/Tournament/View/127373
+Lorcana DLC Bologna Side Constructed,2024-08-04,Bologna,Set4,Disney Lorcana Challenge Side,Constructed,BestOfThree,https://melee.gg/Tournament/View/127377
+Shimmering Skies Midnight PreRelease,2024-08-08,Card Club Hockenheim,Set5,Liga,Sealed,BestOfThree,https://melee.gg/Tournament/View/127617
+Shimmering Skies Release,2024-08-10,Wizards Well,Set5,Liga,Sealed,BestOfThree,https://melee.gg/Tournament/View/129406
+Casual 2024-08-28,2024-08-28,Wizards Well,Set5,Casual,Constructed,BestOfThree,
+Liga 2024-08-28,2024-08-28,Wizards Well,Set5,Liga,Draft,BestOfThree,https://melee.gg/Tournament/View/129412
+Casual 2024-08-29,2024-08-29,Card Club Hockenheim,Set5,Casual,Constructed,BestOfThree,
+Liga 2024-08-29,2024-08-29,Card Club Hockenheim,Set5,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/140049
+Casual 2024-09-04,2024-09-04,Wizards Well,Set5,Casual,Constructed,TwoGameFormat,
+Casual 2024-09-05,2024-09-05,Card Club Hockenheim,Set5,Casual,Constructed,TwoGameFormat,
+Liga 2024-09-05,2024-09-05,Card Club Hockenheim,Set5,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/144080
+Casual 2024-09-06,2024-09-06,Home,Set5,Casual,Constructed,BestOfThree,
+Casual 2024-09-07,2024-09-07,Home,Set5,Casual,Constructed,BestOfThree,
+Casual 2024-09-10,2024-09-10,Home,Set5,Casual,Constructed,BestOfThree,
+Casual 2024-09-11,2024-09-11,Wizards Well,Set5,Casual,Constructed,BestOfThree,
+Liga 2024-09-11,2024-09-11,Wizards Well,Set5,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/147792
+Casual 2024-09-12,2024-09-12,Home,Set5,Casual,Constructed,BestOfThree,
+Casual 2024-09-14,2024-09-14,Home,Set5,Casual,Constructed,TwoGameFormat,
+Casual 2024-09-18,2024-09-18,Wizards Well,Set5,Casual,Constructed,BestOfThree,
+Liga 2024-09-18,2024-09-18,Wizards Well,Set5,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/147834
+Casual 2024-09-19,2024-09-19,Card Club Hockenheim,Set5,Casual,Constructed,BestOfThree,
+Liga 2024-09-19,2024-09-19,Card Club Hockenheim,Set5,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/153246
+Lorcana DLC Birmingham,2024-09-21,Birmingham,Set5,Disney Lorcana Challenge,Constructed,TwoGameFormat,https://melee.gg/Tournament/View/152670
+Lorcana DLC Birmingham SideEvent,2024-09-22,Birmingham,Set5,Disney Lorcana Challenge Side,Constructed,TwoGameFormat,https://melee.gg/Tournament/View/148445
+Casual 2024-09-26,2024-09-26,Card Club Hockenheim,Set5,Casual,Constructed,BestOfThree,
+Liga 2024-09-26,2024-09-26,Card Club Hockenheim,Set5,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/157476
+Casual 2024-09-28,2024-09-28,Home,Set5,Casual,Constructed,TwoGameFormat,
+Casual 2024-09-30,2024-09-30,Home,Set5,Casual,Constructed,BestOfThree,
+Casual 2024-10-01,2024-10-01,Home,Set5,Casual,Constructed,BestOfThree,
+Casual 2024-10-02,2024-10-02,Wizards Well,Set5,Casual,Constructed,BestOfThree,
+Liga 2024-10-02,2024-10-02,Wizards Well,Set5,Liga,Draft,BestOfThree,https://melee.gg/Tournament/View/147870
+Casual 2024-10-03,2024-10-03,Home,Set5,Casual,Constructed,BestOfThree,
+Card Club Shimmering Skies Set Championship,2024-10-05,Card Club Hockenheim,Set5,Set Championship,Constructed,BestOfThree,https://melee.gg/Tournament/View/146556
+Casual 2024-10-08,2024-10-08,Home,Set5,Casual,Constructed,BestOfThree,
+Casual 2024-10-09,2024-10-09,Wizards Well,Set5,Casual,Constructed,BestOfThree,
+Liga 2024-10-09,2024-10-09,Wizards Well,Set5,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/147881
+Casual 2024-10-10,2024-10-10,Card Club Hockenheim,Set5,Casual,Constructed,BestOfThree,
+Liga 2024-10-10,2024-10-10,Card Club Hockenheim,Set5,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/165345
+Neusser Shimmering Skies Set Championship,2024-10-12,Spielwaren Neusser,Set5,Set Championship,Constructed,TwoGameFormat,https://melee.gg/Tournament/View/148403
+Casual 2024-10-15,2024-10-15,Home,Set5,Casual,Constructed,TwoGameFormat,
+Casual 2024-10-16,2024-10-16,Home,Set5,Casual,Constructed,TwoGameFormat,
+Liga 2024-10-16,2024-10-16,Wizards Well,Set5,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/147883
+Casual 2024-10-17,2024-10-17,Card Club Hockenheim,Set5,Casual,Constructed,BestOfThree,
+Casual 2024-10-18,2024-10-18,Home,Set5,Casual,Constructed,BestOfThree,
+Spiele-Pyramide Shimmering Skies Set Championship,2024-10-19,Spiele-Pyramide,Set5,Set Championship,Constructed,BestOfThree,https://melee.gg/Tournament/View/153684
+Casual 2024-10-20,2024-10-20,Wizards Well,Set5,Casual,Constructed,TwoGameFormat,
+Wizards Shimmering Skies Set Championship,2024-10-20,Wizards Well,Set5,Set Championship,Constructed,BestOfThree,https://melee.gg/Tournament/View/147819
+Casual 2024-10-23,2024-10-23,Wizards Well,Set5,Casual,Constructed,BestOfThree,
+Liga 2024-10-23,2024-10-23,Wizards Well,Set5,Liga,Draft,BestOfThree,https://melee.gg/Tournament/View/147885
+Casual 2024-10-24,2024-10-24,Home,Set5,Casual,Constructed,BestOfThree,
+Casual 2024-10-25,2024-10-25,Home,Set5,Casual,Constructed,BestOfThree,
+RB Store Shimmering Skies Set Championship,2024-10-26,Ravensburger Store Mannheim,Set5,Set Championship,Constructed,BestOfThree,https://melee.gg/Tournament/View/155157
+Online 2024-11-05,2024-11-05,Home,Set6,Casual Online,Constructed,BestOfThree,
+Online 2024-11-06,2024-11-06,Home,Set6,Casual Online,Constructed,BestOfThree,
+Liga 2024-11-07,2024-11-07,Card Club Hockenheim,Set5,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/182713
+Online 2024-11-07,2024-11-07,Home,Set6,Casual Online,Constructed,BestOfThree,
+Azurite Seas Release,2024-11-16,Wizards Well,Set6,Liga,Sealed,BestOfThree,https://melee.gg/Tournament/View/175002
+Online 2024-11-18,2024-11-18,Home,Set6,Casual Online,Constructed,BestOfThree,
+Online 2024-11-19,2024-11-19,Home,Set6,Casual Online,Constructed,BestOfThree,
+Casual 2024-11-20,2024-11-20,Wizards Well,Set6,Casual,Constructed,BestOfThree,
+Liga 2024-11-20,2024-11-20,Wizards Well,Set6,Liga,Draft,BestOfThree,https://melee.gg/Tournament/View/185592
+Casual 2024-11-24,2024-11-24,Home,Set6,Casual,Constructed,TwoGameFormat,
+Online 2024-11-25,2024-11-25,Home,Set6,Casual Online,Constructed,BestOfThree,
+Online 2024-11-26,2024-11-26,Home,Set6,Casual Online,Constructed,BestOfThree,
+Casual 2024-11-26,2024-11-26,Home,Set6,Casual,Constructed,BestOfThree,
+Casual 2024-11-27,2024-11-27,Wizards Well,Set6,Casual,Constructed,BestOfThree,
+Liga 2024-11-27,2024-11-27,Wizards Well,Set6,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/185595
+Casual 2024-11-28,2024-11-28,Card Club Hockenheim,Set6,Casual,Constructed,BestOfThree,
+Liga 2024-11-28,2024-11-28,Card Club Hockenheim,Set6,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/199338
+Liga 2024-11-29,2024-11-29,Ravensburger Store Mannheim,Set6,Liga,Constructed,BestOfThree,
+Casual 2024-12-01,2024-12-01,Home,Set6,Casual,Constructed,TwoGameFormat,
+Online 2024-12-01,2024-12-01,Home,Set6,Casual Online,Constructed,BestOfThree,
+Casual 2024-12-02,2024-12-02,Home,Set6,Casual,Constructed,BestOfThree,
+Online 2024-12-02,2024-12-02,Home,Set6,Casual Online,Constructed,BestOfThree,
+Online 2024-12-03,2024-12-03,Home,Set6,Casual Online,Constructed,BestOfThree,
+EU Continentals LCQ,2024-12-06,Disneyland Paris,Set6,Disney Lorcana LCQ,Constructed,BestOfThree,https://melee.gg/Tournament/View/191914
+Casual 2024-12-11,2024-12-11,Wizards Well,Set6,Casual,Constructed,BestOfThree,
+Liga 2024-12-11,2024-12-11,Wizards Well,Set6,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/185600
+Casual 2024-12-12,2024-12-12,Card Club Hockenheim,Set6,Casual,Constructed,BestOfThree,
+Liga 2024-12-12,2024-12-12,Card Club Hockenheim,Set6,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/205352
+Casual 2024-12-19,2024-12-19,Card Club Hockenheim,Set6,Casual,Constructed,BestOfThree,
+Liga 2024-12-19,2024-12-19,Card Club Hockenheim,Set6,Liga,Constructed,BestOfThree,https://melee.gg/Tournament/View/211538
+Online 2024-12-15,2024-12-15,Home,Set6,Casual Online,Constructed,BestOfThree,
+Online 2024-12-16,2024-12-16,Home,Set6,Casual Online,Constructed,BestOfThree,
+Online 2024-12-17,2024-12-17,Home,Set6,Casual Online,Constructed,BestOfThree,
+Online 2024-12-22,2024-12-22,Home,Set6,Casual Online,Constructed,BestOfThree,
+Online 2024-12-26,2024-12-26,Home,Set6,Casual Online,Constructed,BestOfThree,
+Casual 2024-12-29,2024-12-29,Home,Set6,Casual,Constructed,BestOfThree,
+Online 2024-12-30,2024-12-30,Home,Set6,Casual Online,Constructed,BestOfThree,
+Online 2025-01-01,2025-01-01,Home,Set6,Casual Online,Constructed,BestOfThree,
+Online 2025-01-02,2025-01-02,Home,Set6,Casual Online,Constructed,BestOfThree,
