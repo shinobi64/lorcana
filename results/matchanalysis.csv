@@ -1,8 +1,8 @@
 Event,Round,Table,Player,PlayerDeck,Opponent,OpponentDeck,Result
 Liga 2025-01-03,1,1,ChrC56,Amethyst Emerald Tempo,-Pierre-,Amethyst Sapphire Blurple,Win
 Liga 2025-01-03,1,1,-Pierre-,Amethyst Sapphire Blurple,ChrC56,Amethyst Emerald Tempo,Loss
-Liga 2025-01-03,1,2,Brudi,Ruby Amethyst Bounce,Nastra,Amber Steel Songs,Loss
-Liga 2025-01-03,1,2,Nastra,Amber Steel Songs,Brudi,Ruby Amethyst Bounce,Win
+Liga 2025-01-03,1,2,Brudi,Ruby Amethyst Bounce,nastra,Amber Steel Songs,Loss
+Liga 2025-01-03,1,2,nastra,Amber Steel Songs,Brudi,Ruby Amethyst Bounce,Win
 Liga 2025-01-03,1,3,keo,Amethyst Steel Midrange,shinobi64,Ruby Sapphire Control,Loss
 Liga 2025-01-03,1,3,shinobi64,Ruby Sapphire Control,keo,Amethyst Steel Midrange,Win
 Liga 2025-01-03,1,4,Darksteel1,Ruby Sapphire Control,Alex8289,Amber Sapphire Princess,Loss
@@ -15,8 +15,8 @@ Liga 2025-01-03,2,1,shinobi64,Ruby Sapphire Control,ChrC56,Amethyst Emerald Temp
 Liga 2025-01-03,2,1,ChrC56,Amethyst Emerald Tempo,shinobi64,Ruby Sapphire Control,Win
 Liga 2025-01-03,2,2,4l3andr0,Amber Steel Songs,Lillith555,Amber Steel Songs,Loss
 Liga 2025-01-03,2,2,Lillith555,Amber Steel Songs,4l3andr0,Amber Steel Songs,Win
-Liga 2025-01-03,2,3,Nastra,Amber Steel Songs,Alex8289,Amber Sapphire Princess,Win
-Liga 2025-01-03,2,3,Alex8289,Amber Sapphire Princess,Nastra,Amber Steel Songs,Loss
+Liga 2025-01-03,2,3,nastra,Amber Steel Songs,Alex8289,Amber Sapphire Princess,Win
+Liga 2025-01-03,2,3,Alex8289,Amber Sapphire Princess,nastra,Amber Steel Songs,Loss
 Liga 2025-01-03,2,4,keo,Amethyst Steel Midrange,ITFairy,Amethyst Emerald Tempo,Win
 Liga 2025-01-03,2,4,ITFairy,Amethyst Emerald Tempo,keo,Amethyst Steel Midrange,Loss
 Liga 2025-01-03,2,5,-Pierre-,Amethyst Sapphire Blurple,Lorigon,Emerald Steel Beast,Loss
@@ -25,8 +25,8 @@ Liga 2025-01-03,2,6,Brudi,Ruby Amethyst Bounce,Darksteel1,Ruby Sapphire Control,
 Liga 2025-01-03,2,6,Darksteel1,Ruby Sapphire Control,Brudi,Ruby Amethyst Bounce,Win
 Liga 2025-01-03,3,1,ChrC56,Amethyst Emerald Tempo,Lillith555,Amber Steel Songs,Win
 Liga 2025-01-03,3,1,Lillith555,Amber Steel Songs,ChrC56,Amethyst Emerald Tempo,Loss
-Liga 2025-01-03,3,2,Nastra,Amber Steel Songs,Lorigon,Emerald Steel Beast,Win
-Liga 2025-01-03,3,2,Lorigon,Emerald Steel Beast,Nastra,Amber Steel Songs,Loss
+Liga 2025-01-03,3,2,nastra,Amber Steel Songs,Lorigon,Emerald Steel Beast,Win
+Liga 2025-01-03,3,2,Lorigon,Emerald Steel Beast,nastra,Amber Steel Songs,Loss
 Liga 2025-01-03,3,3,keo,Amethyst Steel Midrange,Darksteel1,Ruby Sapphire Control,Win
 Liga 2025-01-03,3,3,Darksteel1,Ruby Sapphire Control,keo,Amethyst Steel Midrange,Loss
 Liga 2025-01-03,3,4,shinobi64,Ruby Sapphire Control,4l3andr0,Amber Steel Songs,Loss
@@ -309,3 +309,21 @@ Multivitamin 2025 NY,6,17,Tygo,Sapphire Steel Items,AniW,Ruby Amethyst Bounce,Lo
 Multivitamin 2025 NY,6,17,AniW,Ruby Amethyst Bounce,Tygo,Sapphire Steel Items,Win
 Multivitamin 2025 NY,6,18,GG_Timtheus90,Ruby Amethyst Bounce,GG_ElMapache,Amethyst Emerald Tempo,Win
 Multivitamin 2025 NY,6,18,GG_ElMapache,Amethyst Emerald Tempo,GG_Timtheus90,Ruby Amethyst Bounce,Loss
+Liga 2025-01-08,1,1,Darksteel1,Ruby Sapphire Control,nastra,Amber Steel Aggro,Loss
+Liga 2025-01-08,1,1,nastra,Amber Steel Aggro,Darksteel1,Ruby Sapphire Control,Win
+Liga 2025-01-08,1,2,Putschi,Amber Steel Songs,Jurki,Ruby Steel Challenger,Win
+Liga 2025-01-08,1,2,Jurki,Ruby Steel Challenger,Putschi,Amber Steel Songs,Loss
+Liga 2025-01-08,1,3,shinobi64,Ruby Sapphire Control,Dlawmor,Amber Emerald Aggro,Loss
+Liga 2025-01-08,1,3,Dlawmor,Amber Emerald Aggro,shinobi64,Ruby Sapphire Control,Win
+Liga 2025-01-08,2,1,Dlawmor,Amber Emerald Aggro,nastra,Amber Steel Aggro,Loss
+Liga 2025-01-08,2,1,nastra,Amber Steel Aggro,Dlawmor,Amber Emerald Aggro,Win
+Liga 2025-01-08,2,2,Putschi,Amber Steel Songs,Darksteel1,Ruby Sapphire Control,Loss
+Liga 2025-01-08,2,2,Darksteel1,Ruby Sapphire Control,Putschi,Amber Steel Songs,Win
+Liga 2025-01-08,2,3,Jurki,Ruby Steel Challenger,shinobi64,Ruby Sapphire Control,Loss
+Liga 2025-01-08,2,3,shinobi64,Ruby Sapphire Control,Jurki,Ruby Steel Challenger,Win
+Liga 2025-01-08,3,1,nastra,Amber Steel Aggro,Putschi,Amber Steel Songs,Win
+Liga 2025-01-08,3,1,Putschi,Amber Steel Songs,nastra,Amber Steel Aggro,Loss
+Liga 2025-01-08,3,2,shinobi64,Ruby Sapphire Control,Darksteel1,Ruby Sapphire Control,Win
+Liga 2025-01-08,3,2,Darksteel1,Ruby Sapphire Control,shinobi64,Ruby Sapphire Control,Loss
+Liga 2025-01-08,3,3,Dlawmor,Amber Emerald Aggro,Jurki,Ruby Steel Challenger,Loss
+Liga 2025-01-08,3,3,Jurki,Ruby Steel Challenger,Dlawmor,Amber Emerald Aggro,Win
