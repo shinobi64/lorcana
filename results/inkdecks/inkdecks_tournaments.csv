@@ -1,4 +1,20 @@
 tournamentID,tounamentDate,tournamentTitle,playerCount,playerCountCategory,country
+jahresendevent-lorcana-meisterschaft-sonntag-tournament-decks-1894,2025-01-12,Jahresendevent Lorcana Meisterschaft Sonntag,30,17 - 32,DE
+sunday-revival-north-american-championship-tournament-decks-1892,2025-01-12,Sunday Revival - North American Championship,132,more than 64,US
+ccs-january-lorcana-1k-tournament-decks-1886,2025-01-12,CCS January Lorcana $1k,27,17 - 32,US
+mensual-enero-disney-lorcana-tournament-decks-1883,2025-01-12,Mensual Enero Disney Lorcana,11,0 - 16,ES
+tournoi-njds-le-paquet-tournament-decks-1882,2025-01-12,Tournoi NJDS - Le Paquet,167,more than 64,FR
+disney-lorcana-north-american-championship-2025-tournament-decks-1878,2025-01-12,Disney Lorcana North American Championship 2025,121,more than 64,US
+german-content-creator-set-championship-tournament-decks-1893,2025-01-11,German Content Creator Set Championship,22,17 - 32,DE
+jahresendevent-lorcana-meisterschaft-samstag-tournament-decks-1881,2025-01-11,Jahresendevent Lorcana Meisterschaft Samstag,42,33 - 64,DE
+azurite-sea-movie-franchise-tournament-tournament-decks-1880,2025-01-11,Azurite Sea - Movie Franchise Tournament,13,0 - 16,NL
+card-cosmos-lorcana-1k-tournament-decks-1879,2025-01-11,Card Cosmos Lorcana 1K,49,33 - 64,US
+weekly-chapter-6-cartap-montpellier-tournament-decks-1874,2025-01-11,Weekly Chapter 6 Cartap' (Montpellier),12,0 - 16,FR
+disney-lorcana-continentals-last-chance-qualifier-pod-30-tournament-decks-1876,2025-01-10,Disney Lorcana Continentals Last Chance Qualifier - POD #30,32,33 - 64,US
+disney-lorcana-na-championship-last-chance-qualifier-16-tournament-decks-1875,2025-01-10,Disney Lorcana NA Championship Last Chance Qualifier #16,32,33 - 64,US
+disney-lorcana-continentals-last-chance-qualifier-pod-11-tournament-decks-1872,2025-01-10,Disney Lorcana Continentals Last Chance Qualifier - POD #11,32,33 - 64,US
+disney-lorcana-continentals-last-chance-qualifier-pod-19-tournament-decks-1871,2025-01-10,Disney Lorcana Continentals Last Chance Qualifier - POD #19,32,33 - 64,US
+disney-headquarters-influencer-set-champs-tournament-decks-1870,2025-01-10,Disney Headquarters Influencer Set Champs,16,0 - 16,GB
 ph-illumineers-league-tournament-decks-1867,2025-01-05,PH Illumineers League,18,17 - 32,PH
 multivitamin-webcam-turnier-2-tournament-decks-1866,2025-01-05,MultiVitamin Webcam Turnier #2,49,33 - 64,DE
 game-grid-lorcana-1k-top-4-split-tournament-decks-1863,2025-01-04,Game Grid Lorcana 1k - Top 4 split,29,17 - 32,US
@@ -259,7 +275,7 @@ shimmering-skies-set-championship-tournament-decks-1506,2024-10-05,Shimmering Sk
 shimmering-skies-store-championship-tournament-decks-1505,2024-10-05,Shimmering Skies Store Championship,26,17 - 32,PT
 excalibur-set-championship-montpellier-tournament-decks-1503,2024-10-05,Excalibur Set Championship (Montpellier),24,17 - 32,FR
 open-lorcana-by-ludotrotter-final-standings-tournament-decks-1502,2024-10-05,Open Lorcana By Ludotrotter - Final Standings,609,more than 64,FR
-shimmering-skies-championship-tournament-decks-1499,2024-10-05,Shimmering Skies Championship,15,0 - 16,NL
+shimmering-skies-set-championship-tournament-decks-1499,2024-10-05,Shimmering Skies - Set Championship,15,0 - 16,NL
 road-to-lorcana-7-saison-5-tournament-decks-1508,2024-10-04,Road To Lorcana 7 - Saison 5,17,17 - 32,FR
 friday-1k-scg-con-washington-dc-tournament-decks-1497,2024-10-04,Friday $1K - SCG CON Washington DC,28,17 - 32,US
 lorcana-weekly-tournament-decks-1496,2024-10-03,Lorcana Weekly,27,17 - 32,US
@@ -396,7 +412,7 @@ ursulas-ruckkehr-championship-tournament-decks-1282,2024-07-27,Ursulas Rückkehr
 disney-lorcana-ursula-s-return-championship-tournament-decks-1281,2024-07-27,Disney Lorcana: Ursula's Return Championship,16,0 - 16,US
 championnat-de-set-4-le-retour-d-ursula-tournament-decks-1274,2024-07-27,Championnat de set 4 Le retour d'Ursula,38,33 - 64,FR
 lorcana-set-championship-tournament-decks-1270,2024-07-27,Lorcana Set Championship,20,17 - 32,US
-ursula-s-return-championship-tournament-decks-1269,2024-07-27,Ursula's Return Championship,16,0 - 16,NL
+ursula-s-return-set-championship-tournament-decks-1269,2024-07-27,Ursula's Return - Set Championship,16,0 - 16,NL
 saturday-disney-lorcana-2k-scg-con-baltimore-tournament-decks-1268,2024-07-27,Saturday Disney Lorcana $2K - SCG CON Baltimore,24,17 - 32,US
 tier-1-games-ursula-s-return-set-championships-tournament-decks-1266,2024-07-27,Tier 1 Games Ursula's Return Set Championships,49,33 - 64,US
 ursula-s-return-store-championship-tournament-decks-1264,2024-07-27,Ursula's Return Store Championship,22,17 - 32,US
@@ -1199,3 +1215,186 @@ cerberus-den-1k-tournament-decks-167,2023-12-10,Cerberus Den 1k,24,17 - 32,US
 ph-larocana-lorcana-4-tournament-decks-165,2023-12-10,PH Larocana Lorcana 4,14,0 - 16,PH
 dark-sphere-lorcana-win-a-case-tournament-decks-164,2023-12-10,Dark Sphere Lorcana Win a Case,57,33 - 64,GB
 coliseum-of-comics-1-5-k-tournament-decks-171,2023-12-09,Coliseum of Comics 1.5 k,64,more than 64,US
+20lore-pro-pixelborn-event-1-bo3-tournament-decks-163,2023-12-09,20Lore.pro Pixelborn Event #1 - BO3,73,more than 64,ON
+lorcana-weekly-gr-warrington-tournament-decks-162,2023-12-08,Lorcana Weekly GR Warrington,8,0 - 16,GB
+torneo-lorcana-alla-jaku-toys-fumetteria-tournament-decks-174,2023-12-07,Torneo Lorcana alla Jaku Toys Fumetteria,14,0 - 16,IT
+giovedi-fireball-ostia-tournament-decks-159,2023-12-03,Giovedi Fireball Ostia,8,0 - 16,IT
+il-covo-del-nerd-win-a-d100-tournament-decks-158,2023-12-03,Il Covo del Nerd - win a D100,,more than 64,IT
+ludotrotter-cup-tournament-decks-155,2023-12-03,Ludotrotter Cup,208,more than 64,FR
+lorcana-constructed-1k-tournament-decks-152,2023-12-03,Lorcana Constructed 1K,21,17 - 32,US
+lorcana-locals-tournament-decks-150,2023-12-02,Lorcana Locals,8,0 - 16,DE
+ppg-galaxycon-lorcana-2k-bo3-tournament-decks-148,2023-12-02,PPG GalaxyCon Lorcana 2k - BO3,45,33 - 64,US
+pax-unplugged-lorcana-bo1-tournament-decks-147,2023-12-02,PAX Unplugged Lorcana BO1,63,33 - 64,US
+manticxre-s-tavern-2-pixelborn-tournament-decks-146,2023-11-30,Manticxre’s Tavern #2 (Pixelborn),9,0 - 16,ON
+torneo-lorcana-tournament-decks-145,2023-11-30,Torneo Lorcana,8,0 - 16,IT
+lorcana-weekly-gr-warrington-tournament-decks-144,2023-11-30,Lorcana Weekly GR Warrington,8,0 - 16,GB
+lorcana-league-italia-9a-tappa-tournament-decks-141,2023-11-29,Lorcana League Italia -  9a Tappa,17,17 - 32,IT
+lorcana-swiss-tournament-tournament-decks-139,2023-11-28,Lorcana Swiss Tournament,16,0 - 16,US
+lunedi-eur-comics-tournament-decks-157,2023-11-27,Lunedì EUR Comics,,more than 64,IT
+the-light-presents-lorcana-mondays-tournament-decks-140,2023-11-27,The Light Presents: Lorcana Mondays,10,0 - 16,US
+nov-giovedi-fireball-ostia-tournament-decks-160,2023-11-26,Nov Giovedi FireBall Ostia,9,0 - 16,IT
+set-2-core-constructed-tournament-decks-154,2023-11-26,Set 2 Core Constructed,6,0 - 16,GB
+imperial-floodborn-1k-tournament-decks-143,2023-11-26,Imperial Floodborn 1K,21,17 - 32,US
+drewbees-lorcana-season-2-floodborn-tournament-decks-142,2023-11-26,Drewbees Lorcana Season 2 - Floodborn,25,17 - 32,US
+lorcana-league-25-11-23-tournament-decks-153,2023-11-25,Lorcana League 25.11.23,7,0 - 16,GB
+win-a-case-tournament-swiss-standings-tournament-decks-138,2023-11-25,Win a case Tournament (Swiss Standings),33,33 - 64,US
+layton-gaming-locals-tournament-decks-135,2023-11-25,Layton Gaming Locals,11,0 - 16,US
+venerdi-lorcana-standard-tournament-decks-137,2023-11-24,Venerdì Lorcana Standard,10,0 - 16,IT
+lorcana-tournament-tournament-decks-136,2023-11-22,Lorcana Tournament,10,0 - 16,IT
+martedi-lorcana-standard-tournament-decks-134,2023-11-22,Martedì Lorcana Standard,8,0 - 16,IT
+ttt-weekly-tournament-decks-131,2023-11-22,TTT Weekly,25,17 - 32,US
+local-lorcana-tournament-tournament-decks-129,2023-11-21,Local Lorcana Tournament,8,0 - 16,GB
+eur-comics-win-a-d100-tournament-decks-132,2023-11-20,Eur Comics - win a D100,,more than 64,IT
+lorcana-1k-by-wizards-of-the-north-tournament-decks-133,2023-11-19,Lorcana 1k  by Wizards of the North,48,33 - 64,CA
+pixelborn-ladder-rotfb-week-1-tournament-decks-128,2023-11-19,Pixelborn Ladder RotFB Week 1,,more than 64,ON
+lil-con-7-lorcana-tourney-tournament-decks-127,2023-11-19,Lil Con #7 Lorcana Tourney,8,0 - 16,US
+battle-bear-x-lorcana-dach-constructed-event-tournament-decks-125,2023-11-19,Battle Bear x Lorcana DACH - Constructed Event,103,more than 64,DE
+road-to-lorcana-1-serie-2-tournament-decks-124,2023-11-19,Road to Lorcana 1 - Série 2,11,0 - 16,FR
+tcg-expo-liverpool-top-8-final-standings-tournament-decks-123,2023-11-19,TCG Expo Liverpool - Top 8 Final Standings,37,33 - 64,GB
+lorcana-win-a-box-tournament-nat20-games-swiss-standings-tournament-decks-121,2023-11-19,Lorcana Win a Box Tournament Nat20 Games (Swiss Standings),10,0 - 16,US
+cerberus-den-lorcana-win-a-box-tournament-decks-122,2023-11-18,Cerberus Den Lorcana Win a Box,19,17 - 32,US
+mol-rotf-questing-party-tournament-decks-120,2023-11-18,MoL RotF Questing Party,4,0 - 16,ON
+game-shelf-store-championship-tournament-decks-119,2023-11-12,Game Shelf Store Championship,44,33 - 64,US
+enchanted-elsa-lore-con-tournament-decks-118,2023-11-12,Enchanted Elsa - Lore Con,20,17 - 32,ON
+eur-comics-12-11-23-tournament-decks-117,2023-11-12,Eur Comics - 12/11/23,23,17 - 32,IT
+lorcana-tournament-tournament-decks-116,2023-11-12,Lorcana Tournament,,more than 64,US
+cerberus-den-lorcana-1k-top-8-split-tournament-decks-115,2023-11-12,Cerberus Den Lorcana 1k (Top 8 Split),28,17 - 32,US
+d23-blt-3k-lorcana-the-marilyn-rose-center-tournament-decks-114,2023-11-12,D23 BLT $3K Lorcana @ The Marilyn Rose Center,66,more than 64,US
+sunday-lorcana-1k-tournament-decks-111,2023-11-12,Sunday Lorcana $1K,-1,0 - 16,US
+1k-critical-hit-event-tournament-decks-126,2023-11-11,1k Critical Hit event,11,0 - 16,US
+sunday-lorcana-1k-scg-con-pittsburgh-tournament-decks-113,2023-11-11,Sunday Lorcana $1K - SCG CON Pittsburgh,36,33 - 64,US
+saturday-lorcana-1k-scg-con-pittsburgh-tournament-decks-109,2023-11-11,Saturday Lorcana $1K - SCG CON Pittsburgh,44,33 - 64,US
+ripnship-1k-top-8-tournament-decks-108,2023-11-11,RipnShip 1k Top 8,24,17 - 32,US
+road-to-lorcana-12-tournament-decks-110,2023-11-10,Road to Lorcana 12,20,17 - 32,FR
+lorcana-league-italia-7a-tappa-tournament-decks-112,2023-11-09,Lorcana League Italia -  7a Tappa,19,17 - 32,IT
+fireball-ostia-tournament-decks-107,2023-11-09,Fireball Ostia,8,0 - 16,IT
+lorcana-team-trios-2k-tournament-decks-103,2023-11-05,Lorcana Team Trios 2k,39,33 - 64,US
+fireball-ostia-tournament-decks-99,2023-11-05,Fireball Ostia,10,0 - 16,IT
+eur-comics-4-novembre-tournament-decks-100,2023-11-04,EUR Comics 4  Novembre,14,0 - 16,IT
+top-cut-comics-1k-chicago-top-2-split-tournament-decks-97,2023-11-04,Top Cut Comics 1k Chicago (Top 2 Split),21,17 - 32,US
+trollune-lorcana-win-a-box-tournament-decks-96,2023-11-04,Trollune Lorcana Win-a-Box,64,more than 64,FR
+lorcana-1k-competitive-card-co-nexus-top-8-split-tournament-decks-95,2023-11-04,Lorcana 1k Competitive Card Co./ Nexus (Top 8 Split),43,33 - 64,US
+friday-lorcana-standard-il-covo-del-nerd-tournament-decks-106,2023-11-03,Friday Lorcana Standard - Il Covo del Nerd,8,0 - 16,IT
+manticxre-s-tavern-1-tournament-decks-94,2023-11-02,Manticxre's Tavern #1,15,0 - 16,US
+eur-comics-30-ottobre-tournament-decks-101,2023-10-30,EUR Comics 30  Ottobre,14,0 - 16,IT
+lorcana-competitive-2k-tournament-decks-91,2023-10-29,Lorcana Competitive 2k,53,33 - 64,US
+sunday-lorcana-standard-il-covo-del-nerd-tournament-decks-90,2023-10-29,Sunday Lorcana Standard - Il Covo del Nerd,8,0 - 16,IT
+highlander-games-lorcana-1k-tournament-decks-88,2023-10-29,Highlander Games Lorcana 1k,31,17 - 32,US
+lorcana-constructed-1-kinda-tournament-tournament-decks-89,2023-10-28,Lorcana Constructed $1 - Kinda Tournament,24,17 - 32,US
+sammelkarten-convention-minden-lorcana-tournament-tournament-decks-87,2023-10-28,Sammelkarten Convention Minden - Lorcana Tournament,19,17 - 32,DE
+le-circuit-des-4-princesses-tournament-decks-86,2023-10-28,Le circuit des 4 princesses,32,33 - 64,FR
+minmax-lorcana-2k-top-4-split-tournament-decks-85,2023-10-28,MinMax Lorcana 2k (Top 4 split),62,33 - 64,US
+luxury-gaming-online-weekly-winners-tournament-decks-84,2023-10-28,Luxury Gaming  Online: Weekly Winners,,more than 64,ON
+cm-games-2k-top-8-split-tournament-decks-83,2023-10-28,CM Games 2k - (Top 8 Split),52,33 - 64,US
+lorcana-standard-il-covo-del-nerd-tournament-decks-82,2023-10-27,Lorcana Standard - Il Covo del Nerd,10,0 - 16,IT
+torneo-lorcana-alla-jaku-toys-fumetteria-tournament-decks-92,2023-10-25,Torneo Lorcana alla Jaku Toys Fumetteria,11,0 - 16,IT
+martedi-tournament-fireball-ostia-tournament-decks-79,2023-10-24,Martedi Tournament Fireball Ostia,10,0 - 16,IT
+lorcana-standard-il-covo-del-nerd-tournament-decks-76,2023-10-24,Lorcana Standard - Il Covo del Nerd,9,0 - 16,IT
+eur-comics-tournament-decks-80,2023-10-23,EUR Comics,15,0 - 16,IT
+luxury-gaming-online-tournament-tournament-decks-73,2023-10-22,Luxury Gaming  Online Tournament,16,0 - 16,ON
+game-on-lorcana-tournament-tournament-decks-77,2023-10-21,Game On Lorcana Tournament,,more than 64,US
+fireball-ostia-tournament-decks-68,2023-10-21,Fireball Ostia,10,0 - 16,IT
+mighty-meeple-lorcana-1k-tournament-decks-67,2023-10-21,Mighty Meeple Lorcana 1k,17,17 - 32,US
+ccs-october-lorcana-1k-tournament-decks-65,2023-10-21,CCS October Lorcana $1k,30,17 - 32,US
+enchanted-saturday-tournament-decks-61,2023-10-21,Enchanted Saturday,32,33 - 64,ON
+mol-weekly-pixelborn-event-tournament-decks-60,2023-10-21,MoL Weekly Pixelborn Event,5,0 - 16,ON
+ppg-lorcana-tour-tcg-con-miami-final-standings-tournament-decks-59,2023-10-21,PPG Lorcana Tour TCG Con Miami (Final Standings),215,more than 64,US
+5000-tcgplayer-invitational-tournament-decks-58,2023-10-21,$5000 TCGplayer Invitational,16,0 - 16,US
+eur-comics-tournament-decks-64,2023-10-20,EUR Comics,18,17 - 32,IT
+imperial-quest-for-the-lore-tournament-decks-63,2023-10-20,Imperial Quest for the Lore,38,33 - 64,US
+lorcana-core-il-covo-del-nerd-tournament-decks-62,2023-10-20,Lorcana Core - Il Covo del Nerd,20,17 - 32,IT
+jaku-toys-tournament-decks-71,2023-10-19,Jaku Toys,8,0 - 16,IT
+civetta-risto-pub-tournament-decks-72,2023-10-17,Civetta Risto Pub,,more than 64,IT
+eur-comics-tournament-decks-54,2023-10-16,EUR Comics,16,0 - 16,IT
+lorcana-event-tournament-decks-74,2023-10-15,Lorcana Event,27,17 - 32,ON
+lorcana-super-sunday-series-tournament-decks-57,2023-10-15,Lorcana Super Sunday Series,12,0 - 16,GB
+tcb-games-1k-swiss-standings-top-8-split-tournament-decks-53,2023-10-15,TCB Games 1k - Swiss standings (Top 8 split),27,17 - 32,US
+lorcana-standard-il-covo-del-nerd-tournament-decks-51,2023-10-15,Lorcana Standard - Il Covo del Nerd,9,0 - 16,IT
+lorcanadach-discord-webcam-tournament-tournament-decks-49,2023-10-15,LorcanaDACH Discord Webcam Tournament,19,17 - 32,DE
+warpstorm-mystic-mouse-tournament-decks-46,2023-10-15,Warpstorm Mystic Mouse,28,17 - 32,US
+luxury-gaming-tournaments-october-week-2-tournament-decks-55,2023-10-14,Luxury Gaming Tournaments - October - Week 2,,more than 64,ON
+road-to-lorcana-8-tournament-decks-50,2023-10-14,Road to Lorcana 8,28,17 - 32,FR
+zulu-s-games-win-a-box-tournament-decks-48,2023-10-14,Zulu's Games Win a Box,44,33 - 64,US
+eur-comics-tournament-decks-47,2023-10-14,EUR Comics,12,0 - 16,IT
+lazy-dragon-win-a-box-tournament-decks-45,2023-10-14,Lazy Dragon Win A Box,12,0 - 16,GB
+coliseum-of-comics-lorcana-1k-tournament-decks-44,2023-10-14,Coliseum of Comics Lorcana 1k,59,33 - 64,US
+weekly-pixelborn-event-tournament-decks-43,2023-10-14,Weekly Pixelborn Event,8,0 - 16,ON
+level-up-games-1-5k-swiss-standings-tournament-decks-39,2023-10-14,Level Up Games 1.5k (Swiss Standings),48,33 - 64,US
+pat-s-games-1k-decklists-tournament-decks-38,2023-10-14,Pat’s Games 1K Decklists,54,33 - 64,US
+october-2k-tcgplayer-invitational-tournament-decks-35,2023-10-14,October $2k TCGplayer Invitational,31,17 - 32,US
+ttt-weekly-tournament-decks-34,2023-10-12,TTT Weekly,,more than 64,ON
+lorcana-tournament-il-covo-del-nerd-tournament-decks-33,2023-10-10,Lorcana Tournament - Il Covo del Nerd,16,0 - 16,IT
+tournoi-construit-tournament-decks-70,2023-10-08,Tournoi construit,27,17 - 32,FR
+hoarders-lorcana-1-tournament-decks-42,2023-10-08,Hoarders Lorcana #1,3,0 - 16,CA
+top-4-mol-pixelborn-leaderboard-beta-series-finals-decks-tournament-decks-32,2023-10-08,Top 4 MoL Pixelborn Leaderboard Beta Series Finals Decks.,12,0 - 16,ON
+top-cut-comics-1k-chicago-tournament-decks-26,2023-10-07,Top Cut Comics 1k Chicago,51,33 - 64,US
+dreamink-cup-2-tournament-decks-37,2023-10-01,Dreamink Cup #2,14,0 - 16,IT
+mol-leaderboard-beta-series-7-tournament-decks-21,2023-10-01,MOL Leaderboard Beta Series #7,,more than 64,ON
+september-2k-tcgplayer-invitational-tournament-decks-20,2023-10-01,September $2k TCGplayer Invitational,27,17 - 32,US
+convention-octogones-lorcana-tournament-tournament-decks-19,2023-09-30,Convention OctoGônes Lorcana Tournament,128,more than 64,FR
+game-kastle-box-tournament-tournament-decks-18,2023-09-30,Game Kastle Box Tournament,52,33 - 64,US
+cm-games-2k-tournament-decks-17,2023-09-30,CM Games 2K,78,more than 64,US
+road-to-lorcana-6-tournament-decks-24,2023-09-29,Road to Lorcana 6,14,0 - 16,FR
+lorcana-hq-constructed-2-sept-2023-tournament-decks-25,2023-09-28,Lorcana HQ Constructed #2 (Sept 2023),43,33 - 64,ON
+omega-gaming-tournament-decks-30,2023-09-27,Omega Gaming,26,17 - 32,US
+mol-leaderboard-beta-series-6-tournament-decks-22,2023-09-27,MOL Leaderboard Beta Series #6,8,0 - 16,ON
+the-bearded-dragon-lorcana-1k-tournament-decks-16,2023-09-25,The Bearded Dragon Lorcana 1K,60,33 - 64,US
+grand-tournament-september-2023-tournament-decks-27,2023-09-24,Grand Tournament September 2023,41,33 - 64,GB
+limitlesstcg-premier-test-tournament-tournament-decks-23,2023-09-24,LimitlessTCG Premier Test Tournament,10,0 - 16,ON
+sgc-grand-tournament-september-2023-tournament-decks-15,2023-09-23,SGC Grand Tournament: September 2023,59,33 - 64,US
+nat20-games-cash-tournament-tournament-decks-14,2023-09-23,Nat20 Games Cash Tournament,33,33 - 64,US
+mol-leaderboard-beta-series-5-tournament-decks-8,2023-09-22,MOL Leaderboard Beta Series #5,19,17 - 32,ON
+lorcana-league-5-tournament-decks-28,2023-09-21,Lorcana League #5,21,17 - 32,GB
+mol-leaderboards-beta-series-4-tournament-decks-9,2023-09-17,MOL Leaderboards Beta Series #4,11,0 - 16,ON
+lorcana-1k-ccs-tournament-decks-3,2023-09-17,Lorcana 1K CCS,53,33 - 64,US
+lorcana-tcg-expo-glasgow-tournament-decks-29,2023-09-16,Lorcana @TCG Expo Glasgow,26,17 - 32,GB
+mol-leaderboard-beta-series-3-tournament-decks-12,2023-09-16,MOL Leaderboard Beta Series #3,16,0 - 16,ON
+ppg-lorcana-1k-miami-tournament-decks-4,2023-09-16,PPG Lorcana 1K Miami,45,33 - 64,US
+tampa-tcg-con-lorcana-switch-event-tournament-decks-2,2023-09-16,Tampa TCG Con - Lorcana Switch Event,34,33 - 64,US
+mol-leaderboard-beta-series-2-tournament-decks-10,2023-09-11,MOL Leaderboard Beta Series #2,26,17 - 32,ON
+mol-leaderboard-beta-series-1-tournament-decks-11,2023-09-09,MOL Leaderboard Beta Series #1,,more than 64,ON
+mol-twitch-trials-pre-season-tournament-decks-13,2023-09-03,MOL Twitch Trials [Pre-Season],,more than 64,ON
+ppg-lorcana-ndk-tournament-decks-5,2023-09-02,PPG Lorcana NDK,43,33 - 64,US
+nat20-games-1k-tournament-decks-6,2023-08-26,Nat20 Games 1k,39,33 - 64,US
+lorcana-hq-constructed-tournament-aug-2023-tournament-decks-7,2023-08-09,Lorcana HQ Constructed Tournament (Aug 2023),45,33 - 64,US
+hardcore-de-roma-tournament-decks-75,2023-02-24,HardCORE (DE ROMA),6,0 - 16,IT
+jahresendevent-lorcana-meisterschaft-sonntag-tournament-decks-1894,2025-01-12,Jahresendevent Lorcana Meisterschaft Sonntag,30,17 - 32,DE
+sunday-revival-north-american-championship-tournament-decks-1892,2025-01-12,Sunday Revival - North American Championship,132,more than 64,US
+ccs-january-lorcana-1k-tournament-decks-1886,2025-01-12,CCS January Lorcana $1k,27,17 - 32,US
+mensual-enero-disney-lorcana-tournament-decks-1883,2025-01-12,Mensual Enero Disney Lorcana,11,0 - 16,ES
+tournoi-njds-le-paquet-tournament-decks-1882,2025-01-12,Tournoi NJDS - Le Paquet,167,more than 64,FR
+disney-lorcana-north-american-championship-2025-tournament-decks-1878,2025-01-12,Disney Lorcana North American Championship 2025,121,more than 64,US
+german-content-creator-set-championship-tournament-decks-1893,2025-01-11,German Content Creator Set Championship,22,17 - 32,DE
+jahresendevent-lorcana-meisterschaft-samstag-tournament-decks-1881,2025-01-11,Jahresendevent Lorcana Meisterschaft Samstag,42,33 - 64,DE
+azurite-sea-movie-franchise-tournament-tournament-decks-1880,2025-01-11,Azurite Sea - Movie Franchise Tournament,13,0 - 16,NL
+card-cosmos-lorcana-1k-tournament-decks-1879,2025-01-11,Card Cosmos Lorcana 1K,49,33 - 64,US
+weekly-chapter-6-cartap-montpellier-tournament-decks-1874,2025-01-11,Weekly Chapter 6 Cartap' (Montpellier),12,0 - 16,FR
+disney-lorcana-continentals-last-chance-qualifier-pod-30-tournament-decks-1876,2025-01-10,Disney Lorcana Continentals Last Chance Qualifier - POD #30,32,33 - 64,US
+disney-lorcana-na-championship-last-chance-qualifier-16-tournament-decks-1875,2025-01-10,Disney Lorcana NA Championship Last Chance Qualifier #16,32,33 - 64,US
+disney-lorcana-continentals-last-chance-qualifier-pod-11-tournament-decks-1872,2025-01-10,Disney Lorcana Continentals Last Chance Qualifier - POD #11,32,33 - 64,US
+disney-lorcana-continentals-last-chance-qualifier-pod-19-tournament-decks-1871,2025-01-10,Disney Lorcana Continentals Last Chance Qualifier - POD #19,32,33 - 64,US
+disney-headquarters-influencer-set-champs-tournament-decks-1870,2025-01-10,Disney Headquarters Influencer Set Champs,16,0 - 16,GB
+ph-illumineers-league-tournament-decks-1867,2025-01-05,PH Illumineers League,18,17 - 32,PH
+multivitamin-webcam-turnier-2-tournament-decks-1866,2025-01-05,MultiVitamin Webcam Turnier #2,49,33 - 64,DE
+game-grid-lorcana-1k-top-4-split-tournament-decks-1863,2025-01-04,Game Grid Lorcana 1k - Top 4 split,29,17 - 32,US
+lorcana-azurite-seas-win-a-box-tournament-tournament-decks-1862,2025-01-04,Lorcana Azurite Seas Win-a-Box Tournament,12,0 - 16,US
+jahresendevent-lorcana-meisterschaft-sonntag-tournament-decks-1894,2025-01-12,Jahresendevent Lorcana Meisterschaft Sonntag,30,17 - 32,DE
+sunday-revival-north-american-championship-tournament-decks-1892,2025-01-12,Sunday Revival - North American Championship,132,more than 64,US
+ccs-january-lorcana-1k-tournament-decks-1886,2025-01-12,CCS January Lorcana $1k,27,17 - 32,US
+mensual-enero-disney-lorcana-tournament-decks-1883,2025-01-12,Mensual Enero Disney Lorcana,11,0 - 16,ES
+tournoi-njds-le-paquet-tournament-decks-1882,2025-01-12,Tournoi NJDS - Le Paquet,167,more than 64,FR
+disney-lorcana-north-american-championship-2025-tournament-decks-1878,2025-01-12,Disney Lorcana North American Championship 2025,121,more than 64,US
+german-content-creator-set-championship-tournament-decks-1893,2025-01-11,German Content Creator Set Championship,22,17 - 32,DE
+jahresendevent-lorcana-meisterschaft-samstag-tournament-decks-1881,2025-01-11,Jahresendevent Lorcana Meisterschaft Samstag,42,33 - 64,DE
+azurite-sea-movie-franchise-tournament-tournament-decks-1880,2025-01-11,Azurite Sea - Movie Franchise Tournament,13,0 - 16,NL
+card-cosmos-lorcana-1k-tournament-decks-1879,2025-01-11,Card Cosmos Lorcana 1K,49,33 - 64,US
+weekly-chapter-6-cartap-montpellier-tournament-decks-1874,2025-01-11,Weekly Chapter 6 Cartap' (Montpellier),12,0 - 16,FR
+disney-lorcana-continentals-last-chance-qualifier-pod-30-tournament-decks-1876,2025-01-10,Disney Lorcana Continentals Last Chance Qualifier - POD #30,32,33 - 64,US
+disney-lorcana-na-championship-last-chance-qualifier-16-tournament-decks-1875,2025-01-10,Disney Lorcana NA Championship Last Chance Qualifier #16,32,33 - 64,US
+disney-lorcana-continentals-last-chance-qualifier-pod-11-tournament-decks-1872,2025-01-10,Disney Lorcana Continentals Last Chance Qualifier - POD #11,32,33 - 64,US
+disney-lorcana-continentals-last-chance-qualifier-pod-19-tournament-decks-1871,2025-01-10,Disney Lorcana Continentals Last Chance Qualifier - POD #19,32,33 - 64,US
+disney-headquarters-influencer-set-champs-tournament-decks-1870,2025-01-10,Disney Headquarters Influencer Set Champs,16,0 - 16,GB
+ph-illumineers-league-tournament-decks-1867,2025-01-05,PH Illumineers League,18,17 - 32,PH
+multivitamin-webcam-turnier-2-tournament-decks-1866,2025-01-05,MultiVitamin Webcam Turnier #2,49,33 - 64,DE
+game-grid-lorcana-1k-top-4-split-tournament-decks-1863,2025-01-04,Game Grid Lorcana 1k - Top 4 split,29,17 - 32,US
+lorcana-azurite-seas-win-a-box-tournament-tournament-decks-1862,2025-01-04,Lorcana Azurite Seas Win-a-Box Tournament,12,0 - 16,US
