@@ -7,6 +7,8 @@ const options = {
   fetchDecklists: true,
   fetchCards: true,
   persistOutput: true,
+  delta: true,
+  force: false,
   fileName: "lorcana_tournaments.json",
 };
 
