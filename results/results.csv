@@ -1019,7 +1019,7 @@ Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,PlayDraw,Result,OwnL
 2025-01-09,Set6,Card Club Hockenheim,Liga 2025-01-09,Constructed,Ruby Sapphire Control,Hetti89,Emerald Sapphire Clarabelle,Draw,Win,1/2/3/5/10/12/15/16/17/20,1
 2025-01-09,Set6,Card Club Hockenheim,Liga 2025-01-09,Constructed,Ruby Sapphire Control,Alex8289,Amethyst Steel Midrange,Draw,Win,1/2/5/6/7/10/11/15/20,1/2/3/5/8/11/13/11/13/14
 2025-01-09,Set6,Card Club Hockenheim,Liga 2025-01-09,Constructed,Ruby Sapphire Control,Alex8289,Amethyst Steel Midrange,Draw,Loss,0,1/3/5/6/7/12/13/16/17/20
-2025-01-09,Set6,Card Club Hockenheim,Liga 2025-01-09,Constructed,Ruby Sapphire Control,Alex8289,Amethyst Steel Midrange,Play,Win,
+2025-01-09,Set6,Card Club Hockenheim,Liga 2025-01-09,Constructed,Ruby Sapphire Control,Alex8289,Amethyst Steel Midrange,Play,Win,,
 2025-01-11,Set6,Maintal,JK Jahresende 2024,Constructed,Ruby Sapphire Control,DaddyDave,Ruby Sapphire Control,Draw,Loss,1/3/5/8/10/8/9/12/15/13/15/16,1/0/3/4/5/6/7/10/13/15/17/15/16/17/19/20
 2025-01-11,Set6,Maintal,JK Jahresende 2024,Constructed,Ruby Sapphire Control,DaddyDave,Ruby Sapphire Control,Play,Loss,1/2/3/5/6/7/10/11/9/12/13/11/14/15,1/2/5/6/7/8/9/10/13/17/18/20
 2025-01-11,Set6,Maintal,JK Jahresende 2024,Constructed,Ruby Sapphire Control,KaynBockMehr,Amber Steel Songs,Draw,Loss,1,1/5/8/17/20
@@ -1040,3 +1040,7 @@ Date,Meta,Location,Event,Type,OwnDeck,Opponent,OpponentDeck,PlayDraw,Result,OwnL
 2025-01-13,Set6,Home,Casual 2025-01-13,Constructed,Amethyst Sapphire Blurple,fionikatze,Amber Steel Aggro,Draw,Loss,,
 2025-01-13,Set6,Home,Online 2025-01-13,Constructed,Ruby Sapphire Control,lorcanitoAnonym,Amber Steel Aggro,Draw,Win,,
 2025-01-13,Set6,Home,Online 2025-01-13,Constructed,Ruby Sapphire Control,lorcanitoAnonym,Amethyst Steel Midrange,Draw,Win,,
+2025-01-14,Set6,Home,Online 2025-01-14,Constructed,Ruby Sapphire Control,lorcanitoAnonym,Amethyst Sapphire Blurple,Draw,Loss,,
+2025-01-14,Set6,Home,Online 2025-01-14,Constructed,Ruby Sapphire Control,lorcanitoAnonym,Emerald Steel Hercules,Play,Loss,,
+2025-01-14,Set6,Home,Online 2025-01-14,Constructed,Ruby Sapphire Control,lorcanitoAnonym,Sapphire Steel Items,Draw,Loss,,
+2025-01-14,Set6,Home,Online 2025-01-14,Constructed,Ruby Sapphire Control,lorcanitoAnonym,Ruby Amethyst Bounce,Play,Win,,
