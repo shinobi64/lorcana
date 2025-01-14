@@ -114,12 +114,6 @@ export default class InkdecksConverter {
       "colorCombination",
       "archeType",
       "rank",
-      "top1",
-      "top2",
-      "top4",
-      "top8",
-      "top16",
-      "top32",
     ];
 
     decklistDimensionData.push(decklistDimHeader);
@@ -143,32 +137,6 @@ export default class InkdecksConverter {
         decklistDimRow.push(colors.join("/"));
         decklistDimRow.push(decklist.archetype);
         decklistDimRow.push(decklist.rank);
-        const topResults = [0, 0, 0, 0, 0, 0];
-        switch (decklist.rank) {
-          case "1st":
-            topResults[0] = 1;
-            break;
-          case "2nd":
-            topResults[1] = 1;
-            break;
-          case "3rd":
-            topResults[2] = 1;
-            break;
-          case "Top4":
-            topResults[2] = 1;
-            break;
-          case "Top8":
-            topResults[3] = 1;
-            break;
-          case "Top16":
-            topResults[4] = 1;
-            break;
-          case "Top32":
-            topResults[5] = 1;
-            break;
-        }
-        decklistDimRow.push(...topResults);
-
         decklistDimensionData.push(decklistDimRow);
       });
     });
@@ -241,10 +209,7 @@ export default class InkdecksConverter {
       "tournamentID",
       "decklistID",
       "cardUniqueID",
-      "cardName",
-      "cardMatchname",
       "cardCount",
-      "cardType",
     ];
     cardlistFactData.push(cardlistFactHeader);
     tournamentList.forEach((tournament, index) => {
@@ -266,16 +231,7 @@ export default class InkdecksConverter {
           cardlistFactRow.push(tournament.identifier);
           cardlistFactRow.push(decklist.identifier);
           cardlistFactRow.push(InkdecksConverter.lookupCard(card.name));
-          cardlistFactRow.push(card.name.replaceAll(",", " "));
-          cardlistFactRow.push(
-            card.name
-              .replaceAll(",", "")
-              .replaceAll("-", "")
-              .replaceAll(" ", "")
-              .toUpperCase()
-          );
           cardlistFactRow.push(card.count);
-          cardlistFactRow.push(card.type);
           cardlistFactData.push(cardlistFactRow);
         });
       });

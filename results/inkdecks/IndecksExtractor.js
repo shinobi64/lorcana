@@ -2,7 +2,6 @@ import * as cheerio from "cheerio";
 import * as fs from "node:fs/promises";
 
 export default class IndecksExtractor {
-
   static tournamentList = [];
 
   static initializeTournamentlist = async function (options) {
@@ -14,30 +13,30 @@ export default class IndecksExtractor {
         const tournamentsContent = await fs.readFile(options.fileName, {
           encoding: "utf8",
         });
-        return JSON.parse(tournamentsContent);  
+        return JSON.parse(tournamentsContent);
       } catch (err) {
         console.error(`Error while reading from ${options.fileName}`);
         return [];
       }
     }
-  }
+  };
 
   static runExtraction = async function (options) {
-
     /** fill in the initial list of tournaments */
-    IndecksExtractor.tournamentList = await IndecksExtractor.initializeTournamentlist(options);
+    IndecksExtractor.tournamentList =
+      await IndecksExtractor.initializeTournamentlist(options);
 
     if (options.fetchTournaments) {
       console.log("Fetching tournaments from InkDecks");
-      await IndecksExtractor.extractTournamentsList(
-        options
-      );
+      await IndecksExtractor.extractTournamentsList(options);
     }
 
     if (options.fetchDecklists) {
       for (let i = 0; i < IndecksExtractor.tournamentList.length; i++) {
         console.log(
-          `Processing tournament ${i + 1} out of ${IndecksExtractor.tournamentList.length}`
+          `Processing tournament ${i + 1} out of ${
+            IndecksExtractor.tournamentList.length
+          }`
         );
         await IndecksExtractor.extractDeckListsFromTournament(
           IndecksExtractor.tournamentList[i],
@@ -49,13 +48,21 @@ export default class IndecksExtractor {
     if (options.fetchCards) {
       for (let i = 0; i < IndecksExtractor.tournamentList.length; i++) {
         console.log(
-          `Processing tournament ${i + 1} out of ${IndecksExtractor.tournamentList.length}`
+          `Processing tournament ${i + 1} out of ${
+            IndecksExtractor.tournamentList.length
+          }`
         );
-        for (let j = 0; j < IndecksExtractor.tournamentList[i].decklists.length; j++) {
+        for (
+          let j = 0;
+          j < IndecksExtractor.tournamentList[i].decklists.length;
+          j++
+        ) {
           console.log(
             `Processing decklist ${j + 1} out of ${
               IndecksExtractor.tournamentList[i].decklists.length
-            } with URL ${IndecksExtractor.tournamentList[i].decklists[j].detailsURL}`
+            } with URL ${
+              IndecksExtractor.tournamentList[i].decklists[j].detailsURL
+            }`
           );
           // fill card list details
           await IndecksExtractor.extractCardListFromDeck(
@@ -67,7 +74,7 @@ export default class IndecksExtractor {
     if (options.persistOutput) {
       await fs.writeFile(
         options.fileName,
-        JSON.stringify(tournamentList, null, 2)
+        JSON.stringify(IndecksExtractor.tournamentList, null, 2)
       );
       console.log(`Output file ${options.fileName} written.`);
     }
@@ -75,11 +82,11 @@ export default class IndecksExtractor {
 
   /**
    * extract tournaments from indecks listings
-   * 
-   * either a full list can be created or delta mode will fill in 
+   *
+   * either a full list can be created or delta mode will fill in
    * missing tournaments and missing decklist entries
    * @param {object} options list of options for general processing
-   * @returns 
+   * @returns
    */
   static extractTournamentsList = async function (options) {
     // construct number of pages to be retrieved
@@ -119,54 +126,64 @@ export default class IndecksExtractor {
 
         // delta mode - check if we know the tournament already
         if (options.delta) {
-          tournamentIndex = IndecksExtractor.tournamentList.findIndex((tournamentEntry) => {
-            return tournamentEntry.identifier === tournament.identifier
-          });
+          tournamentIndex = IndecksExtractor.tournamentList.findIndex(
+            (tournamentEntry) => {
+              return tournamentEntry.identifier === tournament.identifier;
+            }
+          );
         }
 
         if (Number.isNaN(tournamentIndex) || tournamentIndex < 0) {
           $(tableRow)
-          .children("td")
-          .each((index, tableCell) => {
-            if (index === 0) {
-              tournament.date = $(tableCell).children("b").first().text();
-            }
-            if (index === 1) {
-              tournament.title = $(tableCell)
-                .children("b")
-                .first()
-                .children("a")
-                .first()
-                .text();
-            }
-            if (index === 2) {
-              tournament.players = $(tableCell).text();
-            }
-            if (index === 4) {
-              tournament.country = $(tableCell).children("span").last().text();
-            }
-          });
+            .children("td")
+            .each((index, tableCell) => {
+              if (index === 0) {
+                tournament.date = $(tableCell).children("b").first().text();
+              }
+              if (index === 1) {
+                tournament.title = $(tableCell)
+                  .children("b")
+                  .first()
+                  .children("a")
+                  .first()
+                  .text();
+              }
+              if (index === 2) {
+                tournament.players = $(tableCell).text();
+              }
+              if (index === 4) {
+                tournament.country = $(tableCell)
+                  .children("span")
+                  .last()
+                  .text();
+              }
+            });
 
           tournament.detailsURL =
             "https://inkdecks.com" + $(tableRow).attr("data-href");
 
           IndecksExtractor.tournamentList.push(tournament);
         } else {
-          console.log(`Skip tournament ${tournament.identifier} as it was already present`);
+          console.log(
+            `Skip tournament ${tournament.identifier} as it was already present`
+          );
         }
       });
     }
-    console.log(`Extracted ${IndecksExtractor.tournamentList.length} tournaments`);
+    console.log(
+      `Extracted ${IndecksExtractor.tournamentList.length} tournaments`
+    );
   };
 
   static extractDeckListsFromTournament = async function (tournament, options) {
-
     if (!Array.isArray(tournament.decklists)) {
       tournament.decklists = [];
     }
 
     if (tournament.decklists.length > 0 && !options.force) {
-      console.log(`Skip tournament ${tournament.detailsURL} as ${tournament.decklists.length} decklists exist`);
+      console.log(
+        `Skip tournament ${tournament.detailsURL} as ${tournament.decklists.length} decklists exist`
+      );
       return;
     }
 
@@ -230,12 +247,14 @@ export default class IndecksExtractor {
         console.log(`Skipping decklists for ${tournament.detailsURL}`);
       }
     } catch (err) {
-      console.error(`Error while fetching decklists for ${tournament.detailsURL}`, err);
+      console.error(
+        `Error while fetching decklists for ${tournament.detailsURL}`,
+        err
+      );
     }
   };
 
   static extractCardListFromDeck = async function (decklist) {
-
     if (!Array.isArray(decklist.cards)) {
       decklist.cards = [];
     }
@@ -279,10 +298,15 @@ export default class IndecksExtractor {
           }
         });
       } catch (err) {
-        console.error(`Error while fetching card list for ${decklist.detailsURL}`, err);
+        console.error(
+          `Error while fetching card list for ${decklist.detailsURL}`,
+          err
+        );
       }
     } else {
-      console.log(`Skipping decklist ${decklist.detailsURL} as cards are already present`);
+      console.log(
+        `Skipping decklist ${decklist.detailsURL} as cards are already present`
+      );
     }
   };
 }
