@@ -1,182 +1,193 @@
-# Spiele Pyramide Karlsruhe Set Championship Azurite Seas
+# Spielwaren Neusser Heidelberg Set Championship Azurite Seas
 
-Second set championship for me, this time in Karlsruhe Spiele Pyramide - a location where I have been already a few times. There is a very good local community with a high degree of competetivess found. Melee tournament link https://melee.gg/Tournament/View/226465
+As with every set championship period I try to play in the Neusser Spielwaren in Heidelberg, as this is a family owned play store and they have a good organization for Lorcana. Melee event link https://melee.gg/Tournament/View/216702
 
-## Spiele Pyramide Karlsruhe Set Championship Azurite Seas Meta Report
+## Spielwaren Neusser Set Championship Azurite Seas Meta Report
 
 ### Overall
 
-Ruby Amethyst Bounce: 6
-Ruby Sapphire Control: 3
-Amethyst Steel Midrange: 3
+Amber Steel Songs: 3
+Ruby Amethyst Bounce: 3
 Amber Steel Aggro: 2
-Amber Amethyst Hyper Aggro: 1
+Ruby Sapphire Control: 2
 Amber Emerald Discard: 1
-Amber Steel Songs: 1
+Amber Steel Mufasa: 1
+Amber Steel Locations: 1
 Amethyst Emerald Tempo: 1
+Amethyst Steel Midrange: 1
+Emerald Steel Beast: 1
 Emerald Steel Discard: 1
-Ruby Steel Pirates: 1
-Sapphire Steel Tempo: 1
 
 ### Top 8
 
+Emerald Steel Beast
+Amethyst Steel Midrange
 Ruby Amethyst Bounce
 Amber Steel Aggro
-Ruby Sapphire Control
+Amber Steel Mufasa
+Amber Steel Locations
+Amber Steel Songs
 Ruby Amethyst Bounce
-Amber Steel Aggro
-Emerald Steel Discard
-Ruby Sapphire Control
 
 ## Tournament Rounds
 
-Another try with Ruby Sapphire Control - I still have a very good feeling on the deck, especially into more Steel based metas. This was not the case yesterday - but found this our too late. Deck is running low on uninkable cards to allow consistent ramp on turn 2. https://dreamborn.ink/decks/SNqJycqw6yyA5qWBHzIM
+Yet another try with my Ruby Sapphire Control build, this time including the Sisu and the Ice block combination again - https://dreamborn.ink/decks/VyXRd3MLawgmxGgWElDX.
 
 4 Vision of the Future
-4 Maleficent - Monstrous Dragon
+3 Maleficent - Monstrous Dragon
 4 Brawl
 4 Pawpsicle
 4 Hiram Flaversham - Toymaker
 4 Maui - Half-Shark
-4 Be Prepared
+3 Be Prepared
 4 Sail The Azurite Sea
 4 Tipo - Growing Son
-4 How Far I'll Go
-4 Maui - Hero to All
+3 How Far I'll Go
+2 Maui - Hero to All
 3 A Pirate's Life
-4 Gramma Tala - Keeper of Ancient Stories
+3 Gramma Tala - Keeper of Ancient Stories
 2 Vitalisphere
-4 Develop Your Brain
+2 Develop Your Brain
 3 McDuck Manor - Scrooge's Mansion
+3 Ice Block
+3 Sisu - Empowered Sibling
+3 Gaston - Arrogant Hunter
+1 Scar - Vicious Cheater
 
 ### Round 1
 
-Round 1 paired me into Romwald and his Amethyst Steel Midrange deck. In the first game he had two perfect timed Along Came Zeus cards to remove my Half Sharks and leave me a bit down in the dust. In both other games I was able to take over control and as well establish the McDuck Manors as additional pressure point.
+Round 1 paired me into Kira and her Amber Steel Mufasa build which was inspired by Earlmeister's list. In both games I was not able to hit my ramp pieces, so she could quickly quest ahead of me and secure the win. As well this round was the start of the worst sequence of dice rolls I ever had in a tournament, as I started all five rounds on the draw.
 
 #### Game 1
 
-| Player             | Play | Lorecount                        | Win |
-| ------------------ | ---- | -------------------------------- | --- |
-| Me                 | (x)  | 1/3/4                            |     |
-| Romwald (Dlawmore) |      | 1/3/5/6/8/9/11/12/13/14/16/17/20 | (x) |
+| Player        | Play | Lorecount               | Win |
+| ------------- | ---- | ----------------------- | --- |
+| Me            |      | 1/2/3/5/7               |     |
+| Kira (RoXion) | (x)  | 1/5/9/11/13/15/17/18/20 | (x) |
 
 #### Game 2
 
-| Player             | Play | Lorecount                | Win |
-| ------------------ | ---- | ------------------------ | --- |
-| Me                 | (x)  | 1/2/3/5/9/13/16/17/19/20 | (x) |
-| Romwald (Dlawmore) |      | 1/3/4/5/7/5              |     |
+| Player        | Play | Lorecount      | Win |
+| ------------- | ---- | -------------- | --- |
+| Me            | (x)  | 1              |     |
+| Kira (RoXion) |      | 1/5/9/13/15/20 | (x) |
 
-#### Game 2
-
-| Player             | Play | Lorecount             | Win |
-| ------------------ | ---- | --------------------- | --- |
-| Me                 |      | 1/3/5/7/9/12/13/16/20 | (x) |
-| Romwald (Dlawmore) | (x)  | 1/2/3/4/6/7/8/6/4     |     |
-
-Result after round 1: **1-0-0**
+Result after round 1: **0-1-0**
 
 ### Round 2
 
-Round 2 pairing was into Tim, who is a consistent Ruby Amethyst player and as well in this event he brought that deck. Using a rather standard line he was able to easily beat me due to the early pressure from Flynn and Sisu and his constant card draw.
+Round 2 pairing was into Pierre and his version of Amber Steel Aggro with Dwarwen Mine. Again I started on the draw but got a good recovery in the first game, as I could stall him out at 19 lore and then claw back with Sharks and Pirates Life cycles. In the second game he could then quickly get to 20 lore and secure the win. Last game I was finally on the play and could apply pressure early on - so giving him only a small lead which was then manageable with the late control cards.
 
 #### Game 1
 
-| Player        | Play | Lorecount       | Win |
-| ------------- | ---- | --------------- | --- |
-| Me            |      |                 |     |
-| Tim (TimBlim) | (x)  | 1/4/5/8/9/14/20 | (x) |
+| Player            | Play | Lorecount                   | Win |
+| ----------------- | ---- | --------------------------- | --- |
+| Me                |      | 1/2/3/6/7/8/10/13/14/20     | (x) |
+| Pierre (-Pierre-) | (x)  | 2/7/11/13/14/15/16/19/17/15 |     |
 
 #### Game 2
 
-| Player        | Play | Lorecount                         | Win |
-| ------------- | ---- | --------------------------------- | --- |
-| Me            | (x)  | 1/2/4/5                           |     |
-| Tim (TimBlim) |      | 1/2/4/5/3/4/6/9/10/12/13/14/16/20 | (x) |
+| Player            | Play | Lorecount      | Win |
+| ----------------- | ---- | -------------- | --- |
+| Me                |      | 0              |     |
+| Pierre (-Pierre-) | (x)  | 2/6/9/16/18/20 | (x) |
 
 Result after round 2: **1-1-0**
 
 ### Round 3
 
-Round 3 pairing was into Maddon and his interesting build around Ruby Steel Pirates with locations. His key elements are the locations with quite a high willpower and then the combination of John Silver supporting all other pirates as captain and gaining more lore for each location in play. Luckily I had enough Maui Hero to All in my deck to effectively counter the locations and then combined with Maui Half Shark to lock down the board.
+Round 3 pairing was into Felix and his Ruby Amethyst Bounce build. This is a tough matchup for me, as he could usually outvalue me by the amount of card draw included in the deck. We got a back and forth - but unfortunately in the third game I got a hard brick and no draw capabilities, so he could easily secure the win from there.
 
 #### Game 1
 
-| Player          | Play | Lorecount            | Win |
-| --------------- | ---- | -------------------- | --- |
-| Me              | (x)  | 1/3/5/6/7/9/13/14/20 | (x) |
-| Maddon (Maddon) |      | 1/2/4/2              |     |
+| Player         | Play | Lorecount                           | Win |
+| -------------- | ---- | ----------------------------------- | --- |
+| Me             |      | 1/2/4/6/8/10/12/15/17/19/20         | (x) |
+| Felix (Varolz) | (x)  | 1/4/6/7/8/9/11/12/13/14/15/16/17/18 |     |
 
 #### Game 2
 
-| Player          | Play | Lorecount                  | Win |
-| --------------- | ---- | -------------------------- | --- |
-| Me              |      | 2/5/8                      |     |
-| Maddon (Maddon) | (x)  | 1/4/9/14/12/15/13/18/16/20 | (x) |
+| Player         | Play | Lorecount                               | Win |
+| -------------- | ---- | --------------------------------------- | --- |
+| Me             |      | 1/3                                     |     |
+| Felix (Varolz) | (x)  | 1/2/5/6/7/8/6/7/10/11/12/16/17/18/19/20 | (x) |
 
 #### Game 3
 
-| Player          | Play | Lorecount              | Win |
-| --------------- | ---- | ---------------------- | --- |
-| Me              | (x)  | 1/2/4/5/7/8/12/15/20   | (x) |
-| Maddon (Maddon) |      | 2/3/5/6/10/12/16/17/15 |     |
+| Player         | Play | Lorecount                | Win |
+| -------------- | ---- | ------------------------ | --- |
+| Me             | (x)  | 1/3/4                    | (x) |
+| Felix (Varolz) |      | 1/4/7/8/9/10/11/15/16/20 | (x) |
 
-Result after round 3: **2-1-0**
+Result after round 3: **1-2-0**
 
 ### Round 4
 
-2-1-0 meant another win would make certain to reach the topcut. I was paired into Tobi from team TaL and his Emerald Amethyst Tempo deck. I was able the secure the first game with double shark action. In the second game he had an optimal start with Merfolk and Banzei and made use of the GoGo bounce effect to gain lore. The last game was very close and we had a state of 17 to 17 locked down, he drew his only out to bounce the GoGo and win with it, due to the damage on my Hiram. I could have played in my turn Be Prepared to not allow this, but my own hand was not strong so I was afraid of not comming back from it.
+With 1-2-0 it was already crunch time to have even an outside chance to get into the Top 8. I got paired into Marco and his Amber Steel Songs build. We got some two very intensive games, where in the second game I lost due to deck out as he was able to cast all his four Whole New World cards during the game. In the last game then I was able to turbo ramp and put down two McDuck Manors after a Be Prepared - this was a situation that he could not recover from.
 
 #### Game 1
 
-| Player                  | Play | Lorecount                   | Win |
-| ----------------------- | ---- | --------------------------- | --- |
-| Me                      | (x)  | 1/2/5/7/9/10/12/14/16/18/20 | (x) |
-| Tobi (Tal_KogMawPassiv) |      | 2/6/9/10/8/9                |     |
+| Player           | Play | Lorecount             | Win |
+| ---------------- | ---- | --------------------- | --- |
+| Me               |      | 3/5/6/7/8/10/11/14/20 | (x) |
+| Marco (Nurephel) | (x)  | 3/8/14/16/19          |     |
 
 #### Game 2
 
-| Player                  | Play | Lorecount                     | Win |
-| ----------------------- | ---- | ----------------------------- | --- |
-| Me                      |      | 3/4/7/8/9/10                  |     |
-| Tobi (Tal_KogMawPassiv) | (x)  | 1/3/4/6/9/10/11/9/13/16/18/20 | (x) |
+| Player           | Play | Lorecount                     | Win |
+| ---------------- | ---- | ----------------------------- | --- |
+| Me               |      | 1/2/4/5/7/11/13/15            |     |
+| Marco (Nurephel) | (x)  | 1/4/9/11/14/17/18/16/14/16/20 | (x) |
 
 #### Game 3
 
-| Player                  | Play | Lorecount                  | Win |
-| ----------------------- | ---- | -------------------------- | --- |
-| Me                      | (x)  | 1/2/3/6/7/8/11/12/13/14/17 |     |
-| Tobi (Tal_KogMawPassiv) |      | 1/3/7/11/9/13/11/17/20     | (x) |
+| Player           | Play | Lorecount        | Win |
+| ---------------- | ---- | ---------------- | --- |
+| Me               | (x)  | 1/2/3/7/11/12/20 | (x) |
+| Marco (Nurephel) |      | 2                |     |
 
 Result after round 4: **2-2-0**
 
 ### Round 5
 
-As I was now on 2-2-0 it was pretty clear the top cut was gone, there was around 1 to 2 spots for a 3-2-0 result but my tie breaker was not good at this point in time. I was paired into Hendrik with an Amber Emerald Discard deck - something rarely seen in this set. He had the nuts opening in game one and could close it pretty quickly, while in game two and three I could setup my pieces properly and his deck has usually nothing to wipe the sharks away, except You're Welcome and We Don't Talk About Bruno. The latter one can be hedged against with keeping some cards in hand.
+With 2-2-0 the top cut was still in reach due to the other mixed results on the top. I was paired into Martin and his Ruby Sapphire build. He won his game on the play and so did I with mine, but then we have been out of time - which unfortunately meant we both missed the top cut. Martin's deck was more optimized into the mirror match with Tamatoa and Lucky Dime included.
 
 #### Game 1
 
-| Player            | Play | Lorecount     | Win |
-| ----------------- | ---- | ------------- | --- |
-| Me                |      | 1             |     |
-| Hendrik (Seretim) | (x)  | 1/3/4/8/17/20 | (x) |
+| Player             | Play | Lorecount                | Win |
+| ------------------ | ---- | ------------------------ | --- |
+| Me                 |      | 1/2/4/6/8/10             |     |
+| Martin (Malomi207) | (x)  | 1/2/3/4/5/9/7/5/10/15/20 | (x) |
 
 #### Game 2
 
-| Player            | Play | Lorecount             | Win |
-| ----------------- | ---- | --------------------- | --- |
-| Me                | (x)  | 3/4/6/7/9/11/15/18/20 | (x) |
-| Hendrik (Seretim) |      | 1/0/1/2/0             |     |
+| Player             | Play | Lorecount                     | Win |
+| ------------------ | ---- | ----------------------------- | --- |
+| Me                 | (x)  | 1/3/4/5/7/9/11/13/14/15/17/20 | (x) |
+| Martin (Malomi207) |      | 1/2/3/6/8/6/8/11              |     |
 
-#### Game 3
-
-| Player            | Play | Lorecount                                 | Win |
-| ----------------- | ---- | ----------------------------------------- | --- |
-| Me                |      | 1/2/4/5/8/9/10/11/12/13/14/15/16/17/18/20 | (x) |
-| Hendrik (Seretim) | (x)  | 1/4/7/9/7/8                               |     |
-
-Result after round 5: **3-2-0**
+Result after round 5: **2-2-1**
 
 ### Result
 
-Due to the bad tie breaker I ended up on place 10 - equal points to place 8 which would have been the top cut, but still I was ok with my perfomance. Looking back it could have been the decision in game 3 of round 4 which made the difference - but you nether know.
+With the draw in the last round I missed the top cut by one place. A bit unfortunate but not changeable, mainly the loss against Felix on my play was the downfall of the series.
+
+| Rank | Players/Teams             | Match Record | Game Record | Points | OMW%      | TGW%      | OGW%      | Deck                    |
+| ---- | ------------------------- | ------------ | ----------- | ------ | --------- | --------- | --------- | ----------------------- |
+| 1    | Steffen Stadler He/Him    | 6-1-0        | 13-5-0      | 18     | 53.49206% | 72.22222% | 50.20865% | Amethyst Steel Midrange |
+| 2    | Andi1066                  | 5-1-1        | 12-5-0      | 16     | 52.19955% | 70.58824% | 49.06163% | Emerald Steel Beast     |
+| 3    | Varolz                    | 5-1-1        | 11-6-0      | 16     | 57.16931% | 64.70588% | 55.93850% | Ruby Amethyst Bounce    |
+| 4    | Tintenvorrat_Wooky He/Him | 5-2-0        | 12-8-0      | 15     | 60.38095% | 60.00000% | 57.97386% | Amber Steel Aggro       |
+| 5    | RoXion She/Her            | 3-3-0        | 8-8-0       | 9      | 60.79365% | 50.00000% | 57.55614% | Amber Steel Mufasa      |
+| 6    | EmperorXX                 | 3-3-0        | 8-9-0       | 9      | 60.00000% | 47.05882% | 60.19063% | Amber Steel Locations   |
+| 7    | GnF                       | 3-3-0        | 7-7-0       | 9      | 44.95238% | 50.00000% | 46.23077% | Amber Steel Songs       |
+| 8    | Hetti89                   | 2-2-2        | 7-8-0       | 8      | 54.47619% | 46.66667% | 54.62293% | Ruby Amethyst Bounce    |
+| 9    | shinobi64 He/Him          | 2-2-1        | 6-7-0       | 7      | 54.66667% | 46.15385% | 55.51282% | Ruby Sapphire Control   |
+| 10   | Malomi207 He/Him          | 2-2-1        | 7-5-0       | 7      | 46.66667% | 58.33333% | 49.87180% | Ruby Sapphire Control   |
+| 11   | Alex8289                  | 2-3-0        | 7-7-0       | 6      | 58.33333% | 50.00000% | 52.43590% | Amethyst Emerald Tempo  |
+| 12   | Nurephel He/Him           | 2-3-0        | 6-7-0       | 6      | 54.66667% | 46.15385% | 51.42191% | Amber Steel Songs       |
+| 13   | Jurki He/Him              | 2-3-0        | 5-7-0       | 6      | 54.66667% | 41.66667% | 52.44755% | Amber Steel Songs       |
+| 14   | RoterBaron                | 2-3-0        | 7-7-0       | 6      | 52.00000% | 50.00000% | 50.67832% | Emerald Steel Discard   |
+| 15   | -Pierre-                  | 2-3-0        | 6-6-0       | 6      | 51.66667% | 50.00000% | 50.52656% | Amber Steel Aggro       |
+| 16   | Ohli                      | 1-4-0        | 3-8-0       | 3      | 55.00000% | 33.33333% | 54.98252% | Ruby Amethyst Evasive   |
+| 17   | Ney53                     | 1-4-0        | 3-8-0       | 3      | 46.66667% | 33.33333% | 52.08333% | Amber Emerald Discard   |

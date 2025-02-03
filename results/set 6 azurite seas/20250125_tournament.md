@@ -67,7 +67,7 @@ Round 1 paired me into Romwald and his Amethyst Steel Midrange deck. In the firs
 | Me                 | (x)  | 1/2/3/5/9/13/16/17/19/20 | (x) |
 | Romwald (Dlawmore) |      | 1/3/4/5/7/5              |     |
 
-#### Game 2
+#### Game 3
 
 | Player             | Play | Lorecount             | Win |
 | ------------------ | ---- | --------------------- | --- |
