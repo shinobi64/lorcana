@@ -255,3 +255,23 @@ Standings after round 7 (final swiss round)
 | 106  | Dlawmor He/Him     | 2-5-0        | 7-11-0      | 6      | 40.81633% | 38.88889% | 43.58937% | Ruby Sapphire Control (DKP) |
 | 109  | Sigmea             | 2-5-0        | 6-11-0      | 6      | 37.68708% | 35.29412% | 42.03682% | Ruby Sapphire Control (DKP) |
 | 126  | Lucycat            | 0-6-0        | 3-12-0      | 0      | 34.92064% | 33.33333% | 35.84451% | Emerald Steel Discard       |
+
+### Meta Prediction
+
+| Deck                     | Color Combination | Archetype | Metashare | Cummulative Metashare | Players (128 based) | Players (256 based) |
+| ------------------------ | ----------------- | --------- | --------- | --------------------- | ------------------- | ------------------- |
+| Amber Emerald Chernadog  | Amber/ Emerald    | Aggro     | 10%       | 10%                   | 13                  | 26                  |
+| Amber Emerald Discard    | Amber/ Emerald    | Discard   | 3%        | 13%                   | 4                   | 8                   |
+| Amber Steel Songs        | Amber/ Steel      | Control   | 10%       | 23%                   | 13                  | 26                  |
+| Amber Steel Aggro        | Amber/ Steel      | Aggro     | 10%       | 33%                   | 13                  | 26                  |
+| Amethyst Emerald Discard | Amethyst/ Emerald | Discard   | 10%       | 43%                   | 13                  | 26                  |
+| Amethyst Emerald Tempo   | Amethyst/ Emerald | Aggro     | 8%        | 51%                   | 10                  | 20                  |
+| Amethyst Steel Aggro     | Amethyst/ Steel   | Aggro     | 10%       | 61%                   | 13                  | 26                  |
+| Emerald Steel Discard    | Emerald/ Steel    | Discard   | 10%       | 71%                   | 13                  | 26                  |
+| Emerald Steel Locations  | Emerald/ Steel    | Aggro     | 1%        | 72%                   | 1                   | 3                   |
+| Ruby Amethyst Bounce     | Ruby/ Amethyst    | Control   | 10%       | 82%                   | 13                  | 26                  |
+| Ruby Sapphire DKP        | Ruby/ Sapphire    | Midrange  | 7%        | 89%                   | 9                   | 18                  |
+| Ruby Sapphire Control    | Ruby/ Sapphire    | Control   | 5%        | 94%                   | 6                   | 13                  |
+| Ruby Steel Challenger    | Ruby/ Steel       | Midrange  | 2%        | 96%                   | 3                   | 5                   |
+| Sapphire Steel Aggro     | Sapphire/ Steel   | Aggro     | 3%        | 99%                   | 4                   | 8                   |
+| Sapphire Steel Ramp      | Sapphire/ Steel   | Ramp      | 1%        | 100%                  | 1                   | 3                   |
