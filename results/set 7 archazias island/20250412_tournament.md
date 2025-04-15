@@ -1,52 +1,29 @@
 # Ostlore Caggtus Leipzig
 
-Regular liga event in constructed format. Twenty players showed up for the regular liga event https://melee.gg/Tournament/View/285490
+Another large event in the "lore" series. This time in Leipzig as part of the trade fair Caggtus - which is usually more oriented towards PC gaming. However Battle Bear store and Tintenvorrat organized the so called Eastlore (as in eastern part of Germany) with up to 128 participants. Finally 126 participants showed up, which was quite a good number. Everbody was eager to see how the meta would be following the Flaversham and Fortisphere bans. Melee details on https://melee.gg/Tournament/View/287557 - decklists can be seen on inkdecks via https://inkdecks.com/lorcana-tournaments/ostlore-meisterschaft-tournament-decks-287557
 
-## Casual Rounds
+## Ostlore Meta Report
 
-Before the event I tested a few matches together with Alex as he was there early.
+### Top 16
 
-### Match 1
+Emerald Steel Discard: 3
+Ruby Sapphire Control: 3
+Amethyst Emerald Discard: 2
+Ruby Amethyst Bounce: 2
+Amber Steel Songs: 1
+Emerald Sapphire Control: 1
+Amber Ruby Mufasa: 1
 
-First match was with my Amethyst Emerald Discard deck against his Amber Steel songs decklist. In the first game I could not get the songs quick enough out, while in the second game it went all according to plan and I could widen my board and drag his songs out using Ursula.
+### Top 4
 
-Decklist
+Ruby Sapphire Control
+Ruby Amethyst Bounce
+Ruby Amethyst Bounce
+Emerald Steel Discard
 
-- 2 Cri-Kee - Lucky Cricket
-- 4 Diablo - Devoted Herald
-- 4 Diablo - Maleficent's Spy
-- 4 Diablo - Obedient Raven
-- 3 Diablo - Spiteful Raven
-- 4 Elsa - The Fifth Spirit
-- 4 Friends on the Other Side
-- 4 Genie - Wish Fulfilled
-- 4 Hypnotize
-- 3 Madam Mim - Fox
-- 4 Merlin - Crab
-- 4 Sudden Chill
-- 4 Ursula - Deceiver
-- 4 We Don't Talk About Bruno
-- 2 Lucifer - Cunning Cat
-- 4 Ursula - Deceiver of All
-- 2 Strike A Good Match
+## Tournament Rounds
 
-#### Game 1
-
-| Player       | Play | Lorecount    | Win |
-| ------------ | ---- | ------------ | --- |
-| Me           |      | 1            |     |
-| Alex (Al-ex) | (x)  | 2/4/10/16/20 | (x) |
-
-#### Game 2
-
-| Player       | Play | Lorecount     | Win |
-| ------------ | ---- | ------------- | --- |
-| Me           | (x)  | 1/2/4/7/12/20 | (x) |
-| Alex (Al-ex) |      | 2/4/6/8       |     |
-
-### Match 2
-
-Second match I switched over to a the post ban Ruby Sapphire control list, while Alex switched to Emerald Steel discard. I could get my stuff on the board and had some reasonable card draw effects - that helped to establish the control.
+I went into the tournament after some more testing with Artabax and my updated Ruby Sapphire control list. I included some Maurice Workshop cards to extend my card draw of the items - while this being slower than Flaversham it's quite reliable - but the timing sequence needs to be adjusted.
 
 Decklist
 
@@ -72,172 +49,195 @@ Decklist
 - 2 Great Stone Dragon
 - 2 Maurice's Workshop
 
-#### Game 1
-
-| Player       | Play | Lorecount         | Win |
-| ------------ | ---- | ----------------- | --- |
-| Me           | (x)  | 4/8/9/11/12/14/20 | (x) |
-| Alex (Al-ex) |      | 0                 |     |
-
-## Card Club Hockenheim Weekly Liga Meta Report
-
-### Spieler 20
-
-Amethyst Steel Aggro: 3
-Emerald Steel Discard: 2
-Ruby Amethyst Bounce: 2
-Ruby Sapphire Control: 2
-Amber Emerald Chernadog: 2
-Amber Steel Aggro: 1
-Amber Steel Songs: 1
-Amethyst Emerald Discard: 1
-Amethyst Emerald Tempo: 1
-Amethyst Sapphire Blurple: 1
-Amethyst Steel Jafar: 1
-Emerald Steel Midrange: 1
-Ruby Amethyst Bounce: 1
-Ruby Amethyst Challenger: 1
-Ruby Steel Challenger: 1
-Sapphire Steel Aggro: 1
-
-### Top 3
-
-Emerald Steel Midrange
-Emerald Steel Discard
-Amethyst Sapphire Blurple
-
-## Tournament Rounds
-
-I tested the Ruby Sapphire control deck already a bit, so I tried out a more aggressive deck for the event - especially to have a bit ease of mind and not grindy games all night long
-
-Decklist
-
-- 4 Lady - Elegant Spaniel
-- 4 Tramp - Enterprising Dog
-- 4 Tramp - Street-Smart Dog
-- 4 Daisy Duck - Donald's Date
-- 4 Nala - Mischievous Cub
-- 4 Cursed Merfolk - Ursula's Handiwork
-- 4 Little John - Camp Cook
-- 4 Lilo - Escape Artist
-- 2 Go Go Tomago - Darting Dynamo
-- 4 Ursula - Deceiver
-- 4 Yzma - Exasperated Schemer
-- 4 Donald Duck - Musketeer Soldier
-- 4 Kit Cloudkicker - Tough Guy
-- 4 Rapunzel - Gifted with Healing
-- 3 Cri-Kee - Lucky Cricket
-- 3 Chernabog - Evildoer
-
 ### Round 1
 
-Round one paring was with Sören and his Amethyst Steel aggro list. I could get my games on the play through - while the one on the draw I was unable to get the songs out in time.
+Round one paring was with Thorge and his Amethyst Emerald tempo deck. I was initially on the draw as I lost the dice roll and he opened up with the inevitable Merfolk setup. This was a point in time where I was already frustrated as this is one of my harder matchups. However after loosing game one I could turn the corner in game two and three to achieve a first round victory.
 
 #### Game 1
 
-| Player        | Play | Lorecount    | Win |
-| ------------- | ---- | ------------ | --- |
-| Me            | (x)  | 1/3/11/20    | (x) |
-| Sören (Brudi) |      | 1/2/4/6/8/10 |     |
+| Player              | Play | Lorecount      | Win |
+| ------------------- | ---- | -------------- | --- |
+| Me                  |      | 0              |     |
+| Thorge (MOIN_CNTPD) | (x)  | 2/6/8/11/16/20 | (x) |
 
 #### Game 2
 
-| Player        | Play | Lorecount                | Win |
-| ------------- | ---- | ------------------------ | --- |
-| Me            |      | 5/10                     |     |
-| Sören (Brudi) | (x)  | 2/3/4/6/8/12/14/15/16/20 | (x) |
+| Player              | Play | Lorecount                | Win |
+| ------------------- | ---- | ------------------------ | --- |
+| Me                  | (x)  | 3/5/7/9/11/13/15/20      | (x) |
+| Thorge (MOIN_CNTPD) |      | 1/2/3/4/5/6/7/9/10/12/13 |     |
 
 #### Game 3
-
-| Player        | Play | Lorecount  | Win |
-| ------------- | ---- | ---------- | --- |
-| Me            | (x)  | 2/12/19/20 | (x) |
-| Sören (Brudi) |      | 1/2/3/4/6  |     |
-
-Result after round 1: **1-0-0**
-
-### Round 2
-
-Round two was with Andre and his Amethyst Sapphire Blruple deck. I could get into aggressive starts - however the top deck of a Madame Mim Fox changed the game to let Andre get back into control.
-
-#### Game 1
 
 | Player              | Play | Lorecount       | Win |
 | ------------------- | ---- | --------------- | --- |
-| Me                  | (x)  | 2/6/10/14/17/20 | (x) |
-| Andre (andrecruz19) |      | 1/2/3/5/6       |     |
+| Me                  |      | 3/6/12/13/17/20 | (x) |
+| Thorge (MOIN_CNTPD) | (x)  | 2/6/9/12/15/17  |     |
 
-#### Game 2
+Result after round 1: **1-0-0**
+Place after round 1: 48
 
-| Player              | Play | Lorecount          | Win |
-| ------------------- | ---- | ------------------ | --- |
-| Me                  |      | 8/12/14            |     |
-| Andre (andrecruz19) | (x)  | 1/2/4/7/8/10/13/20 | (x) |
+### Round 2
 
-#### Game 3
-
-| Player              | Play | Lorecount               | Win |
-| ------------------- | ---- | ----------------------- | --- |
-| Me                  | (x)  | 2/8/14/16/17            |     |
-| Andre (andrecruz19) |      | 1/3/4/6/7/8/10/12/14/20 | (x) |
-
-Result after round 2: **1-1-0**
-
-### Round 3
-
-Final round pairing was with Sebastian and his Emerald Steel discard deck. In the first game the second Hidden Cove wrecked my game plan, while in the second game I could get his songs out using my Ursula in time to establish my board. Third game was close, but as soon as he could sing with Ursula it was over.
+Round two paring was with Andreas - as it was inevitable with 10 local participants in a 126 player tournament to not be paired up with friends. I was able to take game one, he got game two but we only had very limited time left in game three - so we ended in a draw. This was unfortunate as I had the better position in game three and mostly missed three turns to close the game out. Especially in game one I could benefit from my card draw off the workshop combined with the Pawpsicles and Tamatoa combinations. Andi was forced to hard cast We don't talk about Bruno four times to get rid of the Tamatoa.
 
 #### Game 1
 
-| Player             | Play | Lorecount       | Win |
-| ------------------ | ---- | --------------- | --- |
-| Me                 | (x)  | 1/5/9/14/16/18  |     |
-| Sebastian (bastii) |      | 1/3/17/11/14/20 | (x) |
+| Player             | Play | Lorecount      | Win |
+| ------------------ | ---- | -------------- | --- |
+| Me                 | (x)  | 1/3/6/12/15/20 | (x) |
+| Andreas (Andi1066) |      | 1/2/4          |     |
 
 #### Game 2
 
-| Player             | Play | Lorecount       | Win |
-| ------------------ | ---- | --------------- | --- |
-| Me                 | (x)  | 1/6/12/16/18/20 | (x) |
-| Sebastian (bastii) |      | 0               |     |
+| Player             | Play | Lorecount             | Win |
+| ------------------ | ---- | --------------------- | --- |
+| Me                 |      | 1/3/4                 |     |
+| Andreas (Andi1066) | (x)  | 1/3/4/8/9/10/11/14/20 | (x) |
 
 #### Game 3
 
-| Player             | Play | Lorecount        | Win |
-| ------------------ | ---- | ---------------- | --- |
-| Me                 |      | 7/11/14/15       |     |
-| Sebastian (bastii) | (x)  | 1/2/3/4/10/16/20 | (x) |
+| Player             | Play | Lorecount | Win |
+| ------------------ | ---- | --------- | --- |
+| Me                 | (x)  | 1/2/5/6   |     |
+| Andreas (Andi1066) |      | 1/3/5/7   |     |
 
-Result after round 2: **1-2-0**
+Result after round 2: **1-0-1**
+Place after round 2: 29
+
+### Round 3
+
+Round three pairing was with a team mate of Lukas IKO team. He played a conservative Ruby Amethyst bounce list which was good to gain a lot of card advantage over my build. I was not able to handle the libraries efficient enough early on, so his card advantage was too much to overcome and he could win both games.
+
+#### Game 1
+
+| Player            | Play | Lorecount                                   | Win |
+| ----------------- | ---- | ------------------------------------------- | --- |
+| Me                |      | 2                                           |     |
+| Lukas (IKO_Spike) | (x)  | 1/3/4/5/6/7/8/10/11/12/14/15/16/17/18/19/20 | (x) |
+
+#### Game 2
+
+| Player            | Play | Lorecount                       | Win |
+| ----------------- | ---- | ------------------------------- | --- |
+| Me                | (x)  | 1/2/3                           |     |
+| Lukas (IKO_Spike) |      | 1/2/3/4/5/7/8/10/12/14/15/16/20 | (x) |
+
+Result after round 3: **1-1-1**
+Place after round 3: 61
+
+### Round 4
+
+Round four paring was with Tobias and again a Ruby Amethyst build. This time it was more teched against Sapphire Steel which was a bit more favorable for me. He was a bit slower with card draw, so he could not outvalue myself by card advantage.
+
+#### Game 1
+
+| Player                    | Play | Lorecount              | Win |
+| ------------------------- | ---- | ---------------------- | --- |
+| Me                        |      | 1/2/0/3/4/6/8/10/11/20 | (x) |
+| Tobias (Tobias Poswistak) | (x)  | 1/2/3/5/7/8/9/10       |     |
+
+#### Game 2
+
+| Player                    | Play | Lorecount                | Win |
+| ------------------------- | ---- | ------------------------ | --- |
+| Me                        |      | 2/4/6/8/10/13/14/16/20   | (x) |
+| Tobias (Tobias Poswistak) | (x)  | 1/2/3/5/6/7/8/10/11/9/10 |     |
+
+Result after round 4: **2-1-1**
+Place after round 4: 39
+
+### Round 5
+
+Round five was pairing into Carl with an Amber Steel songs deck. There were some interesting plays from his side where he was forced to Zeus his own Troubador to then Strength his own Lawrence - just to get three cards from Rapunzel healing. In the first game he could go fast enough to blow me out. In the second game he made a crucial mistake to cripple his hand size while I had still a lot of options in my hand. In the final game he ran out of gas while I could deploy my control pieces to close out the close game.
+
+#### Game 1
+
+| Player                      | Play | Lorecount           | Win |
+| --------------------------- | ---- | ------------------- | --- |
+| Me                          | (x)  | 3/6/9               |     |
+| Carl (SN3R_Bierdosenritter) |      | 1/3/7/10/13/15/16/2 | (x) |
+
+#### Game 2
+
+| Player                      | Play | Lorecount | Win |
+| --------------------------- | ---- | --------- | --- |
+| Me                          | (x)  | 20        | (x) |
+| Carl (SN3R_Bierdosenritter) |      | 1/4/6     |     |
+
+#### Game 3
+
+| Player                      | Play | Lorecount               | Win |
+| --------------------------- | ---- | ----------------------- | --- |
+| Me                          |      | 3/6/9/12/20             | (x) |
+| Carl (SN3R_Bierdosenritter) | (x)  | 2/5/7/10/12/14/16/17/19 |     |
+
+Result after round 5: **3-1-1**
+Place after round 5: 21
+
+After round four there was a small lunch break and with a 3-1-1 result at that point in time I was feeling very good - while I'd still need two more wins.
+
+### Round 6
+
+Round six pairing was with a team mate of Manuel from The Chasing Rabbits team. Sung was playing a Ruby Amethyst bounce list which was heavily shaped against Diablo and the discard decks. The first game was a very intense battle for the advantage - I was finally able to close it out using the Lucky Dime. In the second game I could not draw into my conditions and in the third game I bricked a bit in the beginning which costed me the game. With a more normal curve play in game three we would have gone into a draw.
+
+#### Game 1
+
+| Player              | Play | Lorecount                             | Win |
+| ------------------- | ---- | ------------------------------------- | --- |
+| Me                  | (x)  | 1/2/5/11/11/13/15/17/20               | (x) |
+| Sung (TCR_DeepBlue) |      | 1/2/3/4/7/8/9/10/12/13/14/12/13/14/15 |     |
+
+#### Game 2
+
+| Player              | Play | Lorecount                             | Win |
+| ------------------- | ---- | ------------------------------------- | --- |
+| Me                  |      | 1/3                                   |     |
+| Sung (TCR_DeepBlue) | (x)  | 1/2/3/4/6/7/8/10/11/12/14/16/17/19/20 | (x) |
+
+#### Game 3
+
+| Player              | Play | Lorecount                            | Win |
+| ------------------- | ---- | ------------------------------------ | --- |
+| Me                  | (x)  | 0                                    |     |
+| Sung (TCR_DeepBlue) |      | 1/3/4/5/6/7/8/9/11/12/15/16/17/18/20 | (x) |
+
+Result after round 6: **3-2-1**
+Place after round 6: 40
+
+### Round 7
+
+Final swiss round pairing was against Jeff, another team mate from Manuel. Jeff has played the whole day in my close proximity, so it was a matter of time to be paired into him. He played a Emerald Steel discard list and was able to goat me in game one to close it off with a not removeable Diablo. In the second game I could get my pieces into play early on and control his board. In the last game he got really lucky with the three We don't talk about Bruno plays - as he got all three times the valueable cards from my hand.
+
+#### Game 1
+
+| Player                  | Play | Lorecount                 | Win |
+| ----------------------- | ---- | ------------------------- | --- |
+| Me                      | (x)  | 1                         |     |
+| Jeff (TCR_JeffDerGraue) |      | 1/2/3/6/10/11/13/14/16/20 | (x) |
+
+#### Game 2
+
+| Player                  | Play | Lorecount        | Win |
+| ----------------------- | ---- | ---------------- | --- |
+| Me                      | (x)  | 1/3/6/8/13/18/20 | (x) |
+| Jeff (TCR_JeffDerGraue) |      | 4/10             |     |
+
+#### Game 3
+
+| Player                  | Play | Lorecount             | Win |
+| ----------------------- | ---- | --------------------- | --- |
+| Me                      |      | 0                     |     |
+| Jeff (TCR_JeffDerGraue) | (x)  | 1/2/3/4/9/11/13/18/20 | (x) |
+
+Result after round 6: **3-3-1**
+Place after round 6: 57
 
 ### Result
 
-With a 1-2-0 it was confirmed that this deck is niche. It has some good legs in a more challenge oriented meta - but the current Sapphire dominated meta does not allow for this.
+I felt overall good with my deck. There had been a few unlucky situations and situations where the higher uninkable count of 16 definitly held me back. I should have exchanged the Kuzco with the Hide Away for better accessibility and earlier clear up potential on the Belle's Library - which was a menace in the Ruby Amethyst matchups. Card draw wise it was ok for 95% of the games, so workshop and Tamatoa cycling is a good way to go.
 
-| Rank | Players/Teams      | Match Record | Game Record | Points | OMW%      | TGW%       | OGW%      | Deck                      |
-| ---- | ------------------ | ------------ | ----------- | ------ | --------- | ---------- | --------- | ------------------------- |
-| 1    | keo He/Him         | 3-0-0        | 6-0-0       | 9      | 55.55556% | 100.00000% | 55.55556% | Emerald Steel Midrange    |
-| 2    | bastii             | 3-0-0        | 6-1-0       | 9      | 44.44444% | 85.71429%  | 48.14815% | Emerald Steel Discard     |
-| 3    | andrecruz19 He/Him | 3-0-0        | 6-2-0       | 9      | 44.44444% | 75.00000%  | 42.59259% | Amethyst Sapphire Blurple |
-| 4    | Randalex89         | 2-1-0        | 4-2-0       | 6      | 66.66667% | 66.66667%  | 63.49206% | Amethyst Emerald Discard  |
-| 5    | Nanzu1991          | 2-1-0        | 4-2-0       | 6      | 55.55556% | 66.66667%  | 50.79365% | Amethyst Steel Jafar      |
-| 6    | ChrC56             | 2-1-0        | 4-3-0       | 6      | 55.55556% | 57.14286%  | 61.11111% | Amethyst Steel Aggro      |
-| 7    | Jurki He/Him       | 2-1-0        | 4-3-0       | 6      | 55.55556% | 57.14286%  | 57.14286% | Amber Steel Songs         |
-| 8    | Ohli               | 2-1-0        | 4-4-0       | 6      | 55.55556% | 50.00000%  | 54.16667% | Ruby Amethyst Bounce      |
-| 9    | McLovinLOL Xe/Xem  | 2-1-0        | 5-2-0       | 6      | 44.44444% | 71.42857%  | 42.65873% | Amber Steel Aggro         |
-| 10   | Andi1066           | 2-1-0        | 4-3-0       | 6      | 33.33333% | 57.14286%  | 37.89683% | Emerald Steel Discard     |
-| 11   | shinobi64 He/Him   | 1-2-0        | 4-5-0       | 3      | 77.77778% | 44.44444%  | 66.07143% | Amber Emerald Chernadog   |
-| 12   | -Pierre-           | 1-2-0        | 2-4-0       | 3      | 77.77778% | 33.33333%  | 69.84127% | Amber Emerald Chernadog   |
-| 13   | _Alex_             | 1-2-0        | 3-4-0       | 3      | 66.66667% | 42.85714%  | 63.49206% | Ruby Amethyst Challenge   |
-| 14   | Swordinator        | 1-2-0        | 4-4-0       | 3      | 55.55556% | 50.00000%  | 50.00000% | Ruby Sapphire Midrange    |
-| 15   | Ironlady94 She/Her | 1-2-0        | 3-5-0       | 3      | 55.55556% | 37.50000%  | 46.82540% | Ruby Sapphire Control     |
-| 16   | Brudi He/Him       | 1-2-0        | 3-5-0       | 3      | 44.44444% | 37.50000%  | 52.91005% | Amethyst Steel Aggro      |
-| 17   | TabascoEye He/Him  | 1-2-0        | 3-4-0       | 3      | 33.33333% | 42.85714%  | 40.27778% | Amethyst Emerald Tempo    |
-| 18   | Marzipan87 He/They | 0-3-0        | 0-6-0       | 0      | 66.66667% | 33.33333%  | 63.49206% | Amethyst Steel Aggro      |
-| 19   | 4l3andr0           | 0-3-0        | 2-6-0       | 0      | 66.66667% | 33.33333%  | 56.54762% | Sapphire Steel Aggro      |
-| 20   | GnF                | 0-3-0        | 0-6-0       | 0      | 44.44444% | 33.33333%  | 52.38095% | Ruby Steel Challenger     |
-
-Standings after round 7
+Standings after round 7 (final swiss round)
 
 | Rank | Players/Teams      | Match Record | Game Record | Points | OMW%      | TGW%      | OGW%      | Deck                        |
 | ---- | ------------------ | ------------ | ----------- | ------ | --------- | --------- | --------- | --------------------------- |
@@ -251,11 +251,3 @@ Standings after round 7
 | 106  | Dlawmor He/Him     | 2-5-0        | 7-11-0      | 6      | 40.81633% | 38.88889% | 43.58937% | Ruby Sapphire Control (DKP) |
 | 109  | Sigmea             | 2-5-0        | 6-11-0      | 6      | 37.68708% | 35.29412% | 42.03682% | Ruby Sapphire Control (DKP) |
 | 126  | Lucycat            | 0-6-0        | 3-12-0      | 0      | 34.92064% | 33.33333% | 35.84451% | Emerald Steel Discard       |
-
-Round 1 Thorge (MOIN_CNTPD)
-Round 2 Andreas (Andi1066)
-Round 3 Lukas (IKO_Spike)
-Round 4 Tobias (Tobias Poswistak)
-Round 5 Carl (SN3R_Bierdosenritter)
-Round 6 Sung (TCR_DeepBlue)
-Round 7 Jeff (TCR_JeffDerGraue)
