@@ -4,22 +4,26 @@ Another large event in the "lore" series. This time in Leipzig as part of the tr
 
 ## Ostlore Meta Report
 
-### Top 16
+### All
 
-Emerald Steel Discard: 3
-Ruby Sapphire Control: 3
-Amethyst Emerald Discard: 2
-Ruby Amethyst Bounce: 2
-Amber Steel Songs: 1
-Emerald Sapphire Control: 1
-Amber Ruby Mufasa: 1
+Ruby Sapphire: 26 (15)
+Amber Steel: 22 (26)
+Ruby Amethyst: 15 (13)
+Amethyst Emerald: 13 (23)
+Emerald Steel: 13 (14)
+Amber Emerald: 9 (17)
+Amethyst Sapphire: 8 (0)
+Amber Ruby: 6 (0)
+Amethyst Steel: 5 (13)
+Sapphire Steel: 5 (5)
+Emerald Sapphire: 3 (0)
+Ruby Steel: 1 (3)
 
-### Top 4
+### Top 8
 
-Ruby Sapphire Control
-Ruby Amethyst Bounce
-Ruby Amethyst Bounce
-Emerald Steel Discard
+Emerald Steel: 3
+Ruby Sapphire: 3
+Ruby Amethyst: 2
 
 ## Tournament Rounds
 
