@@ -1,0 +1,8 @@
+CREATE COLUMN TABLE "MH_T_LORC_MATCHES"(
+	"Event" NVARCHAR(100),
+	"Round" INTEGER,
+	"Table" INTEGER,
+	"Player" NVARCHAR(100),
+	"Opponent" NVARCHAR(100),
+	"Result" NVARCHAR(20)
+);

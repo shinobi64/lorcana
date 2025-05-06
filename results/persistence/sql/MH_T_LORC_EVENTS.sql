@@ -1,0 +1,13 @@
+CREATE COLUMN TABLE "MH_T_LORC_EVENTS"(
+	"Event" NVARCHAR(100) NOT NULL,
+	"Date" DATE,
+	"Location" NVARCHAR(100),
+	"Meta" NVARCHAR(30),
+	"EventType" NVARCHAR(50),
+	"Type" NVARCHAR(100),
+	"PlayFormat" NVARCHAR(100),
+	"Melee" NVARCHAR(255),
+	PRIMARY KEY(
+		"Event"
+	)
+);

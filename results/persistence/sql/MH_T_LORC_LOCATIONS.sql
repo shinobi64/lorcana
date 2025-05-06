@@ -1,0 +1,8 @@
+CREATE COLUMN TABLE "MH_T_LORC_LOCATIONS"(
+	"Location" NVARCHAR(100) NOT NULL,
+	"Latitude" DOUBLE,
+	"Longitude" DOUBLE,
+	PRIMARY KEY(
+		"Location"
+	)
+);

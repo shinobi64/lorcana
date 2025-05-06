@@ -1,0 +1,7 @@
+{
+  "hostname": "<<add the database hostname>>",
+  "port": "<<add the database connect port>>",
+  "username": "<<add the user name>>",
+  "password": "<<add the user secret>>",
+  "schema": "<<default schema to use>>"
+}

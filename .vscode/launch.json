@@ -53,6 +53,20 @@
             ],
             "program": "${workspaceFolder}/results/melee/extractor.js",
             "cwd": "${workspaceFolder}/results/melee"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch DB Update",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/results/persistence/dist/main.js",
+            "cwd": "${workspaceFolder}/results/persistence/dist",
+            "env": {
+                "FORCE_DEFINITION": "false",
+                "TRUNCATE_DATA": "true"
+            }
         }        
     ]
 }

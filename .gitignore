@@ -4,4 +4,9 @@
 # npm
 node_modules
 
-# inkdeck results
+# build parts
+dist
+
+# environment files
+*.env
+*.system.json

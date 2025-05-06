@@ -1,0 +1,7 @@
+CREATE COLUMN TABLE "MH_T_LORC_META"(
+	"Meta" NVARCHAR(30) NOT NULL,
+	"Description" NVARCHAR(100),
+	PRIMARY KEY(
+		"Meta"
+	)
+);

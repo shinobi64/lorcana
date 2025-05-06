@@ -1,0 +1,8 @@
+CREATE COLUMN TABLE "MH_T_LORC_DECKS"(
+	"Deck" NVARCHAR(100) NOT NULL,
+	"ColorCombination" NVARCHAR(100),
+	"Characteristic" NVARCHAR(100),
+	PRIMARY KEY(
+		"Deck"
+	)
+);
