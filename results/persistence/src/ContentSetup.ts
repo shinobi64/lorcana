@@ -20,36 +20,36 @@ export class ContentSetup {
     );
     const objectList = [
       {
-        objectName: "MH_T_LORC_PLAYERS",
-        createStatementPath: "../sql/MH_T_LORC_PLAYERS.sql",
+        objectName: "MH_T_LORC_EXT_PLAYERS",
+        createStatementPath: "../sql/MH_T_LORC_EXT_PLAYERS.sql",
       },
       {
-        objectName: "MH_T_LORC_RESULTS",
-        createStatementPath: "../sql/MH_T_LORC_RESULTS.sql",
+        objectName: "MH_T_LORC_EXT_RESULTS",
+        createStatementPath: "../sql/MH_T_LORC_EXT_RESULTS.sql",
       },
       {
-        objectName: "MH_T_LORC_EVENTS",
-        createStatementPath: "../sql/MH_T_LORC_EVENTS.sql",
+        objectName: "MH_T_LORC_EXT_EVENTS",
+        createStatementPath: "../sql/MH_T_LORC_EXT_EVENTS.sql",
       },
       {
-        objectName: "MH_T_LORC_EVENTPLAYERS",
-        createStatementPath: "../sql/MH_T_LORC_EVENTPLAYERS.sql",
+        objectName: "MH_T_LORC_EXT_EVENTPLAYERS",
+        createStatementPath: "../sql/MH_T_LORC_EXT_EVENTPLAYERS.sql",
       },
       {
-        objectName: "MH_T_LORC_DECKS",
-        createStatementPath: "../sql/MH_T_LORC_DECKS.sql",
+        objectName: "MH_T_LORC_EXT_DECKS",
+        createStatementPath: "../sql/MH_T_LORC_EXT_DECKS.sql",
       },
       {
-        objectName: "MH_T_LORC_MATCHES",
-        createStatementPath: "../sql/MH_T_LORC_MATCHES.sql",
+        objectName: "MH_T_LORC_EXT_MATCHES",
+        createStatementPath: "../sql/MH_T_LORC_EXT_MATCHES.sql",
       },
       {
-        objectName: "MH_T_LORC_META",
-        createStatementPath: "../sql/MH_T_LORC_META.sql",
+        objectName: "MH_T_LORC_EXT_META",
+        createStatementPath: "../sql/MH_T_LORC_EXT_META.sql",
       },
       {
-        objectName: "MH_T_LORC_LOCATIONS",
-        createStatementPath: "../sql/MH_T_LORC_LOCATIONS.sql",
+        objectName: "MH_T_LORC_EXT_LOCATIONS",
+        createStatementPath: "../sql/MH_T_LORC_EXT_LOCATIONS.sql",
       },
     ];
     for (let i = 0; i < objectList.length; i++) {

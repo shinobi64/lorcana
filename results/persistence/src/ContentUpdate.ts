@@ -23,35 +23,35 @@ export class ContentUpdate {
 
     const objectList = [
       {
-        objectName: "MH_T_LORC_META",
+        objectName: "MH_T_LORC_EXT_META",
         dataPath: "../../meta.csv",
       },
       {
-        objectName: "MH_T_LORC_EVENTS",
+        objectName: "MH_T_LORC_EXT_EVENTS",
         dataPath: "../../events.csv",
       },
       {
-        objectName: "MH_T_LORC_EVENTPLAYERS",
+        objectName: "MH_T_LORC_EXT_EVENTPLAYERS",
         dataPath: "../../eventdetails.csv",
       },
       {
-        objectName: "MH_T_LORC_LOCATIONS",
+        objectName: "MH_T_LORC_EXT_LOCATIONS",
         dataPath: "../../locations.csv",
       },
       {
-        objectName: "MH_T_LORC_PLAYERS",
+        objectName: "MH_T_LORC_EXT_PLAYERS",
         dataPath: "../../players.csv",
       },
       {
-        objectName: "MH_T_LORC_DECKS",
+        objectName: "MH_T_LORC_EXT_DECKS",
         dataPath: "../../decks.csv",
       },
       {
-        objectName: "MH_T_LORC_MATCHES",
+        objectName: "MH_T_LORC_EXT_MATCHES",
         dataPath: "../../matches.csv",
       },
       {
-        objectName: "MH_T_LORC_RESULTS",
+        objectName: "MH_T_LORC_EXT_RESULTS",
         dataPath: "../../results.csv",
       },
     ];
