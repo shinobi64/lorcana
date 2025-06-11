@@ -1835,9 +1835,9 @@ Liga 2025-06-06,Draft,ChrC56,Draft,Play,Loss,2/3/7,1/3/4/7/13/20
 Liga 2025-06-06,Draft,RoXion,Draft,Draw,Loss,3/4/6/7/8/9/10,1/3/5/7/9/10/12/15/20
 Liga 2025-06-06,Draft,RoXion,Draft,Play,Loss,2/3/4/5/7,1/3/4/6/8/10/14/20
 Casual 2025-06-08,Emerald Ruby Actions,ITFairy,Amber Steel Songs,Play,Win,20,2
-Online 2025-06-09,Ruby Sapphire Control,Andi1066,Amethyst Steel Aggro,Play,Loss,1/2/7,1/3/6/12/13/14/16/17/20
-Online 2025-06-09,Ruby Sapphire Control,Andi1066,Amethyst Steel Aggro,Play,Win,1/2/7/9/10/14/20,1/3/5/6/7/9/11/12
-Online 2025-06-09,Ruby Sapphire Control,Andi1066,Amethyst Steel Aggro,Draw,Win,3/5/6/9/20,4/6/10/11/13/14/15/17
+Online 2025-06-09,Ruby Sapphire Items,Andi1066,Amethyst Steel Aggro,Play,Loss,1/2/7,1/3/6/12/13/14/16/17/20
+Online 2025-06-09,Ruby Sapphire Items,Andi1066,Amethyst Steel Aggro,Play,Win,1/2/7/9/10/14/20,1/3/5/6/7/9/11/12
+Online 2025-06-09,Ruby Sapphire Items,Andi1066,Amethyst Steel Aggro,Draw,Win,3/5/6/9/20,4/6/10/11/13/14/15/17
 Online 2025-06-09,Emerald Ruby Actions,Andi1066,Emerald Steel Discard,Play,Loss,0,1/3/5/9/11/12/20
 Online 2025-06-09,Emerald Ruby Actions,Andi1066,Emerald Steel Discard,Play,Loss,1/2/4/8/9/10/12/13,1/2/5/7/14/15/17/18/16/19/20
 Online 2025-06-09,Amber Amethyst Aggro,Andi1066,Emerald Steel Discard,Play,Loss,2/4/6/8/9,3/6/10/11/12/16/20
@@ -1853,3 +1853,8 @@ Online 2025-06-10,Sapphire Steel Ally,Sindorei,Amethyst Sapphire Blurple,Play,Wi
 Online 2025-06-10,Amber Steel Songs,Andi1066,Emerald Sapphire Clarabelle,Draw,Loss,4/7/9,4/5/9/17/19/20
 Online 2025-06-10,Amber Steel Songs,Andi1066,Emerald Sapphire Clarabelle,Play,Win,1/2/3/5/17/20,0
 Online 2025-06-10,Amber Steel Songs,Andi1066,Emerald Sapphire Clarabelle,Draw,Win,1/3/6/7/10/13/16/20,0
+Casual 2025-06-11,Sapphire Steel Ally,nastra,Amethyst Emerald Tempo,Play,Win,1/5/10/14/16/18/20,2/4/5/7
+Casual 2025-06-11,Emerald Ruby Actions,nastra,Ruby Sapphire Midrange,Draw,Win,1/2/4/6/8/11/12/14/17/15/20,1/3/4/6/7/10/11/13
+Casual 2025-06-11,Amber Steel Songs,nastra,Ruby Sapphire Items,Play,Loss,1/3/5/9/12/14/16,1/3/20
+Casual 2025-06-11,Amber Steel Songs,nastra,Amber Steel Aggro,Play,Win,4/6/13/20,1/4/5
+Casual 2025-06-11,Ruby Sapphire Items,nastra,Amber Steel Aggro,Draw,Loss,0,2/7/15/17/18/20
