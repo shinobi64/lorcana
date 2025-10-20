@@ -1,6 +1,6 @@
 # Mochi - Fabled Set Championship
 
-Set championship time in the Well. Unfortunately only 21 out of originally 30 registered persons showed up - I was going there directly from the camping ground.Event was run using the playhub - details on https://tcg.ravensburgerplay.com/events/189477. Was good to see that the player base is still mixed with participants from Biblis and Karlsruhe.
+Set championship time in the Mochi Cards store. Originally this was a very crowded event, as it was scheduled for Saturday morning. Then some players switched as we ended up with 15 players. Event was run using the playhub - details on https://tcg.ravensburgerplay.com/events/189477. With the 15 players we had to play 4 rounds and top 4 only - so there was sufficient time to attend the later scheduled event in the Card Club.
 
 ## Mochi Set Championship Meta Report
 
@@ -40,129 +40,133 @@ Sapphire Steel Midrange
 
 ## Tournament Rounds
 
-I opted to run the Yen Sid brooms deck again, which given the meta breakdown was a very bad choice, especially with multiple pairings into Amethyst Sapphire. Decklist on https://dreamborn.ink/decks/EGypfnlsTANOnFaMIhwA
+I opted to run a Ruby Amethyst Evasive deck using the singer mechanic and Second Star to the Right as main card draw engine. This is a deck which does not work well into Sapphire decks, as the main characters would then be sniped by Hades. Decklist on https://dreamborn.ink/decks/gbUZWc4UbNZfEqwhofwB
 
-- 4 Magic Broom - Illuminary Keeper
-- 4 Magic Broom - Aerial Cleaner
-- 4 Doc - Bold Knight
-- 4 Mr. Smee - Bumbling Mate
-- 2 Fire the Cannons!
-- 4 Strength of a Raging Fire
-- 4 Yen Sid - Powerful Sorcerer
-- 4 Merlin - Goat
-- 4 Giant Cobra - Ghostly Serpent
-- 4 Pete - Games Referee
-- 3 Genie - Wish Fulfilled
-- 4 Diablo - Obedient Raven
-- 4 Chernabog's Followers - Creatures of Evil
-- 3 Merlin - Crab
-- 4 Madam Mim - Fox
-- 2 Madam Mim - Snake
-- 2 The Library - A Gift for Belle
+- 4 Palace Guard - Spectral Sentry
+- 4 Mulan - Injured Soldier
+- 3 Mulan - Elite Archer
+- 4 Lumiere - Fiery Friend
+- 4 Powerline - Taking the Stage
+- 2 Madame Medusa - Deceiving Partner
+- 4 Mother Gothel - Vain Sorceress
+- 4 Max Goof - Rockin' Teen
+- 4 Dumbo - Ninth Wonder of the Universe
+- 4 Genie - Wish Fulfilled
+- 3 Iago - Giant Spectral Parrot
+- 3 Belle - Accomplished Mystic
+- 4 Elsa - The Fifth Spirit
+- 4 Maui - Half-Shark
+- 4 Be King Undisputed
+- 2 A Pirate's Life
+- 3 Second Star To The Right
 
 ### Round 1
 
-Round 1 paired me with Jan - as kind of a usual first round set champs pairing. Jan was on Emerald Steel discard - a match which is pretty hard due to the fast and control options available. I was able to take game one, was kind of stomped in game 2 and could wrap game 3 then in a fast sprint with Merlin Goat in overtime.
+Round 1 paired me with Oliver and his Amber Emerald aggressive decks utilizing the dogs and the Emerald Chromicon. As my deck is challenge based I could take out a lot of his characters early on and then use the Pirates Life song to regain the lore in the end.
 
 #### Game 1
 
-| Player       | Play | Lorecount                           | Win |
-| ------------ | ---- | ----------------------------------- | --- |
-| Me           | (x)  | 1/3/5/6/7/8/10/11/12/13/14/15/17/20 | (x) |
-| Jan (Nomlix) |      | 1/2/8                               |     |
+| Player         | Play | Lorecount   | Win |
+| -------------- | ---- | ----------- | --- |
+| Me             |      | 5/9/13/20   | (x) |
+| Oliver (Kroli) | (x)  | 2/5/7/12/13 |     |
 
 #### Game 2
 
-| Player       | Play | Lorecount         | Win |
-| ------------ | ---- | ----------------- | --- |
-| Me           |      | 1/3/5/6/7/8/10/11 |     |
-| Jan (Nomlix) | (x)  | 2/7/13            | (x) |
-
-#### Game 3
-
-| Player       | Play | Lorecount              | Win |
-| ------------ | ---- | ---------------------- | --- |
-| Me           | (x)  | 1/4/7/8/15/16/16/17/20 | (x) |
-| Jan (Nomlix) |      | 1/2                    |     |
+| Player         | Play | Lorecount      | Win |
+| -------------- | ---- | -------------- | --- |
+| Me             |      | 2/5/13/20      | (x) |
+| Oliver (Kroli) | (x)  | 12/14/16/14/16 |     |
 
 Result after round 1: **1-0-0**
 
 ### Round 2
 
-Round 2 pairing was into Manuel with his Amethyst Sapphire Blurple deck. That deck is so heavily teched to counter aggro and control matchups I could not really counter it, as I could not gain lore quick enough. On the flip side the control game is due to the better top end threats and the constant card draw in the blurple deck very hard too.
+Round 2 pairing was into Manuel with his Sapphire Steel midrange deck. As mentioned before Sapphire decks are a bane to my deck and so it played out during the two games.
 
 #### Game 1
 
-| Player           | Play | Lorecount                     | Win |
-| ---------------- | ---- | ----------------------------- | --- |
-| Me               | (x)  | 1/2/4/6/7/8/10/12/13/14/17/19 |     |
-| Manuel (Hetti89) |      | 2/3/7/8/12/16/20              | (x) |
+| Player           | Play | Lorecount          | Win |
+| ---------------- | ---- | ------------------ | --- |
+| Me               | (x)  | 1/2                |     |
+| Manuel (Hetti89) |      | 1/2/4/7/9/13/18/20 | (x) |
 
 #### Game 2
 
-| Player           | Play | Lorecount              | Win |
-| ---------------- | ---- | ---------------------- | --- |
-| Me               | (x)  | 1/2/5/8/10/11/12/15/20 | (x) |
-| Manuel (Hetti89) |      | 2/3/5/7/8              |     |
-
-#### Game 3
-
-| Player           | Play | Lorecount       | Win |
-| ---------------- | ---- | --------------- | --- |
-| Me               |      | 1/3/5/6         |     |
-| Manuel (Hetti89) | (x)  | 1/5/10/14/18/20 | (x) |
+| Player           | Play | Lorecount    | Win |
+| ---------------- | ---- | ------------ | --- |
+| Me               | (x)  | 1/3/5/7      |     |
+| Manuel (Hetti89) |      | 1/7/14/19/20 | (x) |
 
 Result after round 2: **1-1-0**
 
 ### Round 3
 
-Round 3 pairing was into Thomas and his Amethyst Sapphire deck. He included the Royal Guard next to the Belle to have even more answers for early game threats. In both games he could establish board control too early - so I had no chance to get into my own game plan.
+Round 3 pairing was into Sebastian and his Amethyst Sapphire blurple deck. Again the Sapphire component was hard for me and he found two times kind of the perfect lines and did not brick on the high uninkable count in his deck - so not much to do from my side.
 
 #### Game 1
 
-| Player          | Play | Lorecount   | Win |
-| --------------- | ---- | ----------- | --- |
-| Me              |      | 1/2/3/4/5/6 |     |
-| Thomas (Nexron) | (x)  | 2/5/12/12   | (x) |
+| Player           | Play | Lorecount        | Win |
+| ---------------- | ---- | ---------------- | --- |
+| Me               | (x)  | 1/2              |     |
+| Sebastian (SebD) |      | 2/3/6/8/10/19/20 | (x) |
 
 #### Game 2
 
-| Player          | Play | Lorecount        | Win |
-| --------------- | ---- | ---------------- | --- |
-| Me              | (x)  | 1/4/6/7/8/10/11  |     |
-| Thomas (Nexron) |      | 3/5/6/9/12/16/20 | (x) |
+| Player           | Play | Lorecount       | Win |
+| ---------------- | ---- | --------------- | --- |
+| Me               | (x)  | 1/2/3/4/5/6/7/8 |     |
+| Sebastian (SebD) |      | 3/9/11/17/20    | (x) |
 
 Result after round 3: **1-2-0**
 
 ### Round 4
 
-Round 4 paired me with Andre and his Amber Sapphire aggro deck. In both games where he was on the play he drew perfect curve plus perfect after cards, especially with four Sven cards into Alice and Wendy leaving me basically with no options to interact with his board. This game sealed it for me and I dropped afterwards with a 1-4-0 score.
+Round 4 paired me with Alexander and his Amethyst Sapphire deck. In the first game I had two out of my three Second Star cards in the mulligan and then drew directly into the third one. Second game was running good as I could establish the sharks and then sing multiple times Pirates Life. Last game he then had the Elsa line into my singers leaving me without comeback options.
 
 #### Game 1
 
-| Player              | Play | Lorecount            | Win |
-| ------------------- | ---- | -------------------- | --- |
-| Me                  | (x)  | 2/4/6/7/9            |     |
-| Andre (andrecruz19) |      | 2/6/9/11/13/14/16/20 | (x) |
+| Player                 | Play | Lorecount | Win |
+| ---------------------- | ---- | --------- | --- |
+| Me                     | (x)  | 0         |     |
+| Alexander (TopChicken) |      | 2/20      | (x) |
 
 #### Game 2
 
-| Player              | Play | Lorecount         | Win |
-| ------------------- | ---- | ----------------- | --- |
-| Me                  | (x)  | 1/2/4/5/7/9/11/20 | (x) |
-| Andre (andrecruz19) |      | 2/4/7/9/12/15     |     |
+| Player                 | Play | Lorecount             | Win |
+| ---------------------- | ---- | --------------------- | --- |
+| Me                     | (x)  | 1/2/3/5/6//8/11/14/20 | (x) |
+| Alexander (TopChicken) |      | 1/4/5/6/7/10/8/6      |     |
 
 #### Game 3
 
-| Player              | Play | Lorecount         | Win |
-| ------------------- | ---- | ----------------- | --- |
-| Me                  |      | 1/2/3/4           |     |
-| Andre (andrecruz19) | (x)  | 2/4/9/11/14/19/20 | (x) |
+| Player                 | Play | Lorecount       | Win |
+| ---------------------- | ---- | --------------- | --- |
+| Me                     |      | 2               |     |
+| Alexander (TopChicken) | (x)  | 1/2/3/8/9/14/20 | (x) |
 
-Result after round 4: **1-4-0**
+Result after round 4: **1-3-0**
 
 ### Result
 
-Pretty disappointed with the result, especially the heavy blurple meta which took me completely by surprise. In hind sight playing a tempo deck or a steel song may have been the better option here. I as well dropped the early for the later 2nd round of CardWings team liga - which we unfortunately lost as well.
+The result was to a certain degree expected with a deck that is outside of the main lines. However facing three out of four matches the worst matchups the deck can expect was unfortunate. Especially as there have been multiple aggressive decks around into which I'd have had a good matchup.
 
-Inkdecks has all the decklists available - https://inkdecks.com/events/view/341176
+Inkdecks has all the decklists available - https://inkdecks.com/lorcana-tournaments/mochi-cards-fabled-set-championship-tournament-decks-362560
+
+| Rank | Name                       | Points | Record | OMW % | OGW % | Deck                        |
+| ---- | -------------------------- | ------ | ------ | ----- | ----- | --------------------------- |
+| 1    | Swordinator                | 13     | 4-0-1  | 58.3% | 56.3% | Amethyst Steel Aggro        |
+| 2    | BattleBear Hetti89         | 13     | 4-0-1  | 51.9% | 50.7% | Sapphire Steel Midrange     |
+| 3    | BattleBear Jurki           | 9      | 3-2-0  | 60.7% | 59.1% | Amethyst Steel Aggro        |
+| 4    | 7 Serpents/Mr. Enchantless | 7      | 2-2-1  | 72.5% | 65.2% | Amethyst Steel Aggro        |
+| 5    | TCR_Darksteel              | 7      | 2-1-1  | 62.4% | 58.8% | Sapphire Steel Midrange     |
+| 6    | 7 Serpents\Andi1066        | 7      | 2-1-1  | 54.1% | 51.6% | Emerald Sapphire Clarabelle |
+| 7    | Seb D                      | 7      | 2-1-1  | 49.9% | 54.2% | Amethyst Sapphire Blurple   |
+| 8    | Enchannika                 | 6      | 2-2-0  | 60.3% | 52.6% | Emerald Steel Aggro         |
+| 9    | CC                         | 6      | 2-2-0  | 55.4% | 53.6% | Amethyst Steel Aggro        |
+| 10   | TopChicken                 | 6      | 2-2-0  | 51.9% | 51.7% | Amethyst Sapphire Blurple   |
+| 11   | Kroli                      | 6      | 2-2-0  | 37.3% | 39.9% | Amber Emerald Aggro         |
+| 12   | Jerry                      | 3      | 1-3-0  | 63.9% | 62.3% | Amber Steel Aggro           |
+| 13   | shinobi64                  | 3      | 1-3-0  | 60.4% | 55.9% | Ruby Amethyst Evasive       |
+| 14   | Demmy                      | 3      | 1-3-0  | 47.1% | 47.0% | Amethyst Sapphire Blurple   |
+| 15   | Dragolon                   | 3      | 1-3-0  | 45.8% | 45.2% | Amber Emerald Aggro         |

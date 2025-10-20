@@ -1,6 +1,6 @@
 # Wizards Well - Fabled Set Championship
 
-Set championship time in the Well. Unfortunately only 21 out of originally 30 registered persons showed up - I was going there directly from the camping ground.Event was run using the playhub - details on https://tcg.ravensburgerplay.com/events/158780. Was good to see that the player base is still mixed with participants from Biblis and Karlsruhe.
+Set championship time in the Well. There have been 21 players out of the 28 available seats. This is in line with the recent set championships. The event was run using the play hub - details on https://tcg.ravensburgerplay.com/events/191367. Playerbase was mixed as usual with some Mannheim locals, some from the Kaiserslautern area and some from Biblis.
 
 ## Wizards Well Set Championship Meta Report
 
@@ -40,129 +40,242 @@ Amethyst Steel Aggro
 
 ## Tournament Rounds
 
-I opted to run the Yen Sid brooms deck again, which given the meta breakdown was a very bad choice, especially with multiple pairings into Amethyst Sapphire. Decklist on https://dreamborn.ink/decks/EGypfnlsTANOnFaMIhwA
+I opted to run an Amethyst Steel build which is intended to counter the expected aggro decks - and still has some good options into the late/ control game decks like Amethyst Sapphire or Emerald Sapphire. Worst encounter would be decks using the Emerald Chromicon and the deck wants to build up the board and then challenge the opposition down. Decklist on https://dreamborn.ink/decks/10xnkUQETRWcrGZvkANL
 
-- 4 Magic Broom - Illuminary Keeper
-- 4 Magic Broom - Aerial Cleaner
-- 4 Doc - Bold Knight
-- 4 Mr. Smee - Bumbling Mate
-- 2 Fire the Cannons!
-- 4 Strength of a Raging Fire
-- 4 Yen Sid - Powerful Sorcerer
-- 4 Merlin - Goat
-- 4 Giant Cobra - Ghostly Serpent
-- 4 Pete - Games Referee
-- 3 Genie - Wish Fulfilled
 - 4 Diablo - Obedient Raven
-- 4 Chernabog's Followers - Creatures of Evil
-- 3 Merlin - Crab
-- 4 Madam Mim - Fox
-- 2 Madam Mim - Snake
-- 2 The Library - A Gift for Belle
+- 3 Happy - Lively Knight
+- 4 Captain Hook - Forceful Duelist
+- 4 Doc - Bold Knight
+- 4 Jafar - Royal Vizier
+- 3 Jafar - Aspiring Ruler
+- 3 Calhoun - Marine Sergeant
+- 4 Giant Cobra - Ghostly Serpent
+- 4 Genie - Satisfied Dragon
+- 4 Genie - Wish Fulfilled
+- 4 Dumbo - Ninth Wonder of the Universe
+- 1 Yzma - Conniving Chemist
+- 1 Madam Mim - Elephant
+- 3 Belle - Accomplished Mystic
+- 4 Elsa - The Fifth Spirit
+- 3 Hypnotic Strength
+- 4 Strength of a Raging Fire
+- 2 Seven Dwarfs' Mine - Secure Fortress
+- 1 Hercules - Beloved Hero
 
 ### Round 1
 
-Round 1 paired me with Jan - as kind of a usual first round set champs pairing. Jan was on Emerald Steel discard - a match which is pretty hard due to the fast and control options available. I was able to take game one, was kind of stomped in game 2 and could wrap game 3 then in a fast sprint with Merlin Goat in overtime.
+Round 1 paired me with Andre and his Amethyst Sapphire deck. I know he has opted to run some more consistency cards to let the deck run very smoothly. I was able to win the dice roll and by this could bring both games where I was on the play to a good ending for me. Especially the turn where I could bring down my Madame Mim for a Doc and then replay the Doc was a key changer.
 
 #### Game 1
 
-| Player       | Play | Lorecount                           | Win |
-| ------------ | ---- | ----------------------------------- | --- |
-| Me           | (x)  | 1/3/5/6/7/8/10/11/12/13/14/15/17/20 | (x) |
-| Jan (Nomlix) |      | 1/2/8                               |     |
+| Player              | Play | Lorecount                          | Win |
+| ------------------- | ---- | ---------------------------------- | --- |
+| Me                  | (x)  | 1/2/4/5/6/7/9/10/11/12/13/14/15/20 | (x) |
+| Andre (andrecruz19) |      | 1/2/5/9/10                         |     |
 
 #### Game 2
 
-| Player       | Play | Lorecount         | Win |
-| ------------ | ---- | ----------------- | --- |
-| Me           |      | 1/3/5/6/7/8/10/11 |     |
-| Jan (Nomlix) | (x)  | 2/7/13            | (x) |
+| Player              | Play | Lorecount         | Win |
+| ------------------- | ---- | ----------------- | --- |
+| Me                  |      | 1/2/5             |     |
+| Andre (andrecruz19) | (x)  | 1/2/5/10/14/18/20 | (x) |
 
 #### Game 3
 
-| Player       | Play | Lorecount              | Win |
-| ------------ | ---- | ---------------------- | --- |
-| Me           | (x)  | 1/4/7/8/15/16/16/17/20 | (x) |
-| Jan (Nomlix) |      | 1/2                    |     |
+| Player              | Play | Lorecount                           | Win |
+| ------------------- | ---- | ----------------------------------- | --- |
+| Me                  | (x)  | 1/2/3/4/5/6/7/8/9/10/13/14/16/18/20 | (x) |
+| Andre (andrecruz19) |      | 1/3/4/6/8                           |     |
 
 Result after round 1: **1-0-0**
 
 ### Round 2
 
-Round 2 pairing was into Manuel with his Amethyst Sapphire Blurple deck. That deck is so heavily teched to counter aggro and control matchups I could not really counter it, as I could not gain lore quick enough. On the flip side the control game is due to the better top end threats and the constant card draw in the blurple deck very hard too.
+Round 2 pairing was Fabian out of the Biblis store. Fabian was running an Amethyst Steel deck as well - however with a different selection of cards, especially around the mid cost section. I won the dice roll again and even on the game where Fabian started I could deploy more characters and then take over the board and lore gain.
 
 #### Game 1
 
-| Player           | Play | Lorecount                     | Win |
-| ---------------- | ---- | ----------------------------- | --- |
-| Me               | (x)  | 1/2/4/6/7/8/10/12/13/14/17/19 |     |
-| Manuel (Hetti89) |      | 2/3/7/8/12/16/20              | (x) |
+| Player         | Play | Lorecount         | Win |
+| -------------- | ---- | ----------------- | --- |
+| Me             | (x)  | 1/3/4/10/14/16/20 | (x) |
+| Fabian (Zimbo) |      | 1/2/3/5/6/7       |     |
 
 #### Game 2
 
-| Player           | Play | Lorecount              | Win |
-| ---------------- | ---- | ---------------------- | --- |
-| Me               | (x)  | 1/2/5/8/10/11/12/15/20 | (x) |
-| Manuel (Hetti89) |      | 2/3/5/7/8              |     |
+| Player         | Play | Lorecount                      | Win |
+| -------------- | ---- | ------------------------------ | --- |
+| Me             |      | 2/3/5/8/9/10/11/13/14/15/17/20 | (x) |
+| Fabian (Zimbo) | (x)  | 1/2/3/5/7/8/9                  |     |
 
-#### Game 3
-
-| Player           | Play | Lorecount       | Win |
-| ---------------- | ---- | --------------- | --- |
-| Me               |      | 1/3/5/6         |     |
-| Manuel (Hetti89) | (x)  | 1/5/10/14/18/20 | (x) |
-
-Result after round 2: **1-1-0**
+Result after round 2: **2-0-0**
 
 ### Round 3
 
-Round 3 pairing was into Thomas and his Amethyst Sapphire deck. He included the Royal Guard next to the Belle to have even more answers for early game threats. In both games he could establish board control too early - so I had no chance to get into my own game plan.
+Round 3 pairing was into Daniel from Kaiserslautern and his Amber Emerald Dogs build. He was running the Emerald Chromicon and as well Under The Sea - a combination which I have never encountered before. In both games he could utilize these cards to get board control and then bounce back my answers.
 
 #### Game 1
 
-| Player          | Play | Lorecount   | Win |
-| --------------- | ---- | ----------- | --- |
-| Me              |      | 1/2/3/4/5/6 |     |
-| Thomas (Nexron) | (x)  | 2/5/12/12   | (x) |
+| Player        | Play | Lorecount   | Win |
+| ------------- | ---- | ----------- | --- |
+| Me            |      | 1/3/4/5/7   |     |
+| Daniel (DanW) | (x)  | 2/3/5/13/20 | (x) |
 
 #### Game 2
 
-| Player          | Play | Lorecount        | Win |
-| --------------- | ---- | ---------------- | --- |
-| Me              | (x)  | 1/4/6/7/8/10/11  |     |
-| Thomas (Nexron) |      | 3/5/6/9/12/16/20 | (x) |
+| Player        | Play | Lorecount    | Win |
+| ------------- | ---- | ------------ | --- |
+| Me            | (x)  | 3            |     |
+| Daniel (DanW) |      | 2/5/11/17/20 | (x) |
 
-Result after round 3: **1-2-0**
+Result after round 3: **2-1-0**
 
 ### Round 4
 
-Round 4 paired me with Andre and his Amber Sapphire aggro deck. In both games where he was on the play he drew perfect curve plus perfect after cards, especially with four Sven cards into Alice and Wendy leaving me basically with no options to interact with his board. This game sealed it for me and I dropped afterwards with a 1-4-0 score.
+Round 4 paired me with Felix and his Emerald Steel aggression deck. This deck was running multiple characters with ward and as well the Emerald Chromicon. I could however establish a proper board control and then play around the chromicon a bit.
 
 #### Game 1
 
-| Player              | Play | Lorecount            | Win |
-| ------------------- | ---- | -------------------- | --- |
-| Me                  | (x)  | 2/4/6/7/9            |     |
-| Andre (andrecruz19) |      | 2/6/9/11/13/14/16/20 | (x) |
+| Player         | Play | Lorecount                       | Win |
+| -------------- | ---- | ------------------------------- | --- |
+| Me             | (x)  | 1/3/5/6/7/8/9/11/15/16/17/18/20 | (x) |
+| Felix (Varolz) |      | 2/4/7/8/11/15                   |     |
 
 #### Game 2
 
-| Player              | Play | Lorecount         | Win |
-| ------------------- | ---- | ----------------- | --- |
-| Me                  | (x)  | 1/2/4/5/7/9/11/20 | (x) |
-| Andre (andrecruz19) |      | 2/4/7/9/12/15     |     |
+| Player         | Play | Lorecount         | Win |
+| -------------- | ---- | ----------------- | --- |
+| Me             |      | 1/2/4/5/6/9/15/20 | (x) |
+| Felix (Varolz) | (x)  | 2/4/5/8/10/12     |     |
+
+Result after round 4: **3-1-0**
+
+### Round 5
+
+With a 3-1-0 result after round 4 it was save to take an intentional draw in round 5 - where I was paired with Andreas and his Emerald Sapphire build. We did play for the fun and it would have been a good outcome for me - still I did not wanted to risk it.
+
+#### Game 1
+
+| Player             | Play | Lorecount       | Win |
+| ------------------ | ---- | --------------- | --- |
+| Me                 | (x)  | 1/3/10/15/19/20 | (x) |
+| Andreas (Andi1066) |      | 1/2/3           |     |
+
+#### Game 2
+
+| Player             | Play | Lorecount             | Win |
+| ------------------ | ---- | --------------------- | --- |
+| Me                 |      | 2/4                   |     |
+| Andreas (Andi1066) | (x)  | 1/2/4/6/8/10/12/16/20 | (x) |
 
 #### Game 3
 
-| Player              | Play | Lorecount         | Win |
-| ------------------- | ---- | ----------------- | --- |
-| Me                  |      | 1/2/3/4           |     |
-| Andre (andrecruz19) | (x)  | 2/4/9/11/14/19/20 | (x) |
+| Player             | Play | Lorecount                    | Win |
+| ------------------ | ---- | ---------------------------- | --- |
+| Me                 | (x)  | 1/2/4/5/7/8/9/11/12/13/15/20 | (x) |
+| Andreas (Andi1066) |      | 2/5                          |     |
 
-Result after round 4: **1-4-0**
+Result after round 5: **3-1-1**
+
+### Top 8
+
+With 3-1-1 I was save inside the top 8 and could play the top 8 round against Matthias with his Amethyst Steel deck. I was in the higher seed after the swiss phase so I could start and win both games on the play as I could deploy there more evasive characters. The same happened for Matthias when he as won the play.
+
+#### Game 1
+
+| Player           | Play | Lorecount        | Win |
+| ---------------- | ---- | ---------------- | --- |
+| Me               | (x)  | 1/2/4/7/12/16/20 | (x) |
+| Matthias (Jurki) |      | 1/3/4/5/6        |     |
+
+#### Game 2
+
+| Player           | Play | Lorecount                  | Win |
+| ---------------- | ---- | -------------------------- | --- |
+| Me               |      | 1                          |     |
+| Matthias (Jurki) | (x)  | 1/2/3/4/5/8/10/14/16/18/20 | (x) |
+
+#### Game 3
+
+| Player           | Play | Lorecount           | Win |
+| ---------------- | ---- | ------------------- | --- |
+| Me               | (x)  | 1/2/3/7/10/12/16/20 | (x) |
+| Matthias (Jurki) |      | 1                   |     |
+
+Result after round 6: **4-1-1**
+
+### Top 4
+
+Into the semi finals - pairing was with Max out of Kaiserslautern with his Emerald Sapphire deck. Again I was on the play - but in both games he could not get his strategy into play - as the draws he got out of his deck where not in his favor.
+
+#### Game 1
+
+| Player       | Play | Lorecount               | Win |
+| ------------ | ---- | ----------------------- | --- |
+| Me           | (x)  | 1/2/3/4/5/8/11/14/16/20 | (x) |
+| Max (Maxing) |      | 2                       |     |
+
+#### Game 2
+
+| Player       | Play | Lorecount             | Win |
+| ------------ | ---- | --------------------- | --- |
+| Me           |      | 1/3/5/7/8/12/13/17/20 | (x) |
+| Max (Maxing) | (x)  | 0                     |     |
+
+Result after round 7: **5-1-1**
+
+### Top 2
+
+Final time - Daniel with his Amber Emerald Dogs deck made it into the final too. I was able to start but he got the Emerald Chromicon line and the Under the Sea line deployed again. Especially the chromicon with two Lilo - Escape Artists was a very bad combination for me. I could win the second game, but then he managed to get game three on his side. A close loss at the end.
+
+#### Game 1
+
+| Player        | Play | Lorecount          | Win |
+| ------------- | ---- | ------------------ | --- |
+| Me            | (x)  | 1/2/3/5/6/7/8/9/11 |     |
+| Daniel (DanW) |      | 6/9/13/17/20       | (x) |
+
+#### Game 2
+
+| Player        | Play | Lorecount               | Win |
+| ------------- | ---- | ----------------------- | --- |
+| Me            | (x)  | 1/2/6/11/12/14/16/19/20 | (x) |
+| Daniel (DanW) |      | 1/7/12/13               |     |
+
+#### Game 2
+
+| Player        | Play | Lorecount     | Win |
+| ------------- | ---- | ------------- | --- |
+| Me            |      | 2/4/7         |     |
+| Daniel (DanW) | (x)  | 2/5/6/8/16/20 | (x) |
+
+Result after round 8: **5-2-1**
 
 ### Result
 
-Pretty disappointed with the result, especially the heavy blurple meta which took me completely by surprise. In hind sight playing a tempo deck or a steel song may have been the better option here. I as well dropped the early for the later 2nd round of CardWings team liga - which we unfortunately lost as well.
+Very happy with the result - Amethyst Steel was for sure the right pick into the meta. In hindsight some item removal options would have been nice, may need to be added - as the usage of the chromicon may become more popular.
 
-Inkdecks has all the decklists available - https://inkdecks.com/events/view/341176
+All decklists are available on inkdecks - https://inkdecks.com/lorcana-tournaments/wizards-well-fabled-set-championship-tournament-decks-362524
+
+| Rank | Name                  | Points | Record | OMW % | OGW % | Deck                        |
+| ---- | --------------------- | ------ | ------ | ----- | ----- | --------------------------- |
+| 1    | DanW15                | 19     | 6-1-1  | 52.4% | 51.0% | Amber Emerald Aggro         |
+| 2    | shinobi64             | 16     | 5-2-1  | 58.0% | 55.1% | Amethyst Steel Aggro        |
+| 3    | [7 Serpents] Ne!ron   | 13     | 4-2-1  | 54.9% | 52.5% | Amethyst Sapphire Blurple   |
+| 4    | Maxing                | 13     | 4-2-1  | 54.7% | 53.5% | Emerald Sapphire Clarabelle |
+| 5    | [7 Serpents] Andi1066 | 11     | 3-1-2  | 58.3% | 56.6% | Emerald Sapphire Clarabelle |
+| 6    | [BattleBear] Hetti89  | 11     | 3-1-2  | 52.9% | 52.0% | Sapphire Steel Midrange     |
+| 7    | [7 Serpents] Zimbo    | 10     | 3-2-1  | 61.8% | 60.1% | Amethyst Steel Aggro        |
+| 8    | [BattleBear] Jurki    | 10     | 3-2-1  | 57.8% | 55.4% | Amethyst Steel Aggro        |
+| 9    | [7 Serpents] McLovin  | 9      | 3-2-0  | 60.0% | 56.4% | Amber Emerald Aggro         |
+| 10   | MrWeasel              | 9      | 3-2-0  | 54.6% | 55.2% | Amethyst Steel Aggro        |
+| 11   | Swordinator           | 9      | 3-2-0  | 49.9% | 50.7% | Amethyst Sapphire Blurple   |
+| 12   | Varolz                | 9      | 3-2-0  | 46.5% | 47.0% | Emerald Steel Aggro         |
+| 13   | i2Ioulaki             | 6      | 2-3-0  | 53.2% | 51.6% | Amber Steel Aggro           |
+| 14   | [TL] mcmike82         | 6      | 2-3-0  | 49.3% | 48.0% | Amethyst Steel Aggro        |
+| 15   | tricKel               | 6      | 2-3-0  | 47.9% | 48.0% | Emerald Sapphire Clarabelle |
+| 16   | [7 Serpents] schlendi | 6      | 2-3-0  | 47.9% | 52.5% | Amethyst Steel Aggro        |
+| 17   | [BattleBear] Gonk     | 3      | 1-3-0  | 64.4% | 61.4% | Amethyst Sapphire Blurple   |
+| 18   | Ohli                  | 3      | 1-4-0  | 53.3% | 54.2% | Amber Steel Aggro           |
+| 19   | DerLee                | 3      | 1-4-0  | 51.9% | 50.1% | Ruby Steel Challenger       |
+| 20   | Dragolon              | 3      | 1-4-0  | 51.6% | 46.5% | Amber Emerald Aggro         |
+| 21   | AndreCruz             | 0      | 0-3-0  | 57.8% | 59.8% | Amethyst Sapphire Blurple   |
