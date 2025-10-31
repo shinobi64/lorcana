@@ -1,10 +1,11 @@
 Deck,ColorCombination,Characteristic
 Sealed,All,All
 Draft,All,All
+PackRush,All,All
 Amber Amethyst Hyper Aggro,Amber/Amethyst,Aggro
 Amber Amethyst Aggro,Amber/Amethyst,Aggro
 Amber Amethyst Madrigal,Amber/Amethyst,Combo
-Amber Amethyst Monstro,Amber/Amehtyst,Combo
+Amber Amethyst Monstro,Amber/Amethyst,Combo
 Amber Emerald Aggro,Amber/Emerald,Aggro
 Amber Emerald Discard,Amber/Emerald,Discard
 Amber Emerald Songs,Amber/Emerald,Discard
@@ -29,6 +30,7 @@ Amber Steel Songs,Amber/Steel,Control
 Amber Steel Mickey,Amber/Steel,Combo
 Amber Steel Reanimator,Amber/Steel,Combo
 Amethyst Emerald Aggro,Amethyst/Emerald,Aggro
+Amethyst Emerald Control,Amethyst/Emerald,Control
 Amethyst Emerald Tempo,Amethyst/Emerald,Midrange
 Amethyst Emerald Bounce,Amethyst/Emerald,Combo
 Amethyst Emerald Discard,Amethyst/Emerald,Discard
@@ -81,6 +83,7 @@ Ruby Steel Actions,Ruby/Steel,Midrange
 Ruby Steel Challenger,Ruby/Steel,Midrange
 Ruby Steel Knights,Ruby/Steel,Midrange
 Ruby Steel Pirates,Ruby/Steel,Midrange
+Ruby Steel Heroes,Ruby/Steel,Midrange
 Ruby Steel Robin,Ruby/Steel,Control
 Ruby Steel Songs,Ruby/Steel,Midrange
 Ruby Steel Wildmix,Ruby/Steel,Aggro
