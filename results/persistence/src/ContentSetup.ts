@@ -55,6 +55,10 @@ export class ContentSetup {
         objectName: "MH_T_LORC_EXT_LTD",
         createStatementPath: "../sql/MH_T_LORC_EXT_LTD.sql",
       },
+      {
+        objectName: "MH_T_LORC_EXT_LTD_ANALYSE",
+        createStatementPath: "../sql/MH_T_LORC_EXT_LTD_ANALYSE.sql",
+      },
     ];
     for (let i = 0; i < objectList.length; i++) {
       const objectEntry = objectList[i];
