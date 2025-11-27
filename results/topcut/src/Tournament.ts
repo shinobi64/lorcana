@@ -43,6 +43,9 @@ export class Tournament {
   public calculateTournament(): void {
     this.logger.logInfo(`===== Start tournament calculation =====`);
 
+    this.logger.logInfo(`===== shuffle player base =====`);
+    this.shufflePlayers();
+
     for (let x = 0; x < this.options.numberOfRounds; x++) {
       this.calculateRound(x);
     }
@@ -81,6 +84,26 @@ export class Tournament {
           `!!! Top Cut of ${this.options.topCut} players reached with ${countedPlayers} players !!!`
         );
       }
+    }
+  }
+
+  private shufflePlayers(): void {
+    let currentIndex = this.tournamentPlayers.length;
+
+    // While there remain elements to shuffle...
+    while (currentIndex != 0) {
+      // Pick a remaining element...
+      let randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex--;
+
+      // And swap it with the current element.
+      [
+        this.tournamentPlayers[currentIndex],
+        this.tournamentPlayers[randomIndex],
+      ] = [
+        this.tournamentPlayers[randomIndex],
+        this.tournamentPlayers[currentIndex],
+      ];
     }
   }
 
@@ -123,7 +146,9 @@ export class Tournament {
     if (highestPlayer.id === undefined) {
       return undefined;
     } else {
-      return this.tournamentPlayers[highestPlayer.id];
+      return this.tournamentPlayers.find(
+        (player) => player.getId() === highestPlayer.id
+      );
     }
   }
 
