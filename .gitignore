@@ -10,3 +10,4 @@ dist
 # environment files
 *.env
 *.system.json
+*.params.json

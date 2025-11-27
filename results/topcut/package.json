@@ -1,0 +1,21 @@
+{
+  "name": "lorcanatopcutcalculator",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --project ./tsconfig.build.json"
+  },
+  "main": "./dist/main.js",
+  "engines": {
+    "node": ">=14 <23"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {}
+}

@@ -55,6 +55,15 @@
         "FORCE_DEFINITION": "false",
         "TRUNCATE_DATA": "true"
       }
-    }
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch TopCut",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}/results/topcut/dist/main.js",
+      "cwd": "${workspaceFolder}/results/topcut/dist",
+      "env": {}
+    }    
   ]
 }
