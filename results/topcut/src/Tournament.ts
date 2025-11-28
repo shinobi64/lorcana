@@ -46,16 +46,15 @@ export class Tournament {
     this.logger.logInfo(`===== shuffle player base =====`);
     this.shufflePlayers();
 
-    for (let x = 0; x < this.options.numberOfRounds; x++) {
-      this.calculateRound(x);
+    for (let round = 0; round < this.options.numberOfRounds; round++) {
+      this.calculateRound(round);
+      this.generateStandings(round);
     }
-
-    this.generateStandings();
 
     this.logger.logInfo(`===== End tournament calculation =====`);
   }
 
-  private generateStandings(): void {
+  private generateStandings(round: number): void {
     const ranks = {};
     for (let player = 0; player < this.options.numberOfPlayers; player++) {
       const playerPoints = this.tournamentPlayers[player].getPoints();
@@ -68,9 +67,15 @@ export class Tournament {
     const rankKeys = Object.keys(ranks);
     rankKeys.reverse();
 
-    this.logger.logInfo(`----- Final Standings -----`);
-    let countedPlayers = 0;
     let topCutReached = false;
+    let countedPlayers = 0;
+    if (round === this.options.numberOfRounds - 1) {
+      this.logger.logInfo(`----- Final Standings -----`);
+    } else {
+      this.logger.logInfo(`----- Round ${round} Standings -----`);
+      topCutReached = true;
+    }
+
     for (let points = 0; points < rankKeys.length; points++) {
       this.logger.logInfo(
         `Points: ${rankKeys[points]}, Players: ${
