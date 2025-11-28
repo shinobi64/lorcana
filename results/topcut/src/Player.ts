@@ -1,12 +1,29 @@
 import { Logger } from "./Logger";
 
+export enum PlayResults {
+  Win = "win",
+  Loss = "loss",
+  Draw = "draw",
+  Bye = "bye",
+}
+
+export type RoundResult = {
+  round: number;
+  rivalId: number;
+  result?: PlayResults;
+  wins?: number;
+  losses?: number;
+  draws?: number;
+  points?: number;
+};
+
 export class Player {
   private id: number;
   private wins: number;
   private losses: number;
   private draws: number;
   private matchPoints: number;
-  private roundHistory: number[];
+  private roundHistory: RoundResult[];
 
   public static readonly PENDING_RIVAL = -1;
   public static readonly NO_RIVAL = -99;
@@ -43,14 +60,18 @@ export class Player {
   }
 
   public setRivalId(round: number, rivalId: number): void {
-    this.roundHistory[round] = rivalId;
+    if (this.roundHistory[round] === undefined) {
+      this.roundHistory[round] = { round: round, rivalId: rivalId };
+    } else {
+      this.roundHistory[round].rivalId = rivalId;
+    }
   }
 
   public hasPlayedAgainst(rivalId: number): boolean {
     let result = false;
 
     for (let round in this.roundHistory) {
-      if (this.roundHistory[round] === rivalId) {
+      if (this.roundHistory[round].rivalId === rivalId) {
         result = true;
         break;
       }
@@ -88,7 +109,7 @@ export class Player {
   public getRivalIds(): number[] {
     let rivalIds: number[] = [];
     for (let round in this.roundHistory) {
-      rivalIds.push(this.roundHistory[round]);
+      rivalIds.push(this.roundHistory[round].rivalId);
     }
     return rivalIds;
   }
