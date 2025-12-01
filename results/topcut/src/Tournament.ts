@@ -1,5 +1,5 @@
 import { Logger, LogLevel } from "./Logger";
-import { Player } from "./Player";
+import { Player, PlayResults } from "./Player";
 
 export type tournamentOptions = {
   numberOfPlayers: number;
@@ -16,21 +16,29 @@ type highestPlayer = {
 
 export class Tournament {
   private options: tournamentOptions;
+  private expectedMeta: any;
   private tournamentPlayers: Player[];
   private logger: Logger;
 
-  constructor(tournamentOptions: tournamentOptions) {
+  constructor(tournamentOptions: tournamentOptions, tournamentMeta: any) {
     this.logger = new Logger("tournament");
     this.logger.setLogLevel(LogLevel.Debug);
 
     this.options = tournamentOptions;
+    this.expectedMeta = tournamentMeta;
     if (!this.options.includeTies) {
       this.options.tieProbability = 0;
     }
+
     this.logger.logDebug(
       `Tournament created with following options: ${JSON.stringify(
-        this.options
+        this.options,
+        null,
+        2
       )}`
+    );
+    this.logger.logDebug(
+      `Tournament expected meta: ${JSON.stringify(this.expectedMeta, null, 2)}`
     );
 
     this.logger.logDebug(`Creating tournament players`);
@@ -40,8 +48,73 @@ export class Tournament {
     }
   }
 
+  private distributeDecks(): void {
+    type metaShares = {
+      deck: string;
+      cummulativeShare: number;
+      realNumber?: number;
+    };
+
+    let plainMeta: metaShares[] = [];
+    let cummulatedMeta: metaShares[] = [];
+    const expectedDecks = Object.keys(this.expectedMeta.decks);
+    for (
+      let expectedDeck = 0;
+      expectedDeck < expectedDecks.length;
+      expectedDeck++
+    ) {
+      if (this.expectedMeta.decks[expectedDecks[expectedDeck]].metaShare > 0) {
+        plainMeta.push({
+          deck: expectedDecks[expectedDeck],
+          cummulativeShare:
+            this.expectedMeta.decks[expectedDecks[expectedDeck]].metaShare,
+        });
+      }
+    }
+
+    plainMeta.sort((a, b) => a.cummulativeShare - b.cummulativeShare);
+    plainMeta.reverse();
+
+    let cummulativeShare = 0;
+    for (let deck = 0; deck < plainMeta.length; deck++) {
+      cummulatedMeta.push({
+        deck: plainMeta[deck].deck,
+        cummulativeShare: (cummulativeShare +=
+          plainMeta[deck].cummulativeShare),
+      });
+    }
+
+    let distributedNumber = 0;
+    for (let player = 0; player < this.tournamentPlayers.length; player++) {
+      distributedNumber = Math.floor(
+        (100 / this.tournamentPlayers.length) * (player + 1)
+      );
+      for (let deck = 0; deck < cummulatedMeta.length; deck++) {
+        if (distributedNumber <= cummulatedMeta[deck].cummulativeShare) {
+          this.tournamentPlayers[player].setDeck(cummulatedMeta[deck].deck);
+          cummulatedMeta[deck].realNumber =
+            cummulatedMeta[deck].realNumber === undefined
+              ? 1
+              : (cummulatedMeta[deck].realNumber! += 1);
+          break;
+        }
+      }
+    }
+
+    this.logger.logDebug(
+      `Tournament aggregated meta shares: ${JSON.stringify(
+        cummulatedMeta,
+        null,
+        2
+      )}`
+    );
+  }
+
   public calculateTournament(): void {
     this.logger.logInfo(`===== Start tournament calculation =====`);
+
+    this.logger.logInfo(`===== distribute meta =====`);
+    this.distributeDecks();
 
     this.logger.logInfo(`===== shuffle player base =====`);
     this.shufflePlayers();
@@ -49,6 +122,7 @@ export class Tournament {
     for (let round = 0; round < this.options.numberOfRounds; round++) {
       this.calculateRound(round);
       this.generateStandings(round);
+      this.detailedResults(round);
     }
 
     this.logger.logInfo(`===== End tournament calculation =====`);
@@ -161,7 +235,7 @@ export class Tournament {
     this.logger.logDebug(
       `===== Start round calculation for round ${round} =====`
     );
-    let currentPlayer;
+    let currentPlayer: Player | undefined;
     let loopStart = true;
 
     while (loopStart || currentPlayer !== undefined) {
@@ -198,22 +272,27 @@ export class Tournament {
             this.logger.logDebug(
               `Result: Draw between player ${currentPlayer.getId()} and player ${rivalPlayer.getId()}`
             );
-            currentPlayer.addDraws(1);
-            rivalPlayer.addDraws(1);
+            currentPlayer.setRoundResult(round, PlayResults.Draw);
+            rivalPlayer.setRoundResult(round, PlayResults.Draw);
           } else {
             randomNumber = Math.floor(Math.random() * 100 + 1);
-            if (randomNumber > 50) {
+            let winNumber = 50;
+            winNumber =
+              this.expectedMeta.decks[currentPlayer.getDeck()].winRatio[
+                rivalPlayer.getDeck()
+              ];
+            if (randomNumber <= winNumber) {
               this.logger.logDebug(
                 `Result: Win for player ${currentPlayer.getId()} against player ${rivalPlayer.getId()}`
               );
-              currentPlayer.addWins(1);
-              rivalPlayer.addLosses(1);
+              currentPlayer.setRoundResult(round, PlayResults.Win);
+              rivalPlayer.setRoundResult(round, PlayResults.Loss);
             } else {
               this.logger.logDebug(
                 `Result: Loss for player ${currentPlayer.getId()} against player ${rivalPlayer.getId()}`
               );
-              currentPlayer.addLosses(1);
-              rivalPlayer.addWins(1);
+              currentPlayer.setRoundResult(round, PlayResults.Loss);
+              rivalPlayer.setRoundResult(round, PlayResults.Win);
             }
           }
         } else {
@@ -221,12 +300,64 @@ export class Tournament {
             `Result: Bye for player ${currentPlayer.getId()}`
           );
           currentPlayer.setRivalId(round, Player.NO_RIVAL);
-          currentPlayer.addBye();
+          currentPlayer.setRoundResult(round, PlayResults.Bye);
         }
       }
     }
     this.logger.logDebug(
       `===== End round calculation for round ${round} =====`
     );
+  }
+
+  private detailedResults(round: number): void {
+    if (round === this.options.numberOfRounds - 1) {
+      this.logger.logInfo(
+        `===== End of round ${round} detailed standings =====`
+      );
+
+      this.tournamentPlayers.sort(
+        (a: Player, b: Player) => a.getPoints() - b.getPoints()
+      );
+      this.tournamentPlayers.reverse();
+
+      let decks = Object.keys(this.expectedMeta.decks);
+      let deckShare: {
+        deck: string;
+        allPlayer: number;
+        topCutPlayers: number;
+      }[] = [];
+
+      this.logger.logInfo(`Position \t Player \t Points \t Record \t Deck`);
+      for (let player = 0; player < this.tournamentPlayers.length; player++) {
+        let currentPlayer = this.tournamentPlayers[player];
+        this.logger.logInfo(
+          `${player} \t ${currentPlayer.getId()} \t ${currentPlayer.getPoints()} \t ${currentPlayer.getRecord()} \t ${currentPlayer.getDeck()}`
+        );
+
+        let deckData = deckShare.find(
+          (deckData) => deckData.deck === currentPlayer.getDeck()
+        );
+        if (deckData === undefined) {
+          deckShare.push({
+            deck: currentPlayer.getDeck(),
+            allPlayer: 1,
+            topCutPlayers: player < this.options.topCut ? 1 : 0,
+          });
+        } else {
+          deckData.allPlayer += 1;
+          deckData.topCutPlayers += player < this.options.topCut ? 1 : 0;
+        }
+      }
+
+      this.logger.logInfo(`===== End of tournament meta shares =====`);
+      deckShare.sort((a, b) => a.topCutPlayers - b.topCutPlayers);
+      deckShare.reverse();
+      this.logger.logInfo(`Deck \t Total Number of Players \t TopCut Players`);
+      for (let deckId = 0; deckId < deckShare.length; deckId++) {
+        this.logger.logInfo(
+          `${deckShare[deckId].deck} \t ${deckShare[deckId].allPlayer} \t ${deckShare[deckId].topCutPlayers}`
+        );
+      }
+    }
   }
 }

@@ -4,7 +4,8 @@ import { Tournament } from "./Tournament";
 function runTournament() {
   const logger = new Logger("main");
   const tournamentParams = require("../dev/.params.json");
-  const currentTournament = new Tournament(tournamentParams);
+  const tournamentMeta = require("../dev/.expectedmeta.json");
+  const currentTournament = new Tournament(tournamentParams, tournamentMeta);
   currentTournament.calculateTournament();
 }
 

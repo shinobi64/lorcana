@@ -11,3 +11,4 @@ dist
 *.env
 *.system.json
 *.params.json
+*.expectedmeta.json

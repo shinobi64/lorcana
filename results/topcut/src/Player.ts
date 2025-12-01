@@ -24,6 +24,7 @@ export class Player {
   private draws: number;
   private matchPoints: number;
   private roundHistory: RoundResult[];
+  private deck: string;
 
   public static readonly PENDING_RIVAL = -1;
   public static readonly NO_RIVAL = -99;
@@ -35,27 +36,63 @@ export class Player {
     this.draws = 0;
     this.matchPoints = 0;
     this.roundHistory = [];
+    this.deck = "";
   }
 
-  public addPoints(points: number): void {
+  public setDeck(deck: string): void {
+    this.deck = deck;
+  }
+
+  public getDeck(): string {
+    return this.deck;
+  }
+
+  public setRoundResult(round: number, result: PlayResults): void {
+    if (this.roundHistory[round] === undefined) {
+      this.roundHistory[round] = { round: round, rivalId: Player.NO_RIVAL };
+    }
+    switch (result) {
+      case PlayResults.Win:
+        this.addWins(1);
+        break;
+      case PlayResults.Loss:
+        this.addLosses(1);
+        break;
+      case PlayResults.Draw:
+        this.addDraws(1);
+        break;
+      case PlayResults.Bye:
+        this.addBye();
+        break;
+      default:
+        break;
+    }
+    this.roundHistory[round].result = result;
+    this.roundHistory[round].draws = this.getDraws();
+    this.roundHistory[round].wins = this.getWins();
+    this.roundHistory[round].losses = this.getLosses();
+    this.roundHistory[round].points = this.getPoints();
+  }
+
+  private addPoints(points: number): void {
     this.matchPoints += points;
   }
 
-  public addWins(wins: number): void {
+  private addWins(wins: number): void {
     this.wins += wins;
     this.addPoints(wins * 3);
   }
 
-  public addLosses(losses: number): void {
+  private addLosses(losses: number): void {
     this.losses += losses;
   }
 
-  public addDraws(draws: number): void {
+  private addDraws(draws: number): void {
     this.draws += draws;
     this.addPoints(draws * 1);
   }
 
-  public addBye(): void {
+  private addBye(): void {
     this.addWins(1);
   }
 
