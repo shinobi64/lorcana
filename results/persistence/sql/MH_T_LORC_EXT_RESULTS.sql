@@ -6,5 +6,6 @@ CREATE COLUMN TABLE "MH_T_LORC_EXT_RESULTS"(
 	"PlayDraw" NVARCHAR(20),
 	"Result" NVARCHAR(20),
 	"OwnLoreCount" NVARCHAR(200),
-	"OpponentLoreCount" NVARCHAR(200)
+	"OpponentLoreCount" NVARCHAR(200),
+	"Comment" NVARCHAR(200)
 );
