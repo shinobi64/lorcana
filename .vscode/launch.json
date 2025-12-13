@@ -9,48 +9,48 @@
       "request": "launch",
       "name": "Launch Inkdeck Extractor",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/results/inkdecks/extractor.js",
-      "cwd": "${workspaceFolder}/results/inkdecks"
+      "program": "${workspaceFolder}/inkdecks/extractor.js",
+      "cwd": "${workspaceFolder}/inkdecks"
     },
     {
       "type": "node",
       "request": "launch",
       "name": "Launch Inkdeck Converter",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/results/inkdecks/converter.js",
-      "cwd": "${workspaceFolder}/results/inkdecks"
+      "program": "${workspaceFolder}/inkdecks/converter.js",
+      "cwd": "${workspaceFolder}/inkdecks"
     },
     {
       "type": "node",
       "request": "launch",
       "name": "Launch Dreamborn Converter",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/results/inkdecks/dreambornConverter.js",
-      "cwd": "${workspaceFolder}/results/inkdecks"
+      "program": "${workspaceFolder}/inkdecks/dreambornConverter.js",
+      "cwd": "${workspaceFolder}/inkdecks"
     },
     {
       "type": "node",
       "request": "launch",
       "name": "Test Inkdeck Card Extractor",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/results/inkdecks/tests/helper_cardList.test.js",
-      "cwd": "${workspaceFolder}/results/inkdecks"
+      "program": "${workspaceFolder}/inkdecks/tests/helper_cardList.test.js",
+      "cwd": "${workspaceFolder}/inkdecks"
     },
     {
       "type": "node",
       "request": "launch",
       "name": "Launch Melee Extractor",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/results/melee/extractor.js",
-      "cwd": "${workspaceFolder}/results/melee"
+      "program": "${workspaceFolder}/melee/extractor.js",
+      "cwd": "${workspaceFolder}/melee"
     },
     {
       "type": "node",
       "request": "launch",
       "name": "Launch DB Update",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/results/persistence/dist/main.js",
-      "cwd": "${workspaceFolder}/results/persistence/dist",
+      "program": "${workspaceFolder}/persistence/dist/main.js",
+      "cwd": "${workspaceFolder}/persistence/dist",
       "env": {
         "FORCE_DEFINITION": "false",
         "TRUNCATE_DATA": "true"
@@ -61,9 +61,9 @@
       "request": "launch",
       "name": "Launch TopCut",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/results/topcut/dist/main.js",
-      "cwd": "${workspaceFolder}/results/topcut/dist",
+      "program": "${workspaceFolder}/topcut/dist/main.js",
+      "cwd": "${workspaceFolder}/topcut/dist",
       "env": {}
-    }    
+    }
   ]
 }

@@ -52,25 +52,35 @@ export class ContentSetup {
         createStatementPath: "../sql/MH_T_LORC_EXT_LOCATIONS.sql",
       },
       {
-        objectName: "MH_T_LORC_EXT_LTD",
-        createStatementPath: "../sql/MH_T_LORC_EXT_LTD.sql",
-      },
-      {
         objectName: "MH_T_LORC_EXT_LTD_ANALYSE",
         createStatementPath: "../sql/MH_T_LORC_EXT_LTD_ANALYSE.sql",
       },
+      {
+        objectName: "MH_T_LORC_EXT_LTD_TEAMS",
+        createStatementPath: "../sql/MH_T_LORC_EXT_LTD_TEAMS.sql",
+      },
+      {
+        objectName: "MH_T_LORC_EXT_LTD_EVENTS",
+        createStatementPath: "../sql/MH_T_LORC_EXT_LTD_EVENTS.sql",
+      },
+      {
+        objectName: "MT_T_LORC_EXT_LTD",
+        createStatementPath: null,
+      },
     ];
+
     for (let i = 0; i < objectList.length; i++) {
       const objectEntry = objectList[i];
       this.logger.logInfo(`processing entry ${objectEntry.objectName}`);
-      const createStatement = await this.readStatementFromDisk(
-        objectEntry.createStatementPath
-      );
-      await this.createDBObject(
-        objectEntry.objectName,
-        createStatement,
-        overwrite
-      );
+      if (overwrite || objectEntry.createStatementPath === null) {
+        await this.removeDBObject(objectEntry.objectName);
+      }
+      if (objectEntry.createStatementPath !== null) {
+        const createStatement = await this.readStatementFromDisk(
+          objectEntry.createStatementPath
+        );
+        await this.createDBObject(objectEntry.objectName, createStatement);
+      }
     }
   }
 
@@ -106,22 +116,11 @@ export class ContentSetup {
 
   private async createDBObject(
     objectName: string,
-    createStatement: string,
-    overwrite?: boolean
+    createStatement: string
   ): Promise<void> {
     this.logger.logInfo(`running createDBObject for ${objectName}`);
     if (await this.exists(objectName)) {
-      if (overwrite) {
-        try {
-          await this.connection.exec(`DROP TABLE "${objectName}";`);
-          this.logger.logInfo(`dropped object ${objectName}`);
-        } catch (err) {
-          this.logger.logError(err);
-          throw err;
-        }
-      } else {
-        return;
-      }
+      return;
     }
     try {
       if (!createStatement || createStatement.length === 0) {
@@ -132,6 +131,21 @@ export class ContentSetup {
     } catch (err) {
       this.logger.logError(err);
       throw err;
+    }
+  }
+
+  private async removeDBObject(objectName: string): Promise<void> {
+    this.logger.logInfo(`running removeDBObject for ${objectName}`);
+    if (await this.exists(objectName)) {
+      try {
+        await this.connection.exec(`DROP TABLE "${objectName}";`);
+        this.logger.logInfo(`dropped object ${objectName}`);
+      } catch (err) {
+        this.logger.logError(err);
+        throw err;
+      }
+    } else {
+      this.logger.logInfo(`${objectName} does not exist on the database`);
     }
   }
 

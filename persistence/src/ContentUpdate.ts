@@ -24,43 +24,47 @@ export class ContentUpdate {
     const objectList = [
       {
         objectName: "MH_T_LORC_EXT_META",
-        dataPath: "../../meta.csv",
+        dataPath: "../../results/meta.csv",
       },
       {
         objectName: "MH_T_LORC_EXT_EVENTS",
-        dataPath: "../../events.csv",
+        dataPath: "../../results/events.csv",
       },
       {
         objectName: "MH_T_LORC_EXT_EVENTPLAYERS",
-        dataPath: "../../eventdetails.csv",
+        dataPath: "../../results/eventdetails.csv",
       },
       {
         objectName: "MH_T_LORC_EXT_LOCATIONS",
-        dataPath: "../../locations.csv",
+        dataPath: "../../results/locations.csv",
       },
       {
         objectName: "MH_T_LORC_EXT_PLAYERS",
-        dataPath: "../../players.csv",
+        dataPath: "../../results/players.csv",
       },
       {
         objectName: "MH_T_LORC_EXT_DECKS",
-        dataPath: "../../decks.csv",
+        dataPath: "../../results/decks.csv",
       },
       {
         objectName: "MH_T_LORC_EXT_MATCHES",
-        dataPath: "../../matches.csv",
+        dataPath: "../../results/matches.csv",
       },
       {
         objectName: "MH_T_LORC_EXT_RESULTS",
-        dataPath: "../../results.csv",
+        dataPath: "../../results/results.csv",
       },
       {
-        objectName: "MH_T_LORC_EXT_LTD",
-        dataPath: "../../ltd.csv",
+        objectName: "MH_T_LORC_EXT_LTD_EVENTS",
+        dataPath: "../../results/ltd_events.csv",
+      },
+      {
+        objectName: "MH_T_LORC_EXT_LTD_TEAMS",
+        dataPath: "../../results/ltd_teams.csv",
       },
       {
         objectName: "MH_T_LORC_EXT_LTD_ANALYSE",
-        dataPath: "../../ltd_analyse.csv",
+        dataPath: "../../results/ltd_analyse.csv",
       },
     ];
     for (let i = 0; i < objectList.length; i++) {

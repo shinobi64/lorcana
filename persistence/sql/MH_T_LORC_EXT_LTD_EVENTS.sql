@@ -1,0 +1,13 @@
+CREATE COLUMN TABLE "MH_T_LORC_EXT_LTD_EVENTS"(
+	"Event" NVARCHAR(100),
+	"Season" INTEGER,
+	"Division" INTEGER,
+	"GameDay" INTEGER,
+	"Meta" NVARCHAR(30),
+	"EventType" NVARCHAR(50),
+	"Type" NVARCHAR(100),
+	"PlayFormat" NVARCHAR(100),
+	PRIMARY KEY(
+		"Event"
+	)
+);
