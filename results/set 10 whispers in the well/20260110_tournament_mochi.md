@@ -1,6 +1,6 @@
-# Fancytreasure - Wispers in the Well Set Championship
+# Mochi Cards - Wispers in the Well Set Championship
 
-Set championship time in the Fancytreasure in Biblis. Event took place on the first weekend of the year and had a good attendance - in total 24 players showed up, some of them locals and some of them came from a bit more far away. The Fancytreasure is the home base of the 7Serpents Lorcana team - so it got as usual a bit "heated" in a positive sense between us from the Illumineers and the 7Serpents. We do have a very good relationship between each other with high respect for the playing skills of the others. Detail link https://tcg.ravensburgerplay.com/events/301847 with all relevant standings. With the amount players participating we're up to five rounds of swiss and a top cut to the best eight.
+Saturday morning - the best time for a et championship in the Mochi Cards in Speyer. Originally there was a huge demand for attending this - but due to the hard winter weather break and flu season the drop rate in the last week was quite high - and 17 players remained. Details can be seen on https://tcg.ravensburgerplay.com/events/302525. With 17 players it meant we had to play five rounds of Swiss and then a top cut starting with top 8.
 
 ## Mochi Cards Set Championship Meta Report
 
@@ -40,189 +40,177 @@ Emerald Sapphire Clarabelle
 
 ## Tournament Rounds
 
-I opted to run an Amber Amethyst Midrange deck as this usually performs quite well into other Amethyst decks - which I expected to be there a lot. Decklist on https://dreamborn.ink/decks/gbUZWc4UbNZfEqwhofwB
+I opted to run an Amethyst Sapphire Blurple deck as this has a good matchup into the expected heavy Amethyst Steel meta and can survive against Emerald Sapphire too. Decklist on https://dreamborn.ink/decks/57Ln4CL3Zbuq16Tf0Gjc
 
-- 4 Eilonwy - Princess of Llyr
-- 3 Mowgli - Man Cub
-- 4 Royal Guard - Octopus Soldier
-- 2 Iago - Stompin' Mad
-- 1 Bagheera - Cautious Explorer
-- 2 Mulan - Free Spirit
-- 4 Cheshire Cat - Inexplicable
+- 3 Hades - Looking for a Deal
+- 4 Hades - Infernal Schemer
+- 4 Demona - Scourge of the Wyvern Clan
+- 4 Junior Woodchuck Guidebook
+- 3 Iago - Giant Spectral Parrot
+- 4 Elsa - The Fifth Spirit
+- 4 Into the Unknown
+- 4 Tipo - Growing Son
+- 4 Sail The Azurite Sea
 - 4 Dumbo - Ninth Wonder of the Universe
 - 4 Genie - Wish Fulfilled
-- 3 Iago - Giant Spectral Parrot
+- 2 Belle - Accomplished Mystic
+- 2 Cheshire Cat - Inexplicable
+- 4 Basil - Practiced Detective
 - 1 Madam Mim - Elephant
-- 4 Elsa - The Fifth Spirit
-- 1 Belle - Accomplished Mystic
-- 4 Hades - Looking for a Deal
-- 4 Demona - Scourge of the Wyvern Clan
-- 4 The Horseman Strikes!
-- 3 World's Greatest Criminal Mind
-- 4 Lantern
-- 4 Junior Woodchuck Guidebook
+- 3 Hypnotic Strength
+- 4 Royal Guard - Octopus Soldier
+- 2 Wasabi - Methodical Engineer
 
 ### Round 1
 
-Round 1 paired me with Lucy and her Amethyst Steel aggressive decks with a rather stock build - exception has been Pluto the Steel Champion. I could get my lanterns good into play in the first and third game. In the second game she could get more tempo on the board and could partially run away with the game.
+Round 1 paired me with Gabriel and his Sapphire Steel midrange deck. In both games I could find my ramp and expand my board massively from there - especially dominate with the evasive characters.
 
 #### Game 1
 
-| Player      | Play | Lorecount    | Win |
-| ----------- | ---- | ------------ | --- |
-| Me          | (x)  | 1/2/4/5/9/20 | (x) |
-| Lucy (Lucy) |      | 0            |     |
+| Player           | Play | Lorecount            | Win |
+| ---------------- | ---- | -------------------- | --- |
+| Me               |      | 1/4/6/10/11/12/15/20 | (x) |
+| Gabriel (Gabo91) | (x)  | 1/3                  |     |
 
 #### Game 2
 
-| Player      | Play | Lorecount                 | Win |
-| ----------- | ---- | ------------------------- | --- |
-| Me          |      | 1/2/3/4/8/9/18            |     |
-| Lucy (Lucy) | (x)  | 1/2/3/4/5/6/9/10/12/15/20 | (x) |
-
-#### Game 3
-
-| Player      | Play | Lorecount      | Win |
-| ----------- | ---- | -------------- | --- |
-| Me          | (x)  | 1/2/5/12/18/20 | (x) |
-| Lucy (Lucy) |      | 2              |     |
+| Player           | Play | Lorecount            | Win |
+| ---------------- | ---- | -------------------- | --- |
+| Me               |      | 1/2/7/10/13/16/19/20 | (x) |
+| Gabriel (Gabo91) | (x)  | 1/2/3                |     |
 
 Result after round 1: **1-0-0**
 
 ### Round 2
 
-Round 2 pairing was into Hannes and his Amethyst Steel deck. I lost the dice roll and he got his on the play games into an huge tempo advantage which I could not counter back. Especially not without the lanterns.
+Round 2 pairing was into Manuel and his Amethyst Sapphire deck. In all games the number of drawn seven cost Hades decided the game - unfortunately Manuel drew more of them. All close and interesting games.
 
 #### Game 1
 
-| Player            | Play | Lorecount        | Win |
-| ----------------- | ---- | ---------------- | --- |
-| Me                |      | 2                |     |
-| Hannes (schlendi) | (x)  | 1/3/6/9/10/13/20 | (x) |
+| Player                 | Play | Lorecount           | Win |
+| ---------------------- | ---- | ------------------- | --- |
+| Me                     | (x)  | 2/3/4               |     |
+| Manuel (TCR_Darksteel) |      | 1/2/4/9/13/15/19/20 | (x) |
 
 #### Game 2
 
-| Player            | Play | Lorecount  | Win |
-| ----------------- | ---- | ---------- | --- |
-| Me                | (x)  | 1/3/7/9/20 | (x) |
-| Hannes (schlendi) |      | 0          |     |
+| Player                 | Play | Lorecount        | Win |
+| ---------------------- | ---- | ---------------- | --- |
+| Me                     | (x)  | 1/3/5/8/10/14/20 | (x) |
+| Manuel (TCR_Darksteel) |      | 1/2              |     |
 
 #### Game 3
 
-| Player            | Play | Lorecount              | Win |
-| ----------------- | ---- | ---------------------- | --- |
-| Me                |      | 1/2/3                  |     |
-| Hannes (schlendi) | (x)  | 1/2/4/8/11/13/15/17/20 | (x) |
+| Player                 | Play | Lorecount               | Win |
+| ---------------------- | ---- | ----------------------- | --- |
+| Me                     |      | 1/3/4                   |     |
+| Manuel (TCR_Darksteel) | (x)  | 3/6/7/11/14/15/16/17/20 | (x) |
 
 Result after round 2: **1-1-0**
 
 ### Round 3
 
-Round 3 pairing was into Thomas and his Amethyst Sapphire Blurple deck. I won the dice roll and could get my engine rolling in game one. In game two the engine was a bit slower, but I was able to counter his evasives quite effective and by this could get both games onto my side.
+Round 3 pairing was into Manuel and his Emerald Sapphire detective based deck. I could run away with the first game, while being comboed out in game two. The last game went quickly into a grind mode which Manuel could decide for him in the end.
 
 #### Game 1
 
-| Player          | Play | Lorecount  | Win |
-| --------------- | ---- | ---------- | --- |
-| Me              | (x)  | 1/3/7/9/20 | (x) |
-| Thomas (Nexron) |      | 0          |     |
+| Player           | Play | Lorecount             | Win |
+| ---------------- | ---- | --------------------- | --- |
+| Me               | (x)  | 2/4/6/7/8/10/13/18/20 | (x) |
+| Manuel (Hetti89) |      | 1                     |     |
 
 #### Game 2
 
-| Player          | Play | Lorecount                      | Win |
-| --------------- | ---- | ------------------------------ | --- |
-| Me              |      | 2/3/4/6/7/12/14/15/16/17/18/20 | (x) |
-| Thomas (Nexron) | (x)  | 1/2/3/5/6/7/8                  |     |
-
-Result after round 3: **2-1-0**
-
-### Round 4
-
-Round 4 paired me with Manuel - kind of a classic matchup. We both thought this was the final round and a win would be for win and in. So I battled hard against his Amethyst Sapphire deck - luckily I was able to win the dice roll and start the games into my favor. In the second game he could get an overwhelming board state setup including Monstro - which I could not answer anymore.
-
-#### Game 1
-
-| Player                  | Play | Lorecount      | Win |
-| ----------------------- | ---- | -------------- | --- |
-| Me                      | (x)  | 2/4/6/10/16/20 | (x) |
-| Manuel (TCR_Darksteel1) |      | 0              |     |
-
-#### Game 2
-
-| Player                  | Play | Lorecount            | Win |
-| ----------------------- | ---- | -------------------- | --- |
-| Me                      |      | 1/2/3                |     |
-| Manuel (TCR_Darksteel1) | (x)  | 1/3/5/6/7/8/11/14/20 | (x) |
+| Player           | Play | Lorecount | Win |
+| ---------------- | ---- | --------- | --- |
+| Me               |      | 1/3/5/7/8 |     |
+| Manuel (Hetti89) | (x)  | 1/3/6     | (x) |
 
 #### Game 3
 
-| Player                  | Play | Lorecount            | Win |
-| ----------------------- | ---- | -------------------- | --- |
-| Me                      | (x)  | 1/2/3/5/6/9/13/14/20 | (x) |
-| Manuel (TCR_Darksteel1) |      | 1/2/3                |     |
+| Player           | Play | Lorecount     | Win |
+| ---------------- | ---- | ------------- | --- |
+| Me               | (x)  | 1/3/5/6       |     |
+| Manuel (Hetti89) |      | 1/2/6/8/12/20 | (x) |
 
-Result after round 4: **3-1-0**
+Result after round 3: **1-2-0**
 
-### Round 5
+### Round 4
 
-After discovering that there was a round 5 in place I was in a good spot with the 3-1-0 result. I was paired with Jan and his Amber Emerald Dogs build. We both agreed on an intentional draw to secure the top cut for us both.
-
-Result after round 5: **3-1-1**
-
-### Top 8
-
-Top cut secured with fourth place after swiss paired me with Fabian and his Amethyst Steel deck. I was on the play due to the better spot in Swiss, but in the first game I could not get my engine running after the midgame. He established with some Doc chains a pretty oppressive board state to take over the win. In the last game I made two playing mistakes which cost me the early tempo out of which I could never recover.
+Round 4 paired me with Max and his Amethyst Steel deck. He won the dice roll so it got an uphill battle from the start. In both games where he started he found nearly all his actions and songs very early and could control the early board and then extend his board at the same time - a situation from which Amethyst Sapphire usually cannot recover. In the second game where I was on the play I could overwhelm the board quickly by using the ramp advantage. The last game went to time and we ended up in a draw during extra turns - effectively removing us both from the top cut chance.
 
 #### Game 1
 
-| Player         | Play | Lorecount      | Win |
-| -------------- | ---- | -------------- | --- |
-| Me             | (x)  | 2/4/7/11/12/13 |     |
-| Fabian (Zimbo) |      | 2/4/9/13/20    | (x) |
+| Player       | Play | Lorecount             | Win |
+| ------------ | ---- | --------------------- | --- |
+| Me           |      | 2/4/6/9/10/11/16      |     |
+| Max (Cantyr) | (x)  | 1/2/4/5/8/12/15/16/20 | (x) |
 
 #### Game 2
 
-| Player         | Play | Lorecount       | Win |
-| -------------- | ---- | --------------- | --- |
-| Me             | (x)  | 1/2/4/8/9/12/20 | (x) |
-| Fabian (Zimbo) |      | 1/3/4/5/7/9/10  |     |
+| Player       | Play | Lorecount      | Win |
+| ------------ | ---- | -------------- | --- |
+| Me           | (x)  | 1/2/6/10/14/20 | (x) |
+| Max (Cantyr) |      | 1/2/3          |     |
+
+#### Game 3
+
+| Player       | Play | Lorecount                | Win |
+| ------------ | ---- | ------------------------ | --- |
+| Me           |      | 4                        |     |
+| Max (Cantyr) | (x)  | 1/2/3/6/9/13/14/16/17/18 |     |
+
+Result after round 4: **1-2-1**
+
+### Round 5
+
+Last round paring was with Alex and his Amethyst Steel deck. In game one I missed the ramp and by this I could not come back to the board as quickly as needed. In both other games I could establish the ramp and then effective board control.
+
+#### Game 1
+
+| Player             | Play | Lorecount                    | Win |
+| ------------------ | ---- | ---------------------------- | --- |
+| Me                 | (x)  | 1/2/3/4/5/6/7                |     |
+| Alex (RankTheTank) |      | 1/3/4/5/7/8/9/10/15/16/18/20 | (x) |
 
 #### Game 2
 
-| Player         | Play | Lorecount             | Win |
-| -------------- | ---- | --------------------- | --- |
-| Me             |      | 1/2                   |     |
-| Fabian (Zimbo) | (x)  | 1/2/4/7/9/12/16/19/20 | (x) |
+| Player             | Play | Lorecount      | Win |
+| ------------------ | ---- | -------------- | --- |
+| Me                 | (x)  | 1/2/5/6/7/9/20 | (x) |
+| Alex (RankTheTank) |      | 1/2/3/5        |     |
 
-Result after round 6: **3-2-1**
+#### Game 3
+
+| Player             | Play | Lorecount               | Win |
+| ------------------ | ---- | ----------------------- | --- |
+| Me                 |      | 1/4/5/6/10/11/15/20     | (x) |
+| Alex (RankTheTank) | (x)  | 1/3/4/6/8/9/10/12/14/15 |     |
+
+Result after round 5: **2-2-1**
 
 ### Result
 
-I was quite happy with my performance and the deck coice. Given the situation that I played the deck only 20 matches before bringing it out here - the results were even more impressive. There are a few important aspects which I overlooked in three games - which costed me the games - but overall I think this was a good choice into an Amethyst dominated meta.
+Deck choice was good for the meta which showed up, however matchups have been challenging and together with some misplays made it led to the missed top cut result. In hindsight the Wasabi tech was not needed and I should have played instead either additional characters or the Inkrunner item.
 
-| Rank | Name                 | Points | Record | OMW % | GW%   | OGW % | Deck                      |
-| ---- | -------------------- | ------ | ------ | ----- | ----- | ----- | ------------------------- |
-| 1    | 7 Serpents McLovin   | 20     | 6-0-2  | 57.1% | 60.9% | 56.4% | Amber Emerald Aggro       |
-| 2    | 7 Serpents Zimbo     | 16     | 5-2-1  | 57.5% | 58.7% | 52.9% | Amethyst Steel Aggro      |
-| 3    | keo                  | 14     | 4-1-2  | 55.2% | 68.9% | 49.7% | Amethyst Steel Aggro      |
-| 4    | Swordinator          | 12     | 4-3-0  | 57.4% | 64.7% | 50.7% | Amethyst Steel Aggro      |
-| 5    | 7 Serpents schlendi  | 11     | 3-1-2  | 61.6% | 48.9% | 58.7% | Amethyst Steel Aggro      |
-| 6    | shinobi64            | 10     | 3-2-1  | 60.2% | 52.9% | 53.6% | Amber Amethyst Midrange   |
-| 7    | Gratsch              | 10     | 3-2-1  | 50.5% | 56.4% | 52.7% | Amethyst Steel Aggro      |
-| 8    | TCR_Darksteel        | 9      | 3-3-0  | 58.0% | 52.9% | 52.7% | Amethyst Sapphire Blurple |
-| 9    | 7 Serpents Ne!ron    | 9      | 3-2-0  | 49.0% | 58.3% | 47.5% | Amethyst Sapphire Blurple |
-| 10   | Meisterbier          | 9      | 3-2-0  | 42.5% | 53.8% | 46.2% |                           |
-| 11   | 7 Serpents InkModeOn | 7      | 2-2-1  | 48.7% | 53.8% | 50.4% | Amethyst Steel Aggro      |
-| 12   | BiL Chris            | 7      | 2-2-1  | 48.7% | 41.0% | 54.3% |                           |
-| 13   | TTH Carrie           | 7      | 2-2-1  | 43.7% | 52.8% | 46.1% | Amethyst Steel Aggro      |
-| 14   | Lucy                 | 6      | 2-3-0  | 54.2% | 41.7% | 52.6% | Amethyst Steel Aggro      |
-| 15   | Brudi                | 6      | 2-3-0  | 48.2% | 46.2% | 44.6% | Amethyst Steel Aggro      |
-| 16   | Dragolon             | 6      | 2-3-0  | 44.5% | 33.3% | 46.4% | Ruby Sapphire Midrange    |
-| 17   | Cantyr               | 6      | 1-1-3  | 42.6% | 42.9% | 45.4% | Amethyst Steel Aggro      |
-| 18   | Fabian Bongat        | 6      | 1-1-3  | 44.5% | 46.2% | 43.8% |                           |
-| 19   | Mojo                 | 6      | 2-3-0  | 39.2% | 41.7% | 42.7% |                           |
-| 20   | Björn                | 4      | 1-3-1  | 51.1% | 41.0% | 51.3% |                           |
-| 21   | Seb D                | 4      | 1-3-1  | 43.9% | 41.0% | 42.4% |                           |
-| 22   | MrsWeasel            | 3      | 1-4-0  | 42.5% | 33.3% | 45.4% |                           |
-| 23   | Robert Brown         | 3      | 1-4-0  | 39.9% | 33.0% | 40.7% |                           |
-| 24   | Blacklotus34         | 0      | 0-5-0  | 42.5% | 33.0% | 44.6% |                           |
+| Rank | Name                      | Points | Record | OMW % | GW%   | OGW % | Deck                        |
+| ---- | ------------------------- | ------ | ------ | ----- | ----- | ----- | --------------------------- |
+| 1    | keo                       | 22     | 7-0-1  | 52.4% | 78.9% | 51.0% | Amethyst Steel Aggro        |
+| 2    | BattleBear Hetti89        | 15     | 5-3-0  | 55.3% | 56.5% | 55.5% | Emerald Sapphire Clarabelle |
+| 3    | BattleBear The Grumpy One | 13     | 4-2-1  | 55.7% | 61.1% | 54.9% | Sapphire Steel Midrange     |
+| 4    | MrWeasel                  | 12     | 4-3-0  | 58.8% | 52.6% | 55.0% | Amethyst Steel Aggro        |
+| 5    | Brudi                     | 11     | 3-1-2  | 49.3% | 63.9% | 47.6% | Amethyst Steel Aggro        |
+| 6    | TCR_Darksteel             | 10     | 3-2-1  | 57.2% | 45.2% | 59.1% | Amethyst Sapphire Blurple   |
+| 7    | Enchannika                | 10     | 3-2-1  | 49.8% | 59.5% | 50.5% | Amber Emerald Aggro         |
+| 8    | BattleBear Jurki          | 9      | 3-3-0  | 57.8% | 50.0% | 53.6% | Amethyst Emerald Aggro      |
+| 9    | Ohli                      | 9      | 3-2-0  | 44.2% | 58.3% | 46.4% | Sapphire Steel Midrange     |
+| 10   | Cantyr                    | 7      | 2-2-1  | 57.4% | 58.3% | 53.9% | Amethyst Steel Aggro        |
+| 11   | shinobi64                 | 7      | 2-2-1  | 46.1% | 53.8% | 46.3% | Amethyst Sapphire Blurple   |
+| 12   | BattleBear Gonk           | 6      | 2-3-0  | 58.5% | 46.7% | 55.0% | Amethyst Emerald Control    |
+| 13   | CC                        | 6      | 2-3-0  | 52.8% | 38.5% | 52.3% | Amethyst Steel Aggro        |
+| 14   | GnF                       | 6      | 2-3-0  | 48.7% | 41.7% | 49.0% | Emerald Sapphire Clarabelle |
+| 15   | MrsWeasel                 | 3      | 1-4-0  | 60.4% | 33.0% | 57.2% | Emerald Steel Aggro         |
+| 16   | RankTheTank               | 3      | 1-4-0  | 45.2% | 38.5% | 47.3% | Amethyst Steel Aggro        |
+| 17   | Gabo91                    | 3      | 1-4-0  | 44.4% | 33.0% | 50.4% | Sapphire Steel Midrange     |
+
+Full list of all decks are published on inkdecks - https://inkdecks.com/lorcana-tournaments/mochi-cards-whispers-in-the-well-set-championship-tournament-decks-362968
