@@ -172,3 +172,5 @@ What a hard evening. I was happy with the performance of the deck - and I was ev
 | 13   | LarMan              | 3      | 1-3-0  | 49.8% | 40.0% | 48.5% | Amber Ruby Aggro            |
 | 14   | Ole M               | 3      | 1-3-0  | 55.4% | 33.0% | 51.1% | Amethyst Steel Locations    |
 | 15   | GnF                 | 3      | 1-3-0  | 47.0% | 33.0% | 49.6% | Emerald Sapphire Clarabelle |
+
+Inkdecks link: https://inkdecks.com/lorcana-tournaments/card-club-whispers-in-the-well-set-championship-tournament-decks-363055
