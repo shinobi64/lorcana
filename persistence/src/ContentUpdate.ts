@@ -18,7 +18,7 @@ export class ContentUpdate {
 
   async updateContent(overwrite?: boolean): Promise<void> {
     this.logger.logInfo(
-      `running content update with overwrite mode ${overwrite}`
+      `running content update with overwrite mode ${overwrite}`,
     );
 
     const objectList = [
@@ -66,6 +66,10 @@ export class ContentUpdate {
         objectName: "MH_T_LORC_EXT_LTD_ANALYSE",
         dataPath: "../../results/ltd_analyse.csv",
       },
+      {
+        objectName: "MH_T_LORC_EXT_EVENTRESULTS",
+        dataPath: "../../results/eventresults.csv",
+      },
     ];
     for (let i = 0; i < objectList.length; i++) {
       const objectEntry = objectList[i];
@@ -73,7 +77,7 @@ export class ContentUpdate {
       await this.updateObjectContent(
         objectEntry.objectName,
         objectEntry.dataPath,
-        overwrite
+        overwrite,
       );
     }
   }
@@ -81,7 +85,7 @@ export class ContentUpdate {
   private async updateObjectContent(
     objectName: string,
     dataPath: string,
-    overwrite?: boolean
+    overwrite?: boolean,
   ): Promise<void> {
     let sqlStatement: string;
     this.logger.logInfo(`running updateObjectContent for ${objectName}`);
@@ -97,7 +101,7 @@ export class ContentUpdate {
     if (fieldNamePlaceholders.length > 0) {
       fieldNamePlaceholders = fieldNamePlaceholders.substring(
         0,
-        fieldNamePlaceholders.length - 1
+        fieldNamePlaceholders.length - 1,
       );
     }
 
@@ -117,16 +121,16 @@ export class ContentUpdate {
 
     if (overwrite) {
       sqlStatement = `TRUNCATE TABLE "${escapeDoubleQuotes(
-        this.schemaName
+        this.schemaName,
       )}"."${escapeDoubleQuotes(objectName)}"`;
       await this.connection.exec(sqlStatement);
       this.logger.logInfo(`truncate table run succesfully for ${objectName}`);
     }
 
     sqlStatement = `INSERT INTO "${escapeDoubleQuotes(
-      this.schemaName
+      this.schemaName,
     )}"."${escapeDoubleQuotes(
-      objectName
+      objectName,
     )}" (${fieldNameList}) VALUES (${fieldNamePlaceholders})`;
     const preparedStatement = await this.connection.prepare(sqlStatement);
     const updatedRows = await preparedStatement.exec(preparedInsertValues);
@@ -152,7 +156,7 @@ export class ContentUpdate {
             reject(err);
           },
         });
-      }
+      },
     );
   }
 }

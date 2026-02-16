@@ -16,7 +16,7 @@ export class ContentSetup {
 
   public async createContentTables(overwrite?: boolean) {
     this.logger.logInfo(
-      `running create content tables with overwrite mode ${overwrite}`
+      `running create content tables with overwrite mode ${overwrite}`,
     );
     const objectList = [
       {
@@ -67,6 +67,10 @@ export class ContentSetup {
         objectName: "MT_T_LORC_EXT_LTD",
         createStatementPath: null,
       },
+      {
+        objectName: "MH_T_LORC_EXT_EVENTRESULTS",
+        createStatementPath: "../sql/MH_T_LORC_EXT_EVENTRESULTS.sql",
+      },
     ];
 
     for (let i = 0; i < objectList.length; i++) {
@@ -77,7 +81,7 @@ export class ContentSetup {
       }
       if (objectEntry.createStatementPath !== null) {
         const createStatement = await this.readStatementFromDisk(
-          objectEntry.createStatementPath
+          objectEntry.createStatementPath,
         );
         await this.createDBObject(objectEntry.objectName, createStatement);
       }
@@ -88,9 +92,8 @@ export class ContentSetup {
     this.logger.logInfo(`running exist for object ${objectName}`);
     try {
       const columnTableStatement = `SELECT TABLE_NAME FROM SYS.M_CS_TABLES WHERE SCHEMA_NAME = '${this.schemaName}' AND TABLE_NAME = '${objectName}';`;
-      const resultColumnTables = await this.connection.exec(
-        columnTableStatement
-      );
+      const resultColumnTables =
+        await this.connection.exec(columnTableStatement);
       if (
         Array.isArray(resultColumnTables) &&
         resultColumnTables.length === 1
@@ -116,7 +119,7 @@ export class ContentSetup {
 
   private async createDBObject(
     objectName: string,
-    createStatement: string
+    createStatement: string,
   ): Promise<void> {
     this.logger.logInfo(`running createDBObject for ${objectName}`);
     if (await this.exists(objectName)) {
