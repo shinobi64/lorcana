@@ -71,6 +71,10 @@ export class ContentSetup {
         objectName: "MH_T_LORC_EXT_EVENTRESULTS",
         createStatementPath: "../sql/MH_T_LORC_EXT_EVENTRESULTS.sql",
       },
+      {
+        objectName: "MH_T_LORC_EXT_LORCANITO",
+        createStatementPath: "../sql/MH_T_LORC_EXT_LORCANITO.sql",
+      },
     ];
 
     for (let i = 0; i < objectList.length; i++) {

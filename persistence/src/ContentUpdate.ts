@@ -70,6 +70,10 @@ export class ContentUpdate {
         objectName: "MH_T_LORC_EXT_EVENTRESULTS",
         dataPath: "../../results/eventresults.csv",
       },
+      {
+        objectName: "MH_T_LORC_EXT_LORCANITO",
+        dataPath: "../../results/lorcanitohistory.csv",
+      },
     ];
     for (let i = 0; i < objectList.length; i++) {
       const objectEntry = objectList[i];
