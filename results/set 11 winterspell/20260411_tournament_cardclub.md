@@ -1,42 +1,42 @@
-# Mochi Cards - Winterspell Set Championship
+# Card Club - Winterspell Set Championship
 
-Saturday morning - the best time for a setchampionship in the Mochi Cards in Speyer. Originally there was a huge demand for attending this - but due to the typical issues and some players not recognizing the event was moved - 23 players remained. Details can be seen on https://tcg.ravensburgerplay.com/events/421735. With 23 players it meant we had to play five rounds of Swiss and then a top cut starting with top 8.
+Saturday morning - the best time for a setchampionship in the Card Club in Hockenheim. Due to additional local events the number of players was limited to 20 and then one additional one joined in. Details can be seen on https://tcg.ravensburgerplay.com/events/432220. With 21 players it meant we had to play five rounds of Swiss and then a top cut starting with top 8.
 
-## Mochi Cards Set Championship Meta Report
+## Card Club Set Championship Meta Report
 
-### Spieler 23
+### Spieler 21
 
-🟣⚪️ Amethyst Steel Aggro: 6 (26%)
-🔵🟣 Amethyst Sapphire Blurple: 5 (22%)
-🟡🟢 Amber Emerald Aggro: 2 (9%)
-🟡🔴 Amber Ruby Midrange: 2 (9%)
-🟡⚪️ Amber Steel Songs: 2 (9%)
-🟢🔵 Emerald Sapphire Clarabelle: 2 (9%)
-🔴🟣 Ruby Amethyst Evasive: 2 (9%)
-🟡🟣 Amber Amethyst Midrange: 1 (4%)
-🟣🟢 Amethyst Emerald Tempo: 1 (4%)
+🔵🟣 Amethyst Sapphire Blurple: 6 (28%)
+🟣⚪️ Amethyst Steel Aggro: 4 (19%)
+🟡🔴 Amber Ruby Midrange: 2 (10%)
+🟡🔵 Amber Sapphire Aggro: 2 (10%)
+🟡⚪️ Amber Steel Songs: 2 (10%)
+🟢🟣 Amethyst Emerald Tempo: 2 (10%)
+🟡🟢 Amber Emerald Aggro: 1 (5%)
+🟡⚪️ Amber Steel Aggro: 1 (5%)
+🟢🔵 Emerald Sapphire Clarabelle: 1 (5%)
 
 ### Top 8
 
-🟢🔵 Emerald Sapphire
 🟣⚪️ Amethyst Steel Aggro
 🔵🟣 Amethyst Sapphire Blurple
-🟡🔴 Amber Ruby Midrange
-🟡🔴 Amber Ruby Midrange
 🔵🟣 Amethyst Sapphire Blurple
 🟣⚪️ Amethyst Steel Aggro
-🔴🟣 Ruby Amethyst Evasive
+🟡⚪️ Amber Steel Songs
+🟣⚪️ Amethyst Steel Aggro
+🟡🟢 Amber Emerald Aggro
+🟡🔴 Amber Ruby Midrange
 
 ### Top 4
 
-🟢🔵 Emerald Sapphire
+🟣⚪️ Amethyst Steel Aggro
 🔵🟣 Amethyst Sapphire Blurple
-🟡🔴 Amber Ruby Midrange
-🔴🟣 Ruby Amethyst Evasive
+🔵🟣 Amethyst Sapphire Blurple
+🟡⚪️ Amber Steel Songs
 
 ### Top 2
 
-🟢🔵 Emerald Sapphire
+🟣⚪️ Amethyst Steel Aggro
 🔵🟣 Amethyst Sapphire Blurple
 
 ## Tournament Rounds
@@ -142,7 +142,7 @@ Round 4 paired me with Andre - kind of the el classico - and his Amber Steel son
 | Me              |      | 2/4/6/8/9/12/14/16/20 | (x) |
 | Andre (Putschi) | (x)  | 3                     |     |
 
-Result after round 4: **3-1-0**
+Result after round 4: **2-2-0**
 
 ### Round 5
 
@@ -189,95 +189,65 @@ With the 3-2-0 I managed to get into the top 8 at position seven. This paired me
 | Me             |      | 2/4/7/9/15/20 | (x) |
 | Felix (Varolz) | (x)  | 1/3/4/6/7     |     |
 
-Result after top 8: **4-2-0**
-
-### Top 4
-
-Top 4 matchup was then with Philipp and his Amethyst Sapphire deck. He had included some unusual choices of cards like the four drop Demona and the five drop Ursula. Both cards made the matchup a bit harder for me than a usual Amethyst Sapphire matchup. In both games he could draw good into the Demona turn which allowed him for good trades into my board. In the second game it was a close board state where I made a mistake to not draw with the Dumbo first as this would have allowed me to get the Headless Horseman for very efficient trades into his board and a potential close win. However I suspect that the last game would then have been no different than the first game.
-
-#### Game 1
-
-| Player                | Play | Lorecount                 | Win |
-| --------------------- | ---- | ------------------------- | --- |
-| Me                    |      | 1/4/5/7                   |     |
-| Philipp (Swordinator) | (x)  | 2/3/4/5/7/8/9/10/14/16/20 | (x) |
-
-#### Game 2
-
-| Player                | Play | Lorecount        | Win |
-| --------------------- | ---- | ---------------- | --- |
-| Me                    | (x)  | 1/2/5/9/11/13/16 |     |
-| Philipp (Swordinator) |      | 1/2/4/7/16/20    | (x) |
-
-Result after top 4: **4-3-0**
+Result after top 8: **3-3-0**
 
 ### Result
 
-Deck choice was good for the meta which showed up/ was expected. I was a bit unlucky to trade into the Emerald Sapphire deck so early but on the flip side this improved my opponent rating for getting into the top cut. The special deck builds by Philipp and Christian had good matchups against me and were by this ok to loose.
+Deck choice was ok for the meta which showed up/ was expected. The games into the faster Amethyst Steel and Amber Steel decks were unfortunately slightly overshadowed by bricky hands but would have been hard regardless. With this reaching top cut was kind of the best result achievable.
 
-| Rank | Name              | Points | Record | OMW %  | GW%   | OGW % | Deck                             |
-| ---- | ----------------- | ------ | ------ | ------ | ----- | ----- | -------------------------------- |
-| 1    | Andi1066          | 24     | 8-0-0  | 66.0%  | 72.7% | 64.1% | 🟢🔵 Emerald Sapphire Clarabelle |
-| 2    | Swordinator       | 16     | 5-2-1  | 73.0%  | 63.0% | 71.3% | 🔵🟣 Amethyst Sapphire Blurple   |
-| 3    | BattleBear Jurki  | 13     | 4-2-1  | 69.5%  | 66.7% | 63.1% | 🟡🔴 Amber Ruby Midrange         |
-| 4    | shinobi64         | 12     | 4-3-0  | 73.3%  | 58.8% | 64.8% | 🔴🟣 Ruby Amethyst Evasive       |
-| 5    | Varolz            | 12     | 4-2-0  | 71.9%  | 60.0% | 63.4% | 🟣⚪️ Amethyst Steel Aggro        |
-| 6    | Enchannika        | 10     | 3-2-1  | 64.0%  | 48.7% | 69.2% | 🟡🔴 Amber Ruby Midrange         |
-| 7    | Cantyr            | 10     | 3-2-1  | 61.8%  | 61.1% | 57.4% | 🔵🟣 Amethyst Sapphire Blurple   |
-| 8    | CC                | 9      | 3-3-0  | 72.0%  | 47.1% | 68.9% | 🟣⚪️ Amethyst Steel Aggro        |
-| 9    | KaynBockMehr      | 9      | 3-2-0  | 57.4%  | 50.0% | 62.3% | 🟡⚪️ Amber Steel Songs           |
-| 10   | Putschi           | 9      | 3-2-0  | 55.9%  | 58.3% | 55.9% | 🟡⚪️ Amber Steel Songs           |
-| 11   | ITfairy           | 9      | 3-2-0  | 50.2%  | 50.0% | 58.7% | 🟣🟡 Amber Amethyst Midrange     |
-| 12   | TopChicken        | 6      | 2-3-0  | 68.2%  | 53.8% | 61.2% | 🔵🟣 Amethyst Sapphire Blurple   |
-| 13   | Randalex          | 6      | 2-3-0  | 61.4%  | 41.7% | 64.4% | 🟣⚪️ Amethyst Steel Aggro        |
-| 14   | AndreCruz         | 6      | 2-3-0  | 59.4%  | 50.0% | 57.6% | 🔵🟣 Amethyst Sapphire Blurple   |
-| 15   | GnF               | 6      | 2-3-0  | 55.8%  | 38.5% | 57.7% | 🟢🔵 Emerald Sapphire Clarabelle |
-| 16   | AMS               | 6      | 2-3-0  | 50.5%  | 41.7% | 58.6% | 🔴🟣 Ruby Amethyst Evasive       |
-| 17   | Kroli             | 6      | 2-3-0  | 44.7%  | 50.0% | 47.4% | 🟣⚪️ Amethyst Steel Aggro        |
-| 18   | i²Ioulaki         | 3      | 1-2-0  | 120.0% | 33.3% | 93.1% | 🔵🟣 Amethyst Sapphire Blurple   |
-| 19   | Ohli              | 3      | 1-3-0  | 71.1%  | 40.0% | 63.0% | 🟣⚪️ Amethyst Steel Aggro        |
-| 20   | keo               | 3      | 1-2-0  | 67.3%  | 37.5% | 68.9% | 🟣⚪️ Amethyst Steel Aggro        |
-| 21   | 7Serpents McLovin | 3      | 1-2-0  | 58.9%  | 42.9% | 62.0% | 🟡🟢 Amber Emerald Aggro         |
-| 22   | MrsWeasel         | 3      | 1-4-0  | 55.3%  | 33.0% | 57.5% | 🟡🟢 Amber Emerald Aggro         |
-| 23   | Ice Sorcerer      | 3      | 1-4-0  | 45.7%  | 33.3% | 49.7% | 🟣🟢 Amethyst Emerald Tempo      |
+| Rank | Name                           | Points | Record | OMW % | GW%   | OGW % | Deck                             |
+| ---- | ------------------------------ | ------ | ------ | ----- | ----- | ----- | -------------------------------- |
+| 1    | 7 Serpents Zimbo               | 21     | 7-1-0  | 51.8% | 82.4% | 52.7% | 🟣⚪️ Amethyst Steel Aggro        |
+| 2    | Swordinator                    | 17     | 5-1-2  | 65.2% | 62.7% | 66.1% | 🔵🟣 Amethyst Sapphire Blurple   |
+| 3    | The Big Ink Theory Meisterbier | 14     | 4-1-2  | 67.5% | 69.0% | 62.8% | 🔵🟣 Amethyst Sapphire Blurple   |
+| 4    | KaynBockMehr                   | 13     | 4-2-1  | 66.8% | 66.7% | 64.6% | 🟡⚪️ Amber Steel Songs           |
+| 5    | Randalex                       | 10     | 3-2-1  | 65.6% | 45.2% | 68.1% | 🟣⚪️ Amethyst Steel Aggro        |
+| 6    | 7 Serpents schlendi            | 10     | 3-2-1  | 65.6% | 53.8% | 60.4% | 🟣⚪️ Amethyst Steel Aggro        |
+| 7    | 7Serpents McLovin              | 10     | 3-2-1  | 56.7% | 60.0% | 56.1% | 🟡🟢 Amber Emerald Aggro         |
+| 8    | shinobi64                      | 9      | 3-3-0  | 62.6% | 42.9% | 64.6% | 🟡🔴 Amber Ruby Midrange         |
+| 9    | Seb D                          | 9      | 3-2-0  | 55.5% | 50.0% | 60.4% | 🟡⚪️ Amber Steel Songs           |
+| 10   | MrWeasel                       | 9      | 3-2-0  | 53.4% | 58.3% | 53.2% | 🟡🔵 Amber Sapphire Aggro        |
+| 11   | ITfairy                        | 6      | 2-3-0  | 74.1% | 36.4% | 76.5% | 🟡🔵 Amber Sapphire Aggro        |
+| 12   | IRN_Darksteel                  | 6      | 2-3-0  | 74.2% | 50.0% | 68.2% | 🔵🟣 Amethyst Sapphire Blurple   |
+| 13   | Cantyr                         | 6      | 2-3-0  | 64.0% | 42.9% | 61.5% | 🔵🟣 Amethyst Sapphire Blurple   |
+| 14   | GnF                            | 6      | 2-3-0  | 69.3% | 50.0% | 68.9% | 🟢🔵 Emerald Sapphire Clarabelle |
+| 15   | Ice Sorcerer                   | 6      | 2-3-0  | 65.0% | 38.5% | 62.5% | 🟢🟣 Amethyst Emerald Tempo      |
+| 16   | Kroli                          | 6      | 2-3-0  | 50.5% | 46.2% | 52.2% | 🟣⚪️ Amethyst Steel Aggro        |
+| 17   | BattleBear Jurki               | 6      | 2-3-0  | 50.1% | 41.7% | 53.9% | 🟡🔴 Amber Ruby Midrange         |
+| 18   | The Big Ink Theory Robert      | 4      | 1-3-1  | 74.7% | 33.0% | 72.0% | 🟡⚪️ Amber Steel Aggro           |
+| 19   | TabascoEye                     | 4      | 1-3-1  | 57.4% | 41.7% | 56.3% | 🟢🟣 Amethyst Emerald Tempo      |
+| 20   | TopChicken                     | 3      | 1-3-0  | 57.6% | 36.4% | 58.5% | 🔵🟣 Amethyst Sapphire Blurple   |
+| 21   | The Big Ink Theory Stolli      | 3      | 1-4-0  | 44.6% | 35.7% | 50.0% | 🔵🟣 Amethyst Sapphire Blurple   |
 
-Full list of all decks are published on inkdecks - https://inkdecks.com/lorcana-tournaments/mochi-cards-winterspell-set-championship-tournament-decks-363356
+Full list of all decks are published on inkdecks - https://inkdecks.com/lorcana-tournaments/card-club-winterspell-set-championship-tournament-decks-363408
 
 #### Expectation matching
 
-| Player      | Predicted Deck    | Real Deck          |
-| ----------- | ----------------- | ------------------ |
-| Max         |                   | Amethyst Sapphire  |
-| Florian     |                   | Amber Steel        |
-| MCLovin     |                   | Amber Emerald      |
-| TopChicken  | Amethyst Sapphire | Amethyst Sapphire  |
-| Randalex    | Amethyst Steel    | Amethyst Steel     |
-| AndreCruz   | Amethyst Sapphire | Ametheyst Sapphire |
-| Putschi     | Amber Steel       | Amber Steel        |
-| AMS         | Ruby Amethyst     | Ruby Amethyst      |
-| Andi1066    | Emerald Sapphire  | Emerald Sapphire   |
-| ITFairy     | Amber Amethyst    | Amber Amethyst     |
-| Enchannika  | Amber Ruby        | Amber Ruby         |
-| CC          | Amethyst Steel    | Amethyst Steel     |
-| Zimbo       | Amethyst Steel    |                    |
-| Varolz      | Amethyst Steel    | Amethyst Steel     |
-| Gabo        | Amber Sapphire    |                    |
-| schlendi    | Amethyst Steel    |                    |
-| IceSorcerer | Amethyst Emerald  | Amethyst Emerald   |
-| Johnny3001  | Sapphire Steel    |                    |
-| i2Ioulaki   | Amber Steel       | Amethyst Sapphire  |
-| GnF         | Amber Ruby        | Emerald Sapphire   |
-| Ohli        | Amethyst Steel    | Amethyst Steel     |
-| Jurki       | Amber Ruby        | Amber Ruby         |
-| shinobi64   | Ruby Amethyst     | Ruby Amethyst      |
-| keo         | Amethyst Steel    | Amethyst Steel     |
-| Kroli       | Amethyst Steel    | Amethyst Steel     |
-| Swordinator | Amethyst Sapphire | Amethyst Sapphire  |
-| MrsWeasel   | Emerald Steel     | Amber Emerald      |
-| Brudi       | Amber Steel       |                    |
-| DerLee      | Ruby Steel        |                    |
+| Player           | Predicted Deck    | Real Deck         |
+| ---------------- | ----------------- | ----------------- |
+| LE_SiaNova       | Amethyst Steel    |                   |
+| TopChicken       | Amber Steel       | Amethyst Sapphire |
+| **Randalex**     | Amethyst Steel    | Amethyst Steel    |
+| ITFairy          | Amber Amethyst    | Amber Sapphire    |
+| **TabascoEye**   | Amethyst Emerald  | Amethyst Emerald  |
+| **KaynBockMehr** | Amber Steel       | Amber Steel       |
+| GnF              | Amber Ruby        | Emerald Sapphire  |
+| **Ice Sorcerer** | Amethyst Emerald  | Amethyst Emerald  |
+| McLovin          | Amber Steel       | Amber Emerald     |
+| **Darksteel**    | Amethyst Sapphire | Amethyst Sapphire |
+| shinobi64        | Amethyst Sapphire | Amber Ruby        |
+| **Cantyr**       | Amethyst Sapphire | Amethyst Sapphire |
+| MrWeasel         | Amethyst Steel    | Amber Sapphire    |
+| Swordinator      | Amber Amethyst    | Amethyst Sapphire |
+| Robert           | Amethyst Steel    | Amber Steel       |
+| **Stolli**       | Amethyst Sapphire | Amethyst Sapphire |
+| **Meisterbier**  | Amethyst Sapphire | Amethyst Sapphire |
+| SebD             |                   | Amber Steeel      |
+| Zimbo            |                   | Amethyst Steel    |
+| schlendi         |                   | Amethyst Steel    |
+| Kroli            |                   | Amethyst Steel    |
 
-Predicted out of the players that were originally registered and showed up 17 out of 20 with the proper deck.
+Predicted out of the players that were originally registered and showed up 8 out of 16 with the proper deck.
 
 ### Life time stats
 
@@ -285,4 +255,4 @@ After this event it's
 
 | Record     | Win Rate % | Events Played |
 | ---------- | ---------- | ------------- |
-| 177-127-15 | 55.5%      | 86            |
+| 182-131-15 | 55.5%      | 88            |
