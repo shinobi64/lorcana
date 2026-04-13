@@ -41,153 +41,162 @@ Saturday morning - the best time for a setchampionship in the Card Club in Hocke
 
 ## Tournament Rounds
 
-With an expected Amethyst Steel meta in the room I opted to play a Ruby Amethyst deck which had good answers for Amethyst Steel and other Steel based decks. The deck has some weaknesses against Amethyst Sapphire and other control like decks but I took that gamble based on the expected meta. Decklist on dreamborn is https://dreamborn.ink/decks/ZE9HYvnG0GPK0XGrqtyC
+With a more Amethyst Sapphire heavy meta and some Amethyst Steel decks expected I opted to play an Amber Ruby deck which in the long grind game is pretty good against the typical Amethyst Sapphire setups. The deck has some weaknesses against faster decks, which I was willing to risk - with the hopes in the RNG gods to not give me these matchups. Decklist on dreamborn is https://dreamborn.ink/decks/ZI2AFs0sSr8tIyJBDHMU
 
-- 4 Palace Guard - Spectral Sentry
-- 4 Madame Medusa - Deceiving Partner
-- 2 Hypnotic Strength
-- 4 Cheshire Cat - Inexplicable
-- 3 Junior Woodchuck Guidebook
-- 2 Lumiere - Fiery Friend
-- 3 Olaf - Helping Hand
+- 4 Raging Storm
+- 4 The Horseman Strikes!
+- 4 Maleficent - Monstrous Dragon
+- 2 Mowgli - Man Cub
 - 4 Scrooge McDuck - Ghostly Ebenezer
-- 3 Christopher Robin - Joining the Fun
-- 4 Demona - Scourge of the Wyvern Clan
-- 3 Hades - Looking for a Deal
-- 3 Slushy - Glacial Guster
-- 2 Genie - Magical Researcher
-- 1 Elisa Maza - Transformed Gargoyle
-- 2 The Headless Horseman - Terror of Sleepy Hollow
-- 2 Madam Mim - Elephant
-- 4 Elsa - The Fifth Spirit
-- 3 Diablo - Obedient Raven
-- 3 Genie - Wish Fulfilled
-- 4 Dumbo - Ninth Wonder of the Universe
+- 1 Elsa - Ice Artisan
+- 3 Scrooge's Counting House - Ebenezer's Office
+- 1 Ares - God of War
+- 4 Della's Moon Lullaby
+- 4 Webby's Diary
+- 2 World's Greatest Criminal Mind
+- 2 A Pirate’s Life
+- 4 The Headless Horseman - Terror of Sleepy Hollow
+- 4 Ariel - Ethereal Voice
+- 4 Aladdin - Barreling Through
+- 1 The Black Cauldron
+- 3 Tinker Bell - Fancy Footwork
+- 1 Ghostly Tale
+- 1 Ohana Means Family
+- 3 Maui - Half-Shark
+- 2 Copper - On the Scent
+- 2 Liquidator - Iced Over
 
 ### Round 1
 
-Round 1 pairing was not existent for me, as we had been 23 players and one player had to have the bye.
+Round 1 pairing was with Leo and his traditional Amethyst Emerald tempo deck. This is typically a balanced matchup, as the deck can be pretty quick - and as well the SnowFort item can be a bit hard to deal with at times. With a lost dice roll I was on the backfoot from the beginning. In the first game I could establish the Webby Diary draw engine early on and have the matching boost characters as well. With this it was easy to stall out the game for the Raging Storm and then use the card advantage for the win. In the second game I could not find the Diary and had to use the Cauldron instead - this was pretty good, as I could use this like a second deck for this round. With the use of the Cauldron I could then even not play the Raging Storm but recycle the Malefiz Dragon multiple times to win the game.
+
+#### Game 1
+
+| Player            | Play | Lorecount         | Win |
+| ----------------- | ---- | ----------------- | --- |
+| Me                |      | 1/2/3/5/6/9/14/20 | (x) |
+| Leo (Master-Elle) | (x)  | 1/2/3/4/6/4       |     |
+
+#### Game 2
+
+| Player            | Play | Lorecount                    | Win |
+| ----------------- | ---- | ---------------------------- | --- |
+| Me                |      | 1/2/3/4/5/7/9/12/14/17/19/20 | (x) |
+| Leo (Master-Elle) | (x)  | 1/2/3/1/2/3/4/5/6/4          |     |
 
 Result after round 1: **1-0-0**
 
 ### Round 2
 
-Round 2 pairing was with Andi and his signature Emerald Sapphire deck - this was exactly the matchup I did not want to see. In addition I lost the dice roll, which made this an even more uphill battle for me. In the first game Andi openend with the perfect curve from Develop Your Brain into Tipo into Cindy into Clarabelle with You're Welcome and followed up with a Bend to My Will. At that stage it was already over and I just played it further out. In the second game I could establish early board control with my boost characters which are less sensitive to his removals and by this pressure the lore total quickly and race to the end. In the last game he openend with triple one drop Clarabelle followed by a shift Clarabelle and a Stopped Chaos in it's track followed by a Bend to My Will. At that state I had nearly no board and no cards in hand to do any comeback.
+Round 2 pairing was with Hannes and his Amethyst Steel deck. Hannes won the dice roll and by this I was in bad starting position against a typically faster deck. In both games I could start with my Scrooge which is a good line, but Hannes could even start better with the Christopher Robin followed by the curve into Angel/ Yzma followed by Doc and Olaf. By this he could establish so much tempo in both games which I could not claw back from.
 
 #### Game 1
 
-| Player          | Play | Lorecount            | Win |
-| --------------- | ---- | -------------------- | --- |
-| Me              |      | 1/4/5/8/10/12        |     |
-| Andi (Andi1066) | (x)  | 3/5/8/10/11/12/17/20 | (x) |
+| Player            | Play | Lorecount         | Win |
+| ----------------- | ---- | ----------------- | --- |
+| Me                |      | 0                 |     |
+| Hannes (schlendi) | (x)  | 1/2/3/4/5/8/12/20 | (x) |
 
 #### Game 2
 
-| Player          | Play | Lorecount            | Win |
-| --------------- | ---- | -------------------- | --- |
-| Me              | (x)  | 1/4/7/11/14/16/19/20 | (x) |
-| Andi (Andi1066) |      | 1                    |     |
-
-#### Game 3
-
-| Player          | Play | Lorecount   | Win |
-| --------------- | ---- | ----------- | --- |
-| Me              |      | 1/3/4       |     |
-| Andi (Andi1066) | (x)  | 3/5/7/15/20 | (x) |
+| Player            | Play | Lorecount         | Win |
+| ----------------- | ---- | ----------------- | --- |
+| Me                | (x)  | 1/2               |     |
+| Hannes (schlendi) |      | 2/3/4/6/7/9/13/20 | (x) |
 
 Result after round 2: **1-1-0**
 
 ### Round 3
 
-Round 3 pairing was into Sarah and her Amber Emerald deck based on dogs. This is a fairly good matchup for me, as I bring in a lot of direct removal cards and the special card Elisa Maza which prevents the strength based reductions - a key element of the removal cards in her deck. In both games I could bring my characters quickly to the board and have the removal options reading including the Headless Horseman and the Cheshire Cat. In both games Sarah found the Emerald Chromicon late - but it would as well not helped a lot, as the cards to bounce back would be direct removals again.
+Round 3 pairing was with Manuel and his Amethyst Sapphire deck. I lost the dice roll again but into the Amethyst Sapphire deck this could be ok - if he would not open too fast. However he found a good curve and could establish the needed tempo on board. I in addition bricked on five ink with four Raging Storm in hand. In the second and third game I could establish my draw engine late but use the Cauldron as replacement for it. Then with the board wipe played I was able to reset his tempo good enough to swing it into my favor.
 
 #### Game 1
 
-| Player            | Play | Lorecount           | Win |
-| ----------------- | ---- | ------------------- | --- |
-| Me                | (x)  | 1/2/5/8/10/12/18/20 | (x) |
-| Sarah (MrsWeasel) |      | 2/4/9/14            |     |
+| Player              | Play | Lorecount       | Win |
+| ------------------- | ---- | --------------- | --- |
+| Me                  |      | 1/2             |     |
+| Manuel (Darksteel1) | (x)  | 1/4/10/16/18/20 | (x) |
 
 #### Game 2
 
-| Player            | Play | Lorecount        | Win |
-| ----------------- | ---- | ---------------- | --- |
-| Me                |      | 2/3/5/8/12/15/20 | (x) |
-| Sarah (MrsWeasel) | (x)  | 1/6/8/10         |     |
+| Player              | Play | Lorecount                     | Win |
+| ------------------- | ---- | ----------------------------- | --- |
+| Me                  | (x)  | 1/2/3/4/5/7/11/15/16/17/18/20 | (x) |
+| Manuel (Darksteel1) |      | 1/2/3/4                       |     |
+
+#### Game 3
+
+| Player              | Play | Lorecount                  | Win |
+| ------------------- | ---- | -------------------------- | --- |
+| Me                  |      | 1/2/3/5/7/8/12/16/20       | (x) |
+| Manuel (Darksteel1) | (x)  | 3/6/9/11/12/10/12/13/15/16 |     |
 
 Result after round 3: **2-1-0**
 
 ### Round 4
 
-Round 4 paired me with Andre - kind of the el classico - and his Amber Steel songs deck. In the first game he could establish a Doc chain supported by multiple Grandmother Willow and as well an Angel to control my board. In the second game I could early remove his key characters and then just quest out from there. In the last game I quested aggressively and Andre made an opening mistake for choosing the wrong playline.
+Round 4 paired me with Florian and his Amber Steel songs deck. This is a pretty bad matchup for me as the deck can be very explosive and this tempo advantage can be hard to swallow - especially the Lilo is a bane for the matchup as it's a recurse option after the Raging Storm play. In that sense I was not able to establish enough board and lost both games pretty quickly.
 
 #### Game 1
 
-| Player          | Play | Lorecount   | Win |
-| --------------- | ---- | ----------- | --- |
-| Me              | (x)  | 1/4/6/7/8/9 |     |
-| Andre (Putschi) |      | 6/13/178/20 | (x) |
+| Player                 | Play | Lorecount         | Win |
+| ---------------------- | ---- | ----------------- | --- |
+| Me                     | (x)  | 1/2/3/4/5/7       |     |
+| Florian (KaynBockMehr) |      | 2/3/6/11/15/18/20 | (x) |
 
 #### Game 2
 
-| Player          | Play | Lorecount                   | Win |
-| --------------- | ---- | --------------------------- | --- |
-| Me              | (x)  | 1/2/4/7/9/10/11/12/14/18/20 | (x) |
-| Andre (Putschi) |      | 4/5                         |     |
-
-#### Game 3
-
-| Player          | Play | Lorecount             | Win |
-| --------------- | ---- | --------------------- | --- |
-| Me              |      | 2/4/6/8/9/12/14/16/20 | (x) |
-| Andre (Putschi) | (x)  | 3                     |     |
+| Player                 | Play | Lorecount            | Win |
+| ---------------------- | ---- | -------------------- | --- |
+| Me                     | (x)  | 0                    |     |
+| Florian (KaynBockMehr) |      | 2/5/8/10/13/15/17/20 | (x) |
 
 Result after round 4: **2-2-0**
 
 ### Round 5
 
-Last round of swiss pairing was with Christian and his Amethyst Steel deck. Originally I thought we could do a draw and in - but Christian was at this stage only 2-2-0 - so he had to play it out to have a chance on the top cut. I lost the dice roll and in the first game Chris curved out nicely into the Strength followed by Angel and a Doc. In the second game I could establish my larger bodies and quest out with my evasive characters for a win. In the last game we had some kind of standoff, but then he drew into Demona and could trade down my board first.
+So last round was for win and in - even with an outside chance - was with Max and his Amethyst Sapphire deck. Again a rather favorable matchup for me - but Max always plays some special cards - thus it's unpredictable what would happen. I was on the play in the first game and lost it, as Max was too fast and I could not find the needed answers in time. The second game was then the other way round and in the third game Max found his ramp one turn late and I could stall out the game long enough to find my draw engine after Max destroyed my Cauldron. With this I could then win out the grindy game.
 
 #### Game 1
 
-| Player         | Play | Lorecount      | Win |
-| -------------- | ---- | -------------- | --- |
-| Me             |      | 2              |     |
-| Christian (CC) | (x)  | 2/4/7/12/16/20 | (x) |
+| Player       | Play | Lorecount                | Win |
+| ------------ | ---- | ------------------------ | --- |
+| Me           | (x)  | 1/3                      |     |
+| Max (Cantry) |      | 1/3/4/6/9/12/10/14/19/20 | (x) |
 
 #### Game 2
 
-| Player         | Play | Lorecount       | Win |
-| -------------- | ---- | --------------- | --- |
-| Me             | (x)  | 1/2/3/5/7/14/20 | (x) |
-| Christian (CC) |      | 4/8/12/13       |     |
+| Player       | Play | Lorecount                   | Win |
+| ------------ | ---- | --------------------------- | --- |
+| Me           | (x)  | 1/3/5/6/8/10/12/14/15/17/20 | (x) |
+| Max (Cantry) |      | 1/3/5/3/5                   |     |
 
 #### Game 3
 
-| Player         | Play | Lorecount | Win |
-| -------------- | ---- | --------- | --- |
-| Me             |      | 6         |     |
-| Christian (CC) | (x)  | 4/14/20   | (x) |
+| Player       | Play | Lorecount           | Win |
+| ------------ | ---- | ------------------- | --- |
+| Me           |      | 2/4/6/8/10/11/14/20 | (x) |
+| Max (Cantry) | (x)  | 1/3/4/5             |     |
 
 Result after round 5: **3-2-0**
 
 ### Top 8
 
-With the 3-2-0 I managed to get into the top 8 at position seven. This paired me then into Felix and this Amethyst Steel deck - a good choice for me. As expected the started off the games due to the higher seed and he could start to curve out but missed then on card draw, while I could continue to play more impactful characters to the board - so I could take the first game. In the second game he bricked a bit on the 5 ink turn with only drawing into additional uninkables and by this not being able to play his Demona - on the flip side I could bring in additional removal bodies like the Headless Horseman to have then a better board state.
+With the 3-2-0 I managed to get into the top 8 at position eight. This paired me then into Fabian and his Amethyst Steel deck. With the lower seeding this meant I would need to be on the draw. Fabian got to a very slow start which would have been a good one for me - however I failed to find the needed board wipe and due to this he brought it into the finish. Second game he had the outs early on and could establish the needed tempo to out my deck before I could wipe it.
 
 #### Game 1
 
-| Player         | Play | Lorecount                      | Win |
-| -------------- | ---- | ------------------------------ | --- |
-| Me             |      | 1/3/5/7/14/20                  | (x) |
-| Felix (Varolz) | (x)  | 1/2/3/5/6/7/8/9/10/11/13/14/16 |     |
+| Player         | Play | Lorecount           | Win |
+| -------------- | ---- | ------------------- | --- |
+| Me             |      | 0                   |     |
+| Fabian (Zimbo) | (x)  | 1/2/3/6/10/15/19/20 | (x) |
 
 #### Game 2
 
-| Player         | Play | Lorecount     | Win |
-| -------------- | ---- | ------------- | --- |
-| Me             |      | 2/4/7/9/15/20 | (x) |
-| Felix (Varolz) | (x)  | 1/3/4/6/7     |     |
+| Player         | Play | Lorecount        | Win |
+| -------------- | ---- | ---------------- | --- |
+| Me             | (x)  | 0                |     |
+| Fabian (Zimbo) |      | 2/5/6/8/11/15/20 | (x) |
 
 Result after top 8: **3-3-0**
 

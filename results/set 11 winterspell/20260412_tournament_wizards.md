@@ -44,139 +44,159 @@ Sunday morning - the best time for a setchampionship in the Wizards Well in Hock
 
 ## Tournament Rounds
 
-With an expected Amethyst Steel meta in the room I opted to play a Ruby Amethyst deck which had good answers for Amethyst Steel and other Steel based decks. The deck has some weaknesses against Amethyst Sapphire and other control like decks but I took that gamble based on the expected meta. Decklist on dreamborn is https://dreamborn.ink/decks/ZE9HYvnG0GPK0XGrqtyC
+With an expected Amethyst Sapphire meta but the hard control deck from Andi in the mix I decided for an Amethyst Sapphire deck myself. Typically I can play ok enough to be good into the mirrors which made me confident with the choice. Tamatoa is a deck coice for grindy games as it can recur the needed card draw items. Decklist on dreamborn is https://dreamborn.ink/decks/ZE9HYvnG0GPK0XGrqtyC
 
-- 4 Palace Guard - Spectral Sentry
-- 4 Madame Medusa - Deceiving Partner
-- 2 Hypnotic Strength
-- 4 Cheshire Cat - Inexplicable
-- 3 Junior Woodchuck Guidebook
-- 2 Lumiere - Fiery Friend
-- 3 Olaf - Helping Hand
-- 4 Scrooge McDuck - Ghostly Ebenezer
-- 3 Christopher Robin - Joining the Fun
-- 4 Demona - Scourge of the Wyvern Clan
+- 3 Tigger - Bouncing All the Way
+- 3 Cheshire Cat - Inexplicable
+- 4 Junior Woodchuck Guidebook
 - 3 Hades - Looking for a Deal
-- 3 Slushy - Glacial Guster
-- 2 Genie - Magical Researcher
-- 1 Elisa Maza - Transformed Gargoyle
-- 2 The Headless Horseman - Terror of Sleepy Hollow
-- 2 Madam Mim - Elephant
+- 4 Let it Go
+- 4 Royal Guard - Octopus Soldier
+- 4 Demona - Scourge of the Wyvern Clan
+- 4 Tipo - Growing Son
+- 3 Into the Unknown
+- 2 Wasabi - Methodical Engineer
+- 4 Hades - Infernal Schemer
+- 2 Demona - Betrayer of the Clan
+- 2 Tamatoa - Happy as a Clam
+- 2 Inkrunner
 - 4 Elsa - The Fifth Spirit
-- 3 Diablo - Obedient Raven
-- 3 Genie - Wish Fulfilled
-- 4 Dumbo - Ninth Wonder of the Universe
+- 4 Basil - Practiced Detective
+- 4 Sail The Azurite Sea
+- 2 Genie - Wish Fulfilled
+- 2 Dumbo - Ninth Wonder of the Universe
 
 ### Round 1
 
-Round 1 pairing was not existent for me, as we had been 23 players and one player had to have the bye.
+Round 1 pairing was with Max and his Amethyst Sapphire deck. This is a continue from the day before in the Card Club - but Max made a couple of adjustments to better handle items and larger characters. In the first game I could get fast to a win by establishing board presence and tempo which could not be handled. In the second game Max found his Demonas and Hades way better - then we only had 17 minutes left. In the last game Max was better in the early game but I swung the board into my favor - then the time ran out and we could not finish the game - quite dissatisfying result in round 1.
 
-Result after round 1: **1-0-0**
+#### Game 1
+
+| Player       | Play | Lorecount        | Win |
+| ------------ | ---- | ---------------- | --- |
+| Me           |      | 1/4/5/6/9/14/20  | (x) |
+| Max (Cantry) | (x)  | 1/3/5/6/7/8/9/10 |     |
+
+#### Game 2
+
+| Player       | Play | Lorecount                   | Win |
+| ------------ | ---- | --------------------------- | --- |
+| Me           |      | 2/4/7                       |     |
+| Max (Cantry) | (x)  | 2/3/5/7/9/10/11/12/13/14/20 | (x) |
+
+#### Game 1
+
+| Player       | Play | Lorecount     | Win |
+| ------------ | ---- | ------------- | --- |
+| Me           | (x)  | 2             |     |
+| Max (Cantry) |      | 1/2/3/5/6/7/8 |     |
+
+Result after round 1: **0-0-1**
 
 ### Round 2
 
-Round 2 pairing was with Andi and his signature Emerald Sapphire deck - this was exactly the matchup I did not want to see. In addition I lost the dice roll, which made this an even more uphill battle for me. In the first game Andi openend with the perfect curve from Develop Your Brain into Tipo into Cindy into Clarabelle with You're Welcome and followed up with a Bend to My Will. At that stage it was already over and I just played it further out. In the second game I could establish early board control with my boost characters which are less sensitive to his removals and by this pressure the lore total quickly and race to the end. In the last game he openend with triple one drop Clarabelle followed by a shift Clarabelle and a Stopped Chaos in it's track followed by a Bend to My Will. At that state I had nearly no board and no cards in hand to do any comeback.
+Round 2 pairing was with Simon and his Amethyst Sapphire deck. Again I lost the dice roll but could make a great game one on the draw, while then loosing in game two. I honestly lost due to a misevaluation of a mid game situation where Simon had two Elsa on board and I had a Hades in hand - I played then the Tamatoa to recur card draw value - but Simon sang Second Star to the Right for a massive resource advantage from that point onwards. In game three I had a good start but no follow up whatsoever - no Demona no Guidebook - due to the better card draw draws Simon could turn it and win.
 
 #### Game 1
 
-| Player          | Play | Lorecount            | Win |
-| --------------- | ---- | -------------------- | --- |
-| Me              |      | 1/4/5/8/10/12        |     |
-| Andi (Andi1066) | (x)  | 3/5/8/10/11/12/17/20 | (x) |
+| Player         | Play | Lorecount              | Win |
+| -------------- | ---- | ---------------------- | --- |
+| Me             |      | 1/2/4/5/6/7/8/10/13/20 | (x) |
+| Simon (Stolli) | (x)  | 1                      |     |
 
 #### Game 2
 
-| Player          | Play | Lorecount            | Win |
-| --------------- | ---- | -------------------- | --- |
-| Me              | (x)  | 1/4/7/11/14/16/19/20 | (x) |
-| Andi (Andi1066) |      | 1                    |     |
+| Player         | Play | Lorecount        | Win |
+| -------------- | ---- | ---------------- | --- |
+| Me             |      | 3                |     |
+| Simon (Stolli) | (x)  | 1/2/3/4/6/7/9/20 | (x) |
 
 #### Game 3
 
-| Player          | Play | Lorecount   | Win |
-| --------------- | ---- | ----------- | --- |
-| Me              |      | 1/3/4       |     |
-| Andi (Andi1066) | (x)  | 3/5/7/15/20 | (x) |
+| Player         | Play | Lorecount              | Win |
+| -------------- | ---- | ---------------------- | --- |
+| Me             | (x)  | 1/2/3/6/7/10/12/14/16  |     |
+| Simon (Stolli) |      | 1/3/7/9/10/11/14/15/20 | (x) |
 
-Result after round 2: **1-1-0**
+Result after round 2: **0-1-1**
 
 ### Round 3
 
-Round 3 pairing was into Sarah and her Amber Emerald deck based on dogs. This is a fairly good matchup for me, as I bring in a lot of direct removal cards and the special card Elisa Maza which prevents the strength based reductions - a key element of the removal cards in her deck. In both games I could bring my characters quickly to the board and have the removal options reading including the Headless Horseman and the Cheshire Cat. In both games Sarah found the Emerald Chromicon late - but it would as well not helped a lot, as the cards to bounce back would be direct removals again.
-
-#### Game 1
-
-| Player            | Play | Lorecount           | Win |
-| ----------------- | ---- | ------------------- | --- |
-| Me                | (x)  | 1/2/5/8/10/12/18/20 | (x) |
-| Sarah (MrsWeasel) |      | 2/4/9/14            |     |
-
-#### Game 2
-
-| Player            | Play | Lorecount        | Win |
-| ----------------- | ---- | ---------------- | --- |
-| Me                |      | 2/3/5/8/12/15/20 | (x) |
-| Sarah (MrsWeasel) | (x)  | 1/6/8/10         |     |
-
-Result after round 3: **2-1-0**
-
-### Round 4
-
-Round 4 paired me with Andre - kind of the el classico - and his Amber Steel songs deck. In the first game he could establish a Doc chain supported by multiple Grandmother Willow and as well an Angel to control my board. In the second game I could early remove his key characters and then just quest out from there. In the last game I quested aggressively and Andre made an opening mistake for choosing the wrong playline.
-
-#### Game 1
-
-| Player          | Play | Lorecount   | Win |
-| --------------- | ---- | ----------- | --- |
-| Me              | (x)  | 1/4/6/7/8/9 |     |
-| Andre (Putschi) |      | 6/13/178/20 | (x) |
-
-#### Game 2
-
-| Player          | Play | Lorecount                   | Win |
-| --------------- | ---- | --------------------------- | --- |
-| Me              | (x)  | 1/2/4/7/9/10/11/12/14/18/20 | (x) |
-| Andre (Putschi) |      | 4/5                         |     |
-
-#### Game 3
-
-| Player          | Play | Lorecount             | Win |
-| --------------- | ---- | --------------------- | --- |
-| Me              |      | 2/4/6/8/9/12/14/16/20 | (x) |
-| Andre (Putschi) | (x)  | 3                     |     |
-
-Result after round 4: **2-2-0**
-
-### Round 5
-
-Last round of swiss pairing was with Christian and his Amethyst Steel deck. Originally I thought we could do a draw and in - but Christian was at this stage only 2-2-0 - so he had to play it out to have a chance on the top cut. I lost the dice roll and in the first game Chris curved out nicely into the Strength followed by Angel and a Doc. In the second game I could establish my larger bodies and quest out with my evasive characters for a win. In the last game we had some kind of standoff, but then he drew into Demona and could trade down my board first.
+Round 3 pairing was into Fabian and his Amber Ruby midrange deck. As he played Amethyst Steel deck the day before it was expected that he switches rather to his fun deck today. I lost the dice roll again, which put me in a rough spot as Amber Ruby can be a hard matchup for Amethyst Sapphire. In both games I could start strong and play basically an aggro version of the deck. I tried to avoid as much ramping Fabian to prevent an too early Raging Storm. In the first game Fabian did not found one, while in the second game I weathered three Raging Storms.
 
 #### Game 1
 
 | Player         | Play | Lorecount      | Win |
 | -------------- | ---- | -------------- | --- |
-| Me             |      | 2              |     |
-| Christian (CC) | (x)  | 2/4/7/12/16/20 | (x) |
+| Me             |      | 1/3/6/10/15/20 | (x) |
+| Fabian (Zimbo) | (x)  | 2              |     |
 
 #### Game 2
 
-| Player         | Play | Lorecount       | Win |
-| -------------- | ---- | --------------- | --- |
-| Me             | (x)  | 1/2/3/5/7/14/20 | (x) |
-| Christian (CC) |      | 4/8/12/13       |     |
+| Player         | Play | Lorecount                         | Win |
+| -------------- | ---- | --------------------------------- | --- |
+| Me             |      | 1/3/5/7/9/10/11/15/18/16/17/18/20 | (x) |
+| Fabian (Zimbo) | (x)  | 1/2/4/6/7/9/11                    |     |
+
+Result after round 3: **1-1-1**
+
+### Round 4
+
+Round 4 paired me with Christian and his typical Amethyst Steel deck. After a lost dice roll I started on the back foot into the match. In the first game Christian had all the needed pieces to get fast on board and develop tempo with the lore. In the second game it was the opposite picture and I could generate fast enough lore to outrace Christian. Last game was a real grind which ended in a draw, while I had enough board developed and resources in hand to close the game in two turns, while Christian was out of options and played his last Cobra to the board. It would have been a win, but the time decided for the draw.
+
+#### Game 1
+
+| Player         | Play | Lorecount               | Win |
+| -------------- | ---- | ----------------------- | --- |
+| Me             |      | 1                       |     |
+| Chris (ChrC56) | (x)  | 1/2/4/6/8/9/11/12/17/20 | (x) |
+
+#### Game 2
+
+| Player         | Play | Lorecount     | Win |
+| -------------- | ---- | ------------- | --- |
+| Me             | (x)  | 2/4/8/9/16/20 | (x) |
+| Chris (ChrC56) |      | 2/3/4/5/6/7/9 |     |
 
 #### Game 3
 
-| Player         | Play | Lorecount | Win |
-| -------------- | ---- | --------- | --- |
-| Me             |      | 6         |     |
-| Christian (CC) | (x)  | 4/14/20   | (x) |
+| Player         | Play | Lorecount      | Win |
+| -------------- | ---- | -------------- | --- |
+| Me             |      | 2/8            |     |
+| Chris (ChrC56) | (x)  | 2/5/6/11/13/16 |     |
 
-Result after round 5: **3-2-0**
+Result after round 4: **1-1-2**
+
+### Round 5
+
+Last round of swiss pairing was with Theresa a member of a group from Würzburg visiting the Mannheim store. She played an Amethyst Steel deck and won the dice roll. In the first game she had the typical outs with Yzma, Doc and Strength. In the second game I could control the board via fast paced game play and then do not let Theresa come back onto the board. Last game was then a balanced start, but I could only find removal which generated ink - which then hit me back with a double Yzma and Doc chain. In addition Theresa found all her one offs in this match at the perfect times.
+
+#### Game 1
+
+| Player        | Play | Lorecount          | Win |
+| ------------- | ---- | ------------------ | --- |
+| Me            |      | 1/5                |     |
+| Theresa (Tia) | (x)  | 1/2/3/6/9/12/18/20 | (x) |
+
+#### Game 2
+
+| Player        | Play | Lorecount         | Win |
+| ------------- | ---- | ----------------- | --- |
+| Me            | (x)  | 1/2/3/4/5/9/16/20 | (x) |
+| Theresa (Tia) |      | 1/2               |     |
+
+#### Game 3
+
+| Player        | Play | Lorecount  | Win |
+| ------------- | ---- | ---------- | --- |
+| Me            |      | 1/4/9      |     |
+| Theresa (Tia) | (x)  | 1/3/4/9/20 | (x) |
+
+Result after round 5: **1-2-2**
 
 ### Result
 
-Deck choice was ok for the meta which showed up/ was expected. The games into the faster Amethyst Steel and Amber Steel decks were unfortunately slightly overshadowed by bricky hands but would have been hard regardless. With this reaching top cut was kind of the best result achievable.
+Retrospective the deck choice could have been made different, however it was as well a question of being 4 out of 5 games on the draw and as well having a bit of bad draws. One game I could for sure say I threw due to a wrong game state evaluation. The two draws could partially be avoided, especially the first one - that could have made a difference.
 
 | Rank | Name                           | Points | Record | OMW % | GW%   | OGW % | Deck                             |
 | ---- | ------------------------------ | ------ | ------ | ----- | ----- | ----- | -------------------------------- |
