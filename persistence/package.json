@@ -19,7 +19,7 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "@sap/hana-client": "^2.24.24",
+    "@sap/hana-client": "^2.28.20",
     "papaparse": "^5.3.0"
   }
 }
