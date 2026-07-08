@@ -59,6 +59,14 @@
     {
       "type": "node",
       "request": "launch",
+      "name": "Launch RPH Fetch",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}/rph/dist/main.js",
+      "cwd": "${workspaceFolder}/rph/dist"
+    },
+    {
+      "type": "node",
+      "request": "launch",
       "name": "Launch TopCut",
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}/topcut/dist/main.js",

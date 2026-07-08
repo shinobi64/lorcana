@@ -11,4 +11,5 @@ dist
 *.env
 *.system.json
 *.params.json
+*.tournament.json
 *.expectedmeta.json
