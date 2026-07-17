@@ -18,3 +18,9 @@ Case 1 Display 2: 1 Enchanted, 2 Epic, 5 Legendary (Merida, Christopher, Mickey,
 Case 1 Display 3: 3 Epic, 7 Legendary (King, Pocahontas, Rapunzel, Mushu, Meilin, Meilin Foil, Quacker), 13 SuperRare (2 Foil), 35 Rare (4 Foil)
 Case 1 Display 4: 1 Enchanted, 2 Epic, 5 Legendary (King, Pocahontas, Rapunzel, Meilin, Quacker), 11 SuperRare (1 Foil), 38 Rare (5 Foil)
 Case 1 Total: 2 Enchanted, 9 Epics, 25 Legendary (2 Foil), 47 SuperRare (6 Foil), 175 Rare (15 Foil)
+
+Case 2 Display 1: 2 Epic (Sun Yee, Mrs Incredible), 7 Legendary (1 Foil - Buzz/Woody; buzz/woody, Pocahontas, König, Rapunzel, Flash, Quarkerjack); 13 SuperRare (2 Foil), Rare 35 (4 Foil)
+Case 2 Display 2: 3 Epic (Jasmin, Randall, Rosa), 6 Legendary (1 Foil - Mickey; König, Pocahontas, Rapunzel, Meilin, Quarkerjack), 11 SuperRare (1 Foil), 37 Rare (4 Foil)
+Case 2 Display 3: 2 Epic (Peter Pan, Mulan); 7 Legendary (1 Foil: Mushu; Pocahontas, König, Mickey, Rapunzel, Meilin, Quackerjack); 12 SuperRare (2 foil); 36 Rare (4 foil)
+Case 2 Display 4:
+Case 2 Total:
