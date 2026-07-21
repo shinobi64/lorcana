@@ -52,3 +52,17 @@ Case 2 Display 4: 3 Epic, 7 Legendary (buzz, merida, christopher, mickey, violet
 Case 2 Total: 2 Enchanted, 9 Epic, 29 Legendary (3 Foil), 49 SuperRare (7 Foil), 142 Rare (18 Foil)
 
 Trove: 1 Enchanted, 1 Epic, 1 Legendary (Quarkerjack), 4 SuperRare, 13 Rare (2 Foil)
+
+**Deckwerk\***
+
+A. PreRelease: 2 Legendary (1 Foil), 4 SuperRare (1 Foil), 9 Rare (1 Foil)
+G. PreRelease: 1 Epic, 2 Legendary, 2 SuperRare, 9 Rare (1 Foil)
+M. PreRelease: 1 Epic, 1 Legendary, 2 SuperRare, 11 Rare (2 Foil)
+
+Case 1 Display 1: 1 Enchanted, 2 Epic, 8 Legendary ( Woody, Christopher, Merida, Mushu, Rapunzel, Mickey, Foil Quacker, Scar), 11 SuperRare (1 Foil), 35 Rare (4 Foil)
+Case 1 Display 2: 3 Epic, 6 Legendary ( King, Pocahontas, Rapunzel, Meilin, Foil Quacker, Quacker), 12 SuperRare (1 Foil), 37 Rare (4 Foil)
+Case 1 Display 3: 1 Enchanted, 2 Epic, 7 Legendary (Woody, Merida, Christopher, Mushu, Mickey, Violetta, Scar), 12 SuperRare (1 Foil), 36 Rare (5 Foil)
+Case 1 Display 4: 2 Epic, 8 Legendary (Woody, Pocahontas, King, Mushu, Mickey, Foil Rapunzel, Violetta, Quacker), 13 SuperRare (2 Foil), 36 Rare (5 Foil)
+Case 1 Total:
+
+Trove: 4 Legendary, 3 SuperRare (1 Foil), 13 Rare (2 Foil)
