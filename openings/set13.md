@@ -58,6 +58,7 @@ Trove: 1 Enchanted, 1 Epic, 1 Legendary (Quarkerjack), 4 SuperRare, 13 Rare (2 F
 A. PreRelease: 2 Legendary (1 Foil), 4 SuperRare (1 Foil), 9 Rare (1 Foil)
 G. PreRelease: 1 Epic, 2 Legendary, 2 SuperRare, 9 Rare (1 Foil)
 M. PreRelease: 1 Epic, 1 Legendary, 2 SuperRare, 11 Rare (2 Foil)
+F. PreRelease: 1 Enchanted, 1 Epic, 2 Legendary (Merida, Mushu), 4 SuperRare, 7 Rare (1 Foil)
 
 Case 1 Display 1: 1 Enchanted, 2 Epic, 8 Legendary ( Woody, Christopher, Merida, Mushu, Rapunzel, Mickey, Foil Quacker, Scar), 11 SuperRare (1 Foil), 35 Rare (4 Foil)
 Case 1 Display 2: 3 Epic, 6 Legendary ( King, Pocahontas, Rapunzel, Meilin, Foil Quacker, Quacker), 12 SuperRare (1 Foil), 37 Rare (4 Foil)
