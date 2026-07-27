@@ -82,3 +82,6 @@ set13,Deckwerk,Sealed Case,24,0,0,3,5,1,10,1,33,4,Case 1
 set13,Deckwerk,Sealed Case,24,0,1,2,7,0,11,1,31,5,Case 1
 set13,Deckwerk,Sealed Case,24,0,0,2,7,1,11,2,34,5,Case 1
 set13,Deckwerk,PreRelease Pack,6,0,1,1,2,0,4,0,6,1,
+set13,Card Club,Single Booster,8,0,0,0,2,0,3,1,15,2,Draft event
+set13,RZL,Single Booster,18,0,0,0,2,1,7,1,22,4,Draft event
+set13,Mochi Cards,Single Booster,6,0,0,0,3,0,1,2,7,0,draft event
