@@ -17,6 +17,7 @@ async function run() {
   eventInstance.showEventRecord();
   eventInstance.showEventRankings();
   eventInstance.showEventMatches();
+  eventInstance.showEventReport();
 
   /**
   logger.logInfo("======= TOURNAMENT MAIN DATA =======");

@@ -1,5 +1,6 @@
 import { Logger } from "./Logger";
 import { fetchData } from "./utils";
+import { TableEntry, tsMarkdown } from "ts-markdown";
 
 interface eventRegistration {
   id: number;
@@ -26,6 +27,9 @@ interface resultInformation {
   player_displayname: string;
   record: string;
   points: number;
+  omw: string;
+  gw: string;
+  ogw: string;
 }
 
 interface roundInformation {
@@ -162,6 +166,9 @@ export class Tournament {
               record: result.match_record,
               points: result.match_points,
               rank: result.rank,
+              omw: `${Number(result.opponent_match_win_percentage * 100).toFixed(2)} %`,
+              gw: `${Number(result.game_win_percentage * 100).toFixed(2)} %`,
+              ogw: `${Number(result.opponent_game_win_percentage * 100).toFixed(2)} %`,
             };
             round.standings?.push(resultRecord);
           });
@@ -238,5 +245,87 @@ export class Tournament {
       });
     }
     this.logger.logInfo("===== Event Rankings =====");
+  }
+
+  public showEventReport() {
+    this.logger.logInfo("===== Event Markdown =====");
+    if (!this.eventData?.rounds) {
+      return;
+    }
+    let tournamentInfo: any = [
+      {
+        h1: `${this.eventData.store_name} - ${this.eventData.name}`,
+      },
+      {
+        p: `Another event in ${this.eventData.store_name}. In total ${this.eventData.starting_player_count} showed up to play in a event with format ${this.eventData.format}. Tracking via https://tcg.ravensburgerplay.com/events/${this.eventData.id}.`,
+      },
+      {
+        h2: `${this.eventData.store_name} - Meta Report`,
+      },
+      {
+        h3: `Spieler ${this.eventData.starting_player_count}`,
+      },
+      {
+        p: `<<Placeholder for deck information>>`,
+      },
+      {
+        h3: `Top 3`,
+      },
+      {
+        p: `<<Placeholder for deck information>>`,
+      },
+      {
+        h2: `Tournament Rounds`,
+      },
+      {
+        p: `I decided to play a <<deck>> version this time. The main advantage of the deck is <<some reason>>`,
+      },
+      {
+        ul: [`<card 1>`, `<card 2>`, `...`],
+      },
+    ];
+    this.eventData?.rounds?.forEach((round) => {
+      tournamentInfo.push({
+        h3: `Round ${round.round}`,
+      });
+      tournamentInfo.push({
+        p: `Result after round ${round.round}: **<<wins>>-<<looses>>-<<draws>>**`,
+      });
+    });
+    tournamentInfo.push({
+      h3: `Result`,
+    });
+    let resultTable: TableEntry = {
+      table: {
+        columns: [
+          { name: `RANK` },
+          { name: `NAME` },
+          { name: `POINTS` },
+          { name: `RECORD` },
+          { name: `OMW %` },
+          { name: `GW %` },
+          { name: `OGW %` },
+          { name: `DECK` },
+        ],
+        rows: [],
+      },
+    };
+    this.eventData?.rounds![
+      this.eventData.rounds!.length - 1
+    ].standings?.forEach((standing) => {
+      resultTable.table.rows.push([
+        `${standing.rank}`,
+        `${standing.player_displayname}`,
+        `${standing.points}`,
+        `${standing.record}`,
+        `${standing.omw}`,
+        `${standing.gw}`,
+        `${standing.ogw}`,
+        `<<deck>>`,
+      ]);
+    });
+    tournamentInfo.push(resultTable);
+    this.logger.logInfo(tsMarkdown(tournamentInfo));
+    this.logger.logInfo("===== Event Markdown =====");
   }
 }
