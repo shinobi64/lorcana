@@ -39,6 +39,7 @@ interface eventInformation {
   id: string;
   name: string;
   status: string;
+  date: string;
   event_type: string;
   format: string;
   registered_user_count: number;
@@ -69,6 +70,7 @@ export class Tournament {
         this.eventData = {
           id: mainData.id,
           status: mainData.settings.event_lifecycle_status,
+          date: new Date(mainData.start_datetime).toISOString().slice(0, 10),
           registered_user_count: mainData.registered_user_count,
           starting_player_count: mainData.starting_player_count,
           event_type: mainData.event_type,
@@ -179,7 +181,7 @@ export class Tournament {
   public showEventRecord() {
     this.logger.logInfo("===== Event Master Data =====");
     this.logger.logInfo(
-      `${this.internalName},,${this.eventData?.store_name},Set13,${this.eventData?.format},BestOfThree,https://tcg.ravensburgerplay.com/events/${this.eventId}`,
+      `${this.internalName},${this.eventData?.date},${this.eventData?.store_name},Set13,${this.eventData?.format},BestOfThree,https://tcg.ravensburgerplay.com/events/${this.eventId}`,
     );
     this.logger.logInfo("===== Event Master Data =====");
   }
