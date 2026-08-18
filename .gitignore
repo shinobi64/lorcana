@@ -12,4 +12,5 @@ dist
 *.system.json
 *.params.json
 *.tournament.json
+*.store.json
 *.expectedmeta.json

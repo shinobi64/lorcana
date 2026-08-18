@@ -59,10 +59,24 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Launch RPH Fetch",
+      "name": "Launch RPH Fetch Event",
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}/rph/dist/main.js",
-      "cwd": "${workspaceFolder}/rph/dist"
+      "cwd": "${workspaceFolder}/rph/dist",
+      "env": {
+        "SINGLE_EVENT": "true"
+      }
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch RPH Fetch Store",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}/rph/dist/main.js",
+      "cwd": "${workspaceFolder}/rph/dist",
+      "env": {
+        "SINGLE_EVENT": "false"
+      }
     },
     {
       "type": "node",

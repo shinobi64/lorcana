@@ -155,7 +155,7 @@ export class Tournament {
         }
 
         const roundResults = await fetchData(
-          `tournament-rounds/${round.id}/standings/paginated/?page=1&page_size=20`,
+          `tournament-rounds/${round.id}/standings/paginated/?page=1&page_size=100`,
         );
         if (roundResults) {
           roundResults.results.forEach((result) => {

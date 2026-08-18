@@ -1,0 +1,6 @@
+{
+  "storeIds": ["<<add event numeric id>>"],
+  "startDate": "yyyy-mm-ddT22:00:00Z",
+  "endDate": "yyyy-mm-ddT22:00:00Z",
+  "pageSize": 100
+}
