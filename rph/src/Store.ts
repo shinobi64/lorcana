@@ -6,6 +6,7 @@ export interface storeInformation {
   storeName: string;
   events: Array<storeEventInformation>;
   eventCount: number;
+  excludedEventCount: number;
   startingPlayerCount: number;
   uniquePlayerCount: number;
   uniquePlayers: Map<string, userInformation>;
@@ -27,6 +28,7 @@ interface storeEventInformation {
   format: string;
   registered_user_count: number;
   starting_player_count: number;
+  excluded: boolean;
 }
 
 export class Store {
@@ -41,6 +43,7 @@ export class Store {
       storeId: this.storeId,
       storeName: "",
       eventCount: 0,
+      excludedEventCount: 0,
       startingPlayerCount: 0,
       uniquePlayerCount: 0,
       uniquePlayers: new Map(),
@@ -49,7 +52,11 @@ export class Store {
     };
   }
 
-  public async fetchEvents(startDate: string, endDate: string): Promise<void> {
+  public async fetchEvents(
+    startDate: string,
+    endDate: string,
+    excludedEvents: string[],
+  ): Promise<void> {
     this.logger.logInfo(
       `Start fetching events for store ${this.storeId} between ${startDate} and ${endDate}`,
     );
@@ -86,23 +93,32 @@ export class Store {
               storeEvents.results[eventIndex].starting_player_count,
             status:
               storeEvents.results[eventIndex].settings.event_lifecycle_status,
+            excluded: excludedEvents.includes(
+              storeEvents.results[eventIndex].id,
+            ),
           });
           this.storeData.storeName = storeEvents.results[eventIndex].store.name;
-          this.storeData.eventCount = this.storeData.eventCount + 1;
-          this.storeData.startingPlayerCount =
-            this.storeData.startingPlayerCount +
-            storeEvents.results[eventIndex].starting_player_count;
-          const eventRegistrations = await fetchData(
-            `events/${storeEvents.results[eventIndex].id}/registrations?page_size=100`,
-          );
-          if (eventRegistrations) {
-            eventRegistrations.results.forEach((entry) => {
-              this.storeData.uniquePlayers.set(entry.user.id, {
-                uniqueId: entry.user.id,
-                shortname: entry.user.best_identifier,
-                displayname: entry.best_identifier,
+          if (!excludedEvents.includes(storeEvents.results[eventIndex].id)) {
+            this.storeData.eventCount = this.storeData.eventCount + 1;
+            this.storeData.startingPlayerCount =
+              this.storeData.startingPlayerCount +
+              storeEvents.results[eventIndex].starting_player_count;
+            const eventRegistrations = await fetchData(
+              `events/${storeEvents.results[eventIndex].id}/registrations?page_size=100`,
+            );
+            if (eventRegistrations) {
+              eventRegistrations.results.forEach((entry) => {
+                this.storeData.uniquePlayers.set(entry.user.id, {
+                  uniqueId: entry.user.id,
+                  shortname: entry.user.best_identifier,
+                  displayname: entry.best_identifier,
+                });
               });
-            });
+            }
+          } else {
+            this.logger.logInfo(
+              `Event ${storeEvents.results[eventIndex].id} - ${storeEvents.results[eventIndex].name} was excluded.`,
+            );
           }
         }
       }

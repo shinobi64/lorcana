@@ -36,6 +36,7 @@ async function run() {
       await storeInstance.fetchEvents(
         storeConfig.startDate,
         storeConfig.endDate,
+        storeConfig.excludedEvents,
       );
       storeData.push(storeInstance.getStoreData());
     }

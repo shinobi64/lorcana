@@ -73,6 +73,7 @@ export function generateStoreReport(
           { name: `Format` },
           { name: `Registered` },
           { name: `Starting` },
+          { name: `Excluded` },
         ],
         rows: [],
       },
@@ -87,6 +88,7 @@ export function generateStoreReport(
         event.format,
         event.registered_user_count,
         event.starting_player_count,
+        event.excluded,
       ]);
     });
     storeOverview.push(eventTable);
