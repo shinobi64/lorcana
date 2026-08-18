@@ -59,8 +59,13 @@ export function generateStoreReport(
       h2: `Details for ${storeRecord.storeId} - ${storeRecord.storeName}`,
     });
     storeOverview.push({
-      p: `There were ${storeRecord.eventCount} events with a total of ${storeRecord.startingPlayerCount} players, there of ${storeRecord.uniquePlayerCount} unique players. These numbers would allow the store to reach ${storeRecord.tier} status`,
+      p: `There were ${storeRecord.eventCount} events with a total of ${storeRecord.startingPlayerCount} players, there of ${storeRecord.uniquePlayerCount} unique players. These numbers would allow the store to reach ${storeRecord.tier} status.`,
     });
+    if (storeRecord.excludedEventCount > 0) {
+      storeOverview.push({
+        p: `There were ${storeRecord.excludedEventCount} events excluded from the statistics - they're however shown in the list below.`,
+      });
+    }
     storeOverview.push({ h3: "Events" });
     let eventTable: TableEntry = {
       table: {
@@ -99,15 +104,20 @@ export function generateStoreReport(
           { name: "Unique ID" },
           { name: "Short Name" },
           { name: "Display Name" },
+          { name: "Events" },
         ],
         rows: [],
       },
     };
-    storeRecord.uniquePlayers.forEach((player, unique) => {
+    const sortedPlayers = Array.from(storeRecord.uniquePlayers).sort(
+      (a, b) => b[1].events - a[1].events,
+    );
+    sortedPlayers.forEach((player) => {
       playerTable.table.rows.push([
-        player.uniqueId,
-        player.shortname,
-        player.displayname,
+        player[1].uniqueId,
+        player[1].shortname,
+        player[1].displayname,
+        player[1].events,
       ]);
     });
     storeOverview.push(playerTable);

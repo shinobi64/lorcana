@@ -17,6 +17,7 @@ interface userInformation {
   uniqueId: string;
   shortname: string;
   displayname: string;
+  events: number;
 }
 
 interface storeEventInformation {
@@ -108,17 +109,30 @@ export class Store {
             );
             if (eventRegistrations) {
               eventRegistrations.results.forEach((entry) => {
-                this.storeData.uniquePlayers.set(entry.user.id, {
-                  uniqueId: entry.user.id,
-                  shortname: entry.user.best_identifier,
-                  displayname: entry.best_identifier,
-                });
+                if (
+                  this.storeData.uniquePlayers.get(entry.user.id) !== undefined
+                ) {
+                  const userRecord = this.storeData.uniquePlayers.get(
+                    entry.user.id,
+                  );
+                  userRecord!.events = userRecord!.events + 1;
+                  this.storeData.uniquePlayers.set(entry.user.id, userRecord!);
+                } else {
+                  this.storeData.uniquePlayers.set(entry.user.id, {
+                    uniqueId: entry.user.id,
+                    shortname: entry.user.best_identifier,
+                    displayname: entry.best_identifier,
+                    events: 1,
+                  });
+                }
               });
             }
           } else {
             this.logger.logInfo(
               `Event ${storeEvents.results[eventIndex].id} - ${storeEvents.results[eventIndex].name} was excluded.`,
             );
+            this.storeData.excludedEventCount =
+              this.storeData.excludedEventCount + 1;
           }
         }
       }
