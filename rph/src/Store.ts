@@ -154,17 +154,52 @@ export class Store {
     this.logger.logDebug("===== Store Event Data =====");
   }
 
-  public getStoreData(): storeInformation {
+  public getStoreData(partialCalculation: Boolean = false): storeInformation {
+    const storeConditions = {
+      Legendary: {
+        eventCount: 50,
+        startingPlayerCount: 500,
+        uniquePlayerCount: 50,
+      },
+      Standard: {
+        eventCount: 25,
+        startingPlayerCount: 250,
+        uniquePlayerCount: 25,
+      },
+      LegendaryPartial: {
+        eventCount: 8,
+        startingPlayerCount: 83,
+        uniquePlayerCount: 8,
+      },
+      StandardPartial: {
+        eventCount: 4,
+        startingPlayerCount: 41,
+        uniquePlayerCount: 4,
+      },
+    };
+
     if (
-      this.storeData.eventCount >= 50 &&
-      this.storeData.startingPlayerCount >= 500 &&
-      this.storeData.uniquePlayerCount >= 50
+      this.storeData.eventCount >=
+        storeConditions[partialCalculation ? "LegendaryPartial" : "Legendary"]
+          .eventCount &&
+      this.storeData.startingPlayerCount >=
+        storeConditions[partialCalculation ? "LegendaryPartial" : "Legendary"]
+          .startingPlayerCount &&
+      this.storeData.uniquePlayerCount >=
+        storeConditions[partialCalculation ? "LegendaryPartial" : "Legendary"]
+          .uniquePlayerCount
     ) {
       this.storeData.tier = `Legendary`;
     } else if (
-      this.storeData.eventCount >= 25 &&
-      this.storeData.startingPlayerCount >= 250 &&
-      this.storeData.uniquePlayerCount >= 25
+      this.storeData.eventCount >=
+        storeConditions[partialCalculation ? "StandardPartial" : "Standard"]
+          .eventCount &&
+      this.storeData.startingPlayerCount >=
+        storeConditions[partialCalculation ? "StandardPartial" : "Standard"]
+          .startingPlayerCount &&
+      this.storeData.uniquePlayerCount >=
+        storeConditions[partialCalculation ? "StandardPartial" : "Standard"]
+          .uniquePlayerCount
     ) {
       this.storeData.tier = `Standard`;
     } else {

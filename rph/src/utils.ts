@@ -23,6 +23,7 @@ export function generateStoreReport(
   storeData: Array<storeInformation>,
   startDate: string,
   endDate: string,
+  partialCalculation: Boolean = false,
 ): string {
   let storeOverview: Array<MarkdownEntry> = [];
   storeOverview.push({
@@ -31,6 +32,27 @@ export function generateStoreReport(
   storeOverview.push({
     p: `Contains all events which are not canceled or still upcomming`,
   });
+  if (partialCalculation) {
+    storeOverview.push({
+      p: `Partial evaluation applied.`,
+    });
+    storeOverview.push({
+      p: ` Legendary Tier requires min. 8 events, 83 total starting players, 8 unique players.`,
+    });
+    storeOverview.push({
+      p: `Standard Tier requires min. 4 events, 41 total starting players, 4 unique players.`,
+    });
+  } else {
+    storeOverview.push({
+      p: `Full evaluation applied.`,
+    });
+    storeOverview.push({
+      p: ` Legendary Tier requires min. 50 events, 500 total starting players, 50 unique players.`,
+    });
+    storeOverview.push({
+      p: `Standard Tier requires min. 25 events, 250 total starting players, 25 unique players.`,
+    });
+  }
   storeOverview.push({ h2: `Store List` });
   let resultTable: TableEntry = {
     table: {

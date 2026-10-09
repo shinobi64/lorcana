@@ -38,13 +38,16 @@ async function run() {
         storeConfig.endDate,
         storeConfig.excludedEvents,
       );
-      storeData.push(storeInstance.getStoreData());
+      storeData.push(
+        storeInstance.getStoreData(storeConfig.partialCalculation),
+      );
     }
     logger.logInfo(`Preparing output report`);
     const storeReport = generateStoreReport(
       storeData,
       storeConfig.startDate,
       storeConfig.endDate,
+      storeConfig.partialCalculation,
     );
     logger.logInfo(`Trying to write output file`);
     await writeFile("storeReport.md", storeReport);
