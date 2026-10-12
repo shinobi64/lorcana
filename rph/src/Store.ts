@@ -78,7 +78,8 @@ export class Store {
         );
         if (
           storeEvents.results[eventIndex].event_status !== "CANCELED" &&
-          storeEvents.results[eventIndex].display_status !== "upcoming"
+          storeEvents.results[eventIndex].display_status !== "upcoming" &&
+          storeEvents.results[eventIndex].starting_player_count > 0
         ) {
           this.storeData.events.push({
             id: storeEvents.results[eventIndex].id,
