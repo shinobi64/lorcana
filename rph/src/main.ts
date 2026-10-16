@@ -51,6 +51,7 @@ async function run() {
     );
     logger.logInfo(`Trying to write output file`);
     await writeFile("storeReport.md", storeReport);
+    logger.logInfo(`Finished`);
   }
 }
 

@@ -25,6 +25,7 @@ export function generateStoreReport(
   endDate: string,
   partialCalculation: Boolean = false,
 ): string {
+  const logger = new Logger("storeReport");
   let storeOverview: Array<MarkdownEntry> = [];
   storeOverview.push({
     h1: `Store Overview between ${startDate} and ${endDate}`,
@@ -63,12 +64,20 @@ export function generateStoreReport(
         { name: `Total Starting Players` },
         { name: `Unique Players` },
         { name: `Store Tier` },
+        { name: `PreRelease Event` },
       ],
       rows: [],
     },
   };
   storeOverview.push(resultTable);
   storeData.forEach((storeRecord) => {
+    logger.logInfo(`Processing store ${storeRecord.storeId}`);
+    if (storeRecord.eventCount === 0) {
+      logger.logInfo(
+        `Skipping store ${storeRecord.storeId} because of ${storeRecord.eventCount} events`,
+      );
+      return;
+    }
     resultTable.table.rows.push([
       storeRecord.storeId,
       storeRecord.storeName,
@@ -76,6 +85,7 @@ export function generateStoreReport(
       storeRecord.startingPlayerCount,
       storeRecord.uniquePlayerCount,
       storeRecord.tier,
+      storeRecord.hasPreRelease,
     ]);
     storeOverview.push({
       h2: `Details for ${storeRecord.storeId} - ${storeRecord.storeName}`,

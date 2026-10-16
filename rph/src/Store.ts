@@ -11,6 +11,7 @@ export interface storeInformation {
   uniquePlayerCount: number;
   uniquePlayers: Map<string, userInformation>;
   tier: string;
+  hasPreRelease: boolean;
 }
 
 interface userInformation {
@@ -30,6 +31,7 @@ interface storeEventInformation {
   registered_user_count: number;
   starting_player_count: number;
   excluded: boolean;
+  event_configuration_template: string;
 }
 
 export class Store {
@@ -50,6 +52,7 @@ export class Store {
       uniquePlayers: new Map(),
       events: [],
       tier: "",
+      hasPreRelease: false,
     };
   }
 
@@ -98,6 +101,8 @@ export class Store {
             excluded: excludedEvents.includes(
               storeEvents.results[eventIndex].id,
             ),
+            event_configuration_template:
+              storeEvents.results[eventIndex].event_configuration_template,
           });
           this.storeData.storeName = storeEvents.results[eventIndex].store.name;
           if (!excludedEvents.includes(storeEvents.results[eventIndex].id)) {
@@ -127,6 +132,12 @@ export class Store {
                   });
                 }
               });
+            }
+            if (
+              storeEvents.results[eventIndex].event_configuration_template ===
+              `dd176223-2b48-4c5e-8cdc-cbe8bcfe8a81`
+            ) {
+              this.storeData.hasPreRelease = true;
             }
           } else {
             this.logger.logInfo(
@@ -188,7 +199,8 @@ export class Store {
           .startingPlayerCount &&
       this.storeData.uniquePlayerCount >=
         storeConditions[partialCalculation ? "LegendaryPartial" : "Legendary"]
-          .uniquePlayerCount
+          .uniquePlayerCount &&
+      this.storeData.hasPreRelease
     ) {
       this.storeData.tier = `Legendary`;
     } else if (
@@ -200,7 +212,8 @@ export class Store {
           .startingPlayerCount &&
       this.storeData.uniquePlayerCount >=
         storeConditions[partialCalculation ? "StandardPartial" : "Standard"]
-          .uniquePlayerCount
+          .uniquePlayerCount &&
+      this.storeData.hasPreRelease
     ) {
       this.storeData.tier = `Standard`;
     } else {
