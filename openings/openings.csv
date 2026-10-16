@@ -117,3 +117,7 @@ set14,Card Club,Sealed Case,24,0,0,3,6,1,10,2,32,4,case 1
 set14,Card Club,Sealed Case,24,0,0,2,6,0,10,2,32,4,case 1
 set14,Card Club,PreRelease,6,0,0,0,2,0,3,1,7,1,pre release box
 set14,Card Club,PreRelease,6,0,0,0,1,1,4,1,7,1,pre release box
+set14,Card Club,Sealed Case,24,0,0,3,5,1,11,2,32,5,case 2
+set11,Card Club,Single Booster,2,0,0,0,0,0,0,0,4,0,beast box
+set13,Card Club,Single Booster,1,0,0,0,0,0,0,0,2,0,beast box
+set12,Card Club,Single Booster,2,0,0,1,1,0,1,0,2,0,beast box
