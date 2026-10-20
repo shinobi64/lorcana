@@ -145,6 +145,11 @@ set14,Wizards Well,Trove,8,0,0,0,1,1,2,0,13,1,trove 1
 set14,Wizards Well,Sealed Case,24,0,1,2,5,1,9,1,32,4,case 1
 set14,Wizards Well,Sealed Case,24,0,0,3,6,1,10,2,33,4,case 1
 set14,Wizards Well,Sealed Case,24,0,0,2,7,1,11,1,30,5,case 1
+set14,Wizards Well,Sealed Case,24,0,0,2,5,0,12,1,31,6,case 1
 set14,Wizards Well,Sealed Case,24,0,0,2,6,1,10,2,32,4,case 2
 set14,Wizards Well,Sealed Case,24,0,0,3,7,1,10,2,31,4,case 2
 set14,Wizards Well,Sealed Case,24,0,0,2,7,1,11,2,30,5,case 2
+set14,Wizards Well,Sealed Case,24,0,1,3,5,1,10,2,33,3,case 2
+set14,SouthWestTradingTeam,PreRelease,6,0,0,1,1,0,3,0,8,1,pre relrease event
+set14,SouthWestTradingTeam,Single Booster,4,0,0,0,2,1,2,1,4,0,price booster
+set14,Wizards Well,PreRelease,6,0,0,1,1,0,2,0,9,1,pre release box
