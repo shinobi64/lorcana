@@ -189,6 +189,7 @@ export class Tournament {
     this.logger.logInfo("===== Event Master Data =====");
     this.logger.logInfo(
       `${this.internalName},${this.eventData?.date},${this.eventData?.store_name},Set13,${this.eventData?.format},BestOfThree,https://tcg.ravensburgerplay.com/events/${this.eventId}`,
+      true,
     );
     this.logger.logInfo("===== Event Master Data =====");
   }
@@ -199,6 +200,7 @@ export class Tournament {
       round.matches?.forEach((match) => {
         this.logger.logInfo(
           `${this.internalName},${round.round},${match.table_number},${match.player1_displayname},${match.player2_displayname},${match.result}`,
+          true,
         );
       });
     });
@@ -241,6 +243,7 @@ export class Tournament {
         }
         this.logger.logInfo(
           `${this.internalName},${standing.player_displayname},<<deck>>,${eventRank}`,
+          true,
         );
       });
     }
@@ -325,7 +328,7 @@ export class Tournament {
       ]);
     });
     tournamentInfo.push(resultTable);
-    this.logger.logInfo(tsMarkdown(tournamentInfo));
+    this.logger.logInfo(tsMarkdown(tournamentInfo), true);
     this.logger.logInfo("===== Event Markdown =====");
   }
 }

@@ -23,50 +23,54 @@ export class Logger {
     return this.logLevel <= targetLevel;
   }
 
-  extendMessage(message) {
-    return `[${this.componentName}] ${message}`;
+  extendMessage(message, skipComponent?: boolean) {
+    if (skipComponent) {
+      return `${message}`;
+    } else {
+      return `[${this.componentName}] ${message}`;
+    }
   }
 
   getLogLevel() {
     return this.logLevel;
   }
 
-  logMessage(logLevel, message) {
+  logMessage(logLevel, message, skipComponent?: boolean) {
     switch (logLevel) {
       case LogLevel.Debug:
-        this.logDebug(message);
+        this.logDebug(message, skipComponent);
       case LogLevel.Info:
-        this.logInfo(message);
+        this.logInfo(message, skipComponent);
       case LogLevel.Warning:
-        this.logWarning(message);
+        this.logWarning(message, skipComponent);
       case LogLevel.Error:
-        this.logError(message);
+        this.logError(message, skipComponent);
       default:
         break;
     }
   }
 
-  logDebug(message) {
+  logDebug(message, skipComponent?: boolean) {
     if (this.mustBeLogged(LogLevel.Debug)) {
-      console.debug(this.extendMessage(message));
+      console.debug(this.extendMessage(message, skipComponent));
     }
   }
 
-  logInfo(message) {
+  logInfo(message, skipComponent?: boolean) {
     if (this.mustBeLogged(LogLevel.Info)) {
-      console.info(this.extendMessage(message));
+      console.info(this.extendMessage(message, skipComponent));
     }
   }
 
-  logWarning(message) {
+  logWarning(message, skipComponent?: boolean) {
     if (this.mustBeLogged(LogLevel.Warning)) {
-      console.warn(this.extendMessage(message));
+      console.warn(this.extendMessage(message, skipComponent));
     }
   }
 
-  logError(message) {
+  logError(message, skipComponent?: boolean) {
     if (this.mustBeLogged(LogLevel.Error)) {
-      console.error(this.extendMessage(message));
+      console.error(this.extendMessage(message, skipComponent));
     }
   }
 }
