@@ -188,7 +188,7 @@ export class Tournament {
   public showEventRecord() {
     this.logger.logInfo("===== Event Master Data =====");
     this.logger.logInfo(
-      `${this.internalName},${this.eventData?.date},${this.eventData?.store_name},Set13,${this.eventData?.format},BestOfThree,https://tcg.ravensburgerplay.com/events/${this.eventId}`,
+      `${this.internalName},${this.eventData?.date},${this.eventData?.store_name},Set14,${this.eventData?.format},BestOfThree,https://tcg.ravensburgerplay.com/events/${this.eventId}`,
       true,
     );
     this.logger.logInfo("===== Event Master Data =====");
